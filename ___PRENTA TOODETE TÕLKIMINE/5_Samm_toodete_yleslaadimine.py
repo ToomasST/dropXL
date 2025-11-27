@@ -691,6 +691,10 @@ class WooCommerceUploader:
                     src = self._norm((im or {}).get('src'))
                     if not src:
                         continue
+                    # Jäta .img fallback-failid Woo payloadist välja (need ei ole kindla tüübiga pildid)
+                    if src.lower().endswith('.img'):
+                        print(f"   [INFO] Skipping fallback .img image src={src}")
+                        continue
                     filename_base = f"{self._slug(seo_title_val)}-{sku}-{idx}"
                     existing_media = self.find_existing_image_by_filename(filename_base)
                     if existing_media and existing_media.get('id') not in seen_ids:
