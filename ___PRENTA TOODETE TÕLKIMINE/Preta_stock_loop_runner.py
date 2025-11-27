@@ -239,7 +239,13 @@ def run_once(only_skus: Optional[set[str]] = None, limit: int = 0, dry_run: bool
         log(f"[SKU={sku}] Woo ID={woo_id}, Prenta product_id={prenta_pid}, vana_laoseis={old_qty}")
 
         if prenta_pid is None:
-            log("   ⚠️  Prenta product_id ei leitud selle SKU jaoks – jätan vahele.")
+            log("   ℹ️  Prenta product_id ei leitud selle SKU jaoks – märgin Woo toote out-of-stock.")
+            ok = update_woo_stock(int(woo_id), 0, dry_run=dry_run)
+            if ok:
+                updated += 1
+                log("   ✔ Stock uuendatud (Prentas puudub, Woo qty=0, outofstock).")
+            else:
+                errors += 1
             skipped_no_mapping += 1
             continue
 
