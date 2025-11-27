@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394058382 7333394058382 Oven AEG NBS6P53AK",
+  "search_queries": {
+    "main_query": "AEG integreeritav ahi NBS6P53AK SenseCook ja AirFry pirolüüsiga",
+    "additional_queries": [
+      "kuidas teha ahjus krõbedaid friikartuleid ja kana ilma õlita AEG AirFry ahjuga NBS6P53AK",
+      "integreeritav ahi 71 l pirolüütilise puhastuse ja toidutermomeetriga perele",
+      "mille poolest erineb AEG NBS6P53AK SenseCook ahi tavalisest integreeritavast ahjust",
+      "kuidas kasutada AEG NBS6P53AK ahju pirolüüsi puhastust ja toidutermomeetrit igapäevaselt"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG NBS6P53AK integreeritav ahi sobib minu kööki ja olemasolevasse köögimööblisse?",
+      "answer": "See mudel on integreeritav elektriahi standardse 60 cm kõrguse ja 60 cm laiusega, mis sobib enamiku sisseehitatud köögimööbli lahendustega. Ahi on 71‑liitrise mahuga, seega sobib hästi perele ja sagedaseks küpsetamiseks. Täpsed nišimõõdud ei ole sisendis välja toodud, seega soovitame enne ostu võrrelda ahju mõõte (kõrgus 59,4 cm, laius 59,6 cm, sügavus 56,7 cm) oma köögimööbli avaga ning veenduda, et köögis on olemas sobiv elektriühendus."
+    },
+    {
+      "question": "Kui lihtne on AEG NBS6P53AK ahju kasutada ja puhastada?",
+      "answer": "Ahjul on LED-ekraan, 5 puute­nuppu ja 2 pöördnuppu (PIPO), mis teevad programmide, temperatuuri ja aja seadistamise lihtsaks. Sisseehitatud toidutermomeeter (meat probe) aitab saavutada täpse küpsemisastme ning ahi annab märku, kui toidu sisetemperatuur on saavutatud. Puhastamiseks on olemas pirolüütilise puhastuse (Pyroluxe) funktsioon, mis kõrgel temperatuuril põletab rasva ja toidujäägid tuhkaks; pärast programmi lõppu tuleb sisepind lihtsalt niiske lapiga üle pühkida. Täpset puhastusprogrammi kestust ja seadeid sisend ei kirjelda, seega tuleb täpsem info võtta kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel on AEG NBS6P53AK ahi ja kas see on oma hinda väärt?",
+      "answer": "Sisendandmete järgi on tegu AEG brändi A+ energiatõhususega integreeritava ahjuga, millel on 71 l maht, 9 küpsetusfunktsiooni (sh pöördõhk, grill, pitsa, AirFry), kiirkuumenemine, laste lukk, jääksoojuse indikaator, automaatne väljalülitus ning pehme sulgumisega uks. Komplektis on toidutermomeeter, teleskoopsiinid ühel tasandil, tilgutusplaat ja AirFry rest, mis lisavad kasutusmugavust ja funktsionaalsust. Garantii täpne kestus ja tingimused ei ole sisendis välja toodud ning sõltuvad müüjast ja seaduse nõuetest. Hinna-väärtuse suhtes pakub see mudel palju kõrgema klassi funktsioone (pirolüüs, AirFry, toidutermomeeter), mis võivad pikaajaliselt säästa aega ja puhastuskulu ning parandada toiduvalmistamise tulemusi."
+    }
+  ]
+}

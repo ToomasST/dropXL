@@ -1,0 +1,35 @@
+{
+  "model": "gpt-5",
+  "instructions": "\n            Sinu ülesandeks on koostada SEO jaoks optimeeritud \"SEO Title\" ja \"SEO Meta kirjeldus\", mida kuvatakse otsingutulemustes.\n\n            ✅ SEO Title nõuded:\n            - SEO Title võib olla maksimaalselt 60 tähemärki pikk (ideaalis 50–60 tähemärki). Palun loe tähemärgid üle, sest see on range nõue, et tagada selle korrektne kuvamine otsingutulemustes.\n            - SEO Title peab sisaldama kindlasti loodud SEO search query loomulikul viisil.\n            - SEO Title peab olema atraktiivne, selge ja täpselt toote sisu kirjeldav.\n            - Väldi ebaloomulikku keelt, ära tee sõna-sõnalist tõlget ja kohanda see idiomaatiliselt õigesse eesti keelde.\n            - Vajadusel lühenda või lihtsusta loodud tootenime, et see vastaks SEO Title pikkusele.\n\n            Koosta lühike, atraktiivne ja informatiivne SEO meta-kirjeldus.\n\n            ✅ **Meta-kirjelduse nõuded:**\n            - Peab olema maksimaalselt 160 tähemärki pikk. Palun loe tähemärgid üle ja veendu, et see ei ületaks seda piiri.\n            - Sisaldab kindlasti loodud SEO search query loomulikul ja grammatiliselt õigel viisil.\n            - Tekst peab olema kutsuv, selge ja mitte liiga reklaamilik.\n            - Meta-kirjeldus peab andma täpse ülevaate tootest, et innustada klienti lingile klõpsama.\n            - Väldi semikoolonit. Olulistes märksõnades kasuta boldi (max 3 korda). \n        ",
+  "input": "Genereeri SEO Title ja SEO meta kirjeldus",
+  "tools": null,
+  "text": {
+    "verbosity": "low",
+    "format": {
+      "type": "json_schema",
+      "name": "seo_meta_schema",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "seo_title": {
+            "type": "string"
+          },
+          "seo_meta": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "seo_title",
+          "seo_meta"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "reasoning": {
+    "effort": "medium"
+  },
+  "previous_response_id": "resp_0dfac117fe62d5db00691899f08764819ea1836300d606b359",
+  "service_tier": "flex"
+}

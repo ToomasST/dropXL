@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543484140 7332543484140 Hob ELECTROLUX EHF6343FOK",
+  "search_queries": {
+    "main_query": "Electrolux EHF6343FOK 60 cm klaaskeraamiline integreeritav pliidiplaat",
+    "additional_queries": [
+      "pliidiplaat Stop+Go pausifunktsiooniga kui pean toiduvalmistamise ajutiselt katkestama",
+      "60 cm klaaskeraamiline elektripliidiplaat 4 keedualaga ja puutetundliku juhtimisega",
+      "millega erineb Electrolux EHF6343FOK teistest 60 cm klaaskeraamilistest pliidiplaatidest",
+      "kuidas kasutada ja puhastada Electrolux EHF6343FOK klaaskeraamilist pliidiplaati"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EHF6343FOK sobib minu kööki ja olemasolevasse tööpinna avasse?",
+      "answer": "Electrolux EHF6343FOK on integreeritav klaaskeraamiline elektripliidiplaat standardse 60 cm laiusega (standardiseeritud sügavus 50 cm). See tähendab, et see on mõeldud tüüpilisse 60 cm laiusesse köögimoodulisse paigaldamiseks. Täpsed tööpinna väljalõike mõõdud ja elektriühenduse nõuded ei ole sisendis toodud, seega soovitame need enne ostu üle kontrollida paigaldusjuhendist või küsida nõu paigaldajalt/elektrikult, et veenduda sobivuses olemasoleva lahendusega."
+    },
+    {
+      "question": "Kui lihtne on seda pliidiplaati kasutada ja hooldada?",
+      "answer": "Pliidiplaat kasutab puutetundlikke juhtnuppe, mis on kompaktsed ja selged ning paiknevad nii, et neile pääseb otse ligi. Sisseehitatud taimer saab küpsetusaja lõppedes pliidiplaadi automaatselt välja lülitada ja annab sellest märku helisignaaliga. Stop+Go pausifunktsioon võimaldab toiduvalmistamise ühe puudutusega ajutiselt peatada ja hiljem samade seadistustega jätkata. Klaaskeraamiline (vitrokeramika) sile pind on lihtsasti puhastatav – tootja rõhutab, et piisab ühest liigutusest, kui pind on jahtunud. Täpsemad kasutus- ja hooldusjuhised (nt soovitatavad puhastusvahendid) ei ole sisendis kirjas ning tuleks võtta tootja kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel ja ohutu see mudel on ning kas see on oma hinda väärt?",
+      "answer": "Sisend rõhutab peamiselt funktsionaalsust ja ohutust: pliidiplaadil on jääksoojuse indikaatorid, mis näitavad, millised keedualad on pärast väljalülitamist veel kuumad, samuti lapselukk, Stop+Go pausifunktsioon ja taimer, mis saab keeduala automaatselt välja lülitada. Need funktsioonid aitavad igapäevast kasutust turvalisemaks ja mugavamaks muuta. Maksimaalne võimsus on 6400 W ning pliidiplaadil on 4 keeduala, sh laiendatavad tsoonid. Garantii kestust ja täpseid tingimusi sisend ei täpsusta – need olenevad müüjast ja tootjast ning tuleks eraldi üle vaadata. Arvestades klaaskeraamilist pinda, puutetundlikke juhtnuppe, taimerit ja ohutusfunktsioone, pakub see mudel sisendi põhjal tugevat funktsioonide komplekti neile, kes otsivad integreeritavat elektrilist klaaskeraamilist pliidiplaati."
+    }
+  ]
+}

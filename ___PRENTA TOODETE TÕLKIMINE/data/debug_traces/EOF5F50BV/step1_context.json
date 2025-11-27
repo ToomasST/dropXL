@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394072784 7333394072784 Oven ELECTROLUX EOF5F50BV",
+  "search_queries": {
+    "main_query": "Electrolux EOF5F50BV integreeritav elektriahi 65 l valge",
+    "additional_queries": [
+      "kuidas küpsetada ahjus mitmel tasandil nii et kõik küpseks ühtlaselt Electrolux EOF5F50BV abil",
+      "65 l valge integreeritav elektriahi konvektsiooniga tavalise 60 cm köögikapi jaoks",
+      "mille poolest erineb Electrolux EOF5F50BV teistest 60 cm integreeritavatest ahjudest",
+      "kuidas puhastada Electrolux EOF5F50BV ahju aqua clean ja katalüütilise puhastusega"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EOF5F50BV integreeritav ahi sobib minu kööki ja olemasolevasse kappi?",
+      "answer": "Electrolux EOF5F50BV on integreeritav elektriahi, mis on mõeldud standardsesse 60 × 60 cm köögimööbli kappi (standardiseeritud laius ja kõrgus 60 cm). Ahju mõõdud on ligikaudu 59,4 × 58,9 × 56 cm (l × k × s), seega sobib see enamiku tavapäraste integreeritavate ahjukappide jaoks. Ahi töötab elektril ja on iseseisev mudel (ei ole sõltuv pliidiplaadist). Täpsed paigaldus- ja nišimõõdud tuleks siiski üle kontrollida paigaldusjuhendist, sest toote kirjeldus neid detailselt ei täpsusta."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EOF5F50BV ahju kasutada ja kuidas seda hooldada?",
+      "answer": "Ahi on mõeldud mugavaks igapäevaseks kasutamiseks: 7 standardset küpsetusrežiimi, konvektsioon („SurroundCook®“/„Even Cooking“) ühtlaseks kuumuse jaotuseks ning grilli funktsioon kiireks pruunistamiseks. Lisaks on olemas digiekraan SET-funktsiooniga, millega saab täpselt määrata küpsetusaja, sh seadistada alguse või lõpu aja. Juhtimine toimub sisse-välja vajutatavate nuppude (PIPO) ja puutetundliku juhtpaneeli abil. \n\nHooldus on lihtsustatud: tagasein on kaetud katalüütilise kattega, mis neelab ja lagundab rasva, ülejäänud sisepind on kergesti puhastatavast emailist. Toote andmetes on märgitud „Aqua clean + catalytic liners“, mis tähendab, et puhastamist aitab ka aurupuhastuse (aqua clean) funktsioon. Täpset samm-sammulist puhastusjuhendit kirjeldus ei anna, seega tuleks puhastamisel järgida tootja kasutusjuhendit."
+    },
+    {
+      "question": "Kui töökindel on Electrolux EOF5F50BV ahi ja milline on garantii ning hinna-väärtuse suhe?",
+      "answer": "Toote infos ei ole otseselt välja toodud garantiiaega ega konkreetseid töökindluse näitajaid. Küll aga on tegu tuntud brändi Electrolux integreeritava elektriahjuga, millel on A energiatõhususklass, 65-liitrine ahjuruum, konvektsioon („Even Cooking“), grilli funktsioon, 32 automaatset küpsetusprogrammi ja lihtsustatud puhastus (aqua clean + katalüütilised pinnad). „Even Cooking“ tehnoloogia kiirendab soojenemist ja aitab säästa nii aega kui ka elektrienergiat. \n\nGarantii tingimusi (kestus, mis on kaetud) toote kirjeldus ei täpsusta – selle info annab müüja või tootja garantiidokumentatsioon. Hinna-väärtuse mõttes pakub see ahi hea varustatuse ja mugavuse (automaatprogrammid, mitmetasandiline küpsetamine, energiasäästlikkus) keskmise hinnaklassi integreeritava ahju kohta."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394073446 7333394073446 Oven AEG NBE7P731AT",
+  "search_queries": {
+    "main_query": "AEG NBE7P731AT integreeritav ahi pürolüütilise puhastuse ja Wi-Fi-ga",
+    "additional_queries": [
+      "kuidas saada ahjus alati ühtlased tulemused AI funktsiooniga AEG 7000 MealAssist ahjus NBE7P731AT",
+      "integreeritav ahi 71 l A++ energiaklassiga perele AEG NBE7P731AT",
+      "millega erineb AEG NBE7P731AT pürolüütiline Wi-Fi ahi teistest integreeritavatest AEG ahjudest",
+      "kuidas kasutada ja puhastada AEG NBE7P731AT ahju, sh pürolüütilist puhastust ja rakenduse funktsioone"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG NBE7P731AT ahi sobib minu kööki ja olemasolevasse kappi?",
+      "answer": "See mudel on integreeritav ahi standardmõõdus 60 × 60 cm (standardiseeritud kõrgus ja laius 60 cm). Toote välismõõdud on ligikaudu 59,5 × 59,4 × 56,7 cm (laius × kõrgus × sügavus), seega sobib see enamiku 60 cm integreeritavate ahjude kappi. Enne ostu tasub siiski üle mõõta olemasolev nišš ja arvestada ka ventilatsiooni- ja paigaldusvaruga.\n\nAhi töötab elektritoitel ja on iseseisev (ei vaja eraldi pliidiplaadi juhtplokki). Ühilduvuse kohta konkreetse elektriühenduse või muude süsteemidega kirjeldus täpseid andmeid ei anna, seega soovitame paigalduse osas lähtuda tootja juhendist või konsulteerida elektrikuga."
+    },
+    {
+      "question": "Kui lihtne on AEG NBE7P731AT ahju kasutada ja puhastada?",
+      "answer": "Ahi on varustatud puutetundliku tekstiekraaniga (CookSmart Touch), MealAssist juhendküpsetuse ja kuni 85 automaatse küpsetusprogrammiga, mis aitavad valida sobivad seaded ilma keeruliste käsitsi seadistusteta. AI TasteAssist funktsioon töötab AEG rakenduse kaudu: veebiretsepte saab saata ahju, mis optimeerib ise aja, temperatuuri ja funktsioonid. Toidutermomeeter (Food Sensor) aitab saavutada täpse sisetemperatuuri.\n\nPuhastamine on tehtud võimalikult lihtsaks pürolüütilise puhastusfunktsiooniga (Pyroluxe). Ahi kuumutab end väga kõrgele temperatuurile ja muudab rasva ning toidujäägid tuhaksmoodi jäägiks, mille saab pärast jahtumist niiske lapiga maha pühkida. Igapäevaseks hoolduseks piisab tahma ja pritsmete regulaarset pühkimist; lisahoolduse või filtrite kohta kirjeldus eraldi infot ei anna."
+    },
+    {
+      "question": "Kui töökindel ja hinna poolest mõistlik valik on AEG NBE7P731AT?",
+      "answer": "Kirjelduses on tegu AEG kvaliteetklassi integreeritava ahjuga, millel on A++ energiatõhusus, 4-kordne ahjuukse klaas, pehme sulgumisega uks, lapselukk ja 71-liitrine ahjuruum. Wi‑Fi, AI TasteAssist, MealAssist juhendküpsetus ja 85 automaatprogrammi teevad sellest tehnoloogiliselt väga kaasaegse mudeli, mis aitab nii energiat säästa kui ka küpsetustulemusi ühtlasemaks muuta.\n\nTäpset garantiiaega ega eritingimusi toote info ei kirjelda – see sõltub müüjast ja kehtivatest tingimustest, seega tasub need enne ostu üle vaadata. Arvestades funktsioone (pürolüütiline puhastus, toidutermomeeter, Wi‑Fi ja AI-l põhinev abistav küpsetus), on tegemist pigem kõrgema otsa integreeritava ahjuga, mis pakub pikaajalist mugavust ja aja kokkuhoidu, kui neid funktsioone aktiivselt kasutada."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543973613 7332543973613 ENC8MD19S",
+  "search_queries": {
+    "main_query": "Electrolux ENC8MD19S integreeritav külmik-sügavkülmik 189 cm TwinTech NoFrost",
+    "additional_queries": [
+      "Electrolux 800 Cooling 360° integreeritav külmik sügavkülmaga",
+      "Integreeritav NoFrost külmik libiseva uksega 60 cm nišši",
+      "Electrolux GreenZone niiskussahtliga külmik-sügavkülmik",
+      "Muudetava temperatuuriga sügavkülm (+4…−24 °C) Electrolux ENC8MD19S"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas see mudel sobib 60 cm integreerimisnišši ja mis ukse kinnitus tal on?",
+      "answer": "Jah. Standardiseeritud mõõdud: kõrgus 190 cm ja laius 60 cm; tegelikud mõõdud (K × L × S) on 189,4 × 56,2 × 55,0 cm. Uksetüüp on libisev uksesüsteem (sliding hinges) ning uksed on ümberpööratavad."
+    },
+    {
+      "question": "Kas külmik on NoFrost ja kuidas see hoiab toidu värskena?",
+      "answer": "Jah, TwinTech® No Frost hoiab sügavkülma härmatisvaba ning säilitab külmikus optimaalse niiskuse. Cooling 360° ja metalliseeritud tagasein jaotavad külma ühtlaselt ja taastavad temperatuuri kiiresti pärast ukse avamist. Lisaks on GreenZone niiskuskontrolliga sahtel puu- ja köögiviljadele, sisemine ventilaator ning õhupuhastusfilter."
+    },
+    {
+      "question": "Kas sügavkülma saab kasutada külmkapina?",
+      "answer": "Saab. Freezer to fridge funktsioon lubab seada sügavkülma temperatuuri vahemikus +4…−24 °C, nii et vajadusel toimib see lisakülmkapina. Olemas on ka kiirkülmutusrežiim; külmapidavus voolukatkestusel on kuni 9 tundi ning külmutusvõime 5 kg/24 h."
+    }
+  ]
+}

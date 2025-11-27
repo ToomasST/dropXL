@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543986910 7332543986910 Oven ELECTROLUX COF6P76BX",
+  "search_queries": {
+    "main_query": "Electrolux COF6P76BX integreeritav elektriahi pürolüütilise puhastusega",
+    "additional_queries": [
+      "kuidas saada ühtlane küpsetustulemus konvektsiooniga ahjus Electrolux COF6P76BX",
+      "65 l integreeritav elektriahi konvektsiooniga ja kiire eelkuumutusega küpsetamiseks",
+      "mille poolest erineb Electrolux COF6P76BX teistest 60 cm pürolüütilistest integreeritavatest ahjudest",
+      "kuidas kasutada ja puhastada pürolüütilise puhastusega ahju Electrolux COF6P76BX"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux COF6P76BX sobib minu köögimööblisse ja ruumi?",
+      "answer": "Electrolux COF6P76BX on 60 cm standardse kõrguse ja laiusega integreeritav elektriahi (ligikaudsed mõõdud: laius 59,4 cm, kõrgus 59 cm, sügavus 56 cm). Toote sisendandmetes on märgitud „Standardized height (cm): 60“ ja „Standardized width (cm): 60“, seega on see mõeldud enamlevinud 60 cm laiusesse köögimööbli kappi. Enne ostu tasub üle mõõta olemasoleva kapi nišš ja võrrelda seda ahju mõõtudega. Elektriühenduse ja täpsete paigaldusnõuete kohta sisend lisainfot ei anna, seega tuleks nende osas järgida paigaldusjuhendit või küsida spetsialistilt."
+    },
+    {
+      "question": "Kui lihtne on Electrolux COF6P76BX ahju kasutada ja puhastada?",
+      "answer": "Sellel ahjul on LED „EXPlore“ juhtpaneel puutetundlike nuppudega ning sisse-välja vajutatavad keeratavad nupud (PIPO), mis teevad seadistamise mugavaks. Sisendandmetes on välja toodud 25 automaatset küpsetusprogrammi ja 9 standardset kuumutusfunktsiooni, konvektsioon („Convection“/„Even Cooking“) ning kiire eelkuumutuse funktsioon, mis aitavad kiiresti ja ühtlaselt süüa valmistada. Puhastamist lihtsustab Pyroluxe puhastusfunktsioon (pürolüütiline puhastus) ja eemaldatavad klaasukse osad – nii ukse kui ka sisemine klaas on eemaldatavad, mis teeb detailse puhastamise lihtsamaks. Täpsemat puhastusprogrammi kulgu sisend ei kirjelda, kuid ahi pakub automaatset puhastusfunktsiooni ja head ligipääsu klaaspindadele."
+    },
+    {
+      "question": "Kui töökindel ja energiasäästlik on see ahi ning milline on garantii ja hinna-väärtuse suhe?",
+      "answer": "Sisendandmete põhjal on Electrolux COF6P76BX A+ energiatõhususklassiga elektriahi, mis koos konvektsiooni („Even Cooking“) ja kiire eelkuumutusega aitab küpsetusprotsessi kiirendada ning vähendada energiakulu võrreldes tavalise ahjuga. Ahjul on 4-kordne klaasukse klaas, lapselukk ja tugevast metallist/ klaasist juhtpaneel, mis viitavad turvalisusele ja kvaliteetsele teostusele, kuid otseseid andmeid töökindluse testide või keskmise eluea kohta sisend ei anna. Garantii pikkust ja täpseid tingimusi kirjeldus ei täpsusta – need sõltuvad müüjast ja kehtivast garantiipoliitikast. Hinna-väärtuse mõttes pakub ahi lisaks põhifunktsioonidele pürolüütilist puhastust, 25 automaatprogrammi, 9 kuumutusrežiimi, konvektsiooni, grilli, teleskoopsiinid (1 tase) ja 65-liitrise mahutavuse, mis teeb selle funktsioonide hulga kohta sisendi põhjal hästi varustatud valikuks oma klassis."
+    }
+  ]
+}

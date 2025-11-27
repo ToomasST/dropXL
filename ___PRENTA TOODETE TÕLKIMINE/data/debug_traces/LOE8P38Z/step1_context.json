@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394119656 7333394119656 Oven ELECTROLUX LOE8P38Z",
+  "search_queries": {
+    "main_query": "Electrolux LOE8P38Z integreeritav elektriahi pürolüütilise puhastusega",
+    "additional_queries": [
+      "kuidas saada ahju lihtne puhastamine ja ühtlane küpsemine Electrolux LOE8P38Z pürolüütilise ahjuga",
+      "72 l pürolüütiline 60 cm integreeritav ahi suurde perre Electrolux LOE8P38Z",
+      "millega Electrolux LOE8P38Z erineb teistest Electrolux pürolüütilistest integreeritavatest ahjudest",
+      "kuidas kasutada ja hooldada Electrolux LOE8P38Z ahju ning käivitada pürolüütiline puhastus"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LOE8P38Z sobib minu kööki ja standardkappi?",
+      "answer": "Electrolux LOE8P38Z on 60 cm standardmõõdus integreeritav elektriahi. Toote mõõdud on ligikaudu 59,4 × 59,4 × 56,9 cm (laius × kõrgus × sügavus) ning kirjelduses on märgitud ka standardiseeritud kõrgus ja laius 60 cm, seega sobib see enamasti tavalisse 60 cm integreeritavasse ahjukappi. Enne ostu soovitame siiski üle mõõta oma kapi ava ning veenduda, et sügavus oleks vähemalt 57 cm kanti ja et elektriühendus vastaks nõuetele. Ahi on iseseisev (Independent) mudel, seega ei ole see sõltuv pliidiplaadist ja sobib enamiku köögimööbisüsteemidega."
+    },
+    {
+      "question": "Kui lihtne on Electrolux LOE8P38Z ahju kasutada ja puhastada?",
+      "answer": "Seda ahju on lihtne kasutada, sest juhtimiseks on tundlik puutetundlik TFT ekraan EXCite, mis kuvab tekstilist infot. Ahi pakub kuni 99 automaatset küpsetusprogrammi ning funktsiooni „Kepimo vadovas/MealAssist“, mis aitab konkreetse toidu jaoks sobivad seaded automaatselt valida. Lisaks on 15 standardset kuumutusfunktsiooni, kiirkuumutus ja pöördõhk koos kolmanda küttekehandiga, mis võimaldab korraga küpsetada mitmel tasandil. \n\nPuhastamine on samuti mugav: pürolüütilise puhastuse (Pyroluxe) käigus kuumutab ahi end väga kõrgele temperatuurile ja rasv ning toidujäägid muutuvad peeneks tuhkaks. Pärast programmi lõppu piisab, kui sisemust niiske lapiga üle pühkida. Täpsemate puhastus- ja hooldussoovituste jaoks tuleks tutvuda kasutusjuhendiga, mida sisend ei kirjelda."
+    },
+    {
+      "question": "Kui töökindel on see ahi ja milline on garantii ning hinna ja kvaliteedi suhe?",
+      "answer": "Tootekirjeldus keskendub funktsioonidele ega täpsusta garantiitingimusi – need sõltuvad müüjast ja riiklikest regulatsioonidest, seega tuleks garantiiperioodi ja -tingimusi vaadata otse müüja juurest. \n\nFunktsioonide poolest pakub Electrolux LOE8P38Z palju väärtust: energiatõhususklass on A+, mahukas 72 l küpsetusruum sobib suuremale perele, pöördõhk ja kolmas küttekeha tagavad ühtlasema küpsemise mitmel tasandil. Pürolüütiline isepuhastus vähendab keemiliste puhastusvahendite ja käsitsi küürimise vajadust. Kasutusmugavust ja kvaliteeditunnet lisavad pehmelt sulguvad uksehinged, lapselukk, kolmekordne ukseklaas ning teleskoopsiinid ühel tasandil. Wi‑Fi ühendust sellel mudelil ei ole, seega nutirakenduse kaudu juhtimist ei toimu. Kokkuvõttes on tegu hästi varustatud integreeritava ahjuga, kuid hinna-väärtuse hindamisel tuleks arvesse võtta ka müüja pakutavat garantiid ja isiklikke vajadusi (näiteks aurufunktsiooni või Wi‑Fi puudumine)."
+    }
+  ]
+}

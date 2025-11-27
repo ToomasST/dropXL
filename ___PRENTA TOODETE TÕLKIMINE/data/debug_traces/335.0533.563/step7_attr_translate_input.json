@@ -1,0 +1,55 @@
+{
+  "model": "gpt-5.1",
+  "instructions": "\n                            Tõlgi järgmised atribuudinimed ja -väärtused eesti keelde.\n\n                            Oluline:\n                            - Arvesta toote iseloomu ja kogu läbitöödeldud konteksti (pealkiri, kirjeldus, SEO päringud, KKK), et tõlge vastaks toote tegelikele omadustele.\n                            - Säilita mõõtühikud õigel kujul (cm, mm, L, W, V jne) ja arvväärtused; kasuta korrektselt eestikeelseid käändeid ja idiomaatilist sõnajärge.\n                            - Ära lisa uusi tähendusi ega väärtusi; tõlgi ainult antud nimesid ja väärtusi.\n                            - Iga translation-objekt PEAB sisaldama ka \"attr_name\" välja. Kui kind == \"name\", siis kasuta attr_name = source.\n\n                            Tagasta täpselt skeemiga { translations: [ { kind: 'name'|'value', source: string, translated: string, attr_name?: string } ] }.\n                        ",
+  "input": "{\"items\": [{\"kind\": \"value\", \"attr_name\": \"Type of hood\", \"source\": \"Square\"}, {\"kind\": \"value\", \"attr_name\": \"Color\", \"source\": \"Black Matt\"}, {\"kind\": \"value\", \"attr_name\": \"Maximum Airflow (m3/h, IEC 61591)\", \"source\": \"510\"}, {\"kind\": \"value\", \"attr_name\": \"Booster Airflow (m3/h, IEC 61591)\", \"source\": \"580\"}, {\"kind\": \"value\", \"attr_name\": \"Maximum Noise level, dB\", \"source\": \"59\"}, {\"kind\": \"value\", \"attr_name\": \"Booster Noise level, dB\", \"source\": \"61\"}, {\"kind\": \"value\", \"attr_name\": \"Min Height (mm)\", \"source\": \"755.0\"}, {\"kind\": \"value\", \"attr_name\": \"Max Height (mm)\", \"source\": \"1075.0\"}]}",
+  "tools": null,
+  "text": {
+    "verbosity": "low",
+    "format": {
+      "type": "json_schema",
+      "name": "attr_translations_schema",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "translations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "kind": {
+                  "type": "string"
+                },
+                "source": {
+                  "type": "string"
+                },
+                "translated": {
+                  "type": "string"
+                },
+                "attr_name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "kind",
+                "source",
+                "translated",
+                "attr_name"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "translations"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "reasoning": {
+    "effort": "medium"
+  },
+  "previous_response_id": "resp_0773153e1fd5d65700691cae35c1208195a13c1b002263abed",
+  "service_tier": "default"
+}

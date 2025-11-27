@@ -1,0 +1,55 @@
+{
+  "model": "gpt-5.1",
+  "instructions": "\n                            Tõlgi järgmised atribuudinimed ja -väärtused eesti keelde.\n\n                            Oluline:\n                            - Arvesta toote iseloomu ja kogu läbitöödeldud konteksti (pealkiri, kirjeldus, SEO päringud, KKK), et tõlge vastaks toote tegelikele omadustele.\n                            - Säilita mõõtühikud õigel kujul (cm, mm, L, W, V jne) ja arvväärtused; kasuta korrektselt eestikeelseid käändeid ja idiomaatilist sõnajärge.\n                            - Ära lisa uusi tähendusi ega väärtusi; tõlgi ainult antud nimesid ja väärtusi.\n                            - Iga translation-objekt PEAB sisaldama ka \"attr_name\" välja. Kui kind == \"name\", siis kasuta attr_name = source.\n\n                            Tagasta täpselt skeemiga { translations: [ { kind: 'name'|'value', source: string, translated: string, attr_name?: string } ] }.\n                        ",
+  "input": "{\"items\": [{\"kind\": \"value\", \"attr_name\": \"Product line\", \"source\": \"Gorenje Exclusive\"}, {\"kind\": \"value\", \"attr_name\": \"Producer\", \"source\": \"Gorenje\"}, {\"kind\": \"value\", \"attr_name\": \"Standardized width (cm)\", \"source\": \"60\"}, {\"kind\": \"value\", \"attr_name\": \"Standardized height (cm)\", \"source\": \"180\"}, {\"kind\": \"value\", \"attr_name\": \"Energy efficiency class\", \"source\": \"E\"}, {\"kind\": \"value\", \"attr_name\": \"Freezer to fridge\", \"source\": \"No\"}, {\"kind\": \"value\", \"attr_name\": \"Control\", \"source\": \"Internal electronic control\"}, {\"kind\": \"value\", \"attr_name\": \"Annual energy consumption (kWh)\", \"source\": \"235\"}, {\"kind\": \"value\", \"attr_name\": \"Net capacity of refrigerator (l)\", \"source\": \"176\"}, {\"kind\": \"value\", \"attr_name\": \"Net capacity of freezer (l)\", \"source\": \"76\"}, {\"kind\": \"value\", \"attr_name\": \"Metallized rear wall\", \"source\": \"No\"}, {\"kind\": \"value\", \"attr_name\": \"Fan\", \"source\": \"No\"}, {\"kind\": \"value\", \"attr_name\": \"Air cleaning filter\", \"source\": \"No\"}, {\"kind\": \"value\", \"attr_name\": \"Bottle shelf\", \"source\": \"No\"}, {\"kind\": \"value\", \"attr_name\": \"Individually adjustable door shelves\", \"source\": \"No\"}, {\"kind\": \"value\", \"attr_name\": \"Freezing capacity in 24 hours (kg/24 hours)\", \"source\": \"6.0\"}, {\"kind\": \"value\", \"attr_name\": \"Maximum freezer storage time in power failure (hours)\", \"source\": \"10\"}, {\"kind\": \"value\", \"attr_name\": \"Type of hinges\", \"source\": \"Door on door\"}, {\"kind\": \"value\", \"attr_name\": \"New Energy efficiency class\", \"source\": \"E\"}, {\"kind\": \"name\", \"source\": \"Antibacterial technology\"}, {\"kind\": \"value\", \"attr_name\": \"Antibacterial technology\", \"source\": \"No\"}, {\"kind\": \"value\", \"attr_name\": \"Eco mode\", \"source\": \"No\"}, {\"kind\": \"value\", \"attr_name\": \"Holiday function\", \"source\": \"No\"}, {\"kind\": \"name\", \"source\": \"Telescopic rails of cold drawer\"}, {\"kind\": \"value\", \"attr_name\": \"Telescopic rails of cold drawer\", \"source\": \"No\"}, {\"kind\": \"value\", \"attr_name\": \"Freezer freezing temperature\", \"source\": \"-14°C - -24°C\"}, {\"kind\": \"value\", \"attr_name\": \"Fully removable drawers and intermediate glass shelves in freezer\", \"source\": \"Yes\"}]}",
+  "tools": null,
+  "text": {
+    "verbosity": "low",
+    "format": {
+      "type": "json_schema",
+      "name": "attr_translations_schema",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "translations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "kind": {
+                  "type": "string"
+                },
+                "source": {
+                  "type": "string"
+                },
+                "translated": {
+                  "type": "string"
+                },
+                "attr_name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "kind",
+                "source",
+                "translated",
+                "attr_name"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "translations"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "reasoning": {
+    "effort": "medium"
+  },
+  "previous_response_id": "resp_0cec5c0a6f4c44c700691c46065cbc81a1b21702de3e63b05c",
+  "service_tier": "default"
+}

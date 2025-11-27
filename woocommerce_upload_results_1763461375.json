@@ -1,0 +1,39 @@
+{
+  "successful": [
+    {
+      "success": true,
+      "action": "created",
+      "product_id": 302131,
+      "name": "Integreeritav külmik-sügavkülmik LowFrost ja ColdSense AEG OSC5D181ES, 196+73 l, DynamicAir, inverterkompressor, 34 dB, liughinged, LED-valgustus, 177.2x54.6x54.9 cm",
+      "sku": "OSC5D181ES",
+      "permalink": "https://ruumistruumi.ee/pood/integreeritav-kulmik-sugavkulmik-lowfrost-ja-coldsense-aeg-osc5d181es-19673-l-dynamicair-inverterkompressor-34-db-liughinged-led-valgustus-177-2x54-6x54-9-cm/"
+    },
+    {
+      "success": true,
+      "action": "created",
+      "product_id": 302137,
+      "name": "Integreeritav No Frost külmik alumise sügavkülmaga Gorenje NRKI517E82WF, 60 cm, 176/76 L, AdaptTech, inverterkompressor, LED, 35 dB, Wi-Fi, uks-uksele paigaldus, energiatõhusus E",
+      "sku": "NRKI517E82WF",
+      "permalink": "https://ruumistruumi.ee/pood/integreeritav-no-frost-kulmik-alumise-sugavkulmaga-gorenje-nrki517e82wf-60-cm-176-76-l-adapttech-inverterkompressor-led-35-db-wi-fi-uks-uksele-paigaldus-energiatohusus-e/"
+    },
+    {
+      "success": true,
+      "action": "created",
+      "product_id": 302144,
+      "name": "Integreeritav NoFrost külmik-sügavkülmik Wi-Fi ja AdaptTechiga Gorenje NRKI517E62WF, inverterkompressor, 176/76 l, 177,2 cm, 35 dB, LED, energiklass E",
+      "sku": "NRKI517E62WF",
+      "permalink": "https://ruumistruumi.ee/pood/integreeritav-nofrost-kulmik-sugavkulmik-wi-fi-ja-adapttechiga-gorenje-nrki517e62wf-inverterkompressor-176-76-l-1772-cm-35-db-led-energiklass-e/"
+    },
+    {
+      "success": true,
+      "action": "created",
+      "product_id": 302150,
+      "name": "Integreeritav NoFrost külmik sügavkülmaga Gorenje NRKI517E42, 177 cm, E-kl, inverterkompressor, 176+76 L, 35 dB, LED-valgustus, uks-uksele paigaldus, pööratavad uksed",
+      "sku": "NRKI517E42",
+      "permalink": "https://ruumistruumi.ee/pood/integreeritav-nofrost-kulmik-sugavkulmaga-gorenje-nrki517e42-177-cm-e-kl-inverterkompressor-17676-l-35-db-led-valgustus-uks-uksele-paigaldus-pooratavad-uksed/"
+    }
+  ],
+  "failed": [],
+  "created": 4,
+  "updated": 0
+}

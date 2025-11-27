@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543663675 7332543663675 Hob ELECTROLUX KGG6407K",
+  "search_queries": {
+    "main_query": "Electrolux KGG6407K 60 cm integreeritav gaasipliidiplaat musta karastatud klaasiga",
+    "additional_queries": [
+      "kuidas valida stiilne must klaaspinnaga gaasipliidiplaat kööki – Electrolux KGG6407K näitel",
+      "60 cm integreeritav gaasipliidiplaat 4 põletiga must karastatud klaas Electrolux KGG6407K",
+      "Electrolux KGG6407K võrdlus teiste 60 cm klaaspinnaga gaasipliidiplaatidega",
+      "kuidas kasutada ja puhastada Electrolux KGG6407K gaasipliidiplaati karastatud klaaspinnaga"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux KGG6407K gaasipliidiplaat sobib minu köögi töötasapinnale ja olemasolevasse köögimööblisse?",
+      "answer": "See on integreeritav gaasipliidiplaat pealse paigaldusega (surface mounting). Toote mõõdud on ligikaudu 58 × 51 × 4 cm ning standardlaius on märgitud 60 cm ja standardne sügavus 50 cm. See tähendab, et see on mõeldud tavalise 60 cm laiuse integreeritava pliidiplaadi koha jaoks, kuid täpset väljalõike mõõtu tooteinfo ei kirjelda. Enne ostu soovitame kontrollida oma töötasapinna ava mõõte ja võrrelda neid pliidiplaadi paigaldusjoonisega ning vajadusel konsulteerida paigaldajaga. Ühilduvust konkreetse ahjumudeliga tooteinfo eraldi ei täpsusta."
+    },
+    {
+      "question": "Kuidas Electrolux KGG6407K gaasipliidiplaati kasutada ja kui mugav on süüte ning võimsuse reguleerimine?",
+      "answer": "Pliidiplaadil on 4 gaasikeeduala koguvõimsusega 7650 W. Juhtnupud asuvad plaadi küljel ning on pööratavad, mis võimaldab liepsna tugevust astmehaaval reguleerida. Süüde toimub vajutuse ja keeramisega (push knob), st leek süttib nupust ilma eraldi tikke või süütajat kasutamata. Karastatud klaasist sile, raamita pind muudab keedualade ümbruse pühkimise ja üldise puhastamise lihtsamaks, kuid täpsemad kasutus- ja puhastussoovitused on kirjas tootja kasutusjuhendis, mida tooteinfo siin eraldi ei ava."
+    },
+    {
+      "question": "Kui töökindel on Electrolux KGG6407K ja milline on hinna ja kvaliteedi suhe?",
+      "answer": "Tootel on malmist potitoed, mis on tavaliselt vastupidavad ja stabiilsed, ning gaasilekke kaitse (flame failure device), mis tõstab ohutust – leek kustumisel katkestatakse gaasivool. Pliidiplaat sobib ka vedelgaasile, kuna tooteinfos on märge „Liquefied petroleum gas jets: Yes“, kuid täpseid ümberehituse detaile ei ole kirjeldatud. Garantiitingimusi (kestus ja ulatus) tooteinfo ei täpsusta – need sõltuvad müüjast ja kehtivast garantiipoliitikast. Hinna ja väärtuse suhtes pakub see mudel stiilset musta klaasdisaini, 4 keeduala, integreeritud süüdet ja turvafunktsiooni mõistliku hinnaga integreeritava gaasiplaadi segmendis."
+    }
+  ]
+}

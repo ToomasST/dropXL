@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543781256 7332543781256 Dishwasher AEG FSE72537P",
+  "search_queries": {
+    "main_query": "AEG FSE72537P 45 cm integreeritav nõudepesumasin SatelliteClean",
+    "additional_queries": [
+      "kuidas pesta tihedalt paigutatud nõusid väikese veekuluga AEG SatelliteClean nõudepesumasinas FSE72537P",
+      "45 cm integreeritav nõudepesumasin 10 nõudekomplekti 44 dB vaikne AEG FSE72537P kööki",
+      "AEG FSE72537P erinevused teiste 45 cm integreeritavate nõudepesumasinate ees SatelliteClean ja MaxiFlex",
+      "kuidas kasutada QuickSelect ja MaxiFlex funktsioone AEG FSE72537P integreeritaval nõudepesumasinal"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG FSE72537P sobib minu köögi mööblikappi ja ruumi?",
+      "answer": "AEG FSE72537P on integreeritav (täisintegreeritav) nõudepesumasin standardse 45 cm laiusega nišši jaoks. Toote andmetel on standardlaius 45 cm (korpuse laius u 44,6 cm) ning reguleeritav kõrgus vahemikus 81,8–89,8 cm. Sügavus on umbes 55 cm. See tähendab, et masin sobib kitsamasse kööki ja 45 cm laiusesse kappi. Enne ostu tasub võrrelda oma köögimööbli niši laiust, kõrgust ja sügavust nende mõõtudega ning arvestada ka mööbliesise ukse paksusega. Juhtpaneel asub ukse siseküljel, seega jääb esipaneel ühtlane mööblifassaadiga."
+    },
+    {
+      "question": "Kui lihtne on AEG FSE72537P kasutamine ja kuidas seda hooldada?",
+      "answer": "Masinal on puutetundlik LCD juhtpaneel ja QuickSelect funktsioon – tsükli kestuse saab valida liuguriga, Ecometer näitab tulpadena säästlikumaid energia- ja veekasutusega programme. Saadaval on 7 programmi (sh automaatprogramm ja klaasiprogramm), 4 temperatuuri, ajasäästu- ja viitstardi funktsioon. Kolm korvi, sh MaxiFlex söögiriistasahtel, võimaldavad paindlikult paigutada eri suuruses nõusid. Tsükli lõpus avaneb uks automaatselt, mis aitab kuivatustulemust parandada. Antud kirjeldus ei täpsusta puhastamis- ja hooldusjuhiseid (nt filtrite või pihustite puhastamine), seetõttu soovitame nende osas järgida tootja kasutusjuhendit."
+    },
+    {
+      "question": "Kui töökindel ja vastupidav on AEG FSE72537P ning milline on garantii ja hinna-väärtuse suhe?",
+      "answer": "Kirjelduse järgi on AEG FSE72537P varustatud inverter-mootoriga, roostevabast terasest sisekorpusega, lekkekaitsega ning tõhusamate pihustitega (SatelliteClean), mis tagavad parema pesutulemuse. Need omadused on tavaliselt seotud töökindluse ja vastupidavusega, kuid konkreetseid tööea või testide andmeid kirjeldus ei too. Garantii kestust ja täpseid tingimusi sisendinfo ei kirjelda – selle kohta tasub vaadata müüja või tootja garantiitingimusi. Hinna-väärtuse seisukohast pakub masin 45 cm laiusele integreeritavale mudelile palju funktsioone: vaikne töö (44 dB), madal veekulu (u 9,9 l tsükli kohta), automaatne ukse avamine, klaasikaitse (SoftSpikes), MaxiFlex sahtel ja põrandale kuvatav valgussignaal, mis lihtsustab igapäevast kasutamist."
+    }
+  ]
+}

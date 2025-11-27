@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:3838782646263 3838782646263 Oven GORENJE BOS6737SYB",
+  "search_queries": {
+    "main_query": "Gorenje BOS6737SYB integreeritav elektriahi 77 l must",
+    "additional_queries": [
+      "kuidas saada ühtlaselt küpsetatud toit ja lihtne puhastus AquaClean integreeritava ahjuga Gorenje BOS6737SYB",
+      "77 liitrine integreeritav elektriahi pöördõhuga ja lisauruga perele Gorenje BOS6737SYB",
+      "Gorenje BOS6737SYB vs teised 60 cm integreeritavad ahjud milline ahi valida",
+      "kuidas kasutada AquaClean puhastust ja teleskoopsiine ahjus Gorenje BOS6737SYB"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Gorenje BOS6737SYB ahi sobib minu kööki ja olemasolevasse 60 cm kapinišši?",
+      "answer": "BOS6737SYB on 60 × 60 cm standardmõõdus integreeritav elektriahi (laius u 59,5 cm, kõrgus u 59,5 cm), mis on mõeldud paigaldamiseks enamiku tootjate 60 cm laiustesse köögikappidesse. Enne ostu mõõda kindlasti oma kapinišši täpne laius, kõrgus ja sügavus ning võrdle neid toote mõõtudega. Sügavuse poolest sobib ahi tavapärasesse integreeritava ahju kappi; arvestada tuleb ka pistiku ja kaabli jaoks vajaliku ruumiga. Kui kapinišš on standardne ja elektriühendus on ette nähtud integreeritava ahju jaoks, peaks see mudel sobima hästi nii tööpinna alla kui ka kõrgkappi."
+    },
+    {
+      "question": "Kui lihtne on Gorenje BOS6737SYB ahju kasutada ja kuidas seda hooldada?",
+      "answer": "See ahi on elektriline ja juhitav mitte-sissevajutatavate nuppude ning puutetundliku juhtpaneeliga, mis teeb temperatuuride ja programmide valimise lihtsaks. Mudelil on 10 standardset kuumutusfunktsiooni (sh pöördõhk, lisauruga režiimid ja kiire eelkuumutamine), seega saab ühe ahjuga katta nii igapäevase küpsetamise kui ka veidi nõudlikumad retseptid. Puhastamist lihtsustab AquaClean funktsioon: valad veidi vett sügavale küpsetusplaadile, käivitad vastava programmi ja pärast jahtumist pühid pehmenenud mustuse ära. Teleskoopsiinid kahel tasandil teevad vormide ja plaadiga toimetamise turvalisemaks ja mugavamaks. Sisendinfo põhjal on komplektis vähemalt üks sügav ja üks madal emailitud küpsetusplaat; muude tarvikute (nt ahjuresti) kohta tasub täpsustada tootekaardilt või müüjalt."
+    },
+    {
+      "question": "Kui töökindel on BOS6737SYB ahi, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Gorenje on tuntud kodutehnika tootja ning BOS6737SYB on A energiaklassiga integreeritav ahi, millel on suur 77-liitrine küpsetusruum, pöördõhu funktsioon, lisauruga küpsetamine, kiire eelkuumutamine, kaks taset teleskoopsiine ja pehmelt sulguv uks. Selline kombinatsioon teeb selle heaks valikuks perele, kes otsib igapäevasesse kasutusse töökindlat, ent funktsioonirohket ahju ilma keeruliste lisavidinateta (Wi‑Fi, automaatsed retseptid, lihatermomeeter jms puuduvad). Sisendmaterjal ei täpsusta konkreetset garantiiaega – see sõltub müüjast ja riigist, seega palun kontrolli täpseid garantiitingimusi ostukohast. Tänu energiatõhususele, suurele mahule ja praktilistele lahendustele (AquaClean, teleskoopsiinid) pakub ahi üldiselt head hinna ja funktsionaalsuse suhet pikaajaliseks kasutuseks."
+    }
+  ]
+}

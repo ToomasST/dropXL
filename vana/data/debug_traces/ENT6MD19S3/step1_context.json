@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394082738 7333394082738 ENT6MD19S3",
+  "search_queries": {
+    "main_query": "Electrolux ENT6MD19S3 integreeritav külmik-sügavkülmik TwinTech No Frost",
+    "additional_queries": [
+      "Electrolux ENT6MD19S3 liughingedega 188.4 cm No Frost külmik",
+      "ENT6MD19S3 mõõdud 188.4 x 54.6 x 54.9 cm ja maht 207+62 l",
+      "Electrolux CustomFlex ja Extra Chill sahtliga integreeritav külmik",
+      "Energiaklass D, 34 dB, inverterkompressor – Electrolux ENT6MD19S3"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas see mudel on integreeritav ja milliseid hingesid ta kasutab?",
+      "answer": "Jah, Electrolux ENT6MD19S3 on integreeritav (Built in) külmik-sügavkülmik. See kasutab liughingi (Sliding) ning uksi saab pöörata (reversible doors). Uksel on CustomFlex® süsteem, mis võimaldab riiuleid individuaalselt ümber tõsta."
+    },
+    {
+      "question": "Millised on külmiku mõõdud ja mahutavus?",
+      "answer": "Seadme mõõdud (K x L x S): 188.4 x 54.6 x 54.9 cm. Külmiku netomaht on 207 l ja sügavkülmiku netomaht 62 l. Külmutusvõimsus on 9 kg/24 h ning elektrikatkestuse korral säilitab külm 9 tundi."
+    },
+    {
+      "question": "Kas see on No Frost ja kuidas see toitu värskena hoiab?",
+      "answer": "Jah, TwinTech® No Frost kasutab eraldi jahutussüsteeme: sügavkülm ei jäätu, külmikus hoitakse optimaalset niiskust, et toit ei kuivaks. MultiFlow tagab ühtlase temperatuuri kogu külmikus. Lisaks on Extra Chill sahtel lähis-null tsoonina õrnadele toitudele, olemas on kiirjahutus ja kiirkülmutus ning ukse lahti unustamise signaal ja temperatuuri tõusu indikaator. Energiaklass D, aastane energiakulu 172 kWh ja müratase 34 dB (klass B)."
+    }
+  ]
+}

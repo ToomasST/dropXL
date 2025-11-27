@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543982882 7332543982882 Hob ELECTROLUX LIT30231C",
+  "search_queries": {
+    "main_query": "Electrolux LIT30231C 30 cm kahe tsooniga induktsioonpliidiplaat",
+    "additional_queries": [
+      "kuidas kiiresti vett keeta ja süüa teha PowerBoost funktsiooniga induktsioonpliidiplaadil Electrolux LIT30231C",
+      "30 cm integreeritav 2-keedualaga induktsioonpliidiplaat 3650 W väikesele köögile",
+      "millega erineb Electrolux LIT30231C teistest kitsastest 30 cm induktsioonpliidiplaatidest",
+      "kuidas kasutada ja puhastada Electrolux LIT30231C puutejuhtimisega induktsioonpliidiplaati"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LIT30231C induktsioonpliidiplaat sobib väikesele köögile ja kas see mahub minu tööpinda?",
+      "answer": "See mudel on kitsas, kahe keedualaga integreeritav induktsioonpliidiplaat, mille laiuseks on ligikaudu 29–30 cm (toote mõõdud: 29 × 52 × 5,1 cm, standardlaius 30 cm ja standard-sügavus 50 cm). See on mõeldud pealtpaigaldatavaks (surface mounting) tööpinda, mistõttu sobib hästi väiksematesse köökidesse või kombineerimiseks teiste „domino“ laiusega pliidiplaatidega. Täpse sobivuse jaoks tuleks võrrelda oma tööpinna ava mõõte tootja paigaldusjuhendis toodud andmetega (sisendinfo konkreetseid väljalõike mõõte ei täpsusta)."
+    },
+    {
+      "question": "Kui lihtne on Electrolux LIT30231C pliidiplaati kasutada ja hooldada?",
+      "answer": "Electrolux LIT30231C on puutejuhtimisega induktsioonpliidiplaat, millel on sile must klaaskeraamiline (vitrokeramika) pind. Kõik seaded valitakse otse klaaspinnalt, nuppusid ega nuppe ei ole, mis teeb kasutamise intuitiivseks ja puhastamise lihtsaks – pind saab lihtsalt niiske lapiga üle tõmmata. Pliidiplaadil on taimer (kuni 60 min), pausifunktsioon, PowerBoost kiireks kuumutamiseks, järelejäänud soojuse näidik ja laste lukk, mis aitab vältida juhuslikke seadete muutmisi. Täpse kasutamise ja hoolduse juhised leiab toote kasutusjuhendist (sisend ei kirjelda üksikute nuppude ja sümbolite täpset kasutust)."
+    },
+    {
+      "question": "Kui töökindel on Electrolux LIT30231C ja milline on selle garantii ning hinna-väärtuse suhe?",
+      "answer": "Sisendinfo ei täpsusta konkreetseid garantiitingimusi ega töökindluse teste. Tegu on Electroluxi 300 seeria induktsioonpliidiplaadiga, mille võimsus on kuni 3650 W ja mis pakub energiatõhusat, kiiret ja täpset kuumutamist, PowerBoost funktsiooni, taimerit, järelejäänud soojuse näidikut ja laste lukku. Need omadused tagavad mugava ja turvalisema igapäevase kasutuse ning hea funktsionaalsuse kitsal 30 cm laiusel pinnal. Garantiiaja ja täpsed tingimused sõltuvad müüjast ja piirkonnast – palun kontrollige neid ostukohast või tootja ametlikust infost, sest antud sisend neid ei kirjelda."
+    }
+  ]
+}

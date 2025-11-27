@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543848126 7332543848126 ENT6NE18S",
+  "search_queries": {
+    "main_query": "Electrolux ENT6NE18S integreeritav külmik-sügavkülmik TwinTech No Frost 177 cm",
+    "additional_queries": [
+      "ENT6NE18S sisseehitatav alumise sügavkülmaga külmik 195+62 l E-klassi 35 dB",
+      "Electrolux 600 TwinTech No Frost integreeritav külmik liughingedega 55 cm",
+      "Integreeritav No Frost külmik-sügavkülmik FastFreeze ja inverterkompressor",
+      "Electrolux ENT6NE18S mõõdud 177.2 × 54.6 × 54.9 cm, LED valgustus"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas ENT6NE18S on No Frost ja kas sügavkülma tuleb käsitsi sulatada?",
+      "answer": "Jah. TwinTech No Frost topeltjahutus hoiab sügavkülma jäävabana (käsitsi sulatamist pole vaja) ning säilitab külmikus optimaalse niiskuse, et toit püsiks kauem mahlane."
+    },
+    {
+      "question": "Millised on mõõdud ja paigaldusinfo? Kas uksed on ümberpööratavad ja mis hinged on kasutusel?",
+      "answer": "Seade on integreeritav alumise sügavkülmaga külmik. Mõõdud (K × L × S): 177.2 × 54.6 × 54.9 cm. Standardiseeritud laius 55 cm, kõrgusklass 180 cm. Kasutab liughingi ning uksed on ümberpööratavad."
+    },
+    {
+      "question": "Milline on maht, müratase ja energiatarve? Kas on kiirkülmutus?",
+      "answer": "Külmiku netomaht 195 l, sügavkülma netomaht 62 l. Müratase 35 dB (klass B). Energiaklass E, aastane energiatarve 216 kWh. Olemas FastFreeze kiirkülmutus (kuni 4.5 kg/24 h) ja voolukatkestuse korral säilitusaeg kuni 4 h. LED valgustus, sisemine elektrooniline juhtimine, avatud ukse signaal ja temperatuuri tõusu indikaator. Kompressor: inverter; tootja annab kompressorile 10-aastase garantii."
+    }
+  ]
+}

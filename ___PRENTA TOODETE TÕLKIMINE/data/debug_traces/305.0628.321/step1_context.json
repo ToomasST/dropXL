@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7612985910491 7612985910491 Hood FABER IN-LIGHT BK MATT KL A70/2",
+  "search_queries": {
+    "main_query": "Faber IN-LIGHT BK MATT KL A70/2 integreeritav õhupuhasti 70 cm",
+    "additional_queries": [
+      "kuidas eemaldada köögist auru ja lõhnad integreeritava õhupuhastiga Faber IN-LIGHT BK MATT KL A70/2",
+      "integreeritav õhupuhasti 70 cm 710 m3/h perimeeterimemisega avatud kööki",
+      "Faber IN-LIGHT BK MATT KL A70/2 erinevus teistest 70 cm integreeritavatest õhupuhastitest",
+      "kuidas paigaldada ja kasutada Faber IN-LIGHT BK MATT KL A70/2 õhupuhastit ja kaugjuhtimispulti"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Faber IN-LIGHT BK MATT KL A70/2 sobib minu kööki ja olemasoleva süsteemiga?",
+      "answer": "See mudel on integreeritav (sisseehitatav) õhupuhasti, mis on mõeldud paigaldamiseks köögimööbli sisse. Standardlaius on 70 cm, sügavus u 28,5 cm ning kõrgus jääb vahemikku 331–341 mm, seega tuleks kontrollida, kas sinu köögimööbli külmikapp/seinakapp vastab nendele mõõtudele.\n\nÕhupuhasti on \"duct out\" versioon ehk eeldab ühendamist ventilatsioonitoruga; ühendusava läbimõõt on 150 mm. Kui sul on juba sellise läbimõõduga väljatõmbeava või planeerid selle tekitada, peaks see sobima – täpset paigaldusviisi kirjeldus ei täpsusta.\n\nMudeli üks omadus on juhtmevaba integreerimine pliidiplaadiga, kuid sisendinfo järgi töötab juhtmevaba ühendus ainult FABERi pliidiplaatidega. Ühilduvust teiste tootjate pliitidega tavapärase õhupuhastina kasutamisel sisend täpsemalt ei kirjelda.\n\nKirjelduses on loetletud ka süsifiltrite komplektid (F8 KIT, High Performance FHP8 KIT, Long Lasting FLL8 KIT), mis viitab võimalusele kasutada söefiltrit; kas need on otseselt komplektis või tuleb need eraldi osta, sisend ei täpsusta."
+    },
+    {
+      "question": "Kuidas Faber IN-LIGHT BK MATT KL A70/2 õhupuhastit igapäevaselt kasutada ja hooldada?",
+      "answer": "Sisendkirjeldus ütleb, et õhupuhastil on elektrooniline juhtimine ning komplektis on must kaugjuhtimispult (REMOTE CONTROL 7T PREMIUM BLACK). See tähendab, et töörežiime ja tõmbeastmeid saab valida nii paneelilt kui puldilt; täpne nupuasetus ja funktsioonid ei ole sisendis detailselt lahti kirjutatud.\n\nÕhupuhastil on LED-valgustus, energiatõhususklass A ja maksimaalne õhuvool 560 m³/h (booster-režiimis kuni 710 m³/h). Perimeeterimemine tagab, et aur ja lõhnad tõmmatakse sisse ümber ääre, mitte ainult keskelt. Filtrite tüüpi ja puhastusviisi (nt kas metallrasvafiltrid on eemaldatavad ja pestavad) sisend ei kirjelda, seega tuleks hoolduse täpsed juhised võtta tootja kasutusjuhendist.\n\nPaigaldus: kuna tegu on integreeritava ja väljatõmbega mudeliga, eeldab see korrektset mööblikappi ja 150 mm ventilatsioonitoru ühendamist. Sisend ei ütle, kas paigalduse võib teha ise või on nõutud professionaal, kuid ohutuse mõttes tasub järgida tootja paigaldusjuhendit ja vajadusel kaasata tehnik."
+    },
+    {
+      "question": "Kui töökindel on Faber IN-LIGHT BK MATT KL A70/2, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Sisend ei anna otsest infot garantii pikkuse ega eritingimuste kohta, seega tuleb täpne garantiiperiood ja järelteenindus üle küsida müüjalt või vaadata ostuhetkel esitatud garantiitingimusi.\n\nTehniliste näitajate poolest pakub see mudel tugevat jõudlust (maksimaalne õhuvool 560 m³/h, booster-režiimis 710 m³/h), energiatõhususklassi A ja LED-valgustuse klassi A. Perimeeterimemine aitab tõhusamalt auru ja lõhnu koguda. Samuti on eelisteks integreeritav disain ilma nähtava korstnata, must matt välisilme roostevabast terasest viimistlusega ja elektrooniline juhtimine koos kaugjuhtimispuldiga.\n\nTöökindluse ja vastupidavuse kohta (näiteks mootori eluiga või materjalide testid) sisend infot ei sisalda. Hinna-väärtuse suhe tuleneb eelkõige kõrgest tõmbevõimsusest, A-klassi energiatõhususest, perimeeterimemisest ja võimalusest kasutada juhtmevaba integratsiooni FABERi pliidiplaatidega; täpse kasu hindamine sõltub sinu köögi suurusest ja kasutusharjumustest."
+    }
+  ]
+}

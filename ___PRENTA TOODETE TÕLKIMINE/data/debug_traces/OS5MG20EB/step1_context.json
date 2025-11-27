@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394047607 7333394047607 Microwave oven AEG OS5MG20EB",
+  "search_queries": {
+    "main_query": "AEG OS5MG20EB integreeritav mikrolaineahi grilliga",
+    "additional_queries": [
+      "kuidas saada krõbedat tulemust mikrolaineahjus AEG OS5MG20EB grilli abil",
+      "20 l 800 W integreeritav mikrolaineahi grilliga köögikappi",
+      "millega erineb AEG OS5MG20EB teistest integreeritavatest mikrolaineahjudest",
+      "kuidas paigaldada ja kasutada AEG OS5MG20EB integreeritavat mikrolaineahju"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG OS5MG20EB sobib minu köögikappi ja kui suur see on?",
+      "answer": "AEG OS5MG20EB on integreeritav mikrolaineahi grilliga, mis on mõeldud köögimööblisse paigaldamiseks. Tootel on järgmised paigaldusmõõdud: kõrgus u 38 cm, laius u 56 cm ja sügavus u 30 cm. Enne ostu mõõtke oma kapi nišš üle ja võrrelge neid mõõte tootekaardil tooduga. Ahju sisemaht on 20 liitrit, mis sobib igapäevaseks soojendamiseks, sulatamiseks ja väiksemate roogade valmistamiseks. Ühilduvuse olemasoleva köögisüsteemiga (nt mööblisüsteemi tootja) kirjeldus eraldi ei täpsusta, seega tasub kahtluse korral konsulteerida köögimööbli paigaldajaga."
+    },
+    {
+      "question": "Kui lihtne on AEG OS5MG20EB mikrolaineahju kasutada ja kuidas seda hooldada?",
+      "answer": "See mudel on varustatud elektroonilise puutetundliku juhtpaneeli ja LCD-ekraaniga, mis teeb kasutamise lihtsaks ja loogiliseks. Saadaval on mikrolaine-, grilli- ning nende kombineeritud režiimid, 5 võimsusastet, 8 automaatset küpsetusprogrammi, automaatne sulatus kaalu järgi, kiire käivitus täisvõimsusel 30-sekundiliste sammudena ning programmi lõpu helisignaal. Laste lukustusfunktsioon aitab vältida juhuslikku sisselülitamist.\n\nPuhastamiseks ja hoolduseks eraldi automaatset puhastusprogrammi ei ole – kirjelduses on märgitud, et puhastusfunktsioon puudub. Siseosa on roostevabast terasest ning juhtpaneel sile, mis teeb käsitsi puhastamise lihtsamaks. Täpsemad puhastus- ja hooldusjuhised leiate kasutusjuhendist, mida tootekirjeldus siin eraldi ei ava."
+    },
+    {
+      "question": "Kui töökindel on AEG OS5MG20EB, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Tootekirjeldus ei anna eraldi infot konkreetse garantiiperioodi või tingimuste kohta – need sõltuvad müüjast ja kehtivatest garantiitingimustest, seega palun vaadake meie poe garantiireegleid või küsige klienditeenindusest.\n\nMudeli peamised väärtused hinna suhtes on integreeritav lahendus (must, minimalistlik disain, mis sobitub muu köögitehnikaga), mikrolaine ja 1000 W grilli kombineerimine krõbedate tulemuste jaoks, 20 l sisemaht, 800 W mikrolainevõimsus, 8 automaatprogrammi, automaatne sulatus kaalu järgi, puutetundlik LCD-juhtimine ning laste turvalisust tagav lapselukk. Need omadused pakuvad rohkem võimalusi kui tavaline eraldiseisev baas-mikrolaineahi, mis teeb sellest funktsionaalse valiku neile, kes otsivad kvaliteetset integreeritavat lahendust."
+    }
+  ]
+}

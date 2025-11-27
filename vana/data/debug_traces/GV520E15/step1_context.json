@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:3838782574436 3838782574436 GV520E15",
+  "search_queries": {
+    "main_query": "Gorenje GV520E15 täisintegreeritav nõudepesumasin 45 cm 9 komplekti",
+    "additional_queries": [
+      "45 cm vaikne nõudepesumasin 47 dB 9 komplekti AquaStop (Gorenje GV520E15)",
+      "nõudepesumasin väikesele köögile 45 cm – 9 l vee kulu Eco ja E energiaklass",
+      "täisintegreeritav nõudepesumasin mõõdud 448×550×815 mm (ava 820–865) – Gorenje GV520E15",
+      "kiirprogrammiga (Fast 1h) integreeritav nõudepesumasin – 70 kWh/100 tsüklit – Gorenje GV520E15"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Millist probleemi GV520E15 lahendab ja kellele see sobib?",
+      "answer": "See 45 cm laiune täisintegreeritav nõudepesumasin mahutab 9 komplekti – ideaalne väikesele köögile või 1–3-liikmelisele leibkonnale. Eco-tsüklis kulutab see u 9 l vett ja 70 kWh/100 tsüklit, aidates vähendada vee- ja energiakulu võrreldes käsipesuga. Müratase on 47 dB, AquaStop-lood lekkevastase kaitse ning isepuhastuv filter vähendab hooldusvajadust. citeturn0search0turn0search1"
+    },
+    {
+      "question": "Kas see mahub minu köögikappi? Mis on vajalikud mõõdud?",
+      "answer": "Seadme mõõdud: laius 448 mm, sügavus 550 mm, korpuse kõrgus 815 mm. Paigaldusava miinimumkõrgus on 820 mm (max 865 mm) ja soovituslik ava sügavus umbes 560 mm. See teeb GV520E15 mudeli sobivaks 45 cm standardsesse integreeritavasse nišši. citeturn0search1"
+    },
+    {
+      "question": "Millised programmid on olemas ja kas on kiire pesu?",
+      "answer": "Põhiprogrammid: Eco, Intensive ja Quick; lisaks on kiirpesu „Fast 1h“, kui on vaja nõud kiiresti puhtaks saada. Eco-programmi tüüptsükli kestus on umbes 235 minutit. citeturn0search5turn0search1"
+    }
+  ]
+}

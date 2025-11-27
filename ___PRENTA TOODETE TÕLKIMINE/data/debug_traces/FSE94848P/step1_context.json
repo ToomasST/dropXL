@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543986699 7332543986699 Dishwasher AEG FSE94848P",
+  "search_queries": {
+    "main_query": "AEG FSE94848P integreeritav nõudepesumasin ComfortLift ja Wi-Fi",
+    "additional_queries": [
+      "kuidas muuta nõude sisse- ja väljapanek lihtsamaks ComfortLift funktsiooniga AEG FSE94848P nõudepesumasinal",
+      "60 cm integreeritav nõudepesumasin 14 nõudekomplektile vaikne 42 dB AEG FSE94848P avatud kööki",
+      "AEG FSE94848P võrreldes tavalise integreeritava nõudepesumasinaga – ComfortLift, Wi-Fi ja TimeBeam erinevused",
+      "kuidas kasutada AEG FSE94848P QuickSelect puutetundlikku juhtpaneeli ja Wi-Fi kaugjuhtimist igapäevases nõudepesus"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG FSE94848P sobib minu köögi standardsesse integreeritavasse nõudepesumasina nišši?",
+      "answer": "AEG FSE94848P on 60 cm laiune integreeritav nõudepesumasin. Sisendinfo järgi on minimaalkõrgus 81,8 cm ja maksimaalkõrgus 89,8 cm, sügavus ligikaudu 56 cm ning laius 59,6 cm. Seade on mõeldud sisseehitamiseks ja sobib enamiku 60 cm laiuste köögimööbli korpustega niššidesse. Soovitame enne ostu üle mõõta oma niši (laius, kõrgus, sügavus) ning veenduda, et olemas on vee-, äravoolu- ja toiteühendus. Ühilduvuse olemasoleva mööbliesipaneeliga sisendmaterjal eraldi ei täpsusta."
+    },
+    {
+      "question": "Kui lihtne on AEG FSE94848P nõudepesumasinat kasutada ja kuidas toimib Wi-Fi funktsioon?",
+      "answer": "AEG FSE94848P kasutamine on lihtne tänu puutetundlikule tekstkuvaga juhtpaneelile ja QuickSelect-liugurile, millega valite pesutsükli kestuse ning näete Ecometer’i abil kõige säästlikumat programmi. ComfortLift mehhanism tõstab alumise korvi mugavale kõrgusele, et nõusid oleks kergem sisse panna ja välja võtta. TimeBeam projitseerib järelejäänud pesuaja põrandale ning sisemine valgustus teeb masinas toimuva hästi nähtavaks. Wi-Fi võimaldab masinat nutikalt ja kaugelt juhtida ning saada soovitusi programmide ja säästliku kasutuse kohta, kuid sisend ei täpsusta, millist konkreetset rakendust tuleb selleks kasutada – täpsed sammud leiate tootja kasutusjuhendist ja äpi juhistest."
+    },
+    {
+      "question": "Kui töökindel ja vastupidav on AEG FSE94848P ning kas see on oma hinda väärt?",
+      "answer": "Sisendinfo järgi on AEG FSE94848P varustatud inverter-mootori, roostevabast terasest siseküveti ja veeülekaitsega, mis viitavad vastupidavusele ja töökindlusele. Seadmel on 7 programmi, automaatprogramm, klaasiprogramm, automaatne ukse avamine tsükli lõpus ning kõrge efektiivsusega pihustid ja ülemine pihustuskäsi, mis aitavad tagada hea pesutulemuse. Energiaklass on uusel skaalal C, energiakulu 75 kWh 100 tsükli kohta ja veekulu 11 l tsükli kohta, mis teeb sellest suhteliselt ökonoomse masina. Müra tase 42 dB ja 14 nõudekomplekti mahutavus sobivad hästi ka avatud kööki ja suuremale perele. Garantii kestust ja täpseid tingimusi sisend ei kirjelda, need sõltuvad müüjast ja tootjast. Hinna-väärtuse mõttes lisavad selgele põhifunktsioonile väärtust ComfortLift korvitõste, Wi-Fi nutifunktsioonid, QuickSelect ja TimeBeam, mis teevad kasutamise mugavamaks ja aitavad pikemas plaanis aega ning ressursse säästa."
+    }
+  ]
+}

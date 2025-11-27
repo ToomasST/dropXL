@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394127323 7333394127323 Hood ELECTROLUX CFG526R",
+  "search_queries": {
+    "main_query": "integreeritav õhupuhasti Electrolux CFG526R 55 cm Hob2Hood",
+    "additional_queries": [
+      "kuidas vähendada toidu lõhnu köögis Electrolux CFG526R integreeritava õhupuhastiga",
+      "integreeritav õhupuhasti 55 cm 600 m3/h must matt avatud kööki Electrolux CFG526R",
+      "Electrolux CFG526R võrreldes teiste Hob2Hood integreeritavate õhupuhastitega",
+      "kuidas puhastada ja hooldada Electrolux CFG526R Grease Filter Plus filtrit ja filtritäituvuse näidikut"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux CFG526R õhupuhasti sobib minu kööki ja olemasoleva pliidiplaadiga?",
+      "answer": "Electrolux CFG526R on integreeritav (kapi sisse paigaldatav) õhupuhasti, mille standardlaius on 55 cm ja maksimaalne kõrgus 331 mm. See töötab väljatõmbe (duct out) režiimis ning vajab 150 mm läbimõõduga õhukanalit. Enne ostu mõõtke ülemine kapp ja veenduge, et seal on ruumi nii seadmele kui ka torustikule. Mudelil on Hob2Hood® juhtmevaba ühendus, mis tähendab, et see saab automaatselt suhelda pliidiplaatidega, millel on Hob2Hood funktsioon – sisend ei täpsusta konkreetseid pliidiplaadi mudeleid. Kirjelduses on mainitud sobivust tarvikuga ECFB01ST, kuid ei ole selge, kas see filter on komplektis või tuleb see eraldi osta."
+    },
+    {
+      "question": "Kuidas Electrolux CFG526R õhupuhastit kasutada ja hooldada?",
+      "answer": "CFG526R juhitakse elektrooniliselt ning Hob2Hood® funktsiooniga saab õhupuhasti ventilaatori kiirus ja valgustus automaatselt kohanduda vastavalt pliidiplaadi seadistustele (täpne sidumise kord on kirjas kasutusjuhendis, mida sisend ei ava). Pure Illumination LED-valgustus tagab tugeva ja energiasäästliku valgustuse. Grease Filter Plus rasvafilter eemaldab tõhusalt rasva ning seda saab puhastada käsitsi või nõudepesumasinas. Seadmel on filtrite meeldetuletussüsteem, mis annab märku, kui rasvafiltrit või söefiltrit on vaja hooldada – sisend ei ütle, kui tihti seda teha tuleb, seega järgige juhendis toodud soovitusi."
+    },
+    {
+      "question": "Kui töökindel on Electrolux CFG526R ja kas see on oma hinda väärt?",
+      "answer": "Sisend kirjeldab CFG526R mudelit kui tugeva mootoriga integreeritavat õhupuhastit, mille maksimaalne õhuvool on kuni 450 m³/h (booster-režiimil kuni 600 m³/h) ja müratase 50–66 dB. Korpus on värvitud terasest, valgustus on LED-tehnoloogiaga (valgustõhususe klass A), lisaks on olemas Hob2Hood® automaatika ja filtritäituvuse indikaatorid, mis muudavad kasutamise mugavaks. Energiatõhususe klass on C, aastane energiakulu 96 kWh. Garantiitingimusi ega täpset tööea infot sisend ei kirjelda – need sõltuvad tootjast ja edasimüüjast. Hinna ja väärtuse seisukohalt on peamised eelised automaatne juhtimine pliidiplaadiga, tugev väljatõmme ja lihtne filtrihooldus, kuid lõplik hinnang sõltub ostja vajadustest ja hinnavõrdlusest teiste mudelitega."
+    }
+  ]
+}

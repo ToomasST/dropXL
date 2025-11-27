@@ -1,0 +1,1301 @@
+[
+  {
+    "product_meta": {
+      "product_id": "2610807",
+      "product_title": "BRB80F Šaldiklis apačioje su SmartThings AI energijos taupymo režimu",
+      "product_heading": 0,
+      "product_description": 0,
+      "created_date": 0,
+      "update_date": "2025-07-15 05:23:56",
+      "product_mpn": "BRB80F26CES0EO",
+      "product_ean": "8806097060871",
+      "product_sku": "BRB80F26CES0EO",
+      "inpage": {
+        "inpage_id": "5773702",
+        "language_id": "24",
+        "product_id": "2610807",
+        "inpage": "",
+        "create_date": "2025-07-15 05:23:56",
+        "update_date": null,
+        "level": "1",
+        "template": "samsung/t3",
+        "disabled": "0",
+        "locked": "0",
+        "is_uni": "0",
+        "has_mobile": "0"
+      },
+      "minisite": {
+        "minisite_id": "5606088",
+        "product_id": "2610807",
+        "language_id": "24",
+        "create_date": "2025-07-15 05:23:56",
+        "update_date": "2025-07-15 05:23:56",
+        "level": "1",
+        "template": "samsung/t3",
+        "disabled": "0",
+        "locked": "0",
+        "is_uni": "0",
+        "has_mobile": "0"
+      },
+      "hotspot": {
+        "hotspot_id": "6610952",
+        "language_id": "24",
+        "product_id": "2610807",
+        "hotspot": "",
+        "create_date": "2025-07-15 05:23:56",
+        "update_date": null,
+        "level": "1",
+        "template": "",
+        "disabled": "0",
+        "locked": "0",
+        "is_uni": "0"
+      },
+      "comp_priority": 0,
+      "manufacturer_id": "9",
+      "asset_loading_base": "https://media.flixcar.com/webp/synd-asset/",
+      "language_iso": "lt",
+      "p": "2610807",
+      "language_id": "24",
+      "isMobile": "false",
+      "match_data": {
+        "direct_match": {
+          "2610807": {
+            "prodId": "2610807",
+            "match_type": "1",
+            "match_id": "295043654"
+          }
+        }
+      },
+      "requested_mpn": "BRB80F26CES0EO",
+      "requested_ean": "8806097060871",
+      "isSmart": "1"
+    },
+    "modules": {
+      "specifications": {
+        "module_category": "FC00001",
+        "module_type": "FT00002",
+        "module_id": "FM00010B",
+        "module_mapper": "specifications",
+        "class_name": "inpage_selector_specification feature_modular_map flix-samsung-new-specs ",
+        "product_id": "2610807",
+        "title": "",
+        "description": "",
+        "footnote": "",
+        "keywords": "",
+        "data": {
+          "specs": {
+            "show_more_specs": "Daugiau Specifikacijų",
+            "spec_list": [
+              {
+                "group_title": "",
+                "spec_data": [
+                  {
+                    "spec_title": "Visa talpa (litrais)",
+                    "value": "267 ℓ"
+                  },
+                  {
+                    "spec_title": "Grynasis plotis (mm)",
+                    "value": "540 mm"
+                  },
+                  {
+                    "spec_title": "Grynasis korpuso aukštis su vyriais (mm)",
+                    "value": "1775 mm"
+                  },
+                  {
+                    "spec_title": "Grynasis gylis su durelių rankena (mm)",
+                    "value": "550 mm"
+                  },
+                  {
+                    "spec_title": "Grynasis svoris",
+                    "value": "62 kg"
+                  },
+                  {
+                    "spec_title": "Šaldymo rūšis",
+                    "value": "Mono Cooling"
+                  },
+                  {
+                    "spec_title": "Energijos efektyvumo klasė",
+                    "value": "E"
+                  }
+                ]
+              },
+              {
+                "group_title": "Talpa",
+                "spec_data": [
+                  {
+                    "spec_title": "Visa šaldiklio talpa (litrais)",
+                    "value": "74 ℓ"
+                  },
+                  {
+                    "spec_title": "Visa šaldytuvo talpa (litrais)",
+                    "value": "193 ℓ"
+                  }
+                ]
+              },
+              {
+                "group_title": "Fizinės specifikacijos",
+                "spec_data": [
+                  {
+                    "spec_title": "Grynieji matmenys (plotis x aukštis x gylis) (mm)",
+                    "value": "540 x 1775 x 550 mm"
+                  },
+                  {
+                    "spec_title": "Grynasis gylis be durelių (mm)",
+                    "value": "510 mm"
+                  },
+                  {
+                    "spec_title": "Pakuotės matmenys (plotis x aukštis x gylis) (mm)",
+                    "value": "580 x 1860 x 629 mm"
+                  },
+                  {
+                    "spec_title": "Pakuotės svoris (kg)",
+                    "value": "64 kg"
+                  },
+                  {
+                    "spec_title": "20 / 40 / 40 H sunkvežimis",
+                    "value": "105/57/75/27"
+                  }
+                ]
+              },
+              {
+                "group_title": "Šaldytuvo funkcija",
+                "spec_data": [
+                  {
+                    "spec_title": "Metal Cooling Duct",
+                    "value": "Taip"
+                  },
+                  {
+                    "spec_title": "Lentynėlių skaičius (iš viso)",
+                    "value": "3 EA"
+                  },
+                  {
+                    "spec_title": "Lentynėlės vynui",
+                    "value": "Taip"
+                  },
+                  {
+                    "spec_title": "Lentynėlių durelėse skaičius",
+                    "value": "6 EA"
+                  },
+                  {
+                    "spec_title": "Kiaušinių dėtuvė (kiaušinių dėklas)",
+                    "value": "Taip"
+                  },
+                  {
+                    "spec_title": "Vidinis apšvietimas",
+                    "value": "Taip"
+                  },
+                  {
+                    "spec_title": "Upper Box",
+                    "value": "Optimal Fresh +"
+                  },
+                  {
+                    "spec_title": "Lower Box",
+                    "value": "Fresh Box"
+                  },
+                  {
+                    "spec_title": "Stalčiukų daržovėms ir vaisiams skaičius",
+                    "value": "2 EA"
+                  }
+                ]
+              },
+              {
+                "group_title": "Šaldiklio funkcija",
+                "spec_data": [
+                  {
+                    "spec_title": "Lentynėlių skaičius (iš viso)",
+                    "value": "1 EA"
+                  },
+                  {
+                    "spec_title": "Lentynėlių Easy Slide skaičius",
+                    "value": "1 EA"
+                  },
+                  {
+                    "spec_title": "Stalčių skaičius",
+                    "value": "2 EA"
+                  },
+                  {
+                    "spec_title": "Funkcija Power Freeze",
+                    "value": "Taip"
+                  },
+                  {
+                    "spec_title": "Ledukų padėklas",
+                    "value": "Taip"
+                  }
+                ]
+              },
+              {
+                "group_title": "Pagrindinės savybės",
+                "spec_data": [
+                  {
+                    "spec_title": "Reversinės durelės",
+                    "value": "Taip"
+                  },
+                  {
+                    "spec_title": "Garsinis signalas, įspėjantis apie atidarytas dureles",
+                    "value": "Taip"
+                  },
+                  {
+                    "spec_title": "Šaldymo medžiaga",
+                    "value": "R-600a"
+                  },
+                  {
+                    "spec_title": "Autonomijos valanda (temperatūros didėjimas)",
+                    "value": "6 h"
+                  }
+                ]
+              },
+              {
+                "group_title": "Išorinė funkcija",
+                "spec_data": [
+                  {
+                    "spec_title": "Ekrano tipas",
+                    "value": "Išorinis"
+                  },
+                  {
+                    "spec_title": "Durų rankena",
+                    "value": "Įleidžiamas montavimas"
+                  },
+                  {
+                    "spec_title": "Spalva",
+                    "value": "Snow White"
+                  }
+                ]
+              },
+              {
+                "group_title": "Veikimas",
+                "spec_data": [
+                  {
+                    "spec_title": "Atostogų režimas",
+                    "value": "Taip"
+                  },
+                  {
+                    "spec_title": "Energijos suvartojimas",
+                    "value": "231 kWh/year"
+                  },
+                  {
+                    "spec_title": "Triukšmo lygis",
+                    "value": "35 dBA"
+                  },
+                  {
+                    "spec_title": "Klimato klasė",
+                    "value": "N,ST"
+                  },
+                  {
+                    "spec_title": "Vėsinimo pajėgumas (kg/24 val.)",
+                    "value": "6 kg/24hr"
+                  }
+                ]
+              },
+              {
+                "group_title": "Diegimas",
+                "spec_data": [
+                  {
+                    "spec_title": "Durų vyrių tipas",
+                    "value": "Slydimo vyris"
+                  }
+                ]
+              },
+              {
+                "group_title": "Išmanusis",
+                "spec_data": [
+                  {
+                    "spec_title": "WiFi Embedded",
+                    "value": "Taip"
+                  }
+                ]
+              },
+              {
+                "group_title": "App Connectivity",
+                "spec_data": [
+                  {
+                    "spec_title": "SmartThings App Support",
+                    "value": "Taip"
+                  }
+                ]
+              }
+            ],
+            "spec_top": [
+              {
+                "top_title": "Visa talpa (litrais)",
+                "desc": "267 ℓ"
+              },
+              {
+                "top_title": "Grynasis plotis (mm)",
+                "desc": "540 mm"
+              },
+              {
+                "top_title": "Grynasis korpuso aukštis su vyriais (mm)",
+                "desc": "1775 mm"
+              },
+              {
+                "top_title": "Grynasis gylis su durelių rankena (mm)",
+                "desc": "550 mm"
+              }
+            ],
+            "collapse_title": "Sutraukti viską",
+            "expand_title": "Išskleisti viską",
+            "specs_title": "Specifikacijos"
+          }
+        }
+      },
+      "image_gallery": {
+        "module_category": "FC00001",
+        "module_type": "FT00002",
+        "module_id": "FM00007C",
+        "module_mapper": "image_gallery",
+        "class_name": "psg inpage_product_assets inpage_selector_gallery feature_modular_map",
+        "product_id": "2610807",
+        "title": "FOTOGRAFIJOS",
+        "description": "",
+        "footnote": "",
+        "keywords": "",
+        "fullHtml": "",
+        "feature_videos": "",
+        "feature_images": [
+          {
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303797-lt-brb80f-mono-brb80f26ces0eo-547017723--Download-Source--preview.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303797-lt-brb80f-mono-brb80f26ces0eo-547017723--Download-Source--preview.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303797-lt-brb80f-mono-brb80f26ces0eo-547017723--Download-Source--preview.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303797-lt-brb80f-mono-brb80f26ces0eo-547017723--Download-Source--zoom.png",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303797-lt-brb80f-mono-brb80f26ces0eo-547017723--Download-Source--zoom.png",
+            "asset_classnames": "flixkeycode",
+            "image_text": "Gallery image 1 of 12"
+          },
+          {
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303867-lt-brb80f-mono-brb80f26ces0eo-547017700--Download-Source--preview.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303867-lt-brb80f-mono-brb80f26ces0eo-547017700--Download-Source--preview.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303867-lt-brb80f-mono-brb80f26ces0eo-547017700--Download-Source--preview.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303867-lt-brb80f-mono-brb80f26ces0eo-547017700--Download-Source--zoom.png",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303867-lt-brb80f-mono-brb80f26ces0eo-547017700--Download-Source--zoom.png",
+            "asset_classnames": "flixkeycode",
+            "image_text": "Gallery image 2 of 12"
+          },
+          {
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303945-lt-brb80f-mono-brb80f26ces0eo-547017701--Download-Source--preview.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303945-lt-brb80f-mono-brb80f26ces0eo-547017701--Download-Source--preview.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303945-lt-brb80f-mono-brb80f26ces0eo-547017701--Download-Source--preview.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303945-lt-brb80f-mono-brb80f26ces0eo-547017701--Download-Source--zoom.png",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303945-lt-brb80f-mono-brb80f26ces0eo-547017701--Download-Source--zoom.png",
+            "asset_classnames": "flixkeycode",
+            "image_text": "Gallery image 3 of 12"
+          },
+          {
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304021-lt-brb80f-mono-brb80f26ces0eo-547017702--Download-Source--preview.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304021-lt-brb80f-mono-brb80f26ces0eo-547017702--Download-Source--preview.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304021-lt-brb80f-mono-brb80f26ces0eo-547017702--Download-Source--preview.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304021-lt-brb80f-mono-brb80f26ces0eo-547017702--Download-Source--zoom.png",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304021-lt-brb80f-mono-brb80f26ces0eo-547017702--Download-Source--zoom.png",
+            "asset_classnames": "flixkeycode",
+            "image_text": "Gallery image 4 of 12"
+          },
+          {
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304102-lt-brb80f-mono-brb80f26ces0eo-547017703--Download-Source--preview.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304102-lt-brb80f-mono-brb80f26ces0eo-547017703--Download-Source--preview.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304102-lt-brb80f-mono-brb80f26ces0eo-547017703--Download-Source--preview.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304102-lt-brb80f-mono-brb80f26ces0eo-547017703--Download-Source--zoom.png",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304102-lt-brb80f-mono-brb80f26ces0eo-547017703--Download-Source--zoom.png",
+            "asset_classnames": "flixkeycode",
+            "image_text": "Gallery image 5 of 12"
+          },
+          {
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304178-lt-brb80f-mono-brb80f26ces0eo-547017704--Download-Source--preview.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304178-lt-brb80f-mono-brb80f26ces0eo-547017704--Download-Source--preview.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304178-lt-brb80f-mono-brb80f26ces0eo-547017704--Download-Source--preview.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304178-lt-brb80f-mono-brb80f26ces0eo-547017704--Download-Source--zoom.png",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304178-lt-brb80f-mono-brb80f26ces0eo-547017704--Download-Source--zoom.png",
+            "asset_classnames": "flixkeycode",
+            "image_text": "Gallery image 6 of 12"
+          },
+          {
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304262-lt-brb80f-mono-brb80f26ces0eo-547017705--Download-Source--preview.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304262-lt-brb80f-mono-brb80f26ces0eo-547017705--Download-Source--preview.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304262-lt-brb80f-mono-brb80f26ces0eo-547017705--Download-Source--preview.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304262-lt-brb80f-mono-brb80f26ces0eo-547017705--Download-Source--zoom.png",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304262-lt-brb80f-mono-brb80f26ces0eo-547017705--Download-Source--zoom.png",
+            "asset_classnames": "flixkeycode",
+            "image_text": "Gallery image 7 of 12"
+          },
+          {
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304393-lt-brb80f-mono-brb80f26ces0eo-547017706--Download-Source--preview.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304393-lt-brb80f-mono-brb80f26ces0eo-547017706--Download-Source--preview.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304393-lt-brb80f-mono-brb80f26ces0eo-547017706--Download-Source--preview.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304393-lt-brb80f-mono-brb80f26ces0eo-547017706--Download-Source--zoom.png",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304393-lt-brb80f-mono-brb80f26ces0eo-547017706--Download-Source--zoom.png",
+            "asset_classnames": "flixkeycode",
+            "image_text": "Gallery image 8 of 12"
+          },
+          {
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304539-lt-brb80f-mono-brb80f26ces0eo-547017707--Download-Source--preview.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304539-lt-brb80f-mono-brb80f26ces0eo-547017707--Download-Source--preview.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304539-lt-brb80f-mono-brb80f26ces0eo-547017707--Download-Source--preview.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304539-lt-brb80f-mono-brb80f26ces0eo-547017707--Download-Source--zoom.png",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304539-lt-brb80f-mono-brb80f26ces0eo-547017707--Download-Source--zoom.png",
+            "asset_classnames": "flixkeycode",
+            "image_text": "Gallery image 9 of 12"
+          },
+          {
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304609-lt-brb80f-mono-brb80f26ces0eo-547017708--Download-Source--preview.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304609-lt-brb80f-mono-brb80f26ces0eo-547017708--Download-Source--preview.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304609-lt-brb80f-mono-brb80f26ces0eo-547017708--Download-Source--preview.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304609-lt-brb80f-mono-brb80f26ces0eo-547017708--Download-Source--zoom.png",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304609-lt-brb80f-mono-brb80f26ces0eo-547017708--Download-Source--zoom.png",
+            "asset_classnames": "flixkeycode",
+            "image_text": "Gallery image 10 of 12"
+          },
+          {
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304690-lt-brb80f-mono-brb80f26ces0eo-547017709--Download-Source--preview.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304690-lt-brb80f-mono-brb80f26ces0eo-547017709--Download-Source--preview.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304690-lt-brb80f-mono-brb80f26ces0eo-547017709--Download-Source--preview.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304690-lt-brb80f-mono-brb80f26ces0eo-547017709--Download-Source--zoom.png",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304690-lt-brb80f-mono-brb80f26ces0eo-547017709--Download-Source--zoom.png",
+            "asset_classnames": "flixkeycode",
+            "image_text": "Gallery image 11 of 12"
+          },
+          {
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304751-lt-brb80f-mono-brb80f26ces0eo-547017710--Download-Source--preview.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304751-lt-brb80f-mono-brb80f26ces0eo-547017710--Download-Source--preview.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304751-lt-brb80f-mono-brb80f26ces0eo-547017710--Download-Source--preview.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304751-lt-brb80f-mono-brb80f26ces0eo-547017710--Download-Source--zoom.png",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304751-lt-brb80f-mono-brb80f26ces0eo-547017710--Download-Source--zoom.png",
+            "asset_classnames": "flixkeycode",
+            "image_text": "Gallery image 12 of 12"
+          }
+        ],
+        "images": [
+          {
+            "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+            "image_text": "Front White 1",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303797-lt-brb80f-mono-brb80f26ces0eo-547017723--Download-Source--zoom.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303797-lt-brb80f-mono-brb80f26ces0eo-547017723--Download-Source--zoom.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303797-lt-brb80f-mono-brb80f26ces0eo-547017723--Download-Source--zoom.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303797-lt-brb80f-mono-brb80f26ces0eo-547017723--Download-Source--preview.png",
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303797-lt-brb80f-mono-brb80f26ces0eo-547017723--Download-Source--preview.png"
+          },
+          {
+            "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+            "image_text": "L-perspective White 2",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303867-lt-brb80f-mono-brb80f26ces0eo-547017700--Download-Source--zoom.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303867-lt-brb80f-mono-brb80f26ces0eo-547017700--Download-Source--zoom.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303867-lt-brb80f-mono-brb80f26ces0eo-547017700--Download-Source--zoom.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303867-lt-brb80f-mono-brb80f26ces0eo-547017700--Download-Source--preview.png",
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303867-lt-brb80f-mono-brb80f26ces0eo-547017700--Download-Source--preview.png"
+          },
+          {
+            "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+            "image_text": "R-perspective White 3",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303945-lt-brb80f-mono-brb80f26ces0eo-547017701--Download-Source--zoom.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303945-lt-brb80f-mono-brb80f26ces0eo-547017701--Download-Source--zoom.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303945-lt-brb80f-mono-brb80f26ces0eo-547017701--Download-Source--zoom.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303945-lt-brb80f-mono-brb80f26ces0eo-547017701--Download-Source--preview.png",
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303945-lt-brb80f-mono-brb80f26ces0eo-547017701--Download-Source--preview.png"
+          },
+          {
+            "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+            "image_text": "Front-open-without-food White 4",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304021-lt-brb80f-mono-brb80f26ces0eo-547017702--Download-Source--zoom.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304021-lt-brb80f-mono-brb80f26ces0eo-547017702--Download-Source--zoom.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304021-lt-brb80f-mono-brb80f26ces0eo-547017702--Download-Source--zoom.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304021-lt-brb80f-mono-brb80f26ces0eo-547017702--Download-Source--preview.png",
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304021-lt-brb80f-mono-brb80f26ces0eo-547017702--Download-Source--preview.png"
+          },
+          {
+            "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+            "image_text": "Front-open-with-food White 5",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304102-lt-brb80f-mono-brb80f26ces0eo-547017703--Download-Source--zoom.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304102-lt-brb80f-mono-brb80f26ces0eo-547017703--Download-Source--zoom.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304102-lt-brb80f-mono-brb80f26ces0eo-547017703--Download-Source--zoom.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304102-lt-brb80f-mono-brb80f26ces0eo-547017703--Download-Source--preview.png",
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304102-lt-brb80f-mono-brb80f26ces0eo-547017703--Download-Source--preview.png"
+          },
+          {
+            "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+            "image_text": "Detail1 White 6",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304178-lt-brb80f-mono-brb80f26ces0eo-547017704--Download-Source--zoom.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304178-lt-brb80f-mono-brb80f26ces0eo-547017704--Download-Source--zoom.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304178-lt-brb80f-mono-brb80f26ces0eo-547017704--Download-Source--zoom.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304178-lt-brb80f-mono-brb80f26ces0eo-547017704--Download-Source--preview.png",
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304178-lt-brb80f-mono-brb80f26ces0eo-547017704--Download-Source--preview.png"
+          },
+          {
+            "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+            "image_text": "Detail2 White 7",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304262-lt-brb80f-mono-brb80f26ces0eo-547017705--Download-Source--zoom.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304262-lt-brb80f-mono-brb80f26ces0eo-547017705--Download-Source--zoom.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304262-lt-brb80f-mono-brb80f26ces0eo-547017705--Download-Source--zoom.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304262-lt-brb80f-mono-brb80f26ces0eo-547017705--Download-Source--preview.png",
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304262-lt-brb80f-mono-brb80f26ces0eo-547017705--Download-Source--preview.png"
+          },
+          {
+            "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+            "image_text": "Detail3 White 8",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304393-lt-brb80f-mono-brb80f26ces0eo-547017706--Download-Source--zoom.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304393-lt-brb80f-mono-brb80f26ces0eo-547017706--Download-Source--zoom.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304393-lt-brb80f-mono-brb80f26ces0eo-547017706--Download-Source--zoom.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304393-lt-brb80f-mono-brb80f26ces0eo-547017706--Download-Source--preview.png",
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304393-lt-brb80f-mono-brb80f26ces0eo-547017706--Download-Source--preview.png"
+          },
+          {
+            "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+            "image_text": "Back White 9",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304539-lt-brb80f-mono-brb80f26ces0eo-547017707--Download-Source--zoom.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304539-lt-brb80f-mono-brb80f26ces0eo-547017707--Download-Source--zoom.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304539-lt-brb80f-mono-brb80f26ces0eo-547017707--Download-Source--zoom.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304539-lt-brb80f-mono-brb80f26ces0eo-547017707--Download-Source--preview.png",
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304539-lt-brb80f-mono-brb80f26ces0eo-547017707--Download-Source--preview.png"
+          },
+          {
+            "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+            "image_text": "Detail4 White 10",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304609-lt-brb80f-mono-brb80f26ces0eo-547017708--Download-Source--zoom.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304609-lt-brb80f-mono-brb80f26ces0eo-547017708--Download-Source--zoom.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304609-lt-brb80f-mono-brb80f26ces0eo-547017708--Download-Source--zoom.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304609-lt-brb80f-mono-brb80f26ces0eo-547017708--Download-Source--preview.png",
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304609-lt-brb80f-mono-brb80f26ces0eo-547017708--Download-Source--preview.png"
+          },
+          {
+            "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+            "image_text": "Detail5-half-door-bin White 11",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304690-lt-brb80f-mono-brb80f26ces0eo-547017709--Download-Source--zoom.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304690-lt-brb80f-mono-brb80f26ces0eo-547017709--Download-Source--zoom.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304690-lt-brb80f-mono-brb80f26ces0eo-547017709--Download-Source--zoom.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304690-lt-brb80f-mono-brb80f26ces0eo-547017709--Download-Source--preview.png",
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304690-lt-brb80f-mono-brb80f26ces0eo-547017709--Download-Source--preview.png"
+          },
+          {
+            "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+            "image_text": "Detail6-half-door-bin White 12",
+            "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304751-lt-brb80f-mono-brb80f26ces0eo-547017710--Download-Source--zoom.png",
+            "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304751-lt-brb80f-mono-brb80f26ces0eo-547017710--Download-Source--zoom.png",
+            "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304751-lt-brb80f-mono-brb80f26ces0eo-547017710--Download-Source--zoom.png",
+            "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304751-lt-brb80f-mono-brb80f26ces0eo-547017710--Download-Source--preview.png",
+            "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361304751-lt-brb80f-mono-brb80f26ces0eo-547017710--Download-Source--preview.png"
+          }
+        ]
+      },
+      "documents": {
+        "module_category": "FC00001",
+        "module_type": "FT00002",
+        "module_id": "FM00009A",
+        "module_mapper": "documents",
+        "class_name": "inpage_selector_download flix-document-section",
+        "product_id": "2610807",
+        "title": "",
+        "description": "",
+        "footnote": "",
+        "keywords": "",
+        "fullHtml": "",
+        "feature_videos": "",
+        "feature_images": "",
+        "document_headline": "Dokumentai",
+        "docs": [
+          {
+            "document_title": "common-energylabel-brb80f26ces0eo-energylabel Document with Grade E",
+            "document_desc": "Energy Label document with Grade E",
+            "document_url": "https://media.flixcar.com/webp/synd-asset/Samsung-296404999-common-energylabel-brb80f26ces0eo-energylabel.pdf",
+            "document_size": "164.32KB",
+            "document_date": "2025.01.15"
+          }
+        ]
+      },
+      "features": [
+        {
+          "module_category": "FC00001",
+          "module_type": "FT00002",
+          "module_id": "FM00002E",
+          "module_mapper": "features",
+          "class_name": "inpage_selector_keyfeature feature_modular_map",
+          "main_inner_class_name": "flix-std-clmn-lg-12",
+          "main_sub_inner_class_name": "",
+          "main_title": "",
+          "main_sub_title": "",
+          "main_description": "",
+          "main_background_image": [],
+          "main_background_image1": [],
+          "main_video_html": "",
+          "main_video_html1": "",
+          "main_feature_footnote": "",
+          "multiple_main": [
+            {
+              "description": "Visapusiškas vėsinimas",
+              "inner_class_name": "flix-std-clmn-lg-3 flix-border-right flix-border-right-nolast",
+              "sub_inner_class_name": "flix-key-feature-block flix-text-center",
+              "background_image": [
+                {
+                  "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+                  "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361302971-lt-feature-preserves-food-freshness-for-longer-547017760.svg",
+                  "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361302971-lt-feature-preserves-food-freshness-for-longer-547017760.svg",
+                  "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361302971-lt-feature-preserves-food-freshness-for-longer-547017760.svg",
+                  "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361302971-lt-feature-preserves-food-freshness-for-longer-547017760.svg",
+                  "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361302971-lt-feature-preserves-food-freshness-for-longer-547017760.svg",
+                  "image_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361302971-lt-feature-preserves-food-freshness-for-longer-547017760.svg",
+                  "asset_classnames": "flix-std-row",
+                  "image_text": ""
+                }
+              ],
+              "sub_class_name": "flix-std-clmn-lg-3 flix-border-right flix-border-right-nolast",
+              "templagte": "samsung_smart"
+            }
+          ]
+        },
+        {
+          "module_category": "FC00001",
+          "module_type": "FT00002",
+          "module_id": "FM00002A",
+          "module_mapper": "features",
+          "product_id": "2610807",
+          "class_name": "feature_modular_map flix-bannerBgClr flix-BackgroundThemeYN flix-text-dark",
+          "inner_class_name": "flix-std-clmn-lg-12",
+          "sub_inner_class_name": "flix-std-center",
+          "title": "Ypač šviežias maistas, dar daugiau vietos",
+          "sub_title": "",
+          "description": "",
+          "background_image": [
+            {
+              "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+              "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361302984-lt-feature-extra-fresh-food--extra-storage-space-547017737--FB_TYPE_A_MO_JPG-.jpg",
+              "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361302984-lt-feature-extra-fresh-food--extra-storage-space-547017737--FB_TYPE_A_MO_JPG-.jpg",
+              "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361302984-lt-feature-extra-fresh-food--extra-storage-space-547017737--FB_TYPE_A_MO_JPG-.jpg",
+              "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361302999-lt-feature-extra-fresh-food--extra-storage-space-547017736--FB_TYPE_A_JPG-.jpg",
+              "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361302999-lt-feature-extra-fresh-food--extra-storage-space-547017736--FB_TYPE_A_JPG-.jpg",
+              "image_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361302999-lt-feature-extra-fresh-food--extra-storage-space-547017736--FB_TYPE_A_JPG-.jpg",
+              "asset_classnames": "flix-std-row",
+              "image_text": "Ypač šviežias maistas, dar daugiau vietos"
+            }
+          ],
+          "background_image1": [],
+          "video_html": "",
+          "feature_footnote": ""
+        },
+        {
+          "module_category": "FC00001",
+          "module_type": "FT00002",
+          "module_id": "FM000029A",
+          "module_mapper": "features",
+          "class_name": "feature_modular_map flix-bannerBgClr flix-BackgroundThemeYN flix-text-dark",
+          "inner_class_name": "flix-std-clmn-lg-12",
+          "sub_inner_class_name": "flix-std-center",
+          "title": "Iki 10 % energijos taupymo",
+          "sub_title": "SmartThings AI energijos režimas – iki 10 % *",
+          "description": "Sumažinkite energijos suvartojimą iki 10 %* naudodami AI energijos režimą**. Jeigu numatoma sąskaita už elektrą viršija iš anksto nustatytą lygį, sistema pasiūlys taupymo režimą.***. Ji optimizuoja kompresoriaus greitį ir atitirpinimo ciklus pagal naudojimo įpročius ir aplinkos sąlygas.",
+          "keywords": "Iki 10 % energijos taupymo",
+          "product_id": "2610807",
+          "background_image": [],
+          "background_image1": [],
+          "video_html": "",
+          "video_html1": "",
+          "fullHtml": "",
+          "feature_footnote": ""
+        },
+        {
+          "module_category": "FC00001",
+          "module_type": "FT00001",
+          "module_id": "FM00020C",
+          "module_mapper": "features",
+          "class_name": "feature_modular_map ",
+          "inner_class_name": "flix-std-margintop flix-std-margintop",
+          "sub_inner_class_name": "flix-std-center",
+          "title": "",
+          "sub_title": "",
+          "description": "",
+          "keywords": "",
+          "footnote": "",
+          "html": "",
+          "background_image": [
+            {
+              "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+              "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303025-lt-feature--547017751--ORIGIN_IMG-.jpg",
+              "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303025-lt-feature--547017751--ORIGIN_IMG-.jpg",
+              "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303025-lt-feature--547017751--ORIGIN_IMG-.jpg",
+              "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303046-lt-feature--547017750--ORIGIN_IMG-.jpg",
+              "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303046-lt-feature--547017750--ORIGIN_IMG-.jpg",
+              "image_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303046-lt-feature--547017750--ORIGIN_IMG-.jpg",
+              "asset_classnames": "flix-std-row",
+              "image_text": "_feature_2"
+            }
+          ],
+          "background_image1": [],
+          "video_html": "",
+          "video_html1": "",
+          "fullHtml": "",
+          "feature_footnote": ""
+        },
+        {
+          "module_category": "FC00001",
+          "module_type": "FT00007",
+          "module_id": "FM00004C",
+          "module_mapper": "features",
+          "class_name": "feature_modular_map flix-bannerBgClr flix-BackgroundThemeYN flix-text-dark",
+          "inner_class_name": "flix-std-clmn-lg-12",
+          "sub_inner_class_name": "flix-std-center",
+          "title": "",
+          "sub_title": "",
+          "description": "",
+          "keywords": "",
+          "product_id": "2610807",
+          "background_image": [],
+          "background_image1": [],
+          "video_html": "",
+          "video_html1": "",
+          "fullHtml": "",
+          "feature_footnote": "* Bandymų rezultatai pagrįsti gamykloje nustatytos temperatūros palyginimu naudojant AI energijos režimą ir nenaudojant AI energijos režimo. Rezultatai gali skirtis priklausomai nuo naudojimo sąlygų ir modelių.** Veikia Android ir iOS įrenginiuose. Reikalingas Wi-Fi ryšys ir Samsung paskyra.*** SmartThings pateiks pranešimą prieš įjungdama taupymo algoritmą tiek maksimaliame režime, tiek pritaikytame režime."
+        },
+        {
+          "module_category": "FC00001",
+          "module_type": "FT00002",
+          "module_id": "FM00002A",
+          "module_mapper": "features",
+          "product_id": "2610807",
+          "class_name": "feature_modular_map flix-bannerBgClr flix-BackgroundThemeYN flix-text-dark",
+          "inner_class_name": "flix-std-clmn-lg-12",
+          "sub_inner_class_name": "flix-std-center",
+          "title": "Ilgiau išsaugo maisto šviežumą",
+          "sub_title": "Visapusiškas vėsinimas",
+          "description": "Užtikrinkite, kad visas maistas būtų tinkamai atvėsintas. Visapusiškas vėsinimas tolygiai vėsina kiekvieną skyrių nuo kampo iki kampo. Temperatūra nuolat tikrinama, o šaltas oras cirkuliuoja per strateginius ventiliacijos angas. Taip maistas išlaikomas stabilioje temperatūroje ir ilgiau išlieka šviežias.",
+          "background_image": [
+            {
+              "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+              "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303070-lt-feature-preserves-food-freshness-for-longer-547017759--FB_TYPE_A_MO_JPG-.jpg",
+              "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303070-lt-feature-preserves-food-freshness-for-longer-547017759--FB_TYPE_A_MO_JPG-.jpg",
+              "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303070-lt-feature-preserves-food-freshness-for-longer-547017759--FB_TYPE_A_MO_JPG-.jpg",
+              "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303084-lt-feature-preserves-food-freshness-for-longer-547017758--FB_TYPE_A_JPG-.jpg",
+              "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303084-lt-feature-preserves-food-freshness-for-longer-547017758--FB_TYPE_A_JPG-.jpg",
+              "image_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303084-lt-feature-preserves-food-freshness-for-longer-547017758--FB_TYPE_A_JPG-.jpg",
+              "asset_classnames": "flix-std-row",
+              "image_text": "Ilgiau išsaugo maisto šviežumą"
+            }
+          ],
+          "background_image1": [],
+          "video_html": "",
+          "feature_footnote": ""
+        },
+        {
+          "module_category": "FC00001",
+          "module_type": "FT00002",
+          "module_id": "FM00002C",
+          "module_mapper": "features",
+          "product_id": "2610807",
+          "class_name": "flix-bannerBgClr flix-BackgroundThemeYN flix-text-dark",
+          "inner_class_name": "flix-std-clmn-lg-6 flix-std-clmn-sm-12 flix-std-left",
+          "sub_inner_class_name": "flix-std-clmn-lg-6 flix-std-clmn-sm-12 flix-img-right",
+          "title": "Idealu mėsai ir žuviai laikyti",
+          "sub_title": "Optimal Fresh +",
+          "description": "Optimal Fresh + yra atskiras stalčius, puikiai tinkantis mėsai ir žuviai laikyti. Jis palaiko žemesnę temperatūrą nei likusi šaldytuvo dalis, kad produktai išliktų švieži ir išsaugotų natūralų skonį.",
+          "background_image": [
+            {
+              "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+              "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303105-lt-feature-ideal-care-for-preserving-meat---fish-547017745--FB_TYPE_B_MO_JPG-.jpg",
+              "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303105-lt-feature-ideal-care-for-preserving-meat---fish-547017745--FB_TYPE_B_MO_JPG-.jpg",
+              "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303105-lt-feature-ideal-care-for-preserving-meat---fish-547017745--FB_TYPE_B_MO_JPG-.jpg",
+              "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303130-lt-feature-ideal-care-for-preserving-meat---fish-547017744--FB_TYPE_B_JPG-.jpg",
+              "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303130-lt-feature-ideal-care-for-preserving-meat---fish-547017744--FB_TYPE_B_JPG-.jpg",
+              "image_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303130-lt-feature-ideal-care-for-preserving-meat---fish-547017744--FB_TYPE_B_JPG-.jpg",
+              "asset_classnames": "flix-std-row",
+              "image_text": "Idealu mėsai ir žuviai laikyti"
+            }
+          ],
+          "video_html": "",
+          "feature_footnote": ""
+        },
+        {
+          "module_category": "FC00001",
+          "module_type": "FT00002",
+          "module_id": "FM00002B",
+          "module_mapper": "features",
+          "class_name": "flix-Interactive-Multi-Feature flix-InteractiveMulti_WhiteBG feature_modular_map flix-bannerBgClr flix-BackgroundThemeYN flix-text-dark",
+          "main_inner_class_name": "flix-std-clmn-lg-12",
+          "main_sub_inner_class_name": "flix-std-clmn-lg-12 flix-std-margintop",
+          "main_title": "SmartThings",
+          "main_sub_title": "",
+          "main_description": "",
+          "keywords": "SmartThings",
+          "product_id": "2610807",
+          "main_background_image": [],
+          "main_background_image1": [],
+          "main_video_html": [],
+          "main_video_html1": [],
+          "main_feature_footnote": "",
+          "style_data": "background: #fff; color: #000",
+          "carousel_main": [
+            {
+              "title": "Išmani energijos vartojimo kontrolė namuose",
+              "description": "Valdykite energijos suvartojimą, kad sumažintumėte poveikį aplinkai ir sutaupytumėte pinigų. SmartThings Energy* siūlo patarimus, kaip efektyviau naudoti energiją. Ji taip pat realiuoju laiku stebi prietaisų** energijos sąnaudas ir lygina jas su praėjusio mėnesio rodikliais. Jei atrodo, kad viršysite mėnesio tikslus, sistema apie tai įspėja.",
+              "inner_class_name": "flix-std-clmn-lg-12",
+              "sub_inner_class_name": "flix-std-clmn-lg-12",
+              "background_image": [
+                {
+                  "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+                  "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303152-lt-feature-smart-household-energy-efficiency-547017743--ORIGIN_IMG-.jpg",
+                  "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303152-lt-feature-smart-household-energy-efficiency-547017743--ORIGIN_IMG-.jpg",
+                  "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303152-lt-feature-smart-household-energy-efficiency-547017743--ORIGIN_IMG-.jpg",
+                  "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303178-lt-feature-smart-household-energy-efficiency-547017742--ORIGIN_IMG-.jpg",
+                  "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303178-lt-feature-smart-household-energy-efficiency-547017742--ORIGIN_IMG-.jpg",
+                  "image_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303178-lt-feature-smart-household-energy-efficiency-547017742--ORIGIN_IMG-.jpg",
+                  "asset_classnames": "flix-std-row",
+                  "image_text": "Išmani energijos vartojimo kontrolė namuose"
+                }
+              ],
+              "video_html": "",
+              "template": "samsung_smart",
+              "feature_footnote": "* Veikia Android ir iOS įrenginiuose. Reikalingas Wi-Fi ryšys ir Samsung paskyra.** SmartThings Energy šiuo metu veikia su maždaug 40 Samsung buitinės technikos prietaisų, turinčių SmartThings funkciją. Tarp jų – šaldytuvai, skalbimo mašinos, džiovyklės, indaplovės, oro kondicionieriai, oro valytuvai, dulkių siurbliai, orkaitės, gartraukiai, kaitlentės, mikrobangų krosnelės, televizoriai (nuo 2022 m. birželio) ir elektros skaitikliai."
+            },
+            {
+              "title": "Automatinė priežiūra ir problemų diagnostika",
+              "description": "Rūpinkitės savo šaldytuvu paprasčiau. SmartThings Home Care* leidžia realiuoju laiku stebėti įrenginį ir gauti įspėjimus. Galite patikrinti šaldytuvo būklę, įskaitant vandens filtro veikimą. Sistema automatiškai praneša, jei reikia pakeisti dalis ar aptinkami trikdžiai, ir pateikia siūlomą sprendimą.",
+              "inner_class_name": "flix-std-clmn-lg-12",
+              "sub_inner_class_name": "flix-std-clmn-lg-12",
+              "background_image": [
+                {
+                  "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+                  "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303223-lt-feature-automated-care-and-problem-diagnosis-547017741--ORIGIN_IMG-.jpg",
+                  "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303223-lt-feature-automated-care-and-problem-diagnosis-547017741--ORIGIN_IMG-.jpg",
+                  "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303223-lt-feature-automated-care-and-problem-diagnosis-547017741--ORIGIN_IMG-.jpg",
+                  "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303252-lt-feature-automated-care-and-problem-diagnosis-547017740--ORIGIN_IMG-.jpg",
+                  "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303252-lt-feature-automated-care-and-problem-diagnosis-547017740--ORIGIN_IMG-.jpg",
+                  "image_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303252-lt-feature-automated-care-and-problem-diagnosis-547017740--ORIGIN_IMG-.jpg",
+                  "asset_classnames": "flix-std-row",
+                  "image_text": "Automatinė priežiūra ir problemų diagnostika"
+                }
+              ],
+              "video_html": "",
+              "template": "samsung_smart",
+              "feature_footnote": "* Veikia Android ir iOS įrenginiuose. Reikalingas Wi-Fi ryšys ir Samsung paskyra."
+            },
+            {
+              "title": "Išmanus maisto ruošimas. Skanus maistas",
+              "description": "Tvarkykite, planuokite ir įsigykite maisto produktus efektyviau. SmartThings Food* leidžia sudaryti šaldytuve esančių produktų sąrašą ir stebėti jų galiojimo laiką, kad galėtumėte bet kada ir bet kur patikrinti, ką turite. Ji taip pat siūlo asmeninius receptus pagal jūsų pageidavimus ir turimus ingredientus.",
+              "inner_class_name": "flix-std-clmn-lg-12",
+              "sub_inner_class_name": "flix-std-clmn-lg-12",
+              "background_image": [
+                {
+                  "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+                  "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303294-lt-feature-smart-cooking--tasty-food-547017739--ORIGIN_IMG-.jpg",
+                  "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303294-lt-feature-smart-cooking--tasty-food-547017739--ORIGIN_IMG-.jpg",
+                  "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303294-lt-feature-smart-cooking--tasty-food-547017739--ORIGIN_IMG-.jpg",
+                  "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303316-lt-feature-smart-cooking--tasty-food-547017738--ORIGIN_IMG-.jpg",
+                  "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303316-lt-feature-smart-cooking--tasty-food-547017738--ORIGIN_IMG-.jpg",
+                  "image_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303316-lt-feature-smart-cooking--tasty-food-547017738--ORIGIN_IMG-.jpg",
+                  "asset_classnames": "flix-std-row",
+                  "image_text": "Išmanus maisto ruošimas. Skanus maistas"
+                }
+              ],
+              "video_html": "",
+              "template": "samsung_smart",
+              "feature_footnote": "* Veikia Android ir iOS įrenginiuose. Reikalingas Wi-Fi ryšys ir Samsung paskyra."
+            }
+          ]
+        },
+        {
+          "module_category": "FC00001",
+          "module_type": "FT00002",
+          "module_id": "FM00002B",
+          "module_mapper": "features",
+          "class_name": "flix-Interactive-Multi-Feature flix-InteractiveMulti_WhiteBG feature_modular_map flix-bannerBgClr flix-BackgroundThemeYN flix-text-dark",
+          "main_inner_class_name": "flix-std-clmn-lg-12",
+          "main_sub_inner_class_name": "flix-std-clmn-lg-12 flix-std-margintop",
+          "main_title": "Veikimas",
+          "main_sub_title": "",
+          "main_description": "",
+          "keywords": "Veikimas",
+          "product_id": "2610807",
+          "main_background_image": [],
+          "main_background_image1": [],
+          "main_video_html": [],
+          "main_video_html1": [],
+          "main_feature_footnote": "",
+          "style_data": "background: #fff; color: #000",
+          "carousel_main": [
+            {
+              "title": "Išsaugo šaltį, kad maistas išliktų šviežias",
+              "description": "Palaikykite optimalią temperatūrą šaldytuvo viduje, kad maistas išliktų šviežias, net dažnai varstant dureles. Metalinė vėsinimo plokštė, metalinė lentyna ir plokščias metalinis ortakis sulaiko šaltį ir greitai kompensuoja šilumos praradimą. Jie taip pat suteikia prietaisui prabangos pojūtį ir yra lengvai valomi.",
+              "inner_class_name": "flix-std-clmn-lg-12",
+              "sub_inner_class_name": "flix-std-clmn-lg-12",
+              "background_image": [
+                {
+                  "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+                  "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303353-lt-feature-holds-in-the-cold-for-lasting-freshness-547017757--ORIGIN_IMG-.jpg",
+                  "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303353-lt-feature-holds-in-the-cold-for-lasting-freshness-547017757--ORIGIN_IMG-.jpg",
+                  "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303353-lt-feature-holds-in-the-cold-for-lasting-freshness-547017757--ORIGIN_IMG-.jpg",
+                  "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303379-lt-feature-holds-in-the-cold-for-lasting-freshness-547017756--ORIGIN_IMG-.jpg",
+                  "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303379-lt-feature-holds-in-the-cold-for-lasting-freshness-547017756--ORIGIN_IMG-.jpg",
+                  "image_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303379-lt-feature-holds-in-the-cold-for-lasting-freshness-547017756--ORIGIN_IMG-.jpg",
+                  "asset_classnames": "flix-std-row",
+                  "image_text": "Išsaugo šaltį, kad maistas išliktų šviežias"
+                }
+              ],
+              "video_html": "",
+              "template": "samsung_smart",
+              "feature_footnote": ""
+            },
+            {
+              "title": "Ilgiau išliekantis šviežumas be šerkšno",
+              "description": "Negaiškite laiko ir energijos atitirpdydami šaldytuvą. No Frost technologija pagerina oro cirkuliaciją, kad būtų palaikoma pastovi temperatūra, o tai neleidžia susidaryti ledui. Taip pat daug greičiau pasiekiama tikslinė temperatūra. Be to, mažiau apkrauna vėsinimo sistemą, todėl prietaisas tarnauja ilgiau.",
+              "inner_class_name": "flix-std-clmn-lg-12",
+              "sub_inner_class_name": "flix-std-clmn-lg-12",
+              "background_image": [
+                {
+                  "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+                  "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303422-lt-feature-frost-free-food-freshness-for-longer-547017755--ORIGIN_IMG-.jpg",
+                  "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303422-lt-feature-frost-free-food-freshness-for-longer-547017755--ORIGIN_IMG-.jpg",
+                  "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303422-lt-feature-frost-free-food-freshness-for-longer-547017755--ORIGIN_IMG-.jpg",
+                  "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303467-lt-feature-frost-free-food-freshness-for-longer-547017754--ORIGIN_IMG-.jpg",
+                  "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303467-lt-feature-frost-free-food-freshness-for-longer-547017754--ORIGIN_IMG-.jpg",
+                  "image_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303467-lt-feature-frost-free-food-freshness-for-longer-547017754--ORIGIN_IMG-.jpg",
+                  "asset_classnames": "flix-std-row",
+                  "image_text": "Ilgiau išliekantis šviežumas be šerkšno"
+                }
+              ],
+              "video_html": "",
+              "template": "samsung_smart",
+              "feature_footnote": ""
+            },
+            {
+              "title": "Greitas šaldymas pagal poreikį",
+              "description": "Greitai užšaldykite maistą arba pagaminkite ledo. Vienu mygtuko paspaudimu Power Freeze funkcija nustato šaldiklio temperatūrą į žemiausią ir staigiai pučia itin šaltą orą. Puikiai tinka greitam maisto šaldymui, užšaldytų produktų laikymui ar ledo gaminimui.",
+              "inner_class_name": "flix-std-clmn-lg-12",
+              "sub_inner_class_name": "flix-std-clmn-lg-12",
+              "background_image": [
+                {
+                  "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+                  "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303494-lt-feature-rapid-freezing-on-demand-547017753--ORIGIN_IMG-.jpg",
+                  "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303494-lt-feature-rapid-freezing-on-demand-547017753--ORIGIN_IMG-.jpg",
+                  "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303494-lt-feature-rapid-freezing-on-demand-547017753--ORIGIN_IMG-.jpg",
+                  "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303509-lt-feature-rapid-freezing-on-demand-547017752--ORIGIN_IMG-.jpg",
+                  "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303509-lt-feature-rapid-freezing-on-demand-547017752--ORIGIN_IMG-.jpg",
+                  "image_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303509-lt-feature-rapid-freezing-on-demand-547017752--ORIGIN_IMG-.jpg",
+                  "asset_classnames": "flix-std-row",
+                  "image_text": "Greitas šaldymas pagal poreikį"
+                }
+              ],
+              "video_html": "",
+              "template": "samsung_smart",
+              "feature_footnote": ""
+            }
+          ]
+        },
+        {
+          "module_category": "FC00001",
+          "module_type": "FT00002",
+          "module_id": "FM00002B",
+          "module_mapper": "features",
+          "class_name": "flix-Interactive-Multi-Feature flix-InteractiveMulti_WhiteBG feature_modular_map flix-bannerBgClr flix-BackgroundThemeYN flix-text-dark",
+          "main_inner_class_name": "flix-std-clmn-lg-12",
+          "main_sub_inner_class_name": "flix-std-clmn-lg-12 flix-std-margintop",
+          "main_title": "Patogumas",
+          "main_sub_title": "",
+          "main_description": "",
+          "keywords": "Patogumas",
+          "product_id": "2610807",
+          "main_background_image": [],
+          "main_background_image1": [],
+          "main_video_html": [],
+          "main_video_html1": [],
+          "main_feature_footnote": "",
+          "style_data": "background: #fff; color: #000",
+          "carousel_main": [
+            {
+              "title": "Daugiau vietos viduje – toks pat gylis išorėje",
+              "description": "Laikykite daugiau maisto talpiame, 264 litrų šaldytuve su standartinio 550 mm gylio dizainu, kuris puikiai dera su virtuviniais baldais. SpaceMax™ technologija leidžia naudoti itin efektyvią izoliaciją, todėl sienelės tampa plonesnės. Taip sukuriama daugiau vietos maistui, išlaikant išorės matmenis.",
+              "inner_class_name": "flix-std-clmn-lg-12",
+              "sub_inner_class_name": "flix-std-clmn-lg-12",
+              "background_image": [
+                {
+                  "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+                  "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303528-lt-feature-more-space-inside---same-depth-outside-547017733--ORIGIN_IMG-.jpg",
+                  "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303528-lt-feature-more-space-inside---same-depth-outside-547017733--ORIGIN_IMG-.jpg",
+                  "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303528-lt-feature-more-space-inside---same-depth-outside-547017733--ORIGIN_IMG-.jpg",
+                  "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303546-lt-feature-more-space-inside---same-depth-outside-547017732--ORIGIN_IMG-.jpg",
+                  "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303546-lt-feature-more-space-inside---same-depth-outside-547017732--ORIGIN_IMG-.jpg",
+                  "image_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303546-lt-feature-more-space-inside---same-depth-outside-547017732--ORIGIN_IMG-.jpg",
+                  "asset_classnames": "flix-std-row",
+                  "image_text": "Daugiau vietos viduje – toks pat gylis išorėje"
+                }
+              ],
+              "video_html": "",
+              "template": "samsung_smart",
+              "feature_footnote": ""
+            },
+            {
+              "title": "Venkite akinimo nuo vidinio apšvietimo",
+              "description": "Saugokite akis nuo per ryškios šviesos. SmartThings programėlėje* galite nustatyti vidinio apšvietimo ryškumą. Švelnaus švietimo režimas šviesą įjungia palaipsniui, o naktinis režimas automatiškai pritaiko jos intensyvumą pagal paros laiką.",
+              "inner_class_name": "flix-std-clmn-lg-12",
+              "sub_inner_class_name": "flix-std-clmn-lg-12",
+              "background_image": [
+                {
+                  "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+                  "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303566-lt-feature-prevent-glare-from-the-internal-light-547017731--ORIGIN_IMG-.jpg",
+                  "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303566-lt-feature-prevent-glare-from-the-internal-light-547017731--ORIGIN_IMG-.jpg",
+                  "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303566-lt-feature-prevent-glare-from-the-internal-light-547017731--ORIGIN_IMG-.jpg",
+                  "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303589-lt-feature-prevent-glare-from-the-internal-light-547017730--ORIGIN_IMG-.jpg",
+                  "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303589-lt-feature-prevent-glare-from-the-internal-light-547017730--ORIGIN_IMG-.jpg",
+                  "image_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303589-lt-feature-prevent-glare-from-the-internal-light-547017730--ORIGIN_IMG-.jpg",
+                  "asset_classnames": "flix-std-row",
+                  "image_text": "Venkite akinimo nuo vidinio apšvietimo"
+                }
+              ],
+              "video_html": "",
+              "template": "samsung_smart",
+              "feature_footnote": "* SmartThings programėlė veikia Android ir iOS įrenginiuose. Reikalingas Wi-Fi ryšys ir Samsung paskyra."
+            },
+            {
+              "title": "Daug lankstesnis vyno ir maisto laikymas",
+              "description": "Išnaudokite šaldytuvo erdvę geriau naudodami daugiafunkcį Rack & Shelf™ stovą ir lentyną. Didesnis plotis leidžia laikyti ne tik standartinio dydžio, bet ir storesnes vyno butelius, pavyzdžiui, šampaną. Dėl plokštesnės formos jis taip pat yra daug universalesnis, nes jame galima laikyti ir kitus maisto produktus, pavyzdžiui, picas ir kivėsinių dėžutes.",
+              "inner_class_name": "flix-std-clmn-lg-12",
+              "sub_inner_class_name": "flix-std-clmn-lg-12",
+              "background_image": [
+                {
+                  "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+                  "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303614-lt-feature-much-more-flexible-wine---food-storage-547017729--ORIGIN_IMG-.jpg",
+                  "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303614-lt-feature-much-more-flexible-wine---food-storage-547017729--ORIGIN_IMG-.jpg",
+                  "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303614-lt-feature-much-more-flexible-wine---food-storage-547017729--ORIGIN_IMG-.jpg",
+                  "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303636-lt-feature-much-more-flexible-wine---food-storage-547017728--ORIGIN_IMG-.jpg",
+                  "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303636-lt-feature-much-more-flexible-wine---food-storage-547017728--ORIGIN_IMG-.jpg",
+                  "image_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303636-lt-feature-much-more-flexible-wine---food-storage-547017728--ORIGIN_IMG-.jpg",
+                  "asset_classnames": "flix-std-row",
+                  "image_text": "Daug lankstesnis vyno ir maisto laikymas"
+                }
+              ],
+              "video_html": "",
+              "template": "samsung_smart",
+              "feature_footnote": ""
+            }
+          ]
+        },
+        {
+          "module_category": "FC00001",
+          "module_type": "FT00002",
+          "module_id": "FM00002A",
+          "module_mapper": "features",
+          "product_id": "2610807",
+          "class_name": "feature_modular_map flix-bannerBgClr flix-BackgroundThemeYN flix-text-dark",
+          "inner_class_name": "flix-std-clmn-lg-12",
+          "sub_inner_class_name": "flix-std-center",
+          "title": "Kaip matuoti",
+          "sub_title": "",
+          "description": "",
+          "background_image": [
+            {
+              "loading_img_url": "https://media.flixcar.com/modular/static/inpage/9/images/loading.gif",
+              "img_200_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303744-lt-feature-how-to-measure-547017765--FB_TYPE_A_MO_JPG-.jpg",
+              "img_400_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303744-lt-feature-how-to-measure-547017765--FB_TYPE_A_MO_JPG-.jpg",
+              "img_600_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303744-lt-feature-how-to-measure-547017765--FB_TYPE_A_MO_JPG-.jpg",
+              "img_800_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303766-lt-feature-how-to-measure-547017764--FB_TYPE_A_JPG-.jpg",
+              "img_1000_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303766-lt-feature-how-to-measure-547017764--FB_TYPE_A_JPG-.jpg",
+              "image_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361303766-lt-feature-how-to-measure-547017764--FB_TYPE_A_JPG-.jpg",
+              "asset_classnames": "flix-std-row",
+              "image_text": "Kaip matuoti"
+            }
+          ],
+          "background_image1": [],
+          "video_html": "",
+          "feature_footnote": "* Visos čia pateiktos specifikacijos gali skirtis nuo tikrųjų."
+        }
+      ],
+      "footnotes": [
+        {
+          "module_category": "FC00001",
+          "module_type": "FT00007",
+          "module_id": "FM00011A",
+          "module_mapper": "footnotes",
+          "class_name": "flix-footnote-module feature_modular_map",
+          "inner_class_name": "inpage_product_assets flix-std-clmn-lg-12",
+          "pre_title": "",
+          "title": "",
+          "sub_title": "",
+          "description": "",
+          "feature_footnote": "Dizainas ir techniniai duomenys gali būti keičiami be išankstinio įspėjimo.<br/>",
+          "keywords": ""
+        }
+      ],
+      "minisite": {
+        "module_data_mapper": "settings.module_minisite_wrapper"
+      },
+      "view3dfm": null,
+      "comparison_tables": null,
+      "hotspot": null,
+      "viewWebar": null,
+      "accessory_widget": false
+    },
+    "settings": {
+      "inpage_settings": {
+        "page_wrapper": "",
+        "js_urls_to_load": [
+          "https://media.flixcar.com/modular/js/minify/15151?url=/static/inpage/9/js/append.js"
+        ],
+        "css_urls_to_load": [
+          "https://media.flixcar.com/modular/js/minify/15151?url=/static/inpage/9/css/main.css,/static/inpage/standard/css/share.css,/static/comparison/standard/css/main.css",
+          "https://media.flixcar.com/modular/static/inpage/9/css/samsungmod.css",
+          "https://media.flixcar.com/modular/static/inpage/9/css/smart-samsung-style.css"
+        ],
+        "css_fonts": [],
+        "page_wrapper_data": {
+          "wrapper_iso_code": "product_meta.language_iso",
+          "wrapper_classname": "flix-samsung-t3 flix-smart-samsung",
+          "wrapper_dirrtl": ""
+        }
+      },
+      "minisite_settings": {
+        "page_wrapper": "",
+        "feature_module_wrapper": "",
+        "specification_module_wrapper": "",
+        "js_urls_to_load": null,
+        "css_urls_to_load": [
+          "https://media.flixcar.com/modular/static/inpage/9/css/smart-samsung-style.css",
+          "https://media.flixcar.com/modular/static/inpage/9/css/samsungmod.css",
+          "https://media.flixcar.com/modular/js/minify/15151?url=/static/minisite/standard/css/main.css,/static/minisite/9/css/main.css,/static/distributor/6/minisite.css"
+        ],
+        "button_url": "//media.flixcar.com/modular/flix-button/?env=prod&switch=main&manuId=9&isoCode=lt&prodId=2610807&template=samsung/t3&distId=",
+        "comp_button_url": "//media.flixcar.com/modular/flix-button/?env=prod&switch=comp&manuId=9&isoCode=lt&prodId=2610807&template=samsung/t3&distId=",
+        "css_fonts": [],
+        "page_wrapper_data": {
+          "wrapper_iso_code": "product_meta.language_iso",
+          "wrapper_product_title": "product_meta.product_title",
+          "wrapper_classname": "flix-samsung-t3 flix-smart-samsung",
+          "feature_tab_title": "YPATYBĖS",
+          "video_tab_title": "vaizdo galerija",
+          "gallery_tab_title": "FOTOGRAFIJOS",
+          "info_tab_title": "Product Info",
+          "comparison_tab_title": "Compare with Similar Products",
+          "extra_tab_title": "Auto Dosing",
+          "document_tab_title": "Documents",
+          "review_tab_title": "Reviews",
+          "specification_tab_title": "Specifications",
+          "faqs_tab_title": "Faqs",
+          "wrapper_dirrtl": ""
+        }
+      },
+      "hotspot_settings": {
+        "js_urls_to_load": [
+          "https://media.flixcar.com/modular/js/minify/15151/?url=/static/hotspot/9/js/hotspot.js,/static/hotspot/9/js/append.js,/static/hotspot/9/reviews/js/append.js"
+        ],
+        "css_urls_to_load": [
+          "https://media.flixcar.com/modular/js/minify/15151/?url=/static/hotspot/standard/css/main.css,/static/hotspot/9/css/main.css,/static/hotspot/9/reviews/css/main.css"
+        ]
+      },
+      "loaded_modules": {
+        "FM00002E": "<div data-module=\"FM00002E\" class=\"{{class_name}} inpage_selector_feature\" {{inline_style}}><div class=\"flix-std-container-fluid\"><div class=\"inpage_product_assets flix-std-clmn-lg-12\"><div class=\"flix-std-row\"><div class=\"{{main_inner_class_name}}\"><div class=\"flix-std-content flix-std-center {{main_sub_inner_class_name}}\"><div class=\"flix-p3-title flix-d-h3 feature_modular_map_title\" flixdata-type=\"template\" flixtemplate-key=\"main_title\" aria-level=\"3\" role=\"heading\">{{main_title}}</div><div class=\"flix-p3-subtitle flix-d-h3 feature_modular_map_title\" flixdata-type=\"template\" flixtemplate-key=\"main_sub_title\" aria-level=\"4\" role=\"heading\">{{main_sub_title}}</div><div class=\"flix-p3-desc flix-d-p feature_modular_map_desc\" flixdata-type=\"template\" flixtemplate-key=\"main_description\">{{main_description}}</div></div></div></div><div class=\"inpage_block flix-std-clmn-lg-12\"><div flixdata-type=\"template\" flixtemplate-key=\"multiple_main\" class=\"{{inner_class_name}}\"><div class=\"{{sub_inner_class_name}}\"><img flixdata-type=\"template\" flixtemplate-key=\"background_image\" src=\"{{loading_img_url}}\" aria-hidden=\"true\" data-flixsrcset=\"{{img_200_url}} 200w, {{img_400_url}} 400w, {{img_600_url}} 600w, {{img_800_url}} 800w, {{img_1000_url}} 1000w\" data-sizes=\"auto\" alt=\"{{image_text}}\" class=\"flix-img-responsive\" srcset=\"{{loading_img_url}}\"><div class=\"flix-std-content\"><div class=\"flix-p3-iconTitle feature_modular_map_title\" flixdata-type=\"template\" flixtemplate-key=\"title\" aria-level=\"3\" role=\"heading\">{{title}}</div><div class=\"flix-p3-subtitle feature_modular_map_subtitle\" flixdata-type=\"template\" flixtemplate-key=\"sub_title\" aria-level=\"4\" role=\"heading\">{{sub_title}}</div><div class=\"flix-p3-desc feature_modular_map_desc\" flixdata-type=\"template\" flixtemplate-key=\"description\">{{description}}</div></div></div></div></div></div></div></div>",
+        "FM00002A": "<div data_flix_smart_id=\"1\" data-module=\"FM00002A\" class=\"{{class_name}}\"><div class=\"flix-std-container-fluid\"><div class=\"flix-std-row\"><div class=\"{{inner_class_name}}\"><div class=\"flix-std-clmn-lg-10 flix-std-clmn-lg-push-1\"><div class=\"flix-std-content {{sub_inner_class_name}}\"><div class=\"flix-p3-title flix-d-h3 feature_modular_map_title\" flixdata-type=\"template\" flixtemplate-key=\"title\" aria-level=\"3\" role=\"heading\">{{title}}</div><div class=\"flix-p3-subtitle flix-d-h5 feature_modular_map_sub_title\" flixdata-type=\"template\" flixtemplate-key=\"sub_title\" aria-level=\"4\" role=\"heading\">{{sub_title}}</div><div class=\"flix-p3-desc flix-d-p feature_modular_map_desc\" flixdata-type=\"template\" flixtemplate-key=\"description\">{{description}}</div></div></div><div class=\"flix-std-clmn-lg-12 flix-std-clmn-sm-12 flix-std-margintop flix-std-margintop\"><div class=\"flix-feature-image\"><img flixdata-type=\"template\" flixtemplate-key=\"background_image\" src=\"{{loading_img_url}}\" data-flixsrcset=\"{{img_200_url}} 200w, {{img_400_url}} 400w, {{img_600_url}} 600w, {{img_800_url}} 800w, {{img_1000_url}} 1000w\" data-sizes=\"auto\" alt=\"{{image_text}}\" class=\"flix-img-responsive\" srcset=\"{{loading_img_url}}\"><div class=\"fullJwPlayerWarp flix-videoHtml\" flixdata-type=\"template\" flixtemplate-key=\"video_html\">{{video_html}}</div></div></div><div class=\"{{inner_class_name}}\"><div class=\"flix-p3-sub flix-d-small feature_modular_map_footnote {{sub_inner_class_name}}\" flixdata-type=\"template\" flixtemplate-key=\"feature_footnote\">{{feature_footnote}}</div></div></div></div></div></div>",
+        "FM000029A": "<div data_flix_smart_id=\"1\" data-module=\"FM000029A\" class=\"{{class_name}}\"><div class=\"flix-std-container-fluid\"><div class=\"flix-std-row\"><div class=\"{{inner_class_name}}\"><div class=\"flix-std-clmn-lg-10 flix-std-clmn-lg-push-1\"><div class=\"flix-std-content flix-std-center\"><div class=\"flix-p3-title flix-d-h3 feature_modular_map_title\" flixdata-type=\"template\" flixtemplate-key=\"title\" aria-level=\"3\" role=\"heading\">{{title}}</div><div class=\"flix-p3-subtitle flix-d-h3 feature_modular_map_title\" flixdata-type=\"template\" flixtemplate-key=\"sub_title\">{{sub_title}}</div><div class=\"flix-p3-desc flix-d-hp feature_modular_map_desc\" flixdata-type=\"template\" flixtemplate-key=\"description\">{{description}}</div><div class=\"{{sub_inner_class_name}} flix-p3-sub flix-d-small feature_modular_map_footnote\" flixdata-type=\"template\" flixtemplate-key=\"feature_footnote\">{{feature_footnote}}</div></div></div></div></div></div></div>",
+        "FM00020C": "<div data-module=\"FM00020C\" class=\"\"><div class=\"flix-std-conta1ner-flu1d\"><div class=\"flix-std-row {{class_name}}\"><div class=\"flix-std-clmn-lg-12 flix-std-clmn-sm-12 flix-std-clmn-xs-12\"><div class=\"flix-background-image\"><img class=\"flix-img-responsive\" flixdata-type=\"template\" flixtemplate-key=\"background_image\" src=\"{{loading_img_url}}\" data-flixsrcset=\"{{img_200_url}} 200w, {{img_400_url}} 400w, {{img_600_url}} 600w, {{img_800_url}} 800w, {{img_1000_url}} 1000w\" data-sizes=\"auto\" alt=\"{{image_text}}\" srcset=\"{{loading_img_url}}\"></div></div></div></div></div>",
+        "FM00004C": "<div data_flix_smart_id=\"1\" class=\"{{class_name}}\" data-module=\"FM00004C\"><div class=\"flix-std-container-fluid flix-std-margintop\"><div class=\"flix-std-row\"><div class=\"{{inner_class_name}}\"><div class=\"flix-std-content {{sub_inner_class_name}}\"><div class=\"flix-p3-sub flix-d-small feature_modular_map_footnote\" flixdata-type=\"template\" flixtemplate-key=\"feature_footnote\">{{feature_footnote}}</div></div></div></div></div></div>",
+        "FM00002C": "<div data_flix_smart_id=\"1\" data-module=\"FM00002C\" class=\"{{class_name}}\"><div class=\"flix-std-container-fluid\"><div class=\"flix-std-row\"><div class=\"{{inner_class_name}}\"><div class=\"flix-std-clmn-lg-10 flix-std-clmn-lg-push-1\"><div class=\"flix-std-content\"><div class=\"flix-p3-title flix-d-h3 feature_modular_map_title\" flixdata-type=\"template\" flixtemplate-key=\"title\" aria-level=\"3\" role=\"heading\">{{title}}</div><div class=\"flix-p3-subtitle flix-d-h3 feature_modular_map_sub_title\" flixdata-type=\"template\" flixtemplate-key=\"sub_title\" aria-level=\"4\" role=\"heading\">{{sub_title}}</div><div class=\"flix-p3-desc flix-d-p feature_modular_map_desc\" flixdata-type=\"template\" flixtemplate-key=\"description\">{{description}}</div><div class=\"flix-p3-sub flix-d-small feature_modular_map_footnote\" flixdata-type=\"template\" flixtemplate-key=\"feature_footnote\">{{feature_footnote}}</div></div></div></div><div class=\"{{sub_inner_class_name}}\"><div class=\"flix-feature-image\"><img flixdata-type=\"template\" flixtemplate-key=\"background_image\" src=\"{{loading_img_url}}\" data-flixsrcset=\"{{img_200_url}} 200w, {{img_400_url}} 400w, {{img_600_url}} 600w, {{img_800_url}} 800w, {{img_1000_url}} 1000w\" data-sizes=\"auto\" alt=\"{{image_text}}\" class=\"flix-img-responsive\" srcset=\"{{loading_img_url}}\"><div class=\"fullJwPlayerWarp flix-videoHtml\" flixdata-type=\"template\" flixtemplate-key=\"video_html\">{{video_html}}</div></div></div></div></div></div>",
+        "FM00002B": "<div data_flix_smart_id=\"1\" data-module=\"FM00002B\" class=\"{{class_name}}\"><div class=\"flix-std-container-fluid\"><div class=\"flix-std-row\"><div class=\"flix-std-row\"><div class=\"{{main_inner_class_name}}\"><div class=\"flix-std-content\"><div class=\"flix-p3-title flix-d-h3 feature_modular_map_title\" flixdata-type=\"template\" flixtemplate-key=\"main_title\" aria-level=\"3\" role=\"heading\">{{main_title}}</div><div class=\"flix-p3-subtitle flix-d-h3 feature_modular_map_title\" flixdata-type=\"template\" flixtemplate-key=\"main_sub_title\">{{main_sub_title}}</div><div class=\"flix-p3-desc flix-d-hp feature_modular_map_desc\" flixdata-type=\"template\" flixtemplate-key=\"main_description\">{{main_description}}</div></div></div></div><div class=\"{{main_sub_inner_class_name}}\"><div class=\"flixstdcarousel-wrapper\"><div class=\"flixstdcarousel\" data-fl1xcarousel=\"true\"><ul><li flixdata-type=\"template\" flixtemplate-key=\"carousel_main\"><div class=\"flix-module\"><div class=\"flix-background-image\"><img flixdata-type=\"template\" flixtemplate-key=\"background_image\" src=\"{{loading_img_url}}\" data-flixsrcset=\"{{img_200_url}} 200w, {{img_400_url}} 400w, {{img_600_url}} 600w, {{img_800_url}} 800w, {{img_1000_url}} 1000w\" data-sizes=\"auto\" alt=\"{{image_text}}\" class=\"flix-img-responsive\" srcset=\"{{loading_img_url}}\"><div class=\"fullJwPlayerWarp\" flixdata-type=\"template\" flixtemplate-key=\"video_html\">{{video_html}}</div></div><div class=\"flix-std-row\"><div class=\"{{inner_class_name}}\"><div class=\"flix-std-content\"><div class=\"flix-p3-title flix-d-h3 feature_modular_map_title\" flixdata-type=\"template\" flixtemplate-key=\"title\" aria-level=\"3\" role=\"heading\">{{title}}</div><div class=\"flix-p3-subtitle flix-d-h3 feature_modular_map_title\" flixdata-type=\"template\" flixtemplate-key=\"sub_title\">{{sub_title}}</div><div class=\"flix-p3-desc flix-d-hp feature_modular_map_desc\" flixdata-type=\"template\" flixtemplate-key=\"description\">{{description}}</div></div></div></div><div class=\"{{sub_inner_class_name}} flix-p3-sub flix-d-small feature_modular_map_footnote\" flixdata-type=\"template\" flixtemplate-key=\"feature_footnote\">{{feature_footnote}}</div></div></li></ul></div><a href=\"#\" class=\"flixstdcarousel-control-prev flixkeycode\" role=\"button\" tabindex=\"0\" data-fl1xcarouselcontrol=\"true\" aria-label=\"show prev\" data-flix-media=\"show prev\">Prev</a><a href=\"#\" class=\"flixstdcarousel-control-next flixkeycode\" role=\"button\" tabindex=\"0\" data-fl1xcarouselcontrol=\"true\" aria-label=\"show next\" data-flix-media=\"Show next\">Next</a><div class=\"flixstdcarousel-pagination\"></div></div><div class=\"flix-std-clmn-lg-12 flix-p3-sub flix-d-small feature_modular_map_footnote\" flixdata-type=\"template\" flixtemplate-key=\"main_feature_footnote\">{{main_feature_footnote}}</div></div></div></div></div>",
+        "FM00011A": "<div data_flix_smart_id=\"1\" class=\"{{class_name}}\" data-module=\"FM00011A\"><div class=\"flix-std-container-fluid flix-std-margintop\"><div class=\"flix-std-row\"><div class=\"{{inner_class_name}}\"><div class=\"flix-std-content {{sub_inner_class_name}}\"><div class=\"flix-std-sup flix-d-small feature_modular_map_footnote\" flixdata-type=\"template\" flixtemplate-key=\"feature_footnote\">{{feature_footnote}}</div></div></div></div></div></div>",
+        "FM00010B": "<div data-module=\"FM00010B\" class=\"{{class_name}}\"><div class=\"inpage_selector_specification inpage_desktop\" flixdata-type=\"template\" flixtemplate-key=\"data\"><div class=\"flix-std-container-fluid product-specs\" flixtemplate-key=\"specs\"><div class=\"flix-std-row\"><div class=\"inpage_glance flix-std-clmn-lg-4 flix-std-clmn-sm-6\" flixdata-type=\"template\" flixtemplate-key=\"spec_top\"><div class=\"flix-glance-desc feature_modular_map_desc\">{{desc}}</div><div class=\"flix-glance-title\" aria-level=\"3\" role=\"heading\">{{top_title}}</div></div></div><div class=\"flix-std-row\"><div class=\"flix-std-clmn-lg-12 flix-text-center flix-padding-70\"><div class=\"flix-toggle-btn flixkeycode\" data-flix-media=\"flix-arrow-toggle\" data-toggle=\"flix-specs\"><div class=\"flix-doc-hide flix-d-h2\" title=\"{{show_more_specs}}\">{{show_more_specs}}</div><div class=\"flix-doc-see\" aria-label=\"Close Specs\"></div></div></div></div></div><div class=\"inpage_block flix-specs flix-hidden2\" flixtemplate-key=\"specs\"><div class=\"inpage_block_inner\"><div class=\"flix-spec-flex-section\"><div class=\"flix-spec-big-title\" flixdata-type=\"template\" flixtemplate-key=\"specs_title\" aria-level=\"3\" role=\"heading\">{{specs_title}}</div><div class=\"flix-spec-toggle-element\"><div class=\"flix-expand-button flixkeycode\" flixdata-type=\"template\" tabindex=\"0\" role=\"button\" flixtemplate-key=\"expand_title\" data-flix-media=\"{{expand_title}}\" aria-label=\"{{expand_title}}\" data-expanded=\"false\"><span class=\"flix-expanded-title\">{{expand_title}}</span><span class=\"flix-collapsed-title\">{{collapse_title}}</span></div></div></div><div class=\"inpage_spec_img\"><img src=\"{{spec_img}}\" flixdata-type=\"template\" flixtemplate-key=\"spec_img\" alt=\"\"></div><div class=\"inpage_spec-section\"><div class=\"inpage_spec-list\" flixdata-type=\"template\" flixtemplate-key=\"spec_list\"><div class=\"inpage_h4 inpage_tit\" aria-label=\"{{group_title}}\">{{group_title}}</div><ul><li flixdata-type=\"template\" flixtemplate-key=\"spec_data\"><div class=\"inpage_spec\"><div class=\"inpage_h5 flix-d-h6\">{{spec_title}}</div><div class=\"inpage_desc flix-d-p feature_modular_map_desc\">{{value}}</div></div></li></ul><div class=\"inpage_clear\"></div></div></div></div></div></div></div>",
+        "FM00007C": "<div class=\"psg inpage_product_assets inpage_selector_gallery\" data-module=\"FM00007C\"><div class=\"inpage_block\"><div class=\"inpage_block_title flix-d-h2\"><span class=\"htitle\">{{title}}</span><div class=\"inpage_clear\"></div></div><ul class=\"inpage_block_inner\"><li flixdata-type=\"template\" flixtemplate-key=\"images\"><a href=\"{{img_1000_url}}\" data-flix-media=\"{{image_text}}\"><img src=\"{{loading_img_url}}\" width=\"200px\" height=\"135px\" data-flixsrcset=\"{{img_200_url}} 200w, {{img_400_url}} 400w, {{img_600_url}} 600w, {{img_800_url}} 800w, {{img_1000_url}} 1000w\" data-sizes=\"auto\" alt=\"{{image_text}}\" class=\"flix-img-responsive\" srcset=\"{{loading_img_url}}\"></a></li></ul><div class=\"inpage_clear\"></div></div></div>",
+        "FM00009A": "<div data-module=\"FM00009A\" class=\"inpage_selector_documents inpage_selector_download\"><div class=\"inpage_block\"><div class=\"flix-std-row\"><div class=\"flix-doc-section flix-std-clmn-lg-10 flix-std-clmn-lg-offset-1 flix-std-clmn-sm-12 flix-std-clmn-sm-offset-0 flix-border-bottom\"><div class=\"flix-std-clmn-lg-12\"><div class=\"flix-i-tit flix-d-h2\">{{document_headline}}</div></div><div flixdata-type=\"template\" flixtemplate-key=\"docs\" class=\"flix-doc-div flix-std-clmn-lg-12 flix-padding-20 flix-border-top flix-doc-hidden\"><div class=\"flix-doc-img\"><img  src=\"https://media.flixcar.com/modular/static/inpage/9/images/ic_doc1.png\" alt=\"\"></div><div class=\"flix-std-clmn-lg-12 flix-padding-left46\"><div class=\"flix-date\">{{document_date}}</div></div><div class=\"flix-std-clmn-lg-12\"><div class=\"flix-std-clmn-lg-7 flix-std-clmn-sm-12 flix-padding-left46\"><div class=\"flix-h3\">{{document_title}}</div><div class=\"flix-h4\">{{document_desc}}</div></div><a class=\"flix-doc-download flix-std-clmn-lg-4 flix-std-clmn-sm-11 flix-align-right\" aria-label=\"Download document\" href=\"{{document_url}}\" target=\"_blank\"><div class=\"flix-if-q\">{{document_size}}</div><div class=\"flix-doc-down\">&nbsp;</div></a></div></div></div></div></div></div>"
+      },
+      "asset_marker": [],
+      "distributor_settings": {
+        "apply_footnote": "1",
+        "apply_video": "1",
+        "apply_benefit": "1",
+        "apply_load3dfw": "1",
+        "apply_review": "1",
+        "apply_product": "1",
+        "apply_view3dfw": "1",
+        "apply_comparison": "1",
+        "apply_ugc": "1",
+        "apply_scrollbutton": "1",
+        "apply_header": "1",
+        "enabled": "1",
+        "active": "1",
+        "apply_info": "1",
+        "apply_feature": "1",
+        "pattern": "",
+        "manufacturer_id": "9",
+        "feed_type": "0",
+        "dmnrestr": "1",
+        "maxFeatureCount": "",
+        "apply_minisite": "0",
+        "apply_specification": "1",
+        "details": {
+          "end_date": "2022-09-27 18:20:11",
+          "deny": "0",
+          "update_date": "2022-09-27 18:20:11",
+          "start_date": "2022-09-27 18:20:11",
+          "cache_active": "1"
+        },
+        "apply_file": "1",
+        "distributor_title": "Prenta - LT",
+        "apply_accessory": "0",
+        "apply_viewwebar": "0",
+        "distributor_id": "15151",
+        "apply_quikclip": "0",
+        "apply_360view": "1",
+        "apply_document": "1",
+        "web_wld": "prenta",
+        "web_url": "prenta.lt",
+        "apply_faq": "1",
+        "apply_videochat": "0",
+        "level": "",
+        "asset_website": "1",
+        "apply_image": "1",
+        "pk": "allowed_distributor_manufacturer",
+        "apply_sis": "0",
+        "title": "Prenta - LT",
+        "dev_url": "test.prenta.eu,prenta.eu",
+        "manutitle": "Samsung",
+        "disname": "Prenta - LT",
+        "sk": "d#15151#m#9",
+        "3dfw_additional": "&showqrpopup=0&showWebarButton=N"
+      },
+      "privacy_policy": "<div style=\"clear:both\"><span id=\"flix-privacy-policy\"><a href=\"#\" class=\"flix-privacy-policy-link\"><img alt=\"Powered by Flixmedia\" title=\"Powered by Flixmedia\" src=\"https://media.flixcar.com/modular/static/images/icon_privacy_policy.svg\"/></a></span><div class=\"flix-policytext-container\"><div id=\"flix-privacy-policy-text\" class=\"flix-privacy-policy-text\"><span class=\"flix-privacy-pointer\"></span>This content uses cookies to improve your experience. By continuing, you agree to this use. Learn More at https://www.flixmedia.com/privacy-notice</div></div></div><style>#flix-privacy-policy {float: right;margin-top:30px;margin-right:20px}.flix-policytext-container {padding: 55px 10px 10px;}#flix-privacy-policy-text {display: none;background-color: #f5f5f5;padding: 10px 15px;margin: 0;color: #676767;font-size: 11px;position: relative;font-family: Helvetica, Arial ,sans-serif;}#flix-privacy-policy-text .flix-privacy-pointer {width: 0;height: 0;border-left: 8px solid transparent;border-right: 8px solid transparent;border-bottom: 8px solid #f5f5f5;position: absolute;top: -8px;right: 13px;z-index: 5;}</style>",
+      "smart": {
+        "active": true,
+        "rule": {
+          "Inpage": [
+            {
+              "pattern": "primaryLayout",
+              "lastChoice": null,
+              "choice": "module_template_wrapper",
+              "nextChoice": "<div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"smart_content\">{{smart_content}}</div><div flixdata-type=\"template\" flixtemplate-key=\"reviewsTopStarRating\">{{reviewsTopStarRating}}</div><div flixdata-type=\"template\" flixtemplate-key=\"banner\">{{banner}}</div><div flixdata-type=\"template\" flixtemplate-key=\"view3dfm\">{{view3dfm}}</div><div flixdata-type=\"template\" flixtemplate-key=\"comparison_tables\">{{comparison_tables}}</div><div class=\"inpage_selector_feature\"><div class=\"flix-std-container-fluid\"><div flixdata-type=\"template\" flixtemplate-key=\"features\">{{features}}</div></div></div><div flixdata-type=\"template\" flixtemplate-key=\"image_gallery\">{{image_gallery}}</div><div flixdata-type=\"template\" flixtemplate-key=\"video_gallery\">{{video_gallery}}</div><div flixdata-type=\"template\" flixtemplate-key=\"documents\">{{documents}}</div><div flixdata-type=\"template\" flixtemplate-key=\"specifications\">{{specifications}}</div><div class=\"inpage_block\"><div class=\"inpage_block_inner flix-reviews-ms-standard\" flixtemplate-key=\"reviews\" flixdata-type=\"template\">{{reviews}}</div><div placeholder=\".inpage_selector_reviews\" flixdata-type=\"placeholder\"></div></div><div flixdata-type=\"template\" flixtemplate-key=\"footnotes\">{{footnotes}}</div><div flixdata-type=\"template\" flixtemplate-key=\"smart_faq_content\">{{smart_faq_content}}</div></div></div></div>"
+            }
+          ],
+          "Hotspot": [
+            {
+              "pattern": "primaryLayout",
+              "lastChoice": false,
+              "choice": false,
+              "nextChoice": false,
+              "loaded_asset_type": {
+                "product_review": "7",
+                "product_expert_reviews": "1",
+                "desktop_webar": "1",
+                "product_video": "5",
+                "key_specification": "9",
+                "product_webar": "1",
+                "key_features": "6",
+                "product-overview": "10"
+              }
+            }
+          ],
+          "Minisite": [
+            {
+              "pattern": "primaryLayout",
+              "lastChoice": null,
+              "choice": "module_minisite_wrapper",
+              "nextChoice": "<div id=\"container\" class=\"flix-lang-{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"minisite_tabs\"><ul class=\"minisite_tabs_url\"><li flixdata-type=\"template\" flixtemplate-key=\"overviews\"><a data-m-typeid=\"1\" class=\"tab_link_1\" href=\"#tabs-1\">{{info_tab_title}}</a></li><li flixdata-type=\"template\" flixtemplate-key=\"features\"><a data-m-typeid=\"8\" class=\"tab_link_2\" href=\"#tabs-2\">{{feature_tab_title}}</a></li><li flixdata-type=\"template\" flixtemplate-key=\"video_gallery\"><a data-m-typeid=\"3\" class=\"tab_link_3\" href=\"#tabs-3\">{{video_tab_title}}</a></li><li flixdata-type=\"template\" flixtemplate-key=\"image_gallery\"><a data-m-typeid=\"2\" class=\"tab_link_4\" href=\"#tabs-4\">{{gallery_tab_title}}</a></li><li flixdata-type=\"template\" flixtemplate-key=\"specifications\"><a data-m-typeid=\"4\" class=\"tab_link_5\" href=\"#tabs-5\">{{specification_tab_title}}</a></li><li flixdata-type=\"template\" flixtemplate-key=\"comparison_tables\"><a data-m-typeid=\"12\" class=\"tab_link_6\" href=\"#tabs-6\">{{comparison_tab_title}}</a></li><li flixdata-type=\"template\" flixtemplate-key=\"documents\"><a data-m-typeid=\"6\" class=\"tab_link_7\" href=\"#tabs-7\">{{document_tab_title}}</a></li><li flixdata-type=\"template\" flixtemplate-key=\"extra\"><a data-m-typeid=\"14\" class=\"tab_link_8\" href=\"#tabs-8\">{{extra_tab_title}}</a></li><li flixdata-type=\"template\" flixtemplate-key=\"reviews\"><a data-m-typeid=\"14\" class=\"tab_link_9\" href=\"#tabs-9\">{{review_tab_title}}</a></li></ul><div id=\"tabs-1\" flixdata-type=\"template\" flixtemplate-key=\"overviews\"><div class=\"minisite_logo\"><svg focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 174.95 26.79\"><path d=\"M638.8,443.72a3.11,3.11,0,0,1,0-1.31,2.06,2.06,0,0,1,2.29-1.69,2.14,2.14,0,0,1,2.32,2.27v1.55h6.24v-1.76c0-5.44-4.91-6.31-8.44-6.31-4.44,0-8.07,1.47-8.74,5.56a8.64,8.64,0,0,0,0,3.37c1.08,5.11,10,6.59,11.26,9.83a3.23,3.23,0,0,1,0,1.85,2.16,2.16,0,0,1-2.44,1.69,2.23,2.23,0,0,1-2.5-2.28v-2.41h-6.71V456c0,5.59,4.39,7.27,9.09,7.27,4.52,0,8.23-1.54,8.83-5.73a12.43,12.43,0,0,0,0-4.09C649,448.2,639.51,446.65,638.8,443.72Zm81.34.06a3.35,3.35,0,0,1,0-1.29,2.05,2.05,0,0,1,2.27-1.67,2.11,2.11,0,0,1,2.29,2.25v1.53h6.17v-1.74c0-5.39-4.83-6.24-8.33-6.24-4.41,0-8,1.45-8.66,5.51a8.35,8.35,0,0,0,.06,3.33c1.07,5.06,9.87,6.52,11.15,9.72a3.38,3.38,0,0,1,0,1.83c-.19.83-.75,1.67-2.41,1.67a2.21,2.21,0,0,1-2.49-2.24V454h-6.64v1.91c0,5.53,4.33,7.2,9,7.2,4.47,0,8.16-1.53,8.75-5.66a12.19,12.19,0,0,0,0-4.05C730.23,448.24,720.85,446.68,720.14,443.78Zm56.79,13.63L771,437.27h-9.28V462h6.14l-.36-20.78L773.86,462h8.9V437.27h-6.18Zm-118-20.14-4.63,25h6.76l3.49-23.15,3.41,23.15h6.71l-4.61-25Zm37.78,0-3.16,19.55-3.15-19.55h-10.2l-.54,25h6.25l.17-23.15,4.3,23.15h6.34l4.3-23.15.17,23.15h6.27l-.56-25Zm58.12,0H748.5v18.5a4.4,4.4,0,0,1-.06,1,2.49,2.49,0,0,1-4.79,0,4,4,0,0,1-.06-1v-18.5h-6.32V455.2c0,.46,0,1.41.06,1.65.44,4.67,4.12,6.19,8.72,6.19s8.29-1.52,8.73-6.19a13,13,0,0,0,.05-1.65Zm43.43,11v3.65h2.56v3.62a4.57,4.57,0,0,1-.07,1,2.7,2.7,0,0,1-5.11,0,6.21,6.21,0,0,1-.07-1V444.08a5.11,5.11,0,0,1,.11-1.18,2.62,2.62,0,0,1,5,0,6.59,6.59,0,0,1,.08,1v1.39H807v-.82a15,15,0,0,0,0-1.66c-.47-4.69-4.34-6.18-8.77-6.18s-8.23,1.5-8.78,6.18c0,.43-.13,1.2-.13,1.66v10.51a14.25,14.25,0,0,0,.1,1.65c.41,4.56,4.37,6.18,8.79,6.18s8.38-1.62,8.79-6.18c.07-.84.08-1.19.09-1.65v-6.7Z\" transform=\"translate(-632.15 -436.48)\"></path><rect class=\"btn\" fill=\"transparent\" width=\"100%\" height=\"100%\"></rect></svg></div><div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"headers\">{{headers}}</div><div flixdata-type=\"template\" flixtemplate-key=\"overviews\">{{overviews}}</div></div></div></div></div><div id=\"tabs-2\" flixdata-type=\"template\" flixtemplate-key=\"features\"><div class=\"minisite_logo\"><svg focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 174.95 26.79\"><path d=\"M638.8,443.72a3.11,3.11,0,0,1,0-1.31,2.06,2.06,0,0,1,2.29-1.69,2.14,2.14,0,0,1,2.32,2.27v1.55h6.24v-1.76c0-5.44-4.91-6.31-8.44-6.31-4.44,0-8.07,1.47-8.74,5.56a8.64,8.64,0,0,0,0,3.37c1.08,5.11,10,6.59,11.26,9.83a3.23,3.23,0,0,1,0,1.85,2.16,2.16,0,0,1-2.44,1.69,2.23,2.23,0,0,1-2.5-2.28v-2.41h-6.71V456c0,5.59,4.39,7.27,9.09,7.27,4.52,0,8.23-1.54,8.83-5.73a12.43,12.43,0,0,0,0-4.09C649,448.2,639.51,446.65,638.8,443.72Zm81.34.06a3.35,3.35,0,0,1,0-1.29,2.05,2.05,0,0,1,2.27-1.67,2.11,2.11,0,0,1,2.29,2.25v1.53h6.17v-1.74c0-5.39-4.83-6.24-8.33-6.24-4.41,0-8,1.45-8.66,5.51a8.35,8.35,0,0,0,.06,3.33c1.07,5.06,9.87,6.52,11.15,9.72a3.38,3.38,0,0,1,0,1.83c-.19.83-.75,1.67-2.41,1.67a2.21,2.21,0,0,1-2.49-2.24V454h-6.64v1.91c0,5.53,4.33,7.2,9,7.2,4.47,0,8.16-1.53,8.75-5.66a12.19,12.19,0,0,0,0-4.05C730.23,448.24,720.85,446.68,720.14,443.78Zm56.79,13.63L771,437.27h-9.28V462h6.14l-.36-20.78L773.86,462h8.9V437.27h-6.18Zm-118-20.14-4.63,25h6.76l3.49-23.15,3.41,23.15h6.71l-4.61-25Zm37.78,0-3.16,19.55-3.15-19.55h-10.2l-.54,25h6.25l.17-23.15,4.3,23.15h6.34l4.3-23.15.17,23.15h6.27l-.56-25Zm58.12,0H748.5v18.5a4.4,4.4,0,0,1-.06,1,2.49,2.49,0,0,1-4.79,0,4,4,0,0,1-.06-1v-18.5h-6.32V455.2c0,.46,0,1.41.06,1.65.44,4.67,4.12,6.19,8.72,6.19s8.29-1.52,8.73-6.19a13,13,0,0,0,.05-1.65Zm43.43,11v3.65h2.56v3.62a4.57,4.57,0,0,1-.07,1,2.7,2.7,0,0,1-5.11,0,6.21,6.21,0,0,1-.07-1V444.08a5.11,5.11,0,0,1,.11-1.18,2.62,2.62,0,0,1,5,0,6.59,6.59,0,0,1,.08,1v1.39H807v-.82a15,15,0,0,0,0-1.66c-.47-4.69-4.34-6.18-8.77-6.18s-8.23,1.5-8.78,6.18c0,.43-.13,1.2-.13,1.66v10.51a14.25,14.25,0,0,0,.1,1.65c.41,4.56,4.37,6.18,8.79,6.18s8.38-1.62,8.79-6.18c.07-.84.08-1.19.09-1.65v-6.7Z\" transform=\"translate(-632.15 -436.48)\"></path><rect class=\"btn\" fill=\"transparent\" width=\"100%\" height=\"100%\"></rect></svg></div><div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"features\">{{features}}</div><div flixdata-type=\"template\" flixtemplate-key=\"footnotes\">{{footnotes}}</div><div flixdata-type=\"template\" flixtemplate-key=\"smart_faq_content\">{{smart_faq_content}}</div></div></div></div></div><div id=\"tabs-3\" flixdata-type=\"template\" flixtemplate-key=\"video_gallery\"><div class=\"minisite_logo\"><svg focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 174.95 26.79\"><path d=\"M638.8,443.72a3.11,3.11,0,0,1,0-1.31,2.06,2.06,0,0,1,2.29-1.69,2.14,2.14,0,0,1,2.32,2.27v1.55h6.24v-1.76c0-5.44-4.91-6.31-8.44-6.31-4.44,0-8.07,1.47-8.74,5.56a8.64,8.64,0,0,0,0,3.37c1.08,5.11,10,6.59,11.26,9.83a3.23,3.23,0,0,1,0,1.85,2.16,2.16,0,0,1-2.44,1.69,2.23,2.23,0,0,1-2.5-2.28v-2.41h-6.71V456c0,5.59,4.39,7.27,9.09,7.27,4.52,0,8.23-1.54,8.83-5.73a12.43,12.43,0,0,0,0-4.09C649,448.2,639.51,446.65,638.8,443.72Zm81.34.06a3.35,3.35,0,0,1,0-1.29,2.05,2.05,0,0,1,2.27-1.67,2.11,2.11,0,0,1,2.29,2.25v1.53h6.17v-1.74c0-5.39-4.83-6.24-8.33-6.24-4.41,0-8,1.45-8.66,5.51a8.35,8.35,0,0,0,.06,3.33c1.07,5.06,9.87,6.52,11.15,9.72a3.38,3.38,0,0,1,0,1.83c-.19.83-.75,1.67-2.41,1.67a2.21,2.21,0,0,1-2.49-2.24V454h-6.64v1.91c0,5.53,4.33,7.2,9,7.2,4.47,0,8.16-1.53,8.75-5.66a12.19,12.19,0,0,0,0-4.05C730.23,448.24,720.85,446.68,720.14,443.78Zm56.79,13.63L771,437.27h-9.28V462h6.14l-.36-20.78L773.86,462h8.9V437.27h-6.18Zm-118-20.14-4.63,25h6.76l3.49-23.15,3.41,23.15h6.71l-4.61-25Zm37.78,0-3.16,19.55-3.15-19.55h-10.2l-.54,25h6.25l.17-23.15,4.3,23.15h6.34l4.3-23.15.17,23.15h6.27l-.56-25Zm58.12,0H748.5v18.5a4.4,4.4,0,0,1-.06,1,2.49,2.49,0,0,1-4.79,0,4,4,0,0,1-.06-1v-18.5h-6.32V455.2c0,.46,0,1.41.06,1.65.44,4.67,4.12,6.19,8.72,6.19s8.29-1.52,8.73-6.19a13,13,0,0,0,.05-1.65Zm43.43,11v3.65h2.56v3.62a4.57,4.57,0,0,1-.07,1,2.7,2.7,0,0,1-5.11,0,6.21,6.21,0,0,1-.07-1V444.08a5.11,5.11,0,0,1,.11-1.18,2.62,2.62,0,0,1,5,0,6.59,6.59,0,0,1,.08,1v1.39H807v-.82a15,15,0,0,0,0-1.66c-.47-4.69-4.34-6.18-8.77-6.18s-8.23,1.5-8.78,6.18c0,.43-.13,1.2-.13,1.66v10.51a14.25,14.25,0,0,0,.1,1.65c.41,4.56,4.37,6.18,8.79,6.18s8.38-1.62,8.79-6.18c.07-.84.08-1.19.09-1.65v-6.7Z\" transform=\"translate(-632.15 -436.48)\"></path><rect class=\"btn\" fill=\"transparent\" width=\"100%\" height=\"100%\"></rect></svg></div><div class=\"minisite_block minisite_block_header\" style=\"margin-bottom: 50px;\"><div class=\"minisite_block_title minisite_block_sub\" aria-level=\"2\" role=\"heading\">{{wrapper_product_title}}</div></div><div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"headers\">{{headers}}</div><div flixdata-type=\"template\" flixtemplate-key=\"video_gallery\">{{video_gallery}}</div></div></div></div></div><div id=\"tabs-4\" flixdata-type=\"template\" flixtemplate-key=\"image_gallery\"><div class=\"minisite_logo\"><svg focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 174.95 26.79\"><path d=\"M638.8,443.72a3.11,3.11,0,0,1,0-1.31,2.06,2.06,0,0,1,2.29-1.69,2.14,2.14,0,0,1,2.32,2.27v1.55h6.24v-1.76c0-5.44-4.91-6.31-8.44-6.31-4.44,0-8.07,1.47-8.74,5.56a8.64,8.64,0,0,0,0,3.37c1.08,5.11,10,6.59,11.26,9.83a3.23,3.23,0,0,1,0,1.85,2.16,2.16,0,0,1-2.44,1.69,2.23,2.23,0,0,1-2.5-2.28v-2.41h-6.71V456c0,5.59,4.39,7.27,9.09,7.27,4.52,0,8.23-1.54,8.83-5.73a12.43,12.43,0,0,0,0-4.09C649,448.2,639.51,446.65,638.8,443.72Zm81.34.06a3.35,3.35,0,0,1,0-1.29,2.05,2.05,0,0,1,2.27-1.67,2.11,2.11,0,0,1,2.29,2.25v1.53h6.17v-1.74c0-5.39-4.83-6.24-8.33-6.24-4.41,0-8,1.45-8.66,5.51a8.35,8.35,0,0,0,.06,3.33c1.07,5.06,9.87,6.52,11.15,9.72a3.38,3.38,0,0,1,0,1.83c-.19.83-.75,1.67-2.41,1.67a2.21,2.21,0,0,1-2.49-2.24V454h-6.64v1.91c0,5.53,4.33,7.2,9,7.2,4.47,0,8.16-1.53,8.75-5.66a12.19,12.19,0,0,0,0-4.05C730.23,448.24,720.85,446.68,720.14,443.78Zm56.79,13.63L771,437.27h-9.28V462h6.14l-.36-20.78L773.86,462h8.9V437.27h-6.18Zm-118-20.14-4.63,25h6.76l3.49-23.15,3.41,23.15h6.71l-4.61-25Zm37.78,0-3.16,19.55-3.15-19.55h-10.2l-.54,25h6.25l.17-23.15,4.3,23.15h6.34l4.3-23.15.17,23.15h6.27l-.56-25Zm58.12,0H748.5v18.5a4.4,4.4,0,0,1-.06,1,2.49,2.49,0,0,1-4.79,0,4,4,0,0,1-.06-1v-18.5h-6.32V455.2c0,.46,0,1.41.06,1.65.44,4.67,4.12,6.19,8.72,6.19s8.29-1.52,8.73-6.19a13,13,0,0,0,.05-1.65Zm43.43,11v3.65h2.56v3.62a4.57,4.57,0,0,1-.07,1,2.7,2.7,0,0,1-5.11,0,6.21,6.21,0,0,1-.07-1V444.08a5.11,5.11,0,0,1,.11-1.18,2.62,2.62,0,0,1,5,0,6.59,6.59,0,0,1,.08,1v1.39H807v-.82a15,15,0,0,0,0-1.66c-.47-4.69-4.34-6.18-8.77-6.18s-8.23,1.5-8.78,6.18c0,.43-.13,1.2-.13,1.66v10.51a14.25,14.25,0,0,0,.1,1.65c.41,4.56,4.37,6.18,8.79,6.18s8.38-1.62,8.79-6.18c.07-.84.08-1.19.09-1.65v-6.7Z\" transform=\"translate(-632.15 -436.48)\"></path><rect class=\"btn\" fill=\"transparent\" width=\"100%\" height=\"100%\"></rect></svg></div><div class=\"minisite_block minisite_block_header\" style=\"margin-bottom: 50px;\"><div class=\"minisite_block_title minisite_block_sub\" aria-level=\"2\" role=\"heading\">{{wrapper_product_title}}</div></div><div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"headers\">{{headers}}</div><div flixdata-type=\"template\" flixtemplate-key=\"image_gallery\">{{image_gallery}}</div></div></div></div></div><div id=\"tabs-5\" flixdata-type=\"template\" flixtemplate-key=\"specifications\"><div class=\"minisite_logo\"><svg focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 174.95 26.79\"><path d=\"M638.8,443.72a3.11,3.11,0,0,1,0-1.31,2.06,2.06,0,0,1,2.29-1.69,2.14,2.14,0,0,1,2.32,2.27v1.55h6.24v-1.76c0-5.44-4.91-6.31-8.44-6.31-4.44,0-8.07,1.47-8.74,5.56a8.64,8.64,0,0,0,0,3.37c1.08,5.11,10,6.59,11.26,9.83a3.23,3.23,0,0,1,0,1.85,2.16,2.16,0,0,1-2.44,1.69,2.23,2.23,0,0,1-2.5-2.28v-2.41h-6.71V456c0,5.59,4.39,7.27,9.09,7.27,4.52,0,8.23-1.54,8.83-5.73a12.43,12.43,0,0,0,0-4.09C649,448.2,639.51,446.65,638.8,443.72Zm81.34.06a3.35,3.35,0,0,1,0-1.29,2.05,2.05,0,0,1,2.27-1.67,2.11,2.11,0,0,1,2.29,2.25v1.53h6.17v-1.74c0-5.39-4.83-6.24-8.33-6.24-4.41,0-8,1.45-8.66,5.51a8.35,8.35,0,0,0,.06,3.33c1.07,5.06,9.87,6.52,11.15,9.72a3.38,3.38,0,0,1,0,1.83c-.19.83-.75,1.67-2.41,1.67a2.21,2.21,0,0,1-2.49-2.24V454h-6.64v1.91c0,5.53,4.33,7.2,9,7.2,4.47,0,8.16-1.53,8.75-5.66a12.19,12.19,0,0,0,0-4.05C730.23,448.24,720.85,446.68,720.14,443.78Zm56.79,13.63L771,437.27h-9.28V462h6.14l-.36-20.78L773.86,462h8.9V437.27h-6.18Zm-118-20.14-4.63,25h6.76l3.49-23.15,3.41,23.15h6.71l-4.61-25Zm37.78,0-3.16,19.55-3.15-19.55h-10.2l-.54,25h6.25l.17-23.15,4.3,23.15h6.34l4.3-23.15.17,23.15h6.27l-.56-25Zm58.12,0H748.5v18.5a4.4,4.4,0,0,1-.06,1,2.49,2.49,0,0,1-4.79,0,4,4,0,0,1-.06-1v-18.5h-6.32V455.2c0,.46,0,1.41.06,1.65.44,4.67,4.12,6.19,8.72,6.19s8.29-1.52,8.73-6.19a13,13,0,0,0,.05-1.65Zm43.43,11v3.65h2.56v3.62a4.57,4.57,0,0,1-.07,1,2.7,2.7,0,0,1-5.11,0,6.21,6.21,0,0,1-.07-1V444.08a5.11,5.11,0,0,1,.11-1.18,2.62,2.62,0,0,1,5,0,6.59,6.59,0,0,1,.08,1v1.39H807v-.82a15,15,0,0,0,0-1.66c-.47-4.69-4.34-6.18-8.77-6.18s-8.23,1.5-8.78,6.18c0,.43-.13,1.2-.13,1.66v10.51a14.25,14.25,0,0,0,.1,1.65c.41,4.56,4.37,6.18,8.79,6.18s8.38-1.62,8.79-6.18c.07-.84.08-1.19.09-1.65v-6.7Z\" transform=\"translate(-632.15 -436.48)\"></path><rect class=\"btn\" fill=\"transparent\" width=\"100%\" height=\"100%\"></rect></svg></div><div class=\"minisite_block minisite_block_header\" style=\"margin-bottom: 50px;\"><div class=\"minisite_block_title minisite_block_sub\" aria-level=\"2\" role=\"heading\">{{wrapper_product_title}}</div></div><div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"headers\">{{headers}}</div><div flixdata-type=\"template\" flixtemplate-key=\"specifications\">{{specifications}}</div></div></div></div></div><div id=\"tabs-6\" flixdata-type=\"template\" flixtemplate-key=\"comparison_tables\"><div class=\"minisite_logo\"><svg focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 174.95 26.79\"><path d=\"M638.8,443.72a3.11,3.11,0,0,1,0-1.31,2.06,2.06,0,0,1,2.29-1.69,2.14,2.14,0,0,1,2.32,2.27v1.55h6.24v-1.76c0-5.44-4.91-6.31-8.44-6.31-4.44,0-8.07,1.47-8.74,5.56a8.64,8.64,0,0,0,0,3.37c1.08,5.11,10,6.59,11.26,9.83a3.23,3.23,0,0,1,0,1.85,2.16,2.16,0,0,1-2.44,1.69,2.23,2.23,0,0,1-2.5-2.28v-2.41h-6.71V456c0,5.59,4.39,7.27,9.09,7.27,4.52,0,8.23-1.54,8.83-5.73a12.43,12.43,0,0,0,0-4.09C649,448.2,639.51,446.65,638.8,443.72Zm81.34.06a3.35,3.35,0,0,1,0-1.29,2.05,2.05,0,0,1,2.27-1.67,2.11,2.11,0,0,1,2.29,2.25v1.53h6.17v-1.74c0-5.39-4.83-6.24-8.33-6.24-4.41,0-8,1.45-8.66,5.51a8.35,8.35,0,0,0,.06,3.33c1.07,5.06,9.87,6.52,11.15,9.72a3.38,3.38,0,0,1,0,1.83c-.19.83-.75,1.67-2.41,1.67a2.21,2.21,0,0,1-2.49-2.24V454h-6.64v1.91c0,5.53,4.33,7.2,9,7.2,4.47,0,8.16-1.53,8.75-5.66a12.19,12.19,0,0,0,0-4.05C730.23,448.24,720.85,446.68,720.14,443.78Zm56.79,13.63L771,437.27h-9.28V462h6.14l-.36-20.78L773.86,462h8.9V437.27h-6.18Zm-118-20.14-4.63,25h6.76l3.49-23.15,3.41,23.15h6.71l-4.61-25Zm37.78,0-3.16,19.55-3.15-19.55h-10.2l-.54,25h6.25l.17-23.15,4.3,23.15h6.34l4.3-23.15.17,23.15h6.27l-.56-25Zm58.12,0H748.5v18.5a4.4,4.4,0,0,1-.06,1,2.49,2.49,0,0,1-4.79,0,4,4,0,0,1-.06-1v-18.5h-6.32V455.2c0,.46,0,1.41.06,1.65.44,4.67,4.12,6.19,8.72,6.19s8.29-1.52,8.73-6.19a13,13,0,0,0,.05-1.65Zm43.43,11v3.65h2.56v3.62a4.57,4.57,0,0,1-.07,1,2.7,2.7,0,0,1-5.11,0,6.21,6.21,0,0,1-.07-1V444.08a5.11,5.11,0,0,1,.11-1.18,2.62,2.62,0,0,1,5,0,6.59,6.59,0,0,1,.08,1v1.39H807v-.82a15,15,0,0,0,0-1.66c-.47-4.69-4.34-6.18-8.77-6.18s-8.23,1.5-8.78,6.18c0,.43-.13,1.2-.13,1.66v10.51a14.25,14.25,0,0,0,.1,1.65c.41,4.56,4.37,6.18,8.79,6.18s8.38-1.62,8.79-6.18c.07-.84.08-1.19.09-1.65v-6.7Z\" transform=\"translate(-632.15 -436.48)\"></path><rect class=\"btn\" fill=\"transparent\" width=\"100%\" height=\"100%\"></rect></svg></div><div class=\"minisite_block minisite_block_header\" style=\"margin-bottom: 50px;\"><div class=\"minisite_block_title minisite_block_sub\" aria-level=\"2\" role=\"heading\">{{wrapper_product_title}}</div></div><div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"comparison_tables\">{{comparison_tables}}</div></div></div></div></div><div id=\"tabs-7\" flixdata-type=\"template\" flixtemplate-key=\"documents\"><div class=\"minisite_logo\"><svg focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 174.95 26.79\"><path d=\"M638.8,443.72a3.11,3.11,0,0,1,0-1.31,2.06,2.06,0,0,1,2.29-1.69,2.14,2.14,0,0,1,2.32,2.27v1.55h6.24v-1.76c0-5.44-4.91-6.31-8.44-6.31-4.44,0-8.07,1.47-8.74,5.56a8.64,8.64,0,0,0,0,3.37c1.08,5.11,10,6.59,11.26,9.83a3.23,3.23,0,0,1,0,1.85,2.16,2.16,0,0,1-2.44,1.69,2.23,2.23,0,0,1-2.5-2.28v-2.41h-6.71V456c0,5.59,4.39,7.27,9.09,7.27,4.52,0,8.23-1.54,8.83-5.73a12.43,12.43,0,0,0,0-4.09C649,448.2,639.51,446.65,638.8,443.72Zm81.34.06a3.35,3.35,0,0,1,0-1.29,2.05,2.05,0,0,1,2.27-1.67,2.11,2.11,0,0,1,2.29,2.25v1.53h6.17v-1.74c0-5.39-4.83-6.24-8.33-6.24-4.41,0-8,1.45-8.66,5.51a8.35,8.35,0,0,0,.06,3.33c1.07,5.06,9.87,6.52,11.15,9.72a3.38,3.38,0,0,1,0,1.83c-.19.83-.75,1.67-2.41,1.67a2.21,2.21,0,0,1-2.49-2.24V454h-6.64v1.91c0,5.53,4.33,7.2,9,7.2,4.47,0,8.16-1.53,8.75-5.66a12.19,12.19,0,0,0,0-4.05C730.23,448.24,720.85,446.68,720.14,443.78Zm56.79,13.63L771,437.27h-9.28V462h6.14l-.36-20.78L773.86,462h8.9V437.27h-6.18Zm-118-20.14-4.63,25h6.76l3.49-23.15,3.41,23.15h6.71l-4.61-25Zm37.78,0-3.16,19.55-3.15-19.55h-10.2l-.54,25h6.25l.17-23.15,4.3,23.15h6.34l4.3-23.15.17,23.15h6.27l-.56-25Zm58.12,0H748.5v18.5a4.4,4.4,0,0,1-.06,1,2.49,2.49,0,0,1-4.79,0,4,4,0,0,1-.06-1v-18.5h-6.32V455.2c0,.46,0,1.41.06,1.65.44,4.67,4.12,6.19,8.72,6.19s8.29-1.52,8.73-6.19a13,13,0,0,0,.05-1.65Zm43.43,11v3.65h2.56v3.62a4.57,4.57,0,0,1-.07,1,2.7,2.7,0,0,1-5.11,0,6.21,6.21,0,0,1-.07-1V444.08a5.11,5.11,0,0,1,.11-1.18,2.62,2.62,0,0,1,5,0,6.59,6.59,0,0,1,.08,1v1.39H807v-.82a15,15,0,0,0,0-1.66c-.47-4.69-4.34-6.18-8.77-6.18s-8.23,1.5-8.78,6.18c0,.43-.13,1.2-.13,1.66v10.51a14.25,14.25,0,0,0,.1,1.65c.41,4.56,4.37,6.18,8.79,6.18s8.38-1.62,8.79-6.18c.07-.84.08-1.19.09-1.65v-6.7Z\" transform=\"translate(-632.15 -436.48)\"></path><rect class=\"btn\" fill=\"transparent\" width=\"100%\" height=\"100%\"></rect></svg></div><div class=\"minisite_block minisite_block_header\"><div class=\"minisite_block_title minisite_block_sub\" aria-level=\"2\" role=\"heading\">{{wrapper_product_title}}</div></div><div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"headers\">{{headers}}</div><div flixdata-type=\"template\" flixtemplate-key=\"documents\">{{documents}}</div></div></div></div></div><div id=\"tabs-8\" flixdata-type=\"template\" flixtemplate-key=\"extra\"><div class=\"flix-public-template\"><div id=\"flix-std-inpage\"><div id=\"inpage_container\"><div><div flixdata-type=\"template\" flixtemplate-key=\"extra\">{{extra}}</div></div></div></div></div></div><div id=\"tabs-9\" flixdata-type=\"template\" flixtemplate-key=\"reviews\"><div class=\"minisite_logo\"><svg focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 174.95 26.79\"><path d=\"M638.8,443.72a3.11,3.11,0,0,1,0-1.31,2.06,2.06,0,0,1,2.29-1.69,2.14,2.14,0,0,1,2.32,2.27v1.55h6.24v-1.76c0-5.44-4.91-6.31-8.44-6.31-4.44,0-8.07,1.47-8.74,5.56a8.64,8.64,0,0,0,0,3.37c1.08,5.11,10,6.59,11.26,9.83a3.23,3.23,0,0,1,0,1.85,2.16,2.16,0,0,1-2.44,1.69,2.23,2.23,0,0,1-2.5-2.28v-2.41h-6.71V456c0,5.59,4.39,7.27,9.09,7.27,4.52,0,8.23-1.54,8.83-5.73a12.43,12.43,0,0,0,0-4.09C649,448.2,639.51,446.65,638.8,443.72Zm81.34.06a3.35,3.35,0,0,1,0-1.29,2.05,2.05,0,0,1,2.27-1.67,2.11,2.11,0,0,1,2.29,2.25v1.53h6.17v-1.74c0-5.39-4.83-6.24-8.33-6.24-4.41,0-8,1.45-8.66,5.51a8.35,8.35,0,0,0,.06,3.33c1.07,5.06,9.87,6.52,11.15,9.72a3.38,3.38,0,0,1,0,1.83c-.19.83-.75,1.67-2.41,1.67a2.21,2.21,0,0,1-2.49-2.24V454h-6.64v1.91c0,5.53,4.33,7.2,9,7.2,4.47,0,8.16-1.53,8.75-5.66a12.19,12.19,0,0,0,0-4.05C730.23,448.24,720.85,446.68,720.14,443.78Zm56.79,13.63L771,437.27h-9.28V462h6.14l-.36-20.78L773.86,462h8.9V437.27h-6.18Zm-118-20.14-4.63,25h6.76l3.49-23.15,3.41,23.15h6.71l-4.61-25Zm37.78,0-3.16,19.55-3.15-19.55h-10.2l-.54,25h6.25l.17-23.15,4.3,23.15h6.34l4.3-23.15.17,23.15h6.27l-.56-25Zm58.12,0H748.5v18.5a4.4,4.4,0,0,1-.06,1,2.49,2.49,0,0,1-4.79,0,4,4,0,0,1-.06-1v-18.5h-6.32V455.2c0,.46,0,1.41.06,1.65.44,4.67,4.12,6.19,8.72,6.19s8.29-1.52,8.73-6.19a13,13,0,0,0,.05-1.65Zm43.43,11v3.65h2.56v3.62a4.57,4.57,0,0,1-.07,1,2.7,2.7,0,0,1-5.11,0,6.21,6.21,0,0,1-.07-1V444.08a5.11,5.11,0,0,1,.11-1.18,2.62,2.62,0,0,1,5,0,6.59,6.59,0,0,1,.08,1v1.39H807v-.82a15,15,0,0,0,0-1.66c-.47-4.69-4.34-6.18-8.77-6.18s-8.23,1.5-8.78,6.18c0,.43-.13,1.2-.13,1.66v10.51a14.25,14.25,0,0,0,.1,1.65c.41,4.56,4.37,6.18,8.79,6.18s8.38-1.62,8.79-6.18c.07-.84.08-1.19.09-1.65v-6.7Z\" transform=\"translate(-632.15 -436.48)\"></path><rect class=\"btn\" fill=\"transparent\" width=\"100%\" height=\"100%\"></rect></svg></div><div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"headers\">{{headers}}</div><div placeholder=\".inpage_selector_reviews\" flixdata-type=\"placeholder\"><div flixdata-type=\"template\" flixtemplate-key=\"reviews\">{{reviews}}</div></div></div></div></div></div></div></div>"
+            },
+            {
+              "pattern": "minisiteSwitchModule",
+              "lastChoice": "4",
+              "loaded_modules": {
+                "FM00007C": "<div data-module=\"FM00007C\" class=\"minisite_block minisite_media_gallery\" style=\"margin: 0 20%;\"><div id=\"minisite_slideshow-3\"><div id=\"minisite_cycle-3\" class=\"minisite_cycle-slideshow\" data-cycle-slides=\"> div\" data-cycle-timeout=\"0\" data-cycle-prev=\"#minisite_slideshow-3 .minisite_cycle-prev\" data-cycle-next=\"#minisite_slideshow-3 .minisite_cycle-next\" data-cycle-caption=\"#minisite_slideshow-3 .minisite_custom-caption\" data-cycle-caption-template=\"<b>{{cycleTitle}}</b>\" data-cycle-fx=\"scrollHorz\"><div flixdata-type=\"template\" flixtemplate-key=\"images\" data-cycle-title=\"{{image_text}}\"><img src=\"{{img_800_url}}\" alt=\"{{image_text}}\" style=\"width:100%;height:auto\"></div></div><a href=\"#\" class=\"minisite_cycle-next minisite_embed-next\" data-flixmedia=\"next\">&raquo;</a><a href=\"#\" class=\"minisite_cycle-prev minisite_embed-prev\" data-flixmedia=\"prev\">&laquo;</a><span class=\"minisite_custom-caption\"></span></div><div id=\"minisite_slideshow-4\"><div id=\"minisite_cycle-4\" class=\"minisite_cycle-slideshow\" data-cycle-slides=\"> div\" data-cycle-timeout=\"0\" data-cycle-prev=\"#minisite_slideshow-4 .minisite_cycle-prev\" data-cycle-next=\"#minisite_slideshow-4 .minisite_cycle-next\" data-cycle-caption=\"#minisite_slideshow-4 .minisite_custom-caption\" data-cycle-caption-template=\"\" data-cycle-fx=\"carousel\" data-cycle-carousel-visible=\"4\" data-cycle-carousel-fluid=\"true\" data-allow-wrap=\"false\"><div flixdata-type=\"template\" flixtemplate-key=\"images\"><img src=\"{{img_800_url}}\" data-flixmedia=\"{{image_text}}\" alt=\"{{image_text}}\" width=\"100px\" height=\"75px\"></div></div><div class=\"minisite_clear\"></div><a href=\"#\" class=\"minisite_cycle-next minisite_embed-next\" data-flixmedia=\"next\">&raquo;</a><a href=\"#\" class=\"minisite_cycle-prev minisite_embed-prev\" data-flixmedia=\"prev\">&laquo;</a></div></div>"
+              },
+              "choice": "FM00007C",
+              "nextChoice": "FM00007C",
+              "loaded_module_files": {
+                "js": "/static/modular/smart/js/FM00007C.js",
+                "css": "/static/modular/smart/css/FM00007C.css"
+              }
+            }
+          ]
+        },
+        "config_id": "8",
+        "p": "2610807"
+      },
+      "module_template_wrapper": "<div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"smart_content\">{{smart_content}}</div><div flixdata-type=\"template\" flixtemplate-key=\"reviewsTopStarRating\">{{reviewsTopStarRating}}</div><div flixdata-type=\"template\" flixtemplate-key=\"banner\">{{banner}}</div><div flixdata-type=\"template\" flixtemplate-key=\"view3dfm\">{{view3dfm}}</div><div flixdata-type=\"template\" flixtemplate-key=\"comparison_tables\">{{comparison_tables}}</div><div class=\"inpage_selector_feature\"><div class=\"flix-std-container-fluid\"><div flixdata-type=\"template\" flixtemplate-key=\"features\">{{features}}</div></div></div><div flixdata-type=\"template\" flixtemplate-key=\"image_gallery\">{{image_gallery}}</div><div flixdata-type=\"template\" flixtemplate-key=\"video_gallery\">{{video_gallery}}</div><div flixdata-type=\"template\" flixtemplate-key=\"documents\">{{documents}}</div><div flixdata-type=\"template\" flixtemplate-key=\"specifications\">{{specifications}}</div><div class=\"inpage_block\"><div class=\"inpage_block_inner flix-reviews-ms-standard\" flixtemplate-key=\"reviews\" flixdata-type=\"template\">{{reviews}}</div><div placeholder=\".inpage_selector_reviews\" flixdata-type=\"placeholder\"></div></div><div flixdata-type=\"template\" flixtemplate-key=\"footnotes\">{{footnotes}}</div><div flixdata-type=\"template\" flixtemplate-key=\"smart_faq_content\">{{smart_faq_content}}</div></div></div></div>",
+      "module_minisite_wrapper": "<div id=\"container\" class=\"flix-lang-{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"minisite_tabs\"><ul class=\"minisite_tabs_url\"><li flixdata-type=\"template\" flixtemplate-key=\"overviews\"><a data-m-typeid=\"1\" class=\"tab_link_1\" href=\"#tabs-1\">{{info_tab_title}}</a></li><li flixdata-type=\"template\" flixtemplate-key=\"features\"><a data-m-typeid=\"8\" class=\"tab_link_2\" href=\"#tabs-2\">{{feature_tab_title}}</a></li><li flixdata-type=\"template\" flixtemplate-key=\"video_gallery\"><a data-m-typeid=\"3\" class=\"tab_link_3\" href=\"#tabs-3\">{{video_tab_title}}</a></li><li flixdata-type=\"template\" flixtemplate-key=\"image_gallery\"><a data-m-typeid=\"2\" class=\"tab_link_4\" href=\"#tabs-4\">{{gallery_tab_title}}</a></li><li flixdata-type=\"template\" flixtemplate-key=\"specifications\"><a data-m-typeid=\"4\" class=\"tab_link_5\" href=\"#tabs-5\">{{specification_tab_title}}</a></li><li flixdata-type=\"template\" flixtemplate-key=\"comparison_tables\"><a data-m-typeid=\"12\" class=\"tab_link_6\" href=\"#tabs-6\">{{comparison_tab_title}}</a></li><li flixdata-type=\"template\" flixtemplate-key=\"documents\"><a data-m-typeid=\"6\" class=\"tab_link_7\" href=\"#tabs-7\">{{document_tab_title}}</a></li><li flixdata-type=\"template\" flixtemplate-key=\"extra\"><a data-m-typeid=\"14\" class=\"tab_link_8\" href=\"#tabs-8\">{{extra_tab_title}}</a></li><li flixdata-type=\"template\" flixtemplate-key=\"reviews\"><a data-m-typeid=\"14\" class=\"tab_link_9\" href=\"#tabs-9\">{{review_tab_title}}</a></li></ul><div id=\"tabs-1\" flixdata-type=\"template\" flixtemplate-key=\"overviews\"><div class=\"minisite_logo\"><svg focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 174.95 26.79\"><path d=\"M638.8,443.72a3.11,3.11,0,0,1,0-1.31,2.06,2.06,0,0,1,2.29-1.69,2.14,2.14,0,0,1,2.32,2.27v1.55h6.24v-1.76c0-5.44-4.91-6.31-8.44-6.31-4.44,0-8.07,1.47-8.74,5.56a8.64,8.64,0,0,0,0,3.37c1.08,5.11,10,6.59,11.26,9.83a3.23,3.23,0,0,1,0,1.85,2.16,2.16,0,0,1-2.44,1.69,2.23,2.23,0,0,1-2.5-2.28v-2.41h-6.71V456c0,5.59,4.39,7.27,9.09,7.27,4.52,0,8.23-1.54,8.83-5.73a12.43,12.43,0,0,0,0-4.09C649,448.2,639.51,446.65,638.8,443.72Zm81.34.06a3.35,3.35,0,0,1,0-1.29,2.05,2.05,0,0,1,2.27-1.67,2.11,2.11,0,0,1,2.29,2.25v1.53h6.17v-1.74c0-5.39-4.83-6.24-8.33-6.24-4.41,0-8,1.45-8.66,5.51a8.35,8.35,0,0,0,.06,3.33c1.07,5.06,9.87,6.52,11.15,9.72a3.38,3.38,0,0,1,0,1.83c-.19.83-.75,1.67-2.41,1.67a2.21,2.21,0,0,1-2.49-2.24V454h-6.64v1.91c0,5.53,4.33,7.2,9,7.2,4.47,0,8.16-1.53,8.75-5.66a12.19,12.19,0,0,0,0-4.05C730.23,448.24,720.85,446.68,720.14,443.78Zm56.79,13.63L771,437.27h-9.28V462h6.14l-.36-20.78L773.86,462h8.9V437.27h-6.18Zm-118-20.14-4.63,25h6.76l3.49-23.15,3.41,23.15h6.71l-4.61-25Zm37.78,0-3.16,19.55-3.15-19.55h-10.2l-.54,25h6.25l.17-23.15,4.3,23.15h6.34l4.3-23.15.17,23.15h6.27l-.56-25Zm58.12,0H748.5v18.5a4.4,4.4,0,0,1-.06,1,2.49,2.49,0,0,1-4.79,0,4,4,0,0,1-.06-1v-18.5h-6.32V455.2c0,.46,0,1.41.06,1.65.44,4.67,4.12,6.19,8.72,6.19s8.29-1.52,8.73-6.19a13,13,0,0,0,.05-1.65Zm43.43,11v3.65h2.56v3.62a4.57,4.57,0,0,1-.07,1,2.7,2.7,0,0,1-5.11,0,6.21,6.21,0,0,1-.07-1V444.08a5.11,5.11,0,0,1,.11-1.18,2.62,2.62,0,0,1,5,0,6.59,6.59,0,0,1,.08,1v1.39H807v-.82a15,15,0,0,0,0-1.66c-.47-4.69-4.34-6.18-8.77-6.18s-8.23,1.5-8.78,6.18c0,.43-.13,1.2-.13,1.66v10.51a14.25,14.25,0,0,0,.1,1.65c.41,4.56,4.37,6.18,8.79,6.18s8.38-1.62,8.79-6.18c.07-.84.08-1.19.09-1.65v-6.7Z\" transform=\"translate(-632.15 -436.48)\"></path><rect class=\"btn\" fill=\"transparent\" width=\"100%\" height=\"100%\"></rect></svg></div><div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"headers\">{{headers}}</div><div flixdata-type=\"template\" flixtemplate-key=\"overviews\">{{overviews}}</div></div></div></div></div><div id=\"tabs-2\" flixdata-type=\"template\" flixtemplate-key=\"features\"><div class=\"minisite_logo\"><svg focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 174.95 26.79\"><path d=\"M638.8,443.72a3.11,3.11,0,0,1,0-1.31,2.06,2.06,0,0,1,2.29-1.69,2.14,2.14,0,0,1,2.32,2.27v1.55h6.24v-1.76c0-5.44-4.91-6.31-8.44-6.31-4.44,0-8.07,1.47-8.74,5.56a8.64,8.64,0,0,0,0,3.37c1.08,5.11,10,6.59,11.26,9.83a3.23,3.23,0,0,1,0,1.85,2.16,2.16,0,0,1-2.44,1.69,2.23,2.23,0,0,1-2.5-2.28v-2.41h-6.71V456c0,5.59,4.39,7.27,9.09,7.27,4.52,0,8.23-1.54,8.83-5.73a12.43,12.43,0,0,0,0-4.09C649,448.2,639.51,446.65,638.8,443.72Zm81.34.06a3.35,3.35,0,0,1,0-1.29,2.05,2.05,0,0,1,2.27-1.67,2.11,2.11,0,0,1,2.29,2.25v1.53h6.17v-1.74c0-5.39-4.83-6.24-8.33-6.24-4.41,0-8,1.45-8.66,5.51a8.35,8.35,0,0,0,.06,3.33c1.07,5.06,9.87,6.52,11.15,9.72a3.38,3.38,0,0,1,0,1.83c-.19.83-.75,1.67-2.41,1.67a2.21,2.21,0,0,1-2.49-2.24V454h-6.64v1.91c0,5.53,4.33,7.2,9,7.2,4.47,0,8.16-1.53,8.75-5.66a12.19,12.19,0,0,0,0-4.05C730.23,448.24,720.85,446.68,720.14,443.78Zm56.79,13.63L771,437.27h-9.28V462h6.14l-.36-20.78L773.86,462h8.9V437.27h-6.18Zm-118-20.14-4.63,25h6.76l3.49-23.15,3.41,23.15h6.71l-4.61-25Zm37.78,0-3.16,19.55-3.15-19.55h-10.2l-.54,25h6.25l.17-23.15,4.3,23.15h6.34l4.3-23.15.17,23.15h6.27l-.56-25Zm58.12,0H748.5v18.5a4.4,4.4,0,0,1-.06,1,2.49,2.49,0,0,1-4.79,0,4,4,0,0,1-.06-1v-18.5h-6.32V455.2c0,.46,0,1.41.06,1.65.44,4.67,4.12,6.19,8.72,6.19s8.29-1.52,8.73-6.19a13,13,0,0,0,.05-1.65Zm43.43,11v3.65h2.56v3.62a4.57,4.57,0,0,1-.07,1,2.7,2.7,0,0,1-5.11,0,6.21,6.21,0,0,1-.07-1V444.08a5.11,5.11,0,0,1,.11-1.18,2.62,2.62,0,0,1,5,0,6.59,6.59,0,0,1,.08,1v1.39H807v-.82a15,15,0,0,0,0-1.66c-.47-4.69-4.34-6.18-8.77-6.18s-8.23,1.5-8.78,6.18c0,.43-.13,1.2-.13,1.66v10.51a14.25,14.25,0,0,0,.1,1.65c.41,4.56,4.37,6.18,8.79,6.18s8.38-1.62,8.79-6.18c.07-.84.08-1.19.09-1.65v-6.7Z\" transform=\"translate(-632.15 -436.48)\"></path><rect class=\"btn\" fill=\"transparent\" width=\"100%\" height=\"100%\"></rect></svg></div><div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"features\">{{features}}</div><div flixdata-type=\"template\" flixtemplate-key=\"footnotes\">{{footnotes}}</div><div flixdata-type=\"template\" flixtemplate-key=\"smart_faq_content\">{{smart_faq_content}}</div></div></div></div></div><div id=\"tabs-3\" flixdata-type=\"template\" flixtemplate-key=\"video_gallery\"><div class=\"minisite_logo\"><svg focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 174.95 26.79\"><path d=\"M638.8,443.72a3.11,3.11,0,0,1,0-1.31,2.06,2.06,0,0,1,2.29-1.69,2.14,2.14,0,0,1,2.32,2.27v1.55h6.24v-1.76c0-5.44-4.91-6.31-8.44-6.31-4.44,0-8.07,1.47-8.74,5.56a8.64,8.64,0,0,0,0,3.37c1.08,5.11,10,6.59,11.26,9.83a3.23,3.23,0,0,1,0,1.85,2.16,2.16,0,0,1-2.44,1.69,2.23,2.23,0,0,1-2.5-2.28v-2.41h-6.71V456c0,5.59,4.39,7.27,9.09,7.27,4.52,0,8.23-1.54,8.83-5.73a12.43,12.43,0,0,0,0-4.09C649,448.2,639.51,446.65,638.8,443.72Zm81.34.06a3.35,3.35,0,0,1,0-1.29,2.05,2.05,0,0,1,2.27-1.67,2.11,2.11,0,0,1,2.29,2.25v1.53h6.17v-1.74c0-5.39-4.83-6.24-8.33-6.24-4.41,0-8,1.45-8.66,5.51a8.35,8.35,0,0,0,.06,3.33c1.07,5.06,9.87,6.52,11.15,9.72a3.38,3.38,0,0,1,0,1.83c-.19.83-.75,1.67-2.41,1.67a2.21,2.21,0,0,1-2.49-2.24V454h-6.64v1.91c0,5.53,4.33,7.2,9,7.2,4.47,0,8.16-1.53,8.75-5.66a12.19,12.19,0,0,0,0-4.05C730.23,448.24,720.85,446.68,720.14,443.78Zm56.79,13.63L771,437.27h-9.28V462h6.14l-.36-20.78L773.86,462h8.9V437.27h-6.18Zm-118-20.14-4.63,25h6.76l3.49-23.15,3.41,23.15h6.71l-4.61-25Zm37.78,0-3.16,19.55-3.15-19.55h-10.2l-.54,25h6.25l.17-23.15,4.3,23.15h6.34l4.3-23.15.17,23.15h6.27l-.56-25Zm58.12,0H748.5v18.5a4.4,4.4,0,0,1-.06,1,2.49,2.49,0,0,1-4.79,0,4,4,0,0,1-.06-1v-18.5h-6.32V455.2c0,.46,0,1.41.06,1.65.44,4.67,4.12,6.19,8.72,6.19s8.29-1.52,8.73-6.19a13,13,0,0,0,.05-1.65Zm43.43,11v3.65h2.56v3.62a4.57,4.57,0,0,1-.07,1,2.7,2.7,0,0,1-5.11,0,6.21,6.21,0,0,1-.07-1V444.08a5.11,5.11,0,0,1,.11-1.18,2.62,2.62,0,0,1,5,0,6.59,6.59,0,0,1,.08,1v1.39H807v-.82a15,15,0,0,0,0-1.66c-.47-4.69-4.34-6.18-8.77-6.18s-8.23,1.5-8.78,6.18c0,.43-.13,1.2-.13,1.66v10.51a14.25,14.25,0,0,0,.1,1.65c.41,4.56,4.37,6.18,8.79,6.18s8.38-1.62,8.79-6.18c.07-.84.08-1.19.09-1.65v-6.7Z\" transform=\"translate(-632.15 -436.48)\"></path><rect class=\"btn\" fill=\"transparent\" width=\"100%\" height=\"100%\"></rect></svg></div><div class=\"minisite_block minisite_block_header\" style=\"margin-bottom: 50px;\"><div class=\"minisite_block_title minisite_block_sub\" aria-level=\"2\" role=\"heading\">{{wrapper_product_title}}</div></div><div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"headers\">{{headers}}</div><div flixdata-type=\"template\" flixtemplate-key=\"video_gallery\">{{video_gallery}}</div></div></div></div></div><div id=\"tabs-4\" flixdata-type=\"template\" flixtemplate-key=\"image_gallery\"><div class=\"minisite_logo\"><svg focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 174.95 26.79\"><path d=\"M638.8,443.72a3.11,3.11,0,0,1,0-1.31,2.06,2.06,0,0,1,2.29-1.69,2.14,2.14,0,0,1,2.32,2.27v1.55h6.24v-1.76c0-5.44-4.91-6.31-8.44-6.31-4.44,0-8.07,1.47-8.74,5.56a8.64,8.64,0,0,0,0,3.37c1.08,5.11,10,6.59,11.26,9.83a3.23,3.23,0,0,1,0,1.85,2.16,2.16,0,0,1-2.44,1.69,2.23,2.23,0,0,1-2.5-2.28v-2.41h-6.71V456c0,5.59,4.39,7.27,9.09,7.27,4.52,0,8.23-1.54,8.83-5.73a12.43,12.43,0,0,0,0-4.09C649,448.2,639.51,446.65,638.8,443.72Zm81.34.06a3.35,3.35,0,0,1,0-1.29,2.05,2.05,0,0,1,2.27-1.67,2.11,2.11,0,0,1,2.29,2.25v1.53h6.17v-1.74c0-5.39-4.83-6.24-8.33-6.24-4.41,0-8,1.45-8.66,5.51a8.35,8.35,0,0,0,.06,3.33c1.07,5.06,9.87,6.52,11.15,9.72a3.38,3.38,0,0,1,0,1.83c-.19.83-.75,1.67-2.41,1.67a2.21,2.21,0,0,1-2.49-2.24V454h-6.64v1.91c0,5.53,4.33,7.2,9,7.2,4.47,0,8.16-1.53,8.75-5.66a12.19,12.19,0,0,0,0-4.05C730.23,448.24,720.85,446.68,720.14,443.78Zm56.79,13.63L771,437.27h-9.28V462h6.14l-.36-20.78L773.86,462h8.9V437.27h-6.18Zm-118-20.14-4.63,25h6.76l3.49-23.15,3.41,23.15h6.71l-4.61-25Zm37.78,0-3.16,19.55-3.15-19.55h-10.2l-.54,25h6.25l.17-23.15,4.3,23.15h6.34l4.3-23.15.17,23.15h6.27l-.56-25Zm58.12,0H748.5v18.5a4.4,4.4,0,0,1-.06,1,2.49,2.49,0,0,1-4.79,0,4,4,0,0,1-.06-1v-18.5h-6.32V455.2c0,.46,0,1.41.06,1.65.44,4.67,4.12,6.19,8.72,6.19s8.29-1.52,8.73-6.19a13,13,0,0,0,.05-1.65Zm43.43,11v3.65h2.56v3.62a4.57,4.57,0,0,1-.07,1,2.7,2.7,0,0,1-5.11,0,6.21,6.21,0,0,1-.07-1V444.08a5.11,5.11,0,0,1,.11-1.18,2.62,2.62,0,0,1,5,0,6.59,6.59,0,0,1,.08,1v1.39H807v-.82a15,15,0,0,0,0-1.66c-.47-4.69-4.34-6.18-8.77-6.18s-8.23,1.5-8.78,6.18c0,.43-.13,1.2-.13,1.66v10.51a14.25,14.25,0,0,0,.1,1.65c.41,4.56,4.37,6.18,8.79,6.18s8.38-1.62,8.79-6.18c.07-.84.08-1.19.09-1.65v-6.7Z\" transform=\"translate(-632.15 -436.48)\"></path><rect class=\"btn\" fill=\"transparent\" width=\"100%\" height=\"100%\"></rect></svg></div><div class=\"minisite_block minisite_block_header\" style=\"margin-bottom: 50px;\"><div class=\"minisite_block_title minisite_block_sub\" aria-level=\"2\" role=\"heading\">{{wrapper_product_title}}</div></div><div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"headers\">{{headers}}</div><div flixdata-type=\"template\" flixtemplate-key=\"image_gallery\">{{image_gallery}}</div></div></div></div></div><div id=\"tabs-5\" flixdata-type=\"template\" flixtemplate-key=\"specifications\"><div class=\"minisite_logo\"><svg focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 174.95 26.79\"><path d=\"M638.8,443.72a3.11,3.11,0,0,1,0-1.31,2.06,2.06,0,0,1,2.29-1.69,2.14,2.14,0,0,1,2.32,2.27v1.55h6.24v-1.76c0-5.44-4.91-6.31-8.44-6.31-4.44,0-8.07,1.47-8.74,5.56a8.64,8.64,0,0,0,0,3.37c1.08,5.11,10,6.59,11.26,9.83a3.23,3.23,0,0,1,0,1.85,2.16,2.16,0,0,1-2.44,1.69,2.23,2.23,0,0,1-2.5-2.28v-2.41h-6.71V456c0,5.59,4.39,7.27,9.09,7.27,4.52,0,8.23-1.54,8.83-5.73a12.43,12.43,0,0,0,0-4.09C649,448.2,639.51,446.65,638.8,443.72Zm81.34.06a3.35,3.35,0,0,1,0-1.29,2.05,2.05,0,0,1,2.27-1.67,2.11,2.11,0,0,1,2.29,2.25v1.53h6.17v-1.74c0-5.39-4.83-6.24-8.33-6.24-4.41,0-8,1.45-8.66,5.51a8.35,8.35,0,0,0,.06,3.33c1.07,5.06,9.87,6.52,11.15,9.72a3.38,3.38,0,0,1,0,1.83c-.19.83-.75,1.67-2.41,1.67a2.21,2.21,0,0,1-2.49-2.24V454h-6.64v1.91c0,5.53,4.33,7.2,9,7.2,4.47,0,8.16-1.53,8.75-5.66a12.19,12.19,0,0,0,0-4.05C730.23,448.24,720.85,446.68,720.14,443.78Zm56.79,13.63L771,437.27h-9.28V462h6.14l-.36-20.78L773.86,462h8.9V437.27h-6.18Zm-118-20.14-4.63,25h6.76l3.49-23.15,3.41,23.15h6.71l-4.61-25Zm37.78,0-3.16,19.55-3.15-19.55h-10.2l-.54,25h6.25l.17-23.15,4.3,23.15h6.34l4.3-23.15.17,23.15h6.27l-.56-25Zm58.12,0H748.5v18.5a4.4,4.4,0,0,1-.06,1,2.49,2.49,0,0,1-4.79,0,4,4,0,0,1-.06-1v-18.5h-6.32V455.2c0,.46,0,1.41.06,1.65.44,4.67,4.12,6.19,8.72,6.19s8.29-1.52,8.73-6.19a13,13,0,0,0,.05-1.65Zm43.43,11v3.65h2.56v3.62a4.57,4.57,0,0,1-.07,1,2.7,2.7,0,0,1-5.11,0,6.21,6.21,0,0,1-.07-1V444.08a5.11,5.11,0,0,1,.11-1.18,2.62,2.62,0,0,1,5,0,6.59,6.59,0,0,1,.08,1v1.39H807v-.82a15,15,0,0,0,0-1.66c-.47-4.69-4.34-6.18-8.77-6.18s-8.23,1.5-8.78,6.18c0,.43-.13,1.2-.13,1.66v10.51a14.25,14.25,0,0,0,.1,1.65c.41,4.56,4.37,6.18,8.79,6.18s8.38-1.62,8.79-6.18c.07-.84.08-1.19.09-1.65v-6.7Z\" transform=\"translate(-632.15 -436.48)\"></path><rect class=\"btn\" fill=\"transparent\" width=\"100%\" height=\"100%\"></rect></svg></div><div class=\"minisite_block minisite_block_header\" style=\"margin-bottom: 50px;\"><div class=\"minisite_block_title minisite_block_sub\" aria-level=\"2\" role=\"heading\">{{wrapper_product_title}}</div></div><div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"headers\">{{headers}}</div><div flixdata-type=\"template\" flixtemplate-key=\"specifications\">{{specifications}}</div></div></div></div></div><div id=\"tabs-6\" flixdata-type=\"template\" flixtemplate-key=\"comparison_tables\"><div class=\"minisite_logo\"><svg focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 174.95 26.79\"><path d=\"M638.8,443.72a3.11,3.11,0,0,1,0-1.31,2.06,2.06,0,0,1,2.29-1.69,2.14,2.14,0,0,1,2.32,2.27v1.55h6.24v-1.76c0-5.44-4.91-6.31-8.44-6.31-4.44,0-8.07,1.47-8.74,5.56a8.64,8.64,0,0,0,0,3.37c1.08,5.11,10,6.59,11.26,9.83a3.23,3.23,0,0,1,0,1.85,2.16,2.16,0,0,1-2.44,1.69,2.23,2.23,0,0,1-2.5-2.28v-2.41h-6.71V456c0,5.59,4.39,7.27,9.09,7.27,4.52,0,8.23-1.54,8.83-5.73a12.43,12.43,0,0,0,0-4.09C649,448.2,639.51,446.65,638.8,443.72Zm81.34.06a3.35,3.35,0,0,1,0-1.29,2.05,2.05,0,0,1,2.27-1.67,2.11,2.11,0,0,1,2.29,2.25v1.53h6.17v-1.74c0-5.39-4.83-6.24-8.33-6.24-4.41,0-8,1.45-8.66,5.51a8.35,8.35,0,0,0,.06,3.33c1.07,5.06,9.87,6.52,11.15,9.72a3.38,3.38,0,0,1,0,1.83c-.19.83-.75,1.67-2.41,1.67a2.21,2.21,0,0,1-2.49-2.24V454h-6.64v1.91c0,5.53,4.33,7.2,9,7.2,4.47,0,8.16-1.53,8.75-5.66a12.19,12.19,0,0,0,0-4.05C730.23,448.24,720.85,446.68,720.14,443.78Zm56.79,13.63L771,437.27h-9.28V462h6.14l-.36-20.78L773.86,462h8.9V437.27h-6.18Zm-118-20.14-4.63,25h6.76l3.49-23.15,3.41,23.15h6.71l-4.61-25Zm37.78,0-3.16,19.55-3.15-19.55h-10.2l-.54,25h6.25l.17-23.15,4.3,23.15h6.34l4.3-23.15.17,23.15h6.27l-.56-25Zm58.12,0H748.5v18.5a4.4,4.4,0,0,1-.06,1,2.49,2.49,0,0,1-4.79,0,4,4,0,0,1-.06-1v-18.5h-6.32V455.2c0,.46,0,1.41.06,1.65.44,4.67,4.12,6.19,8.72,6.19s8.29-1.52,8.73-6.19a13,13,0,0,0,.05-1.65Zm43.43,11v3.65h2.56v3.62a4.57,4.57,0,0,1-.07,1,2.7,2.7,0,0,1-5.11,0,6.21,6.21,0,0,1-.07-1V444.08a5.11,5.11,0,0,1,.11-1.18,2.62,2.62,0,0,1,5,0,6.59,6.59,0,0,1,.08,1v1.39H807v-.82a15,15,0,0,0,0-1.66c-.47-4.69-4.34-6.18-8.77-6.18s-8.23,1.5-8.78,6.18c0,.43-.13,1.2-.13,1.66v10.51a14.25,14.25,0,0,0,.1,1.65c.41,4.56,4.37,6.18,8.79,6.18s8.38-1.62,8.79-6.18c.07-.84.08-1.19.09-1.65v-6.7Z\" transform=\"translate(-632.15 -436.48)\"></path><rect class=\"btn\" fill=\"transparent\" width=\"100%\" height=\"100%\"></rect></svg></div><div class=\"minisite_block minisite_block_header\" style=\"margin-bottom: 50px;\"><div class=\"minisite_block_title minisite_block_sub\" aria-level=\"2\" role=\"heading\">{{wrapper_product_title}}</div></div><div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"comparison_tables\">{{comparison_tables}}</div></div></div></div></div><div id=\"tabs-7\" flixdata-type=\"template\" flixtemplate-key=\"documents\"><div class=\"minisite_logo\"><svg focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 174.95 26.79\"><path d=\"M638.8,443.72a3.11,3.11,0,0,1,0-1.31,2.06,2.06,0,0,1,2.29-1.69,2.14,2.14,0,0,1,2.32,2.27v1.55h6.24v-1.76c0-5.44-4.91-6.31-8.44-6.31-4.44,0-8.07,1.47-8.74,5.56a8.64,8.64,0,0,0,0,3.37c1.08,5.11,10,6.59,11.26,9.83a3.23,3.23,0,0,1,0,1.85,2.16,2.16,0,0,1-2.44,1.69,2.23,2.23,0,0,1-2.5-2.28v-2.41h-6.71V456c0,5.59,4.39,7.27,9.09,7.27,4.52,0,8.23-1.54,8.83-5.73a12.43,12.43,0,0,0,0-4.09C649,448.2,639.51,446.65,638.8,443.72Zm81.34.06a3.35,3.35,0,0,1,0-1.29,2.05,2.05,0,0,1,2.27-1.67,2.11,2.11,0,0,1,2.29,2.25v1.53h6.17v-1.74c0-5.39-4.83-6.24-8.33-6.24-4.41,0-8,1.45-8.66,5.51a8.35,8.35,0,0,0,.06,3.33c1.07,5.06,9.87,6.52,11.15,9.72a3.38,3.38,0,0,1,0,1.83c-.19.83-.75,1.67-2.41,1.67a2.21,2.21,0,0,1-2.49-2.24V454h-6.64v1.91c0,5.53,4.33,7.2,9,7.2,4.47,0,8.16-1.53,8.75-5.66a12.19,12.19,0,0,0,0-4.05C730.23,448.24,720.85,446.68,720.14,443.78Zm56.79,13.63L771,437.27h-9.28V462h6.14l-.36-20.78L773.86,462h8.9V437.27h-6.18Zm-118-20.14-4.63,25h6.76l3.49-23.15,3.41,23.15h6.71l-4.61-25Zm37.78,0-3.16,19.55-3.15-19.55h-10.2l-.54,25h6.25l.17-23.15,4.3,23.15h6.34l4.3-23.15.17,23.15h6.27l-.56-25Zm58.12,0H748.5v18.5a4.4,4.4,0,0,1-.06,1,2.49,2.49,0,0,1-4.79,0,4,4,0,0,1-.06-1v-18.5h-6.32V455.2c0,.46,0,1.41.06,1.65.44,4.67,4.12,6.19,8.72,6.19s8.29-1.52,8.73-6.19a13,13,0,0,0,.05-1.65Zm43.43,11v3.65h2.56v3.62a4.57,4.57,0,0,1-.07,1,2.7,2.7,0,0,1-5.11,0,6.21,6.21,0,0,1-.07-1V444.08a5.11,5.11,0,0,1,.11-1.18,2.62,2.62,0,0,1,5,0,6.59,6.59,0,0,1,.08,1v1.39H807v-.82a15,15,0,0,0,0-1.66c-.47-4.69-4.34-6.18-8.77-6.18s-8.23,1.5-8.78,6.18c0,.43-.13,1.2-.13,1.66v10.51a14.25,14.25,0,0,0,.1,1.65c.41,4.56,4.37,6.18,8.79,6.18s8.38-1.62,8.79-6.18c.07-.84.08-1.19.09-1.65v-6.7Z\" transform=\"translate(-632.15 -436.48)\"></path><rect class=\"btn\" fill=\"transparent\" width=\"100%\" height=\"100%\"></rect></svg></div><div class=\"minisite_block minisite_block_header\"><div class=\"minisite_block_title minisite_block_sub\" aria-level=\"2\" role=\"heading\">{{wrapper_product_title}}</div></div><div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"headers\">{{headers}}</div><div flixdata-type=\"template\" flixtemplate-key=\"documents\">{{documents}}</div></div></div></div></div><div id=\"tabs-8\" flixdata-type=\"template\" flixtemplate-key=\"extra\"><div class=\"flix-public-template\"><div id=\"flix-std-inpage\"><div id=\"inpage_container\"><div><div flixdata-type=\"template\" flixtemplate-key=\"extra\">{{extra}}</div></div></div></div></div></div><div id=\"tabs-9\" flixdata-type=\"template\" flixtemplate-key=\"reviews\"><div class=\"minisite_logo\"><svg focusable=\"false\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 174.95 26.79\"><path d=\"M638.8,443.72a3.11,3.11,0,0,1,0-1.31,2.06,2.06,0,0,1,2.29-1.69,2.14,2.14,0,0,1,2.32,2.27v1.55h6.24v-1.76c0-5.44-4.91-6.31-8.44-6.31-4.44,0-8.07,1.47-8.74,5.56a8.64,8.64,0,0,0,0,3.37c1.08,5.11,10,6.59,11.26,9.83a3.23,3.23,0,0,1,0,1.85,2.16,2.16,0,0,1-2.44,1.69,2.23,2.23,0,0,1-2.5-2.28v-2.41h-6.71V456c0,5.59,4.39,7.27,9.09,7.27,4.52,0,8.23-1.54,8.83-5.73a12.43,12.43,0,0,0,0-4.09C649,448.2,639.51,446.65,638.8,443.72Zm81.34.06a3.35,3.35,0,0,1,0-1.29,2.05,2.05,0,0,1,2.27-1.67,2.11,2.11,0,0,1,2.29,2.25v1.53h6.17v-1.74c0-5.39-4.83-6.24-8.33-6.24-4.41,0-8,1.45-8.66,5.51a8.35,8.35,0,0,0,.06,3.33c1.07,5.06,9.87,6.52,11.15,9.72a3.38,3.38,0,0,1,0,1.83c-.19.83-.75,1.67-2.41,1.67a2.21,2.21,0,0,1-2.49-2.24V454h-6.64v1.91c0,5.53,4.33,7.2,9,7.2,4.47,0,8.16-1.53,8.75-5.66a12.19,12.19,0,0,0,0-4.05C730.23,448.24,720.85,446.68,720.14,443.78Zm56.79,13.63L771,437.27h-9.28V462h6.14l-.36-20.78L773.86,462h8.9V437.27h-6.18Zm-118-20.14-4.63,25h6.76l3.49-23.15,3.41,23.15h6.71l-4.61-25Zm37.78,0-3.16,19.55-3.15-19.55h-10.2l-.54,25h6.25l.17-23.15,4.3,23.15h6.34l4.3-23.15.17,23.15h6.27l-.56-25Zm58.12,0H748.5v18.5a4.4,4.4,0,0,1-.06,1,2.49,2.49,0,0,1-4.79,0,4,4,0,0,1-.06-1v-18.5h-6.32V455.2c0,.46,0,1.41.06,1.65.44,4.67,4.12,6.19,8.72,6.19s8.29-1.52,8.73-6.19a13,13,0,0,0,.05-1.65Zm43.43,11v3.65h2.56v3.62a4.57,4.57,0,0,1-.07,1,2.7,2.7,0,0,1-5.11,0,6.21,6.21,0,0,1-.07-1V444.08a5.11,5.11,0,0,1,.11-1.18,2.62,2.62,0,0,1,5,0,6.59,6.59,0,0,1,.08,1v1.39H807v-.82a15,15,0,0,0,0-1.66c-.47-4.69-4.34-6.18-8.77-6.18s-8.23,1.5-8.78,6.18c0,.43-.13,1.2-.13,1.66v10.51a14.25,14.25,0,0,0,.1,1.65c.41,4.56,4.37,6.18,8.79,6.18s8.38-1.62,8.79-6.18c.07-.84.08-1.19.09-1.65v-6.7Z\" transform=\"translate(-632.15 -436.48)\"></path><rect class=\"btn\" fill=\"transparent\" width=\"100%\" height=\"100%\"></rect></svg></div><div id=\"flix-samsung-inpage\" data-flix-lang=\"{{wrapper_iso_code}}\" {{wrapper_dirrtl}}><div id=\"flix-std-inpage\" class=\"{{wrapper_classname}}\"><div id=\"inpage_container\" class=\"flix-std-std-reset\"><div flixdata-type=\"template\" flixtemplate-key=\"headers\">{{headers}}</div><div placeholder=\".inpage_selector_reviews\" flixdata-type=\"placeholder\"><div flixdata-type=\"template\" flixtemplate-key=\"reviews\">{{reviews}}</div></div></div></div></div></div></div></div>"
+    }
+  }
+]

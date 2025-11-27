@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394014456 7333394014456 LFB3AE82R",
+  "search_queries": {
+    "main_query": "Electrolux LFB3AE82R integreeritav külmik 82 cm",
+    "additional_queries": [
+      "Electrolux sisseehitatav allakapikülmik sügavkülmaga 60 cm",
+      "Integreeritav külmik 94+16 l, 4‑tärni sügavkülm −18 °C",
+      "Vaikne 38 dB integreeritav külmik LED valgustusega",
+      "SpaceSmart OptiSpace külmik pliidi alla"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas see külmik sobib 60 cm alumisse köögikappi ja millised on mõõdud?",
+      "answer": "Jah. See on integreeritav allakapikülmik (under‑counter). Mõõdud (K × L × S): 81,9 × 59,7 × 54,5 cm; standardlaius 60 cm. Uks on door‑on‑door tüüpi ning ümber tõstetav (paremalt/vasakule), sobides ka SpaceSmart lahendusena pliidi alla."
+    },
+    {
+      "question": "Kas seadmel on sügavkülm ja kui võimekas see on?",
+      "answer": "Jah. Külmiku sees on 4‑tärni sügavkülm, mis saavutab −18 °C. Netomaht 16 l, külmutusvõime 2,5 kg/24 h ning elektrikatkestuse korral hoiab toitu kuni 10 tundi."
+    },
+    {
+      "question": "Kas sellel on NoFrost ja kui vali see on?",
+      "answer": "NoFrosti ei ole (staatiline jahutus), seega tuleb sügavkülm perioodiliselt käsitsi sulatada. Müra tase on 38 dB (klass C). Energiaklass E, aastane energiatarve umbes 148 kWh. Juhtimine on mehaaniline, sisemine valgustus LED."
+    }
+  ]
+}

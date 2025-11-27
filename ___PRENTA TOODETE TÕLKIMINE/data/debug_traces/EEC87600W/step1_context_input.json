@@ -1,0 +1,81 @@
+{
+  "model": "gpt-5.1",
+  "instructions": "\n                Sa tegutsed tooteanalüüsi spetsialisti ja uuriva copywriter'ina. See on \"STEP 1: Kontekst\", mille tulemusi kasutavad kõik järgnevad sammud.\n\n                Töötle olemasolevat toote alginfot (ilma veebiotsinguta) ja koonda sellest kontekst, mis aitab hilisemates sammudes luua AI-ajastule vastava müügikirjelduse.\n\n                Läbi antud materjal ja veendu, et suudad vastata järgmistele küsimustele:\n                1. Millist probleemi toode lahendab ja kuidas see ostja elu lihtsamaks teeb?\n                2. Kas see sobib sihtkasutaja vajadustele (kellele, millistes olukordades)?\n                3. Mis on toote põhiline funktsioon ja eesmärk (kuidas see töötab, millist tulemust annab)?\n                4. Kuidas see erineb alternatiividest/mudelitest ning millised on unikaalsed eelised?\n                6. Millised on peamised omadused ja tehnilised võtmenäitajad, mida peaks bullet'ites esile tooma?\n                7. Kas see mahub kliendi ruumi/ökosüsteemi (mõõdud, maht, kontekstuaalne sobivus)?\n                8. Millega see on ühilduv ja mis võib olla lisaks vajalik (platvormid, tarkvara, tarvikud, ökosüsteemid)?\n                9. Kui lihtne on seda kasutada ja hooldada (kasutusloogika, hooldus-/uuendusvajadused, „plug & play“ aspektid)?\n                10. Kui töökindel ja vastupidav see on ning milline on garantii või järelteenindus?\n                11. Mis on tootega kaasas ja mida tuleks vajadusel eraldi soetada?\n                12. Kas see on oma hinda väärt – milline on väärtuspakkumine ja pikaajaline kasu?\n\n                Nende järelduste põhjal loo väljundid, mida kasutame otse e-poes, SEO-s ja Q&A plokis:\n\n                - 5 otsingufraasi (1 peamine, 4 lisa), kõik loomulikus eestikeelses vormis ja tuginedes ainult olemasolevale infole.\n                  • main_query: fraas, mida inimene reaalselt kirjutaks otsingusse, kui ta otsib just seda konkreetset toodet (toote tüüp + 1–2 võtmeomadust + bränd/mudel).\n                  • additional_queries: 4 long-tail päringut, mis jagunevad nii:\n                    1) probleemipõhine: kuidas lahendada tüüpilist probleemi selle tootega;\n                    2) omaduspõhine: toote tüüp + võtmenäitaja (võimsus/mõõt/maht vms) + kasutusolukord;\n                    3) võrdlev: mille poolest see erineb teistest sarnastest mudelitest;\n                    4) kasutus/hooldus: kuidas paigaldada, hooldada või igapäevaselt kasutada.\n\n                  Väljendid võivad sisaldada tehnilisi tähiseid ja mudeleid, kuid väldi ingliskeelseid täislauseid.\n\n                - 3 Q&A küsimust ja vastust eesti keeles Q&A sektsiooni jaoks, mis aitavad kliendil ostuotsust teha. Kasuta järgmisi telgi:\n                  1) sobivus ja valik (kas see sobib minu ruumi, vajadustele, olemasoleva süsteemiga);\n                  2) kasutamine ja hooldus (kuidas seda kasutada, puhastada, paigaldada, hooldada);\n                  3) töökindlus, garantii ja hinna-väärtuse suhe (kui vastupidav see on, milline on garantii, mis on peamine kasutegur hinna suhtes).\n\n                Ära leiuta uusi fakte. Kui mõne info (nt konkreetne ühilduvus, garantiitingimus, täpne kasutusviis) kohta sisendmaterjal midagi ei ütle, ära seda välja mõtle – jäta vastus neutraalseks või ütle, et sisend seda ei täpsusta.\n\n                Tagasta (kõik väärtused eesti keeles):\n                - search_queries: objekt väljadega main_query (string) ja additional_queries (array 4 stringi)\n                - qa: massiiv 3 elemendiga, igas objektis question ja answer väljad\n                ",
+  "input": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "input_text",
+          "text": "Toote alginfo (JSON): {\"sku\": \"EEC87600W\", \"global_unique_id\": \"7333394080888\", \"source\": {\"source_system\": \"prenta\", \"source_product_id\": 36947, \"source_category_ids\": [26], \"rrp_price\": 999.0, \"purchase_price\": 700.0}, \"name\": \"Dishwasher ELECTROLUX EEC87600W\", \"short_description\": \"\", \"description\": \"<p><a href=\\\"/web/content/513378?unique=0aac0a42166555b92230bb043771c3e39f3fbaf4&amp;download=true\\\" class=\\\"o_image\\\" title=\\\"Datasheet_EEC87600W.pdf\\\"></a><br></p>\\n\\n<img src=\\\"product_images/36947/flix_feature_1.webp\\\" alt=\\\"Aukštesnis standartas – pirmoji pasaulyje indaplovė, į kurią indus galima sudėti be jokių pastangų\\\">\\n<h3>Aukštesnis standartas – pirmoji pasaulyje indaplovė, į kurią indus galima sudėti be jokių pastangų</h3>\\n<p>Aukštesnis standartas – pirmoji pasaulyje indaplovė, į kurią indus galima sudėti be jokių pastangų Pirmoji pasaulyje indaplovė „900 ComfortLift®“, kurią išties labai paprasta pakrauti ir iškrauti. Naudojant mūsų unikalią technologiją, vos spustelint rankeną, krepšys vienu nesudėtingu judesiu pakeliamas iki liemens lygio. Tai taip patogu, kad nustebsite, kaip iki šiol be to galėjote gyventi.</p>\\n<img src=\\\"product_images/36947/flix_feature_2.webp\\\" alt=\\\"„ComfortLift“ – pirmasis pakeliamas krepšys\\\">\\n<h3>„ComfortLift“ – pirmasis pakeliamas krepšys</h3>\\n<p>„ComfortLift“ – pirmasis pakeliamas krepšys Dėka unikalios funkcijos „ComfortLift“ Jums daugiau nebereikės lenkti nugaros pakraunant ir iškraunant indaplovę. Vos spustelėjus rankeną, apatinis krepšys švelniai pakeliamas. Tai pirmoji indaplovė pasaulyje, skirta visapusiškam Jūsų patogumui.</p>\\n<img src=\\\"product_images/36947/flix_feature_3.webp\\\" alt=\\\"„QuickSelect“ - Indus plaukite tvariai ir taupykite\\\">\\n<h3>„QuickSelect“ - Indus plaukite tvariai ir taupykite</h3>\\n<p>„QuickSelect“ - Indus plaukite tvariai ir taupykite Indus plaukite tvariai ir taupykite energiją. Naudokite jutiklinio ekrano slankiklį, kad pasirinktumėte pageidaujamą ciklo laiką, o „Ecometer“ intuityviomis žaliomis juostomis parodys tvariausią energijos ir vandens taupymo programą.</p>\\n<img src=\\\"product_images/36947/flix_feature_4.webp\\\" alt=\\\"„QuickSelect“ su „Wi-Fi“ Interaktyvus indaplovės valdymas per išmanųjį įrenginį\\\">\\n<h3>„QuickSelect“ su „Wi-Fi“ Interaktyvus indaplovės valdymas per išmanųjį įrenginį</h3>\\n<p>„QuickSelect“ su „Wi-Fi“ Interaktyvus indaplovės valdymas per išmanųjį įrenginį Mūsų interaktyviosios indaplovės „QuickSelect“ indus plauna išmaniai ir tvariai. Gaukite patarimų dėl tinkamos esamiems indams programos ir pasirinkite, kada indaplovei veikti, kad būtų pigiau. Programėlė apibendrina naudojimo duomenis ir pateikia atsiliepimus apie tvarumą.</p>\\n<img src=\\\"product_images/36947/flix_feature_5.webp\\\" alt=\\\"Visada informuoti su „TimeBeam®“\\\">\\n<h3>Visada informuoti su „TimeBeam®“</h3>\\n<p>Visada informuoti su „TimeBeam®“ Funkcija „TimeBeam®“ nuolatos praneša apie indaplovės ciklo būseną. Pagrindinė informacija rodoma ant grindų, ties prietaisu, todėl visada matosi laikas, likęs iki ciklo pabaigos. Nuo šiol visada žinosite, kada indai bus švarūs.</p>\\n<img src=\\\"product_images/36947/flix_feature_6.webp\\\" alt=\\\"Geresnis matomumas, veiksmingesnis indų sudėjimas\\\">\\n<h3>Geresnis matomumas, veiksmingesnis indų sudėjimas</h3>\\n<p>Geresnis matomumas, veiksmingesnis indų sudėjimas Vidinis apšvietimas pagerina indaplovės vidaus matomumą. Aiškiai matysite geriausias vietas jūsų indams ir įrankiams sudėti.</p>\", \"type\": \"simple\", \"status\": \"publish\", \"featured\": false, \"catalog_visibility\": \"visible\", \"regular_price\": \"999.0\", \"sale_price\": \"\", \"purchasable\": true, \"virtual\": false, \"tax_status\": \"taxable\", \"tax_class\": \"\", \"manage_stock\": true, \"stock_status\": \"instock\", \"stock_quantity\": 4, \"backorders\": \"no\", \"backorders_allowed\": false, \"backordered\": false, \"low_stock_amount\": null, \"sold_individually\": false, \"weight\": \"47.4\", \"dimensions\": {\"length\": \"56\", \"width\": \"59.6\", \"height\": \"\"}, \"shipping_required\": true, \"shipping_taxable\": true, \"shipping_class\": \"prenta\", \"reviews_allowed\": true, \"average_rating\": \"0.00\", \"rating_count\": 0, \"upsell_ids\": [], \"cross_sell_ids\": [], \"category\": {\"source_id\": 26, \"path\": \"All > Saleable > Home appliances > Built in > Dishwasher\", \"translated_path\": \"Kodutehnika > Integreeritav kodutehnika > Integreeritavad nõudepesumasinad\", \"leaf_name\": \"Integreeritavad nõudepesumasinad\"}, \"categories\": [{\"name\": \"Integreeritavad nõudepesumasinad\"}], \"brands\": [{\"name\": \"ELECTROLUX\"}], \"tags\": [], \"images\": [{\"src\": \"product_images/36947/image_1.webp\", \"alt\": \"Dishwasher ELECTROLUX EEC87600W\"}, {\"src\": \"product_images/36947/flix_gallery_1.webp\", \"alt\": \"Dishwasher ELECTROLUX EEC87600W\"}, {\"src\": \"product_images/36947/flix_gallery_2.webp\", \"alt\": \"Dishwasher ELECTROLUX EEC87600W\"}, {\"src\": \"product_images/36947/flix_gallery_3.webp\", \"alt\": \"Dishwasher ELECTROLUX EEC87600W\"}, {\"src\": \"product_images/36947/flix_gallery_4.webp\", \"alt\": \"Dishwasher ELECTROLUX EEC87600W\"}, {\"src\": \"product_images/36947/flix_gallery_5.webp\", \"alt\": \"Dishwasher ELECTROLUX EEC87600W\"}, {\"src\": \"product_images/36947/flix_gallery_6.webp\", \"alt\": \"Dishwasher ELECTROLUX EEC87600W\"}, {\"src\": \"product_images/36947/flix_gallery_7.webp\", \"alt\": \"Dishwasher ELECTROLUX EEC87600W\"}, {\"src\": \"product_images/36947/flix_gallery_8.webp\", \"alt\": \"Dishwasher ELECTROLUX EEC87600W\"}, {\"src\": \"product_images/36947/flix_gallery_9.webp\", \"alt\": \"Dishwasher ELECTROLUX EEC87600W\"}, {\"src\": \"product_images/36947/flix_gallery_10.webp\", \"alt\": \"Dishwasher ELECTROLUX EEC87600W\"}], \"attributes\": [{\"name\": \"Product line\", \"values\": [\"Electrolux Open\"]}, {\"name\": \"Producer\", \"values\": [\"Electrolux\"]}, {\"name\": \"Type of installation\", \"values\": [\"Built-in\"]}, {\"name\": \"Standardized width (cm)\", \"values\": [60]}, {\"name\": \"Standardized height (cm)\", \"values\": [85]}, {\"name\": \"New Energy efficiency class\", \"values\": [\"A\"]}, {\"name\": \"Control\", \"values\": [\"Touch control with text display\"]}, {\"name\": \"Control panel location\", \"values\": [\"Internal\"]}, {\"name\": \"Energy consumption for 100 cycles (kWh)\", \"values\": [\"54\"]}, {\"name\": \"Water consumption for 1 cycle (l)\", \"values\": [\"11\"]}, {\"name\": \"Noise level class\", \"values\": [\"B\"]}, {\"name\": \"Noise level (dB)\", \"values\": [\"43\"]}, {\"name\": \"Duration for 1 cycle (min.)\", \"values\": [\"160\"]}, {\"name\": \"Automatic dosing technology\", \"values\": [\"No\"]}, {\"name\": \"Number of programs\", \"values\": [\"8\"]}, {\"name\": \"Number of temperatures\", \"values\": [\"4\"]}, {\"name\": \"Glass programme\", \"values\": [\"Yes\"]}, {\"name\": \"Automatic programme\", \"values\": [\"Yes\"]}, {\"name\": \"Time saving\", \"values\": [\"Yes\"]}, {\"name\": \"Delay start programme\", \"values\": [\"Yes\"]}, {\"name\": \"Auto shut off\", \"values\": [\"Yes\"]}, {\"name\": \"Hot water inlet\", \"values\": [\"Yes\"]}, {\"name\": \"Type of motor\", \"values\": [\"Inverter\"]}, {\"name\": \"Number of baskets\", \"values\": [\"3\"]}, {\"name\": \"Automatic door opening at the end of the cycle\", \"values\": [\"Yes\"]}, {\"name\": \"Higher efficiency sprays\", \"values\": [\"Yes\"]}, {\"name\": \"Upper spray\", \"values\": [\"Yes\"]}, {\"name\": \"Tub material\", \"values\": [\"Full stainless steel\"]}, {\"name\": \"Interior light\", \"values\": [\"Yes\"]}, {\"name\": \"Floor beam\", \"values\": [\"Time projection on the floor\"]}, {\"name\": \"Sliding hinges\", \"values\": [\"Yes\"]}, {\"name\": \"Protection of water spill\", \"values\": [\"Yes\"]}, {\"name\": \"Delay function\", \"values\": [\"Pradžios\"]}, {\"name\": \"Installation in height\", \"values\": [\"Yes\"]}, {\"name\": \"Lift for the lower basket\", \"values\": [\"Yes\"]}, {\"name\": \"Settings, Pcs\", \"values\": [\"14\"]}, {\"name\": \"Minimal height, cm\", \"values\": [\"81.8\"]}, {\"name\": \"Maximum height, cm\", \"values\": [\"89.8\"]}, {\"name\": \"Wi-Fi\", \"values\": [\"Yes\"]}], \"default_attributes\": [], \"variations\": [], \"grouped_products\": [], \"menu_order\": 0, \"related_ids\": [], \"meta_data\": [{\"key\": \"_bp_gtin13\", \"value\": \"7333394080888\"}, {\"key\": \"_bp_supplier\", \"value\": \"Prenta\"}, {\"key\": \"_bp_brand\", \"value\": \"ELECTROLUX\"}]}"
+        }
+      ]
+    }
+  ],
+  "tools": [],
+  "text": {
+    "verbosity": "medium",
+    "format": {
+      "type": "json_schema",
+      "name": "context_and_research_schema",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "search_queries": {
+            "type": "object",
+            "properties": {
+              "main_query": {
+                "type": "string"
+              },
+              "additional_queries": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                },
+                "minItems": 4,
+                "maxItems": 4
+              }
+            },
+            "required": [
+              "main_query",
+              "additional_queries"
+            ],
+            "additionalProperties": false
+          },
+          "qa": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": 3,
+            "items": {
+              "type": "object",
+              "properties": {
+                "question": {
+                  "type": "string"
+                },
+                "answer": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "question",
+                "answer"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "search_queries",
+          "qa"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "reasoning": {
+    "effort": "medium"
+  },
+  "previous_response_id": null,
+  "service_tier": "default"
+}

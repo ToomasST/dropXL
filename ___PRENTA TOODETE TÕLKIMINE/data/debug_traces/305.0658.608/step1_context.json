@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7612986095180 7612986095180 Hood FABER INKA LUX PREMIUM BK MATT A52 KL",
+  "search_queries": {
+    "main_query": "Faber INKA LUX PREMIUM BK integreeritav õhupuhasti WiFi 60 cm",
+    "additional_queries": [
+      "kuidas ühendada Faber INKA LUX PREMIUM BK õhupuhasti juhtmevabalt FABER pliidiplaadiga",
+      "integreeritav õhupuhasti 670 m3/h avatud köögi jaoks Faber INKA LUX PREMIUM",
+      "Faber INKA LUX PREMIUM BK vs teised 60 cm integreeritavad õhupuhastid",
+      "Faber INKA LUX PREMIUM õhupuhasti paigaldus ja hooldus juhend"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Faber INKA LUX PREMIUM BK integreeritav õhupuhasti sobib minu kööki ja kas juhtmevaba ühendus töötab kõigi pliidiplaatidega?",
+      "answer": "See mudel on integreeritav õhupuhasti, mis on mõeldud paigaldamiseks köögimööbli sisse (standardiseeritud laius 60 cm). Toote laius on 49,2 cm ja korpuse kõrgus u 324,7 mm, seega tuleks enne ostu üle mõõta köögikapp, kuhu kubu soovite paigaldada. Väljatõmbeühenduse jaoks on ette nähtud 150 mm õhukanal (duct size 150 mm) ning versioon on „duct out“, ehk eelkõige väljatõmbeventilatsiooniga kasutamiseks. \n\nJuhtmevaba integratsioon pliidiplaadiga töötab tootja info järgi AINULT FABER pliidiplaatidega. Muude tootjate pliidiplaatidega saab õhupuhastit kasutada tavapäraselt (nupupaneeli või kaugjuhtimispuldiga), kuid automaatne juhtmevaba ühendus ei ole siis toetatud. Wi-Fi olemasolu on märgitud, kuid sisendinfo ei täpsusta, milliste süsteemide või rakendustega see töötab – selle kinnitamiseks tuleks vaadata tootja juhendit või küsida müüjalt."
+    },
+    {
+      "question": "Kuidas Faber INKA LUX PREMIUM õhupuhastit kasutada ja milliseid filtreid see toetab?",
+      "answer": "Õhupuhastil on elektrooniline juhtimine ja komplekti kuulub kaugjuhtimispult (sisend viitab juhtimisele „Electronical + remote control“), mis teeb kasutamise mugavaks. Valida saab mitme tõmbeastme vahel ning olemas on ka võimendusrežiim (booster), mille õhuvool on kuni 670 m³/h tugevamate lõhnade ja auru eemaldamiseks. LED-valgustus (Tune White funktsiooniga) aitab tööpinda valgustada, kuid dimmeri ühendamise võimalust ei ole (Option to connect a dimmer: No).\n\nKirjelduses on loetletud mitmed Faber söefiltri komplektid, millega see mudel on ühilduv:\n- 112.0157.240 Charcoal filter F8 KIT\n- 112.0158.127 Charcoal filter High Performance FHP8 KIT\n- 112.0185.278 Charcoal filter Long Lasting FLL8 KIT\nSamuti on mainitud 112.0327.007 ENERGY Remote blower kit. Sisendinfo ei ütle, kas mõni filter on tehases kaasas ega selgita täpselt, millisel otstarbel iga komplekti kasutatakse, seega soovitame filtreid ja nende vahetusintervalle täpsustada kasutusjuhendist või müüjalt.\n\nPuhastuse ja hoolduse üksikasjalikke juhiseid (nt millist tüüpi rasvafiltrit kasutada või kui tihti seda puhastada) sisend ei kirjelda; üldiselt tuleks lähtuda tootja hooldusjuhendist ja puhastada kubu välispindu õrnade puhastusvahenditega."
+    },
+    {
+      "question": "Kui töökindel on Faber INKA LUX PREMIUM õhupuhasti ja milline on garantii ning hinna-väärtuse suhe?",
+      "answer": "Toode kuulub Faber „Semi Exclusive“ tooteliini ning on valmistatud roostevabast terasest viimistlusega (värvus must), mis viitab kvaliteetsele ehitusele. Õhupuhasti kasutab perimeertõmmet (Perimeter aspiration: Yes) ja on varustatud tagasilöögiklapi ehk butterfly valve’iga, mis aitab vältida õhu tagasivoolu kanalist. Maksimaalne õhuvool on 580 m³/h (boosteriga kuni 670 m³/h), energiakulu 70 kWh aastas ning energiatõhususklass on B.\n\nGarantii pikkust ega täpseid garantiitingimusi sisendinfo ei sisalda – kehtiv garantii sõltub müüja ja/või tootja tingimustest, seega soovitame need enne ostu üle vaadata. Hinna-väärtuse mõttes pakub see mudel tugevat tõmbejõudu, integreeritavat lahendust, LED-valgustust, perimeertõmmet ning Wi-Fi ja juhtmevaba pliidiplaadi integratsiooni (FABER pliidiplaatidega), mis kokku loovad nutika ja võimeka lahenduse tänapäevasesse kööki."
+    }
+  ]
+}

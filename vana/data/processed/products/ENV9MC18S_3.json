@@ -1,0 +1,465 @@
+{
+  "name": "ENV9MC18S",
+  "type": "simple",
+  "status": "publish",
+  "catalog_visibility": "visible",
+  "description": "<br><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"99\" style=\"width: 74pt;\"></table>",
+  "description_flix": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Daugiau maisto laikymo galimybių su „Multichill 0°C“</h3><p>Pritaikomas stalčius „Multichill 0°C“ leidžia paruošti gardesnį maistą ir tinkamai šaldytuve laikyti mėsą ar žuvį. Pasinaudokite programėle ir atvėsinkite gėrimus, saugiai atšildykite užšaldytus produktus ar parinkite tinkamus nustatymus maisto likučiams laikyti.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Aušinimas kiekviename kampelyje. Puikus skonis kiekviename kąsnyje\" src=\"data/processed/flix_media/31461/Electrolux-275399734-PSEEVL20BIA00005.webp\"/></figure><div class=\"flixf-body\"><h3>Aušinimas kiekviename kampelyje. Puikus skonis kiekviename kąsnyje</h3><p>Dėka „Cooling 360°“ oro cirkuliacijos šaltas oras per efektyvias oro angas paskirstomas į kiekvieną prietaiso kampelį. Dėl naujoviškos tikro nerūdijančiojo plieno galinės sienelės temperatūra viduje greitai atkuriama po durų atidarymo. Su meile atrinktus vaisius ir daržoves išlaikysite labai skanius.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Visiška naujovė – unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*\" src=\"data/processed/flix_media/31461/Electrolux-275390787-PSEERF23BIA00003.webp\"/></figure><div class=\"flixf-body\"><h3>Visiška naujovė – unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*</h3><p>Didžiuodamiesi pristatome savo unikalų šaldytuvą-šaldiklį, kurio 70 % vidinės dangos pagaminta iš perdirbto plastiko. Nebenaudojamų šaldytuvų plastiką galima panaudoti naujų šaldytuvų gamyboje ir taip sumažinti aplinką išmetamų atliekų kiekį.  * Vidaus dangos plastikas rHIPS yra pagamintas panaudojant iki 70 % perdirbto plastiko, o tai sudaro 13 % viso šaldytuve esančio plastiko.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>„GreenZone“ padeda išsaugoti vaisių ir daržovių maistinę vertę</h3><p>„GreenZone+“ stalčius tobulai tinka vaisiams ir daržovėms, nes pašalindamas drėgmės perteklių subalansuoja jos lygį. Dėl reikiamo drėgmės lygio net po 11 dienų išsaugoma iki 95 % vitaminų.* Su „GreenZone“ technologija išsaugoma iki 95 % vitaminų.* *Užsakomasis 11-os dienų tyrimas, kurio metu tikrintas „GreenZone“ skyriuje laikytų mėlynių vitamino C kiekis.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Daugiau lankstumo su kaitomuoju šaldikliu\" src=\"data/processed/flix_media/31461/Electrolux-275390860-PSEERE23BIA00002.webp\"/></figure><div class=\"flixf-body\"><h3>Daugiau lankstumo su kaitomuoju šaldikliu</h3><p>Mėgaukitės didesnėmis šaldytuvo-šaldiklio galimybėmis – naudokite šaldiklį kaip jums patinka. Dabar šaldiklyje galite nustatyti +4 °C temperatūrą ir naudoti jį kaip šaldytuvą arba tiesiog nustatyti įprastą nuo –15 °C iki –24 °C šaldiklio temperatūrą.</p></div></article></section>",
+  "short_description": "",
+  "sku": "ENV9MC18S",
+  "regular_price": "1489.00",
+  "sale_price": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": true,
+  "stock_quantity": 3,
+  "backorders": "no",
+  "backorders_allowed": false,
+  "backordered": false,
+  "supplier_sku_prefix": "RP-",
+  "weight": "73.00",
+  "dimensions": {
+    "length": "54.9",
+    "width": "54.6",
+    "height": "177.2"
+  },
+  "shipping_required": true,
+  "shipping_taxable": true,
+  "shipping_class": "prenta",
+  "reviews_allowed": true,
+  "categories": [
+    {
+      "name": "Kodutehnika > Integreeritav kodutehnika > Integreeritavad külmikud",
+      "slug": "kodutehnika-integreeritav-kodutehnika-integreeritavad-klmikud"
+    }
+  ],
+  "brands": [
+    {
+      "name": "ELECTROLUX",
+      "slug": "electrolux"
+    }
+  ],
+  "tags": [],
+  "images": [
+    {
+      "src": "data/processed/product_images/31461/image_1.webp",
+      "position": 0,
+      "alt": "ENV9MC18S",
+      "origin": "prenta",
+      "source_url": "https://e.prenta.lt/web/image/product.product/31461/image?unique=bb9b6b4"
+    }
+  ],
+  "meta_data": [
+    {
+      "key": "_bp_gtin13",
+      "value": "7332543994748"
+    },
+    {
+      "key": "_bp_supplier",
+      "value": "Prenta"
+    },
+    {
+      "key": "_bp_brand",
+      "value": "ELECTROLUX"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Producer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Electrolux"
+      ]
+    },
+    {
+      "name": "Type of installation",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Built in"
+      ]
+    },
+    {
+      "name": "Type",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Fridge with bottom freezer"
+      ]
+    },
+    {
+      "name": "Type of refrigeration technology",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No frost"
+      ]
+    },
+    {
+      "name": "Standardized width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "55.0"
+      ]
+    },
+    {
+      "name": "Height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "177.2"
+      ]
+    },
+    {
+      "name": "Width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "54.6"
+      ]
+    },
+    {
+      "name": "Depth",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "54.9"
+      ]
+    },
+    {
+      "name": " Color",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "White"
+      ]
+    },
+    {
+      "name": "New Energy efficiency class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "C"
+      ]
+    },
+    {
+      "name": "Cold drawer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Close to 0 ° C zone"
+      ]
+    },
+    {
+      "name": "Freezer to fridge",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Control",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Internal touch control LCD"
+      ]
+    },
+    {
+      "name": "Annual energy consumption",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "154"
+      ]
+    },
+    {
+      "name": "Net capacity of refrigerator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "165"
+      ]
+    },
+    {
+      "name": "Net capacity of freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "62"
+      ]
+    },
+    {
+      "name": "Telescopic rails of cold drawer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Type of hinges",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Sliding"
+      ]
+    },
+    {
+      "name": "Soft door closing",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Metallized rear wall",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Door handle",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Humidity controlled drawer for fruits/vegetables",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Ice maker",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Type of compressor",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Inverter"
+      ]
+    },
+    {
+      "name": "Fan",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Air cleaning filter",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Antibacterial technology",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Bottle shelf",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Divisible glass shelf",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Door lock ",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Open door signal",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Rising temperature indicator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": " Eco mode",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Holiday function",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Individually adjustable door shelves",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Rapid cooling in refrigerator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Reversible doors",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Lighting",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "LED"
+      ]
+    },
+    {
+      "name": "Number of freezer boxes/shelfs",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "3"
+      ]
+    },
+    {
+      "name": "Fully removable drawers and intermediate glass shelves in freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Freezer freezing temperature",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "-15°C - -24°C"
+      ]
+    },
+    {
+      "name": "Fast freeze function in freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Noise level",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "35"
+      ]
+    },
+    {
+      "name": "Noise level class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "B"
+      ]
+    },
+    {
+      "name": "Standardized height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "180"
+      ]
+    },
+    {
+      "name": "Wi-Fi",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Maximum freezer storage time in power failure",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "11"
+      ]
+    },
+    {
+      "name": "Freezing capacity in 24 hours",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "9.0"
+      ]
+    },
+    {
+      "name": "Energy efficiency class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "C"
+      ]
+    }
+  ],
+  "source": {
+    "prenta_product_id": 31461,
+    "prenta_category_path": "All > Saleable > Home appliances > Built in > Fridge",
+    "prenta_category_id": 27
+  }
+}

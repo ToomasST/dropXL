@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:3838782648267 3838782648267 Microwave oven GORENJE BM235G1SYB",
+  "search_queries": {
+    "main_query": "integreeritav mikrolaineahi grilliga Gorenje BM235G1SYB must 23 l",
+    "additional_queries": [
+      "kuidas valida integreeritav 60 cm köögimoodulisse sobiv grilliga mikrolaineahi Gorenje jaoks",
+      "integreeritav 23 l mikrolaineahi grilliga musta klaasiga väikesele köögile",
+      "Gorenje BM235G1SYB võrdlus teiste 23 l integreeritavate mikrolaineahjudega",
+      "kuidas kasutada ja puhastada Gorenje BM235G1SYB mikrolaineahju AquaClean funktsiooniga ja millised programmid tal on"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Gorenje BM235G1SYB sobib minu olemasolevasse köögimööbli nišši?",
+      "answer": "See mudel on integreeritav mikrolaineahi, mis on mõeldud standardsesse 60 cm laiusesse köögimoodulisse. Tootja andmetel on paigaldusmõõdud ligikaudu laius 56 cm, kõrgus 36,5 cm ja sügavus 55 cm. Kui sinu köögikapi nišš on vähemalt sama lai ja sügav ning kõrgus jääb samasse vahemikku, peaks ahi hästi sobima. Soovitame enne ostu niši üle mõõta ja võrrelda neid mõõte tootelehel toodud paigaldusmõõtudega."
+    },
+    {
+      "question": "Kui lihtne on Gorenje BM235G1SYB kasutada ja kuidas toimub puhastamine?",
+      "answer": "BM235G1SYB on puutejuhtimisega integreeritav mikrolaineahi, millel on 5 võimsusastet ja mitmed automaatsed küpsetus- ja sulatusprogrammid. See tähendab, et igapäevane kasutus on lihtne – valid toidutüübi ja kaalu ning ahi seab ise sobiva võimsuse ja aja. Sisepind on roostevabast terasest ning ahjul on AquaClean puhastusfunktsioon: asetad ahju veega kuumakindla nõu, lased spetsiaalse programmi joosta ja tekkiv aur pehmendab mustuse, et see oleks lihtne niiske lapiga ära pühkida. Igapäevaseks hoolduseks piisabki sisepinna ülekuivatamisest ja pöördaluse pesemisest."
+    },
+    {
+      "question": "Kui töökindel on Gorenje BM235G1SYB ja milline on garantii ning hinna-väärtuse suhe?",
+      "answer": "Gorenje BM235G1SYB on roostevaba sisepinnaga integreeritav mikrolaineahi, mille 23 liitrine töömaht, 900 W mikrolainevõimsus ja 1200 W grill annavad piisava jõudluse igapäevaseks soojendamiseks, sulatamiseks ja lihtsamateks gratäänroognadeks. Roostevabast terasest kamber ja kvaliteetne kvartsgrill on üldjuhul vastupidavad lahendused, eeldusel et järgida kasutus- ja puhastusjuhiseid. Gorenje kodutehnika standardgarantii on tavaliselt vähemalt 2 aastat, kuid täpne garantiiperiood ja tingimused sõltuvad müüjast ja riigist, seega tasub need enne ostu konkreetse kaupluse juurest üle vaadata. Arvestades, et tegu on integreeritava, grillfunktsiooniga mudeliga, pakub see hea hinna eest nii ruumisäästu kui ka mitmekülgse kasutuse köögis."
+    }
+  ]
+}

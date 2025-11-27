@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:4016803117551 4016803117551 ICNd 5133",
+  "search_queries": {
+    "main_query": "Liebherr ICNd 5133 integreeritav külmik-sügavkülm 177 cm NoFrost veepaagiga jäämasin Wi‑Fi",
+    "additional_queries": [
+      "Integreeritav 177 cm külmik sügavkülmaga uksele‑uksele kinnitusega ja pehme sulgumisega (Liebherr ICNd 5133)",
+      "Kuidas vältida käsitsi sulatamist köögis – NoFrost integreeritav külmik Liebherr ICNd 5133",
+      "Veepaagiga IceMaker integreeritavas külmikus: kas vajab veeühendust? (Liebherr ICNd 5133)",
+      "Vaikne 34 dB sisseehitatav külmik väikse energiakuluga D‑klass – mõõdud 177 × 55,9 × 54,6 cm"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Millist probleemi ICNd 5133 lahendab ja mis on suurim kasutegur?",
+      "answer": "Sügavkülmas ei teki härmatist, seega pole käsitsi sulatamist vaja (NoFrost). Niiskust reguleeritav köögiviljakast hoiab puu‑ ja köögiviljad kauem värskena, õhufilter vähendab lõhnu, Wi‑Fi ja uksealarmi teavitused annavad rahu ning energiat tarbib seade keskmisest säästlikumalt (183 kWh/a, energiaklass D). Netomahud 183 L + 71 L sobivad pere igapäevaseks kasutuseks."
+    },
+    {
+      "question": "Kas see mahub minu köögikappi ja mis kinnitusviisiga see on?",
+      "answer": "Seadme mõõdud (K×L×S) on 177 × 55,9 × 54,6 cm. Mudel on integreeritav uksele‑uksele (door‑on‑door) kinnitusviisiga, uksi saab soovi korral ümber tõsta (pööratavad uksed) ning pehme sulgumise mehhanism kaitseb nii mööblit kui ka toiduaineid."
+    },
+    {
+      "question": "Kas jäämasin vajab püsivat veeühendust ja kui vali see külmik on?",
+      "answer": "Püsivat veeühendust pole vaja – sisseehitatud IceMaker töötab veepaagiga (täidetav käsitsi). Seade on väga vaikne: müratase 34 dB (klass B). Sügavkülm külmutab kuni 6 kg/24 h ja hoiab elektrikatkestuse korral toitu kuni 9 tundi."
+    }
+  ]
+}

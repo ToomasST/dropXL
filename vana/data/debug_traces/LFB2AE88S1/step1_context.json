@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394077376 7333394077376 LFB2AE88S1",
+  "search_queries": {
+    "main_query": "Electrolux LFB2AE88S1 integreeritav külmik sügavkülmiku sektsiooniga",
+    "additional_queries": [
+      "Electrolux LFB2AE88S1 integreeritav külmik 87,3 cm liughinged",
+      "Electrolux 500 OptiSpace sisseehitatav külmik LFB2AE88S1",
+      "Integreeritav külmik 60 cm, 109 l + 14 l, energiaklass E – Electrolux LFB2AE88S1",
+      "Vaikne (37 dB) sisseehitatav külmik LED valgustusega – Electrolux LFB2AE88S1"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas see mudel on integreeritav ja millised on mõõdud ning ukse kinnitus?",
+      "answer": "Jah, Electrolux LFB2AE88S1 on integreeritav külmik liughingedega (sliding hinges). Ukse suund on pööratav. Välismõõdud: kõrgus 87,3 cm, laius 54,8 cm, sügavus 54,9 cm. Standardiseeritud mõõt: laius 60 cm, kõrgus 90 cm."
+    },
+    {
+      "question": "Kui suur on külmiku ja sügavkülmiku maht ning milline on sügavkülm?",
+      "answer": "Netomaht: külmik 109 l ja sügavkülm 14 l (üks 4-tärni sektsioon kuni −18 °C; vahemik −15…−24 °C). Külmutusvõime on 2,5 kg/24 h ja elektrikatkestuse korral säilitab külm 9 tundi."
+    },
+    {
+      "question": "Milline on energiaklass ja müratase? Kas on NoFrost?",
+      "answer": "Energiaklass E, aastane energiatarve 143 kWh. Müratase 37 dB (klass C). Jahutustehnoloogia on statiline (NoFrost puudub). Mugavused: sisemine elektrooniline (puute)juhtimine, LED-valgustus, kiirjahutus külmikus ja kiirkülmutus sügavkülmas."
+    }
+  ]
+}

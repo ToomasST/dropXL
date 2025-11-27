@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394109749 7333394109749 Oven ELECTROLUX LOC9P3XZ",
+  "search_queries": {
+    "main_query": "Electrolux LOC9P3XZ integreeritav auruga ja pürolüüsiga ahi",
+    "additional_queries": [
+      "kuidas küpsetada mahlast liha ja pealt krõbedat Electrolux SteamCrisp ahjus LOC9P3XZ",
+      "integreeritav 60 cm 72 l pürolüüsiga auruahi Electrolux LOC9P3XZ suure pere kööki",
+      "mille poolest erineb Electrolux LOC9P3XZ aurufunktsiooniga ahi tavalistest integreeritavatest ahjudest",
+      "kuidas kasutada SteamCrisp ja pirolüüsi puhastusfunktsiooni Electrolux LOC9P3XZ ahjus"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LOC9P3XZ ahi sobib minu kööki ja vajadustele?",
+      "answer": "Electrolux LOC9P3XZ on 60 cm laiune integreeritav elektriahi, mis sobib standardsesse 60 × 60 cm sisseehitatavasse kappi (ahju enda mõõdud u 59,4 × 59,4 × 56,9 cm). 72-liitrine mahutavus sobib hästi perele või neile, kes küpsetavad tihti suuremaid koguseid. Ahi vajab elektritoidet (tüüp: Electric). Mudelil on osaline aurufunktsioon (SteamCrisp, 50% aur), 21 kuumutusfunktsiooni ja 75 automaatprogrammi, seega sobib see kasutajale, kes väärtustab mitmekülgseid küpsetusviise, nutikaid abifunktsioone (Wi‑Fi, AI TasteAssist, CookSmart Touch) ja energiasäästu (energiaklass A++). Täpse sobivuse tagamiseks kontrollige oma köögimööbli nišimõõte ja paigaldusvõimalusi."
+    },
+    {
+      "question": "Kui lihtne on Electrolux LOC9P3XZ ahju kasutada ja hooldada?",
+      "answer": "Ahi on varustatud puutejuhtimise ja tekstiekraaniga CookSmart Touch paneeliga, mis pakub automaatseid programme (sh programmi valik kaalu järgi), soovitab temperatuuri ning võimaldab salvestada tihti kasutatavaid seadeid. AI TasteAssist ja Electroluxi rakendus (App Store / Play Store) aitavad kohandada retsepte auruküpsetuseks. Auruga küpsetamiseks kasutatakse SteamCrisp funktsiooni, mis ühendab kuuma õhu ja auru. Hooldust lihtsustab pirolüütiline puhastus (Pyroluxe): kõrgel temperatuuril põlevad rasv ja toidujäägid tuhaks, mille saab pärast tsükli lõppu niiske lapiga ära pühkida. Sisendinfo ei kirjelda täpseid kasutus- ja hooldussamme, seega järgige detailseid juhiseid toote ametlikust kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel on Electrolux LOC9P3XZ, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Sisendinfo ei täpsusta garantiitingimusi ega garantiiaega – need sõltuvad müüjast ja riigist, seega soovitame kontrollida vastavat infot otse müüjalt või garantiitingimustest. Töökindlusele ja kasutusmugavusele viitavad mitmed lahendused: turvafunktsioon automaatse väljalülitusega, jääksoojuse indikaator, lapselukk, pehme ahjuukse sulgumine, kolmekordne ukseklaas ning liugrelssüsteem ühel tasandil. A++ energiatõhususklass aitab vähendada energiakulu. Lisaväärtust annavad SteamCrisp aurufunktsioon, 72 l mahutavus, 21 kuumutusfunktsiooni, 75 automaatprogrammi, lihatermomeeter, kiire eelkuumenemine, Wi‑Fi ja nutikad rakendusfunktsioonid (AI TasteAssist, MealAssist). Kõik need omadused kokku teevad mudelist kõrgema klassi ahju, mille pikaajaline kasu väljendub mugavamas toiduvalmistamises ja potentsiaalselt väiksemas energiakulus."
+    }
+  ]
+}

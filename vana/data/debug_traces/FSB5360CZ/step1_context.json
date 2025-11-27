@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543719549 7332543719549 FSB5360CZ",
+  "search_queries": {
+    "main_query": "AEG FSB5360CZ integreeritav nõudepesumasin 60 cm",
+    "additional_queries": [
+      "AEG FSB5360CZ SatelliteClean AirDry nõudepesumasin",
+      "AEG nõudepesumasin 13 komplekti 44 dB D klass",
+      "AEG integreeritav nõudepesumasin QuickSelect Ecometer",
+      "FSB5360CZ mõõdud 59.6 x 55 x 81.8–89.8 cm PerfectFit"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas see mudel on vaikne ja kui ökonoomne see on?",
+      "answer": "Jah. Müratase on 44 dB (müra klass B), mis on avatud köökidesse sobivalt vaikne. Uue energiamärgise järgi klass D; energiakulu on 84 kWh / 100 tsüklit ning vee kulu 9,9 l ühe tsükli kohta. Inverter-mootor aitab hoida töö sujuva ja efektiivsena."
+    },
+    {
+      "question": "Kuidas see nõud puhtaks ja kuivaks saab? Mis on SatelliteClean ja AirDry?",
+      "answer": "SatelliteClean tagab kuni 3× parema veekatvuse kui tavaline pihusti – pöörlev pihusti muudab pidevalt nurka ja vesi jõuab ka nurkadesse ning tihedalt paigutatud nõude vahele. Kuivatamiseks kasutab masin AirDry tehnoloogiat: programmi lõpus avaneb uks automaatselt kuni ~10 cm, et kasutada loomulikku õhuvoolu ja vähendada energiakulu."
+    },
+    {
+      "question": "Kas see sobib minu integreeritavasse 60 cm kappi ja kas paigaldus on lihtne?",
+      "answer": "Jah, tegu on täisintegreeritava 60 cm nõudepesumasinaga (13 komplekti). Paigaldusmõõdud: laius 59,6 cm, sügavus 55 cm, kõrgus reguleeritav 81,8–89,8 cm. Libisevad PerfectFit hinged võimaldavad sujuvat sobitamist, reeglina ilma soklit lõikamata. Juhtpaneel on sisemine, ukse lõpus on põrandale kuvatav valgussignaal (tsükli ajal punane, lõpus roheline). Wi‑Fi puudub."
+    }
+  ]
+}

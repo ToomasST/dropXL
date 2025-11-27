@@ -1,0 +1,1045 @@
+[
+  {
+    "product_id": 9872,
+    "product": {
+      "attribute_line_ids": [
+        {
+          "attribute_id": 486,
+          "value_id": 6187
+        }
+      ],
+      "barcode": "8020283042414",
+      "category_id": 42,
+      "compound_name": "Hob accessory ELICA CONNECTOR 59MM ø150",
+      "country_of_origin_id": 110,
+      "date_edited": "2025-07-24T07:21:29+00:00",
+      "delivery_lead_time": 1,
+      "description": "",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"8020283042414\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 9872,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/9872/image?unique=15d40e7"
+      ],
+      "internal_reference": "KIT0121003",
+      "manufacturer_id": 17,
+      "name": "CONNECTOR 59MM ø150",
+      "price_rrp": 12.0,
+      "product_line": "Elica Exclusive",
+      "units_per_package": 1,
+      "volume": 0.01,
+      "weight": 0.158
+    },
+    "attributes_kv": {
+      "Producer": "Elica"
+    },
+    "attributes_kv_slug": {
+      "producer": "Elica"
+    },
+    "price": {
+      "gross_price": 9.92,
+      "price": 7.94,
+      "product_id": 9872
+    },
+    "stock": {
+      "forecast_date": "2025-11-28",
+      "product_id": 9872,
+      "qty": 5
+    },
+    "category": {
+      "id": 42,
+      "name": "Hob accessory"
+    },
+    "manufacturer": {
+      "id": 17,
+      "name": "ELICA"
+    },
+    "description_text": "",
+    "image_primary": "https://e.prenta.lt/web/image/product.product/9872/image?unique=15d40e7",
+    "images_count": 1,
+    "category_path": "All > Saleable > Home appliances > Accessories > Hob accessory",
+    "category_hierarchy": [
+      "All",
+      "Saleable",
+      "Home appliances",
+      "Accessories",
+      "Hob accessory"
+    ],
+    "sku": "KIT0121003",
+    "ean": "8020283042414",
+    "flixmedia_html": "<script type=\"text/javascript\" src=\"https://media.flixcar.com/modular/js/minify/15151/?url=/clamps/modularvnew/js/service.js&amp;v=32&amp;ftype=button&amp;d=15151&amp;l=en&amp;mpn=KIT0121003&amp;ean=8020283042414&amp;sku=KIT0121003&amp;dom=flix-minisite&amp;brand=ELICA&amp;fl=lt&amp;ssl=1&amp;dmn=ZS5wcmVudGEubHQ=&amp;ext=.js\" async=\"\" crossorigin=\"true\"></script>",
+    "flixmedia_status": "rendered",
+    "flixmedia_error": null,
+    "flixmedia_iframe_src": null
+  },
+  {
+    "product_id": 24379,
+    "product": {
+      "attribute_line_ids": [],
+      "barcode": "4004822203256",
+      "category_id": 69,
+      "compound_name": "Other RITTER Peeler DE 203025",
+      "country_of_origin_id": 58,
+      "date_edited": "2025-09-22T09:28:47+00:00",
+      "delivery_lead_time": 0,
+      "description": "<p style='margin-bottom: 10px; color: rgb(51, 51, 51); font-family: \"Source Sans Pro\", \"Helvetica Neue\", Helvetica, Arial, sans-serif; font-size: 14px;'><a href=\"https://www.youtube.com/watch?v=hfvedFWXZcc\" target=\"_blank\" style=\"color: rgb(60, 141, 188);\">Ritter \"made in Germany\"</a> video</p><p style='margin-bottom: 10px; color: rgb(51, 51, 51); font-family: \"Source Sans Pro\", \"Helvetica Neue\", Helvetica, Arial, sans-serif; font-size: 14px;'><a href=\"https://www.youtube.com/watch?v=o-sHX7rZSsE\" title=\"\" target=\"_blank\" style=\"color: rgb(60, 141, 188);\">About Ritter</a>  video </p>",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"4004822203256\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 24379,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/24379/image?unique=8222744",
+        "https://e.prenta.lt/web/image/product.image/14934/image_big?unique=8e695a8"
+      ],
+      "internal_reference": "Peeler",
+      "manufacturer_id": 26354,
+      "name": "Peeler DE 203025",
+      "price_rrp": 9.99,
+      "product_line": "ritter Exclusive",
+      "units_per_package": 40,
+      "volume": 0.01,
+      "weight": 0.011
+    },
+    "attributes_kv": {},
+    "attributes_kv_slug": {},
+    "price": {
+      "gross_price": 8.26,
+      "price": 6.61,
+      "product_id": 24379
+    },
+    "stock": {
+      "forecast_date": null,
+      "product_id": 24379,
+      "qty": 0
+    },
+    "category": {
+      "id": 69,
+      "name": "Other"
+    },
+    "manufacturer": {
+      "id": 26354,
+      "name": "RITTER"
+    },
+    "description_text": "Ritter \"made in Germany\" videoAbout Ritter  video",
+    "image_primary": "https://e.prenta.lt/web/image/product.product/24379/image?unique=8222744",
+    "images_count": 2,
+    "category_path": "All > Saleable > Home appliances > Small domestic appliances > Other",
+    "category_hierarchy": [
+      "All",
+      "Saleable",
+      "Home appliances",
+      "Small domestic appliances",
+      "Other"
+    ],
+    "sku": "Peeler",
+    "ean": "4004822203256",
+    "flixmedia_html": "<script type=\"text/javascript\" src=\"https://media.flixcar.com/modular/js/minify/15151/?url=/clamps/modularvnew/js/service.js&amp;v=32&amp;ftype=button&amp;d=15151&amp;l=en&amp;mpn=Peeler&amp;ean=4004822203256&amp;sku=Peeler&amp;dom=flix-minisite&amp;brand=RITTER&amp;fl=lt&amp;ssl=1&amp;dmn=ZS5wcmVudGEubHQ=&amp;ext=.js\" async=\"\" crossorigin=\"true\"></script>",
+    "flixmedia_status": "rendered",
+    "flixmedia_error": null,
+    "flixmedia_iframe_src": null
+  },
+  {
+    "product_id": 15878,
+    "product": {
+      "attribute_line_ids": [
+        {
+          "attribute_id": 486,
+          "value_id": 6187
+        }
+      ],
+      "barcode": "8020283044784",
+      "category_id": 48,
+      "compound_name": "Hood accessory ELICA Charcoal filter (CFC0141529A)",
+      "country_of_origin_id": 110,
+      "date_edited": "2025-09-24T13:26:34+00:00",
+      "delivery_lead_time": 1,
+      "description": "<p><br></p>",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"8020283044784\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 15878,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/15878/image?unique=057e358"
+      ],
+      "internal_reference": "CFC0141529A",
+      "manufacturer_id": 17,
+      "name": "Charcoal filter (CFC0141529A)",
+      "price_rrp": 13.0,
+      "product_line": "Elica Exclusive",
+      "units_per_package": 1,
+      "volume": 0.01,
+      "weight": 0.7
+    },
+    "attributes_kv": {
+      "Producer": "Elica"
+    },
+    "attributes_kv_slug": {
+      "producer": "Elica"
+    },
+    "price": {
+      "gross_price": 10.74,
+      "price": 8.59,
+      "product_id": 15878
+    },
+    "stock": {
+      "forecast_date": "2025-09-29",
+      "product_id": 15878,
+      "qty": 5
+    },
+    "category": {
+      "id": 48,
+      "name": "Hood accessory"
+    },
+    "manufacturer": {
+      "id": 17,
+      "name": "ELICA"
+    },
+    "description_text": "",
+    "image_primary": "https://e.prenta.lt/web/image/product.product/15878/image?unique=057e358",
+    "images_count": 1,
+    "category_path": "All > Saleable > Home appliances > Accessories > Hood accessory",
+    "category_hierarchy": [
+      "All",
+      "Saleable",
+      "Home appliances",
+      "Accessories",
+      "Hood accessory"
+    ],
+    "sku": "CFC0141529A",
+    "ean": "8020283044784",
+    "flixmedia_html": "<script type=\"text/javascript\" src=\"https://media.flixcar.com/modular/js/minify/15151/?url=/clamps/modularvnew/js/service.js&amp;v=32&amp;ftype=button&amp;d=15151&amp;l=en&amp;mpn=CFC0141529A&amp;ean=8020283044784&amp;sku=CFC0141529A&amp;dom=flix-minisite&amp;brand=ELICA&amp;fl=lt&amp;ssl=1&amp;dmn=ZS5wcmVudGEubHQ=&amp;ext=.js\" async=\"\" crossorigin=\"true\"></script>",
+    "flixmedia_status": "rendered",
+    "flixmedia_error": null,
+    "flixmedia_iframe_src": null
+  },
+  {
+    "product_id": 15818,
+    "product": {
+      "attribute_line_ids": [
+        {
+          "attribute_id": 486,
+          "value_id": 6187
+        }
+      ],
+      "barcode": "8020283044821",
+      "category_id": 48,
+      "compound_name": "Hood accessory ELICA Charcoal filter for ERA, CT17, ELITE 14, ELITE 14 PLUS, TT14 LUX, SLIMMY, CIAK 2.0 & 2.0 S models",
+      "country_of_origin_id": 110,
+      "date_edited": "2025-10-08T11:59:55+00:00",
+      "delivery_lead_time": 45,
+      "description": "",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"8020283044821\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 15818,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/15818/image?unique=60dcd19"
+      ],
+      "internal_reference": "CFC0141571",
+      "manufacturer_id": 17,
+      "name": "Charcoal filter for ERA, CT17, ELITE 14, ELITE 14 PLUS, TT14 LUX, SLIMMY, CIAK 2.0 & 2.0 S models",
+      "price_rrp": 13.0,
+      "product_line": "Elica Exclusive",
+      "units_per_package": 1,
+      "volume": 0.01,
+      "weight": 0.73
+    },
+    "attributes_kv": {
+      "Producer": "Elica"
+    },
+    "attributes_kv_slug": {
+      "producer": "Elica"
+    },
+    "price": {
+      "gross_price": 10.74,
+      "price": 8.59,
+      "product_id": 15818
+    },
+    "stock": {
+      "forecast_date": "2025-11-28",
+      "product_id": 15818,
+      "qty": 5
+    },
+    "category": {
+      "id": 48,
+      "name": "Hood accessory"
+    },
+    "manufacturer": {
+      "id": 17,
+      "name": "ELICA"
+    },
+    "description_text": "",
+    "image_primary": "https://e.prenta.lt/web/image/product.product/15818/image?unique=60dcd19",
+    "images_count": 1,
+    "category_path": "All > Saleable > Home appliances > Accessories > Hood accessory",
+    "category_hierarchy": [
+      "All",
+      "Saleable",
+      "Home appliances",
+      "Accessories",
+      "Hood accessory"
+    ],
+    "sku": "CFC0141571",
+    "ean": "8020283044821",
+    "flixmedia_html": "<script type=\"text/javascript\" src=\"https://media.flixcar.com/modular/js/minify/15151/?url=/clamps/modularvnew/js/service.js&amp;v=32&amp;ftype=button&amp;d=15151&amp;l=en&amp;mpn=CFC0141571&amp;ean=8020283044821&amp;sku=CFC0141571&amp;dom=flix-minisite&amp;brand=ELICA&amp;fl=lt&amp;ssl=1&amp;dmn=ZS5wcmVudGEubHQ=&amp;ext=.js\" async=\"\" crossorigin=\"true\"></script>",
+    "flixmedia_status": "rendered",
+    "flixmedia_error": null,
+    "flixmedia_iframe_src": null
+  },
+  {
+    "product_id": 3412,
+    "product": {
+      "attribute_line_ids": [
+        {
+          "attribute_id": 486,
+          "value_id": 6187
+        }
+      ],
+      "barcode": "9900000021511",
+      "category_id": 48,
+      "compound_name": "Hood accessory ELICA Anglinis filtras Verve gartraukiui 460X330",
+      "country_of_origin_id": 110,
+      "date_edited": "2025-02-21T12:17:58+00:00",
+      "delivery_lead_time": 1,
+      "description": "",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"9900000021511\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 3412,
+      "images": [],
+      "internal_reference": "F00480",
+      "manufacturer_id": 17,
+      "name": "Anglinis filtras Verve gartraukiui 460X330",
+      "price_rrp": 10.0,
+      "product_line": "Elica Exclusive",
+      "units_per_package": 1,
+      "volume": 0.01,
+      "weight": 0.807
+    },
+    "attributes_kv": {
+      "Producer": "Elica"
+    },
+    "attributes_kv_slug": {
+      "producer": "Elica"
+    },
+    "price": {
+      "gross_price": 8.27,
+      "price": 6.62,
+      "product_id": 3412
+    },
+    "stock": {
+      "forecast_date": null,
+      "product_id": 3412,
+      "qty": 0
+    },
+    "category": {
+      "id": 48,
+      "name": "Hood accessory"
+    },
+    "manufacturer": {
+      "id": 17,
+      "name": "ELICA"
+    },
+    "description_text": "",
+    "image_primary": null,
+    "images_count": 0,
+    "category_path": "All > Saleable > Home appliances > Accessories > Hood accessory",
+    "category_hierarchy": [
+      "All",
+      "Saleable",
+      "Home appliances",
+      "Accessories",
+      "Hood accessory"
+    ],
+    "sku": "F00480",
+    "ean": "9900000021511",
+    "flixmedia_html": "<script type=\"text/javascript\" src=\"https://media.flixcar.com/modular/js/minify/15151/?url=/clamps/modularvnew/js/service.js&amp;v=32&amp;ftype=button&amp;d=15151&amp;l=en&amp;mpn=F00480&amp;ean=9900000021511&amp;sku=F00480&amp;dom=flix-minisite&amp;brand=ELICA&amp;fl=lt&amp;ssl=1&amp;dmn=ZS5wcmVudGEubHQ=&amp;ext=.js\" async=\"\" crossorigin=\"true\"></script>",
+    "flixmedia_status": "rendered",
+    "flixmedia_error": null,
+    "flixmedia_iframe_src": null
+  },
+  {
+    "product_id": 9901,
+    "product": {
+      "attribute_line_ids": [
+        {
+          "attribute_id": 486,
+          "value_id": 6187
+        }
+      ],
+      "barcode": "8020283042520",
+      "category_id": 42,
+      "compound_name": "Hob accessory ELICA CONNECTOR 70 MM 218X55",
+      "country_of_origin_id": 110,
+      "date_edited": "2025-09-01T14:22:47+00:00",
+      "delivery_lead_time": 1,
+      "description": "<p><span style=\"font-size: 13px;\">Pipe fittings for filtering version LHOV, NIKOLATESLA SUIT, NIKOLATESLA EVO</span></p>",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"8020283042520\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 9901,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/9901/image?unique=10daec8"
+      ],
+      "internal_reference": "KIT0121015",
+      "manufacturer_id": 17,
+      "name": "CONNECTOR 70 MM 218X55",
+      "price_rrp": 12.0,
+      "product_line": "Elica Exclusive",
+      "units_per_package": 1,
+      "volume": 0.01,
+      "weight": 0.184
+    },
+    "attributes_kv": {
+      "Producer": "Elica"
+    },
+    "attributes_kv_slug": {
+      "producer": "Elica"
+    },
+    "price": {
+      "gross_price": 9.92,
+      "price": 7.94,
+      "product_id": 9901
+    },
+    "stock": {
+      "forecast_date": "2025-11-28",
+      "product_id": 9901,
+      "qty": 1
+    },
+    "category": {
+      "id": 42,
+      "name": "Hob accessory"
+    },
+    "manufacturer": {
+      "id": 17,
+      "name": "ELICA"
+    },
+    "description_text": "Pipe fittings for filtering version LHOV, NIKOLATESLA SUIT, NIKOLATESLA EVO",
+    "image_primary": "https://e.prenta.lt/web/image/product.product/9901/image?unique=10daec8",
+    "images_count": 1,
+    "category_path": "All > Saleable > Home appliances > Accessories > Hob accessory",
+    "category_hierarchy": [
+      "All",
+      "Saleable",
+      "Home appliances",
+      "Accessories",
+      "Hob accessory"
+    ],
+    "sku": "KIT0121015",
+    "ean": "8020283042520",
+    "flixmedia_html": "<script type=\"text/javascript\" src=\"https://media.flixcar.com/modular/js/minify/15151/?url=/clamps/modularvnew/js/service.js&amp;v=32&amp;ftype=button&amp;d=15151&amp;l=en&amp;mpn=KIT0121015&amp;ean=8020283042520&amp;sku=KIT0121015&amp;dom=flix-minisite&amp;brand=ELICA&amp;fl=lt&amp;ssl=1&amp;dmn=ZS5wcmVudGEubHQ=&amp;ext=.js\" async=\"\" crossorigin=\"true\"></script>",
+    "flixmedia_status": "rendered",
+    "flixmedia_error": null,
+    "flixmedia_iframe_src": null
+  },
+  {
+    "product_id": 16063,
+    "product": {
+      "attribute_line_ids": [],
+      "barcode": "8020283044791",
+      "category_id": 48,
+      "compound_name": "Hood accessory ELICA Charcoal filter for Missy and Box In Standard models",
+      "country_of_origin_id": 110,
+      "date_edited": "2025-08-18T14:15:47+00:00",
+      "delivery_lead_time": 45,
+      "description": "",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"8020283044791\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 16063,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/16063/image?unique=6e111b4"
+      ],
+      "internal_reference": "CFC0141497",
+      "manufacturer_id": 17,
+      "name": "Charcoal filter for Missy and Box In Standard models",
+      "price_rrp": 14.0,
+      "product_line": "Elica Exclusive",
+      "units_per_package": 1,
+      "volume": 0.01,
+      "weight": 0.97
+    },
+    "attributes_kv": {},
+    "attributes_kv_slug": {},
+    "price": {
+      "gross_price": 11.57,
+      "price": 9.26,
+      "product_id": 16063
+    },
+    "stock": {
+      "forecast_date": null,
+      "product_id": 16063,
+      "qty": 0
+    },
+    "category": {
+      "id": 48,
+      "name": "Hood accessory"
+    },
+    "manufacturer": {
+      "id": 17,
+      "name": "ELICA"
+    },
+    "description_text": "",
+    "image_primary": "https://e.prenta.lt/web/image/product.product/16063/image?unique=6e111b4",
+    "images_count": 1,
+    "category_path": "All > Saleable > Home appliances > Accessories > Hood accessory",
+    "category_hierarchy": [
+      "All",
+      "Saleable",
+      "Home appliances",
+      "Accessories",
+      "Hood accessory"
+    ],
+    "sku": "CFC0141497",
+    "ean": "8020283044791",
+    "flixmedia_html": "<script type=\"text/javascript\" src=\"https://media.flixcar.com/modular/js/minify/15151/?url=/clamps/modularvnew/js/service.js&amp;v=32&amp;ftype=button&amp;d=15151&amp;l=en&amp;mpn=CFC0141497&amp;ean=8020283044791&amp;sku=CFC0141497&amp;dom=flix-minisite&amp;brand=ELICA&amp;fl=lt&amp;ssl=1&amp;dmn=ZS5wcmVudGEubHQ=&amp;ext=.js\" async=\"\" crossorigin=\"true\"></script>",
+    "flixmedia_status": "rendered",
+    "flixmedia_error": null,
+    "flixmedia_iframe_src": null
+  },
+  {
+    "product_id": 2820,
+    "product": {
+      "attribute_line_ids": [],
+      "barcode": "9900000018740",
+      "category_id": 48,
+      "compound_name": "Hood accessory ELICA RACCORDO MULTIPLO 125 -100 mm",
+      "country_of_origin_id": 110,
+      "date_edited": "2024-07-23T08:30:47+00:00",
+      "delivery_lead_time": 1,
+      "description": "",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"9900000018740\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 2820,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/2820/image?unique=62145d0"
+      ],
+      "internal_reference": "1052L",
+      "manufacturer_id": 17,
+      "name": "RACCORDO MULTIPLO 125 -100 mm",
+      "price_rrp": 15.0,
+      "product_line": "Elica Exclusive",
+      "units_per_package": 1,
+      "volume": 0.01,
+      "weight": 0.052
+    },
+    "attributes_kv": {},
+    "attributes_kv_slug": {},
+    "price": {
+      "gross_price": 12.4,
+      "price": 9.92,
+      "product_id": 2820
+    },
+    "stock": {
+      "forecast_date": null,
+      "product_id": 2820,
+      "qty": 0
+    },
+    "category": {
+      "id": 48,
+      "name": "Hood accessory"
+    },
+    "manufacturer": {
+      "id": 17,
+      "name": "ELICA"
+    },
+    "description_text": "",
+    "image_primary": "https://e.prenta.lt/web/image/product.product/2820/image?unique=62145d0",
+    "images_count": 1,
+    "category_path": "All > Saleable > Home appliances > Accessories > Hood accessory",
+    "category_hierarchy": [
+      "All",
+      "Saleable",
+      "Home appliances",
+      "Accessories",
+      "Hood accessory"
+    ],
+    "sku": "1052L",
+    "ean": "9900000018740",
+    "flixmedia_html": "<script type=\"text/javascript\" src=\"https://media.flixcar.com/modular/js/minify/15151/?url=/clamps/modularvnew/js/service.js&amp;v=32&amp;ftype=button&amp;d=15151&amp;l=en&amp;mpn=1052L&amp;ean=9900000018740&amp;sku=1052L&amp;dom=flix-minisite&amp;brand=ELICA&amp;fl=lt&amp;ssl=1&amp;dmn=ZS5wcmVudGEubHQ=&amp;ext=.js\" async=\"\" crossorigin=\"true\"></script>",
+    "flixmedia_status": "rendered",
+    "flixmedia_error": null,
+    "flixmedia_iframe_src": null
+  },
+  {
+    "product_id": 2812,
+    "product": {
+      "attribute_line_ids": [
+        {
+          "attribute_id": 486,
+          "value_id": 6187
+        }
+      ],
+      "barcode": "9900000018849",
+      "category_id": 48,
+      "compound_name": "Hood accessory ELICA CURVA ROTONDA RETTANG.(1052Q)",
+      "country_of_origin_id": 110,
+      "date_edited": "2024-07-23T08:30:47+00:00",
+      "delivery_lead_time": 1,
+      "description": "",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"9900000018849\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 2812,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/2812/image?unique=62145d0"
+      ],
+      "internal_reference": "1052Q",
+      "manufacturer_id": 17,
+      "name": "CURVA ROTONDA RETTANG.(1052Q)",
+      "price_rrp": 15.0,
+      "product_line": "Elica Exclusive",
+      "units_per_package": 1,
+      "volume": 0.01,
+      "weight": 0.22
+    },
+    "attributes_kv": {
+      "Producer": "Elica"
+    },
+    "attributes_kv_slug": {
+      "producer": "Elica"
+    },
+    "price": {
+      "gross_price": 12.4,
+      "price": 9.92,
+      "product_id": 2812
+    },
+    "stock": {
+      "forecast_date": null,
+      "product_id": 2812,
+      "qty": 0
+    },
+    "category": {
+      "id": 48,
+      "name": "Hood accessory"
+    },
+    "manufacturer": {
+      "id": 17,
+      "name": "ELICA"
+    },
+    "description_text": "",
+    "image_primary": "https://e.prenta.lt/web/image/product.product/2812/image?unique=62145d0",
+    "images_count": 1,
+    "category_path": "All > Saleable > Home appliances > Accessories > Hood accessory",
+    "category_hierarchy": [
+      "All",
+      "Saleable",
+      "Home appliances",
+      "Accessories",
+      "Hood accessory"
+    ],
+    "sku": "1052Q",
+    "ean": "9900000018849",
+    "flixmedia_html": "<script type=\"text/javascript\" src=\"https://media.flixcar.com/modular/js/minify/15151/?url=/clamps/modularvnew/js/service.js&amp;v=32&amp;ftype=button&amp;d=15151&amp;l=en&amp;mpn=1052Q&amp;ean=9900000018849&amp;sku=1052Q&amp;dom=flix-minisite&amp;brand=ELICA&amp;fl=lt&amp;ssl=1&amp;dmn=ZS5wcmVudGEubHQ=&amp;ext=.js\" async=\"\" crossorigin=\"true\"></script>",
+    "flixmedia_status": "rendered",
+    "flixmedia_error": null,
+    "flixmedia_iframe_src": null
+  },
+  {
+    "product_id": 9916,
+    "product": {
+      "attribute_line_ids": [
+        {
+          "attribute_id": 486,
+          "value_id": 6187
+        }
+      ],
+      "barcode": "8020283042407",
+      "category_id": 42,
+      "compound_name": "Hob accessory ELICA CONNECTOR 80MM 227X94",
+      "country_of_origin_id": 110,
+      "date_edited": "2025-09-23T14:04:42+00:00",
+      "delivery_lead_time": 1,
+      "description": "<p><br></p>",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"8020283042407\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 9916,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/9916/image?unique=6748eaa"
+      ],
+      "internal_reference": "KIT0121001",
+      "manufacturer_id": 17,
+      "name": "CONNECTOR 80MM 227X94",
+      "price_rrp": 15.0,
+      "product_line": "Elica Exclusive",
+      "units_per_package": 1,
+      "volume": 0.01,
+      "weight": 0.105
+    },
+    "attributes_kv": {
+      "Producer": "Elica"
+    },
+    "attributes_kv_slug": {
+      "producer": "Elica"
+    },
+    "price": {
+      "gross_price": 12.4,
+      "price": 9.92,
+      "product_id": 9916
+    },
+    "stock": {
+      "forecast_date": "2025-11-28",
+      "product_id": 9916,
+      "qty": 0
+    },
+    "category": {
+      "id": 42,
+      "name": "Hob accessory"
+    },
+    "manufacturer": {
+      "id": 17,
+      "name": "ELICA"
+    },
+    "description_text": "",
+    "image_primary": "https://e.prenta.lt/web/image/product.product/9916/image?unique=6748eaa",
+    "images_count": 1,
+    "category_path": "All > Saleable > Home appliances > Accessories > Hob accessory",
+    "category_hierarchy": [
+      "All",
+      "Saleable",
+      "Home appliances",
+      "Accessories",
+      "Hob accessory"
+    ],
+    "sku": "KIT0121001",
+    "ean": "8020283042407",
+    "flixmedia_html": "<script type=\"text/javascript\" src=\"https://media.flixcar.com/modular/js/minify/15151/?url=/clamps/modularvnew/js/service.js&amp;v=32&amp;ftype=button&amp;d=15151&amp;l=en&amp;mpn=KIT0121001&amp;ean=8020283042407&amp;sku=KIT0121001&amp;dom=flix-minisite&amp;brand=ELICA&amp;fl=lt&amp;ssl=1&amp;dmn=ZS5wcmVudGEubHQ=&amp;ext=.js\" async=\"\" crossorigin=\"true\"></script>",
+    "flixmedia_status": "rendered",
+    "flixmedia_error": null,
+    "flixmedia_iframe_src": null
+  },
+  {
+    "product_id": 2840,
+    "product": {
+      "attribute_line_ids": [],
+      "barcode": "9900000018726",
+      "category_id": 48,
+      "compound_name": "Hood accessory ELICA GIUNZIONE RETT. ROTONDO",
+      "country_of_origin_id": 110,
+      "date_edited": "2024-07-23T08:30:47+00:00",
+      "delivery_lead_time": 1,
+      "description": "",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"9900000018726\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 2840,
+      "images": [],
+      "internal_reference": "1052G",
+      "manufacturer_id": 17,
+      "name": "GIUNZIONE RETT. ROTONDO",
+      "price_rrp": 17.0,
+      "product_line": "Elica Exclusive",
+      "units_per_package": 1,
+      "volume": 0.01,
+      "weight": 0.13
+    },
+    "attributes_kv": {},
+    "attributes_kv_slug": {},
+    "price": {
+      "gross_price": 14.05,
+      "price": 11.24,
+      "product_id": 2840
+    },
+    "stock": {
+      "forecast_date": null,
+      "product_id": 2840,
+      "qty": 0
+    },
+    "category": {
+      "id": 48,
+      "name": "Hood accessory"
+    },
+    "manufacturer": {
+      "id": 17,
+      "name": "ELICA"
+    },
+    "description_text": "",
+    "image_primary": null,
+    "images_count": 0,
+    "category_path": "All > Saleable > Home appliances > Accessories > Hood accessory",
+    "category_hierarchy": [
+      "All",
+      "Saleable",
+      "Home appliances",
+      "Accessories",
+      "Hood accessory"
+    ],
+    "sku": "1052G",
+    "ean": "9900000018726",
+    "flixmedia_html": "<script type=\"text/javascript\" src=\"https://media.flixcar.com/modular/js/minify/15151/?url=/clamps/modularvnew/js/service.js&amp;v=32&amp;ftype=button&amp;d=15151&amp;l=en&amp;mpn=1052G&amp;ean=9900000018726&amp;sku=1052G&amp;dom=flix-minisite&amp;brand=ELICA&amp;fl=lt&amp;ssl=1&amp;dmn=ZS5wcmVudGEubHQ=&amp;ext=.js\" async=\"\" crossorigin=\"true\"></script>",
+    "flixmedia_status": "rendered",
+    "flixmedia_error": null,
+    "flixmedia_iframe_src": null
+  },
+  {
+    "product_id": 2932,
+    "product": {
+      "attribute_line_ids": [],
+      "barcode": "9900000018887",
+      "category_id": 48,
+      "compound_name": "Hood accessory ELICA GIUNZIONE RETTANGOLARE",
+      "country_of_origin_id": 110,
+      "date_edited": "2024-07-23T08:30:47+00:00",
+      "delivery_lead_time": 1,
+      "description": "",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"9900000018887\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 2932,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/2932/image?unique=62145d0"
+      ],
+      "internal_reference": "1053N",
+      "manufacturer_id": 17,
+      "name": "GIUNZIONE RETTANGOLARE",
+      "price_rrp": 19.0,
+      "product_line": "Elica Exclusive",
+      "units_per_package": 1,
+      "volume": 0.01,
+      "weight": 0.135
+    },
+    "attributes_kv": {},
+    "attributes_kv_slug": {},
+    "price": {
+      "gross_price": 15.71,
+      "price": 12.57,
+      "product_id": 2932
+    },
+    "stock": {
+      "forecast_date": null,
+      "product_id": 2932,
+      "qty": 0
+    },
+    "category": {
+      "id": 48,
+      "name": "Hood accessory"
+    },
+    "manufacturer": {
+      "id": 17,
+      "name": "ELICA"
+    },
+    "description_text": "",
+    "image_primary": "https://e.prenta.lt/web/image/product.product/2932/image?unique=62145d0",
+    "images_count": 1,
+    "category_path": "All > Saleable > Home appliances > Accessories > Hood accessory",
+    "category_hierarchy": [
+      "All",
+      "Saleable",
+      "Home appliances",
+      "Accessories",
+      "Hood accessory"
+    ],
+    "sku": "1053N",
+    "ean": "9900000018887",
+    "flixmedia_html": "<script type=\"text/javascript\" src=\"https://media.flixcar.com/modular/js/minify/15151/?url=/clamps/modularvnew/js/service.js&amp;v=32&amp;ftype=button&amp;d=15151&amp;l=en&amp;mpn=1053N&amp;ean=9900000018887&amp;sku=1053N&amp;dom=flix-minisite&amp;brand=ELICA&amp;fl=lt&amp;ssl=1&amp;dmn=ZS5wcmVudGEubHQ=&amp;ext=.js\" async=\"\" crossorigin=\"true\"></script>",
+    "flixmedia_status": "rendered",
+    "flixmedia_error": null,
+    "flixmedia_iframe_src": null
+  },
+  {
+    "product_id": 1802,
+    "product": {
+      "attribute_line_ids": [
+        {
+          "attribute_id": 486,
+          "value_id": 6187
+        }
+      ],
+      "barcode": "9900000010515",
+      "category_id": 48,
+      "compound_name": "Hood accessory ELICA Anglies filtras Nikita",
+      "country_of_origin_id": 110,
+      "date_edited": "2025-07-24T07:21:29+00:00",
+      "delivery_lead_time": 1,
+      "description": "<p><br></p>",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"9900000010515\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 1802,
+      "images": [],
+      "internal_reference": "F00315/S",
+      "manufacturer_id": 17,
+      "name": "Anglies filtras Nikita",
+      "price_rrp": 19.0,
+      "product_line": "Elica Exclusive",
+      "units_per_package": 1,
+      "volume": 0.01,
+      "weight": 0.65
+    },
+    "attributes_kv": {
+      "Producer": "Elica"
+    },
+    "attributes_kv_slug": {
+      "producer": "Elica"
+    },
+    "price": {
+      "gross_price": 15.71,
+      "price": 12.57,
+      "product_id": 1802
+    },
+    "stock": {
+      "forecast_date": null,
+      "product_id": 1802,
+      "qty": 5
+    },
+    "category": {
+      "id": 48,
+      "name": "Hood accessory"
+    },
+    "manufacturer": {
+      "id": 17,
+      "name": "ELICA"
+    },
+    "description_text": "",
+    "image_primary": null,
+    "images_count": 0,
+    "category_path": "All > Saleable > Home appliances > Accessories > Hood accessory",
+    "category_hierarchy": [
+      "All",
+      "Saleable",
+      "Home appliances",
+      "Accessories",
+      "Hood accessory"
+    ],
+    "sku": "F00315/S",
+    "ean": "9900000010515",
+    "flixmedia_html": "<script type=\"text/javascript\" src=\"https://media.flixcar.com/modular/js/minify/15151/?url=/clamps/modularvnew/js/service.js&amp;v=32&amp;ftype=button&amp;d=15151&amp;l=en&amp;mpn=F00315%2FS&amp;ean=9900000010515&amp;sku=F00315%2FS&amp;dom=flix-minisite&amp;brand=ELICA&amp;fl=lt&amp;ssl=1&amp;dmn=ZS5wcmVudGEubHQ=&amp;ext=.js\" async=\"\" crossorigin=\"true\"></script>",
+    "flixmedia_status": "rendered",
+    "flixmedia_error": null,
+    "flixmedia_iframe_src": null
+  },
+  {
+    "product_id": 10048,
+    "product": {
+      "attribute_line_ids": [
+        {
+          "attribute_id": 486,
+          "value_id": 6187
+        }
+      ],
+      "barcode": "8020283042384",
+      "category_id": 42,
+      "compound_name": "Hob accessory ELICA PIPE ø150 500MM",
+      "country_of_origin_id": 110,
+      "date_edited": "2025-07-01T12:44:37+00:00",
+      "delivery_lead_time": 1,
+      "description": "<p>For hoods duct-out version.<br>Ø150x500 mm</p>",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"8020283042384\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 10048,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/10048/image?unique=a8e1600"
+      ],
+      "internal_reference": "KIT0120996",
+      "manufacturer_id": 17,
+      "name": "PIPE ø150 500MM",
+      "price_rrp": 19.0,
+      "product_line": "Elica Exclusive",
+      "units_per_package": 1,
+      "volume": 0.04,
+      "weight": 0.69
+    },
+    "attributes_kv": {
+      "Producer": "Elica"
+    },
+    "attributes_kv_slug": {
+      "producer": "Elica"
+    },
+    "price": {
+      "gross_price": 15.71,
+      "price": 12.57,
+      "product_id": 10048
+    },
+    "stock": {
+      "forecast_date": "2025-11-28",
+      "product_id": 10048,
+      "qty": 4
+    },
+    "category": {
+      "id": 42,
+      "name": "Hob accessory"
+    },
+    "manufacturer": {
+      "id": 17,
+      "name": "ELICA"
+    },
+    "description_text": "For hoods duct-out version.Ø150x500 mm",
+    "image_primary": "https://e.prenta.lt/web/image/product.product/10048/image?unique=a8e1600",
+    "images_count": 1,
+    "category_path": "All > Saleable > Home appliances > Accessories > Hob accessory",
+    "category_hierarchy": [
+      "All",
+      "Saleable",
+      "Home appliances",
+      "Accessories",
+      "Hob accessory"
+    ],
+    "sku": "KIT0120996",
+    "ean": "8020283042384",
+    "flixmedia_html": "<script type=\"text/javascript\" src=\"https://media.flixcar.com/modular/js/minify/15151/?url=/clamps/modularvnew/js/service.js&amp;v=32&amp;ftype=button&amp;d=15151&amp;l=en&amp;mpn=KIT0120996&amp;ean=8020283042384&amp;sku=KIT0120996&amp;dom=flix-minisite&amp;brand=ELICA&amp;fl=lt&amp;ssl=1&amp;dmn=ZS5wcmVudGEubHQ=&amp;ext=.js\" async=\"\" crossorigin=\"true\"></script>",
+    "flixmedia_status": "rendered",
+    "flixmedia_error": null,
+    "flixmedia_iframe_src": null
+  },
+  {
+    "product_id": 2928,
+    "product": {
+      "attribute_line_ids": [
+        {
+          "attribute_id": 486,
+          "value_id": 6187
+        }
+      ],
+      "barcode": "9900000018962",
+      "category_id": 48,
+      "compound_name": "Hood accessory ELICA GUA NICOLL 150mm",
+      "country_of_origin_id": 110,
+      "date_edited": "2024-07-23T08:30:47+00:00",
+      "delivery_lead_time": 1,
+      "description": "",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"9900000018962\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 2928,
+      "images": [],
+      "internal_reference": "KIT0010809",
+      "manufacturer_id": 17,
+      "name": "GUA NICOLL 150mm",
+      "price_rrp": 19.0,
+      "product_line": "Elica Exclusive",
+      "units_per_package": 1,
+      "volume": 0.01,
+      "weight": 0.1
+    },
+    "attributes_kv": {
+      "Producer": "Elica"
+    },
+    "attributes_kv_slug": {
+      "producer": "Elica"
+    },
+    "price": {
+      "gross_price": 15.71,
+      "price": 12.57,
+      "product_id": 2928
+    },
+    "stock": {
+      "forecast_date": null,
+      "product_id": 2928,
+      "qty": 0
+    },
+    "category": {
+      "id": 48,
+      "name": "Hood accessory"
+    },
+    "manufacturer": {
+      "id": 17,
+      "name": "ELICA"
+    },
+    "description_text": "",
+    "image_primary": null,
+    "images_count": 0,
+    "category_path": "All > Saleable > Home appliances > Accessories > Hood accessory",
+    "category_hierarchy": [
+      "All",
+      "Saleable",
+      "Home appliances",
+      "Accessories",
+      "Hood accessory"
+    ],
+    "sku": "KIT0010809",
+    "ean": "9900000018962",
+      "flixmedia_html": "<script type=\"text/javascript\" src=\"https://media.flixcar.com/modular/js/minify/15151/?url=/clamps/modularvnew/js/service.js&amp;v=32&amp;ftype=button&amp;d=15151&amp;l=en&amp;mpn=KIT0010809&amp;ean=9900000018962&amp;sku=KIT0010809&amp;dom=flix-minisite&amp;brand=ELICA&amp;fl=lt&amp;ssl=1&amp;dmn=ZS5wcmVudGEubHQ=&amp;ext=.js\" async=\"\" crossorigin=\"true\"></script>",
+      "flixmedia_status": "rendered",
+      "flixmedia_error": null,
+      "flixmedia_iframe_src": null
+  }
+]

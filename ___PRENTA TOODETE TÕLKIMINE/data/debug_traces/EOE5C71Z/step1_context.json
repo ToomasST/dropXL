@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543664771 7332543664771 Oven ELECTROLUX EOE5C71Z",
+  "search_queries": {
+    "main_query": "Electrolux EOE5C71Z integreeritav elektriahi lihatermomeetriga",
+    "additional_queries": [
+      "kuidas küpsetada liha täpselt läbi ilma kuivaks ajamata Electrolux EOE5C71Z SenseCook lihatermomeetriga ahjus",
+      "72 l Electrolux EOE5C71Z A-klassi integreeritav ahi suure pere küpsetamiseks",
+      "millega erineb Electrolux EOE5C71Z tavalistest 60 cm integreeritavatest ahjudest",
+      "kuidas kasutada Electrolux EOE5C71Z ahju lihatermomeetrit ja puhastusfunktsiooni igapäevaselt"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EOE5C71Z ahi sobib minu kööki ja olemasolevasse köögimööbli kappi?",
+      "answer": "Electrolux EOE5C71Z on integreeritav elektriahi standardses 60 × 60 cm mõõdus. Tootja andmetel on ahju mõõdud ligikaudu 59,5 cm lai, 59,4 cm kõrge ja 56,9 cm sügav ning mahutavus 72 liitrit. See on mõeldud paigaldamiseks köögikappi kui sõltumatu ahi (ei ole pliidiplaadiga ühes korpuses). Üldjuhul sobib see standardse integreeritava ahju nišši, kuid enne ostu tasub üle mõõta olemasoleva kapi ava ning võrrelda seda tehniliste mõõtudega."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EOE5C71Z ahju kasutada ja kuidas seda hooldada?",
+      "answer": "Seda ahju on lihtne kasutada tänu LED laikma sekraanile ning nuppude ja puutejuhtimise kombinatsioonile. Ahi pakub 8 standardset küpsetusrežiimi koos pöördõhuga, nii et kuumus jaotub ühtlaselt ning toitu ei pea küpsetamise ajal pidevalt ümber tõstma. Komplektis on sisseehitatud lihatermomeeter: seadistate soovitud sisetemperatuuri, ahi jälgib seda ning peatab programmi, kui temperatuur on saavutatud.\n\nPuhastamise kohta ütleb tootekirjeldus, et ahjul on isepuhastuv kate/puhastusfunktsioon, mis aktiveerub kõrgemal temperatuuril, aidates rasva ja pritsmeid lagundada. Täpne puhastus- ja hooldusjuhend (millist programmi kasutada, milliseid vahendeid tohib kasutada) ei ole sisendandmetes detailselt kirjeldatud, seega soovitame lähtuda kasutusjuhendist ja müüja soovitustest."
+    },
+    {
+      "question": "Kui töökindel on Electrolux EOE5C71Z ja milline on hinna ning omaduste suhe?",
+      "answer": "Tootekirjeldus ei sisalda otseseid andmeid töökindluse- ega garantiitingimuste kohta, seega sõltub garantii kestus ja tingimused müüjast ja kohalike õigusaktide nõuetest – need tuleks enne ostu müüjalt üle küsida.\n\nHinna ja väärtuse mõttes pakub see mudel A energiaklassi, suurt 72-liitrist küpsetusmahtu, pöördõhu funktsiooni ühtlaseks küpsemiseks ning sisseehitatud lihatermomeetrit, mis aitab saavutada väga täpseid tulemusi (ahi peatab programmi, kui seatud sisetemperatuur on saavutatud). Lisaks lihtsustab hooldust sisseehitatud puhastusfunktsioon. Kui otsite standardmõõdus integreeritavat ahju, mis aitab eriti hästi liha ja suuremate roogade täpsel küpsetamisel, on see kombinatsioonil põhinev funktsionaalsus oma hinnaklassis tugev argument."
+    }
+  ]
+}

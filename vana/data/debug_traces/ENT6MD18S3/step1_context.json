@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394082691 7333394082691 ENT6MD18S3",
+  "search_queries": {
+    "main_query": "Electrolux ENT6MD18S3 integreeritav külmik-sügavkülm TwinTech No Frost",
+    "additional_queries": [
+      "ENT6MD18S3 liughingedega integreeritav külmik 177 cm",
+      "Electrolux 55 cm integreeritav külmik sügavkülmaga 192+61 l",
+      "No Frost integreeritav külmik Electrolux E energiaklass 34 dB",
+      "TwinTech MultiFlow Extra Chill Electrolux integreeritav külmik-sügavkülm"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas see mudel sobib minu köögimööbliga ja millised hinged tal on?",
+      "answer": "ENT6MD18S3 on integreeritav külmik-sügavkülm liughingedega (sliding). See tähendab, et mööbliesipaneel kinnitub seadme uksega liugsiinide abil. Ukse suunda saab vajadusel ümber tõsta (ümberpööratavad uksed). Enne ostu kontrolli, et sinu köögimööbel toetab liughingede süsteemi."
+    },
+    {
+      "question": "Millised on mõõdud, mahud ja müratase?",
+      "answer": "Seadme mõõdud: kõrgus 177.2 cm, laius 54.6 cm, sügavus 54.9 cm (standardlaius 55 cm). Külmiku netomaht 192 l, sügavkülma netomaht 61 l (3 sahtlit). Müratase 34 dB (müra klass B)."
+    },
+    {
+      "question": "Kas külmik on No Frost ja kas on erisahtleid värske toidu jaoks?",
+      "answer": "Jah, TwinTech No Frost hoiab sügavkülma härmatisvaba ning säilitab külmikus optimaalse niiskustasakaalu, et toit ei kuivaks. MultiFlow tagab ühtlase temperatuuri. On eraldi Extra Chill tsoon (lähedal 0 °C) liha/juustu värskuse hoidmiseks. Lisana on Kiirkülmutus (Fast Freeze), ukse lahtihoidmise helisignaal ning Eco ja Holiday režiimid. Energiatarve on 173 kWh/a ning uus energiamärgis E."
+    }
+  ]
+}

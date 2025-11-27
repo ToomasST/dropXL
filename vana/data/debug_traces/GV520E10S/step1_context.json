@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:3838782460814 3838782460814 GV520E10S",
+  "search_queries": {
+    "main_query": "Gorenje GV520E10S integreeritav 45 cm nõudepesumasin 11 komplekti 47 dB",
+    "additional_queries": [
+      "GV520E10S mõõdud ja paigaldus laius 44,8 cm sügavus 55 cm kõrgus 81,5–86,5 cm",
+      "Gorenje 45 cm nõudepesumasin invertermootor roostevaba vann E klass kuuma vee sisend",
+      "nõudepesumasin 45 cm 11 komplekti vaikne 47 dB täielikult integreeritav",
+      "Gorenje GV520E10S vee ja energiakulu 9,5 l tsükkel 81 kWh 100 tsüklit"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Millist probleemi GV520E10S lahendab ja kellele see sobib?",
+      "answer": "GV520E10S on 45 cm lai täielikult integreeritav nõudepesumasin, mis säästab ruumi ja automatiseerib igapäevase nõudepesu. 11 nõudekomplekti mahutavus sobib hästi väiksemale kuni keskmisele leibkonnale. Eco-tsükli veekulu on u 9,5 l ja energiakulu 81 kWh/100 tsüklit (energiamärgis E). Invertermootor, roostevabast terasest sisuvann ja kuuma vee sisselaske võimalus aitavad hoida töökindlust ja kulusid kontrolli all; ajasäästurežiim lühendab pesuaega, kui on kiire."
+    },
+    {
+      "question": "Kas GV520E10S mahub minu köögimööbli standardavasse?",
+      "answer": "Paigaldusmõõdud: laius 44,8 cm, sügavus 55,0 cm; kõrgus reguleeritav u 81,5–86,5 cm. Seade on täielikult integreeritav (juhtpaneel peidetud) ja vajab mööbliesipaneeli. Libisevaid hingesid ei ole ning paigaldus kõrgemale ei ole ette nähtud. Veendu, et ukse avamiseks jääb piisav ruum ja et vee-/äravooluühendused mahuksid 55 cm sügavusse."
+    },
+    {
+      "question": "Kas seadmel on viitkäivitus, automaatprogramm või Wi‑Fi?",
+      "answer": "Sellel mudelil viitkäivitust ja automaatprogrammi ei ole ning Wi‑Fi-d ei toetata. Küll aga on olemas ajasäästufunktsioon, kokku 5 programmi ja 3 korvi; müratase on 47 dB (müra klass C)."
+    }
+  ]
+}

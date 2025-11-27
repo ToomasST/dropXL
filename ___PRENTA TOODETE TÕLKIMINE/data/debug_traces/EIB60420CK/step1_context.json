@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543823840 7332543823840 Hob ELECTROLUX EIB60420CK",
+  "search_queries": {
+    "main_query": "Electrolux EIB60420CK 60 cm induktsioonpliidiplaat",
+    "additional_queries": [
+      "kuidas asendada vana elektriline pliidiplaat induktsioonplaadiga Electrolux EIB60420CK",
+      "4 keedualaga 6900 W 60 cm induktsioonpliidiplaat pere kööki",
+      "Electrolux EIB60420CK võrreldes teiste 60 cm induktsioonpliidiplaatidega",
+      "kuidas kasutada ja puhastada klaaskeraamilist induktsioonpliidiplaati Electrolux EIB60420CK"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EIB60420CK sobib minu kööki ja olemasolevasse tööpinna avasse?",
+      "answer": "Electrolux EIB60420CK on integreeritav induktsioonpliidiplaat pealtpaigalduseks. Tootemõõdud on ligikaudu 59 × 52 × 4,8 cm ning standardlaius on 60 cm. Kirjelduse järgi on see mõeldud varasema elektrilise pliidiplaadi asendamiseks ja sobib tüüpilisse elektriplaadi avasse tööpinnas, mistõttu on paigaldamine lihtne. Elektriühenduse (ühendusviis, kaitse jm) sobivust sisendinfo ei täpsusta – vajadusel tasub konsulteerida elektrikuga."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EIB60420CK kasutamine ja puhastamine?",
+      "answer": "See on induktsioonpliidiplaat, mis soojendab otse nõu põhja, mistõttu reageerib kuumus kiirelt ja täpselt. Pliidiplaadil on klaaskeraamiline (vitrokeramika) sile must pind ja jutiklülititega puutejuhtimine – seadeid muudetakse otse klaaspinnalt, ilma nuppude ja nupukeerajateta. See teeb kasutamise intuitiivseks ning puhastamise lihtsaks, sest tasasele pinnale ei jää väljaulatuvaid osi. Kiirkuumutuse (Power Booster) funktsioon aitab vee või poti eriti kiiresti keema ajada ning lapselukk võimaldab seadistused lukustada, et neid kogemata ei muudetaks."
+    },
+    {
+      "question": "Kui töökindel ja turvaline on Electrolux EIB60420CK ning mida peaks teadma garantii ja hinna-väärtuse suhte kohta?",
+      "answer": "Sisendinfo konkreetseid garantiitingimusi ei kirjelda, seega palume täpse garantii kestuse ja tingimused üle vaadata müüja lehel või ostudokumentidelt. Töökindluse osas viitab tooteinfo mitmele turva- ja mugavusfunktsioonile: lapselukk aitab vältida tahtmatuid seadetemuudatusi ning jääkkuumuse näidik annab märku kuumast keedualast pärast väljalülitamist. Induktsioontehnoloogia tagab kiire ja energiatõhusa kuumutamise, maksimaalne võimsus on 6900 W ning olemas on kiirkuumutuse funktsioon. Arvestades neid omadusi ja Electroluxi kaubamärki, pakub pliidiplaat mõistlikku hinna ja funktsioonide suhet integreeritava induktsioonlahendusena kööki."
+    }
+  ]
+}

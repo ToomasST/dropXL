@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394077376 7333394077376 Fridge ELECTROLUX LFB2AE88S1",
+  "search_queries": {
+    "main_query": "integreeritav külmik sügavkülmaga Electrolux LFB2AE88S1",
+    "additional_queries": [
+      "kuidas mahutada rohkem toitu väikesesse integreeritavasse külmikusse OptiSpace funktsiooniga",
+      "integreeritav külmik 87 cm 109 liitrit Electrolux väikesele köögile",
+      "Electrolux LFB2AE88S1 erinevus teistest integreeritavatest külmikutest OptiSpace ja LED valgustusega",
+      "kuidas paigaldada ja seadistada liughingedel integreeritav külmik Electrolux LFB2AE88S1 puutejuhtimisega"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LFB2AE88S1 sobib minu köögimööblisse ja ruumi?",
+      "answer": "See on integreeritav külmik sisseehitamiseks köögimööbli kappi. Standardlaius on 60 cm, seadme mõõdud on u 54,8 × 54,9 × 87,3 cm (l×s×k) ja standardkõrgus 90 cm klassis. Uks on liughingedel ning külg avatavust saab muuta (ümberpööratavad uksed). Enne ostu mõõtke oma kapp üle ja võrrelge tootja mõõtudega ning paigaldusjuhendiga, et veenduda sobivuses. Külmiku netomaht on 109 l ja sügavkülmal 14 l, seega sobivus mahult sõltub teie kasutusharjumustest."
+    },
+    {
+      "question": "Kui lihtne on seda külmikut kasutada ja hooldada?",
+      "answer": "Külmikul on sisemine elektrooniline puutejuhtimine, millega saab mugavalt reguleerida temperatuuri – LED-indikaatorid näitavad valitud seadeid. „OptiSpace“ lahendus pakub palju hoiuvõimalusi nii riiulitel kui ka laiusesse ulatuvas köögiviljasahtlis, mida saab vajadusel välja tõsta, et ruumi ümber korraldada. Sees on LED-valgustus, mis teeb toidu leidmise lihtsaks. Põhjalikud kasutus- ja puhastusjuhised (nt milliseid vahendeid kasutada) leiate tootja kasutusjuhendist, mis ei ole sisendmaterjalis detailselt kirjeldatud."
+    },
+    {
+      "question": "Kui töökindel ja energiasäästlik see mudel on ning milline on garantii ja hinna-väärtuse suhe?",
+      "answer": "Electrolux LFB2AE88S1 on statsiaalse jahutusega integreeritav külmik energiatõhususklassiga E, aastane energiatarve on 143 kWh. Sügavkülmaosa on nelja tärniga, saavutab kuni –18 °C ja võimaldab kiirkülmutust; 24 tunniga on külmutusvõime 2,5 kg ning voolukatkestuse korral hoiab see toitu külmas kuni 9 tundi (vastavalt sisendandmetele). LED-valgustus on energiasäästlikum kui tavalised pirnid. Garantii pikkus ja täpsed tingimused ei ole tooteinfoga kaasas – need sõltuvad müüjast ja riigipõhistest tingimustest, seega tasub need enne ostu üle küsida. Hinnale lisab väärtust integreeritav lahendus, OptiSpace mahukas siseplaneering ja eraldi neljatärni sügavkülm väikese kapi mõõtudes."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543669462 7332543669462 Hob ELECTROLUX LIR60433",
+  "search_queries": {
+    "main_query": "Electrolux LIR60433 60 cm induktsioonpliidiplaat PowerBoost ja Hob2Hood",
+    "additional_queries": [
+      "kuidas kiiremini vett keeta induktsioonpliidiplaadil Electrolux LIR60433 PowerBoost funktsiooniga",
+      "60 cm integreeritav induktsioonpliidiplaat 4 keedualaga Electrolux LIR60433 väiksele köögile",
+      "mille poolest erineb Electrolux LIR60433 teistest 60 cm induktsioonpliidiplaatidest",
+      "kuidas kasutada ja puhastada induktsioonpliidiplaati Electrolux LIR60433 puutejuhtimisega"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LIR60433 induktsioonpliidiplaat sobib minu kööki ja olemasolevasse töötasapinda?",
+      "answer": "See mudel on integreeritav induktsioonpliidiplaat, mis on mõeldud pealtpaigalduseks töötasapinda (surface mounting). Standardlaius on 60 cm, tegelik laius 59 cm, sügavus 52 cm ja kõrgus 4,4 cm. See tähendab, et see sobib enamikele 60 cm laiustele köögimoodulitele. Täpseid väljalõike mõõte sisendinfo ei kirjelda, seega tuleks need võtta paigaldusjuhendist või kontrollida müüjalt/paigaldajalt. Pliidiplaadil on Hob2Hood® funktsioon, mis saab juhtida ühilduvat köögikubu, kuid sisend ei täpsusta, millised konkreetsed kubud seda toetavad."
+    },
+    {
+      "question": "Kui lihtne on Electrolux LIR60433 kasutamine ja kuidas seda hooldada?",
+      "answer": "Pliidiplaat on puutejuhtimisega – kõiki seadeid muudetakse otse läbi sileda klaaskeraamilise (vitrokeramika) pinna, ilma nuppude ja keeratavate nupupeadeta. See teeb kasutamise intuitiivseks ning puhastamise lihtsaks, sest pind on täiesti sile. Sisend kirjeldab mitut mugavusfunktsiooni: PowerBoost kiireks kuumutamiseks, automaatne kuumutus, taimer (kuni 1 h), pausifunktsioon, jääksoojuse näidik ning lapselukk. Puhastamiseks piisab klaaspinna ülepühkimisest pärast jahtumist; täpseid soovitatavaid puhastusvahendeid sisendinfo ei täpsusta."
+    },
+    {
+      "question": "Kui töökindel on Electrolux LIR60433, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Sisendinfo ei anna konkreetseid andmeid ametliku garantii pikkuse või eritingimuste kohta, seega palume täpsustada garantiid müüjalt. Pliidiplaat on 7200 W võimsusega induktsioonmudel klaaskeraamilise pinnaga ning mõeldud igapäevaseks kasutamiseks. Hinna eest saab ostja mitmeid kõrgema klassi mugavusfunktsioone: PowerBoost väga kiireks kuumutamiseks, Hob2Hood® juhtmevaba koostöö ühilduva kubuga, taimeri, pausifunktsiooni, automaatse kuumutuse, jääksoojuse näidiku, lapseluku ja toitepiirangu võimaluse. Need funktsioonid lihtsustavad igapäevast toiduvalmistamist ja aitavad saavutada täpsemat tulemust, mis teeb mudeli atraktiivseks valikuks neile, kes otsivad modernset ja efektiivset integreeritavat pliidiplaati."
+    }
+  ]
+}

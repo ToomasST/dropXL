@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:3838782460807 3838782460807 GV520E11",
+  "search_queries": {
+    "main_query": "Gorenje GV520E11 45 cm täisintegreeritav nõudepesumasin 11 komplekti 47 dB tehnilised andmed",
+    "additional_queries": [
+      "GV520E11 mõõdud ja paigaldusnõuded (nišš 45×82×56 cm)",
+      "Gorenje 45 cm nõudepesumasin väikesele köögile veekulu 9,5 l Eco E energiaklass",
+      "GV520E11 programmid: kiire, intensiivne, Eco, leotus, igapäevane – kestused ja funktsioonid",
+      "AquaStop ja HalfLoad funktsiooniga integreeritav Gorenje nõudepesumasin musta paneeliga"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Millist probleemi GV520E11 lahendab ja kellele see sobib?",
+      "answer": "See 45 cm laiune täisintegreeritav nõudepesumasin säästab ruumi väiksemas köögis, kuid mahutab kuni 11 nõudekomplekti. Pooltäite (HalfLoad) funktsioon aitab väiksemate koguste korral vett ja energiat kokku hoida, Eco-programm kasutab umbes 9,5 l vett ning 81 kWh / 100 tsüklit, müratase on 47 dB – sobib avatud kööki. Täielik AquaStop kaitseb lekete eest. Sobib 1–4-liikmelisele majapidamisele, kus on oluline ruumisääst ja ökonoomsus. citeturn2view1turn0search2"
+    },
+    {
+      "question": "Kas see mahub minu köögimööbli nišši? Millised on mõõdud?",
+      "answer": "Toote mõõdud: laius 448 mm, kõrgus 815 mm (reguleeritav ~50 mm), sügavus 550 mm. Paigaldusniši miinimumnõuded: laius 450 mm, kõrgus 820 mm, sügavus 560 mm. Täisintegreeritav lahendus tähendab, et masina uksele kinnitatakse teie köögimööbli esipaneel. citeturn2view2turn0search4"
+    },
+    {
+      "question": "Millised programmid ja funktsioonid on olemas ning kui ökonoomne see on?",
+      "answer": "Programmid: Kiire, Intensiivne, Eco, Leotus, Igapäevane; põhipesu temperatuurid 60/45/35 °C. Eco-programmi kestus on kuni ~250 min. Lisad: HalfLoad (pooltäide), 3-ühes tableti tugi, kuuma vee ühendus (kuni 60 °C), 3 korvi sh ülemise korvi kõrguse kiirreguleerimine. Veekulu Eco tsüklis u 9,5 l, energiakulu 81 kWh / 100 tsüklit, müratase 47 dB. citeturn2view3turn0search1"
+    }
+  ]
+}

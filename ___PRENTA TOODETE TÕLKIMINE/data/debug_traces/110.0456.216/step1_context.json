@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7612981804145 7612981804145 Hood FABER IN-LIGHT WH MATT KL A52/2",
+  "search_queries": {
+    "main_query": "Faber IN-LIGHT WH MATT integreeritav õhupuhasti 60 cm",
+    "additional_queries": [
+      "kuidas ühendada Faber IN-LIGHT õhupuhasti juhtmevabalt Faber pliidiplaadiga",
+      "integreeritav õhupuhasti 60 cm 710 m3/h avatud köögi jaoks",
+      "millega erineb Faber IN-LIGHT WH MATT kubu teistest 60 cm integreeritavatest õhupuhastitest",
+      "kuidas paigaldada ja hooldada Faber IN-LIGHT sisseehitatavat õhupuhastit"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Faber IN-LIGHT WH MATT õhupuhasti sobib minu kööki ja olemasoleva süsteemiga?",
+      "answer": "See mudel on integreeritav (built-in) õhupuhasti standardlaiusega 60 cm, seega sobib enamiku 60 cm laiuse seinakapiga köögimööbli sisse. Õhupuhasti versioon on \"duct out\", mis tähendab, et see on mõeldud ühendamiseks väljatõmbe ventilatsioonitoruga. Tootel on 150 mm õhukanali ühendus, seega peab olemasolev ventilatsioonitoru olema sama mõõduga või kasutama sobivat üleminekut.\n\nJuhtmevaba ühendus pliidiga töötab tootja info järgi ainult FABER pliidiplaatidega. Tootekirjelduses on välja toodud ka eraldi söefiltri komplektid (F8 KIT, FHP8 KIT, FLL8 KIT), mida saab vajadusel eraldi soetada. Täpse sobivuse ja paigaldusmõõtude kontrollimiseks tuleks vaadata paigaldusjuhendit ja oma köögimööbli mõõte."
+    },
+    {
+      "question": "Kuidas Faber IN-LIGHT õhupuhastit igapäevaselt kasutada ja hooldada?",
+      "answer": "Õhupuhastil on elektrooniline juhtimine ning kaasas on 7T PREMIUM BLACK kaugjuhtimispult, mille abil saab mugavalt kiiruseid ja LED-valgust juhtida. Seadmel on minimaalne, maksimaalne ja võimendusrežiim (Booster) õhuhulgaga kuni 710 m³/h (IEC 61591 järgi), mida saab kasutada intensiivseks õhuvahetuseks.\n\nHoolduse kohta täpsed juhised ei ole tootekirjelduses detailselt välja toodud, kuid nagu kõigi õhupuhastite puhul, tuleb rasvafiltreid regulaarselt puhastada ning vajadusel vahetada söefiltreid, kui need on lisaks paigaldatud. Söefiltrid (F8 KIT, High Performance FHP8 KIT, Long Lasting FLL8 KIT) on saadaval eraldi tarvikutena. Puhastussagedus ja täpne hoolduskorraldus on toodud seadme kasutusjuhendis."
+    },
+    {
+      "question": "Kui töökindel ja energiatõhus see õhupuhasti on ning kas see on oma hinda väärt?",
+      "answer": "Tootekirjeldus annab mitmeid viiteid efektiivsusele: Faber IN-LIGHT WH MATT energiaklass on A, aastane energiatarve 60 kWh ning LED-valgustuse energiaklass samuti A. Maksimaalne õhuvool on 560 m³/h (Boost-režiimil kuni 710 m³/h), mis sobib ka suurema või avatud köögi tõhusaks ventileerimiseks. Perimeertõmme (perimeter aspiration) aitab tõhustada auru ja lõhnade kogumist.\n\nTäpset garantiiaega ja konkreetseid töökindluse näitajaid tootekirjeldus ei sisalda – garantiitingimused sõltuvad müüjast ja kehtivast seadusest. Hinna-väärtuse suhtes on tegu integreeritava lahendusega, mis pakub tugevat tõmbejõudu, energiatõhusat LED-valgust, kaugjuhtimispulti ning võimalust juhtmevabalt integreeruda FABER pliidiplaatidega, mis kokku teeb sellest funktsionaalse ja kaasaegse õhupuhasti lahenduse."
+    }
+  ]
+}

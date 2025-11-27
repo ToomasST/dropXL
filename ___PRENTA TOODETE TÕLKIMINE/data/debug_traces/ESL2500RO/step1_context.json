@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543765393 7332543765393 Dishwasher ELECTROLUX ESL2500RO",
+  "search_queries": {
+    "main_query": "Electrolux ESL2500RO integreeritav kompaktne nõudepesumasin 6 komplekti",
+    "additional_queries": [
+      "kuidas teha väikeses köögis nõudepesu mugavamaks kompaktse integreeritava nõudepesumasinaga Electrolux ESL2500RO",
+      "kompaktne integreeritav nõudepesumasin 6 nõudekomplektile 60 cm laiusega väikese korteri kööki",
+      "mille poolest erineb Electrolux ESL2500RO teistest kompaktsetest integreeritavatest nõudepesumasinatest",
+      "kuidas paigaldada ja kasutada Electrolux ESL2500RO integreeritavat nõudepesumasinat igapäevaselt"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux ESL2500RO sobib minu kööki ja olemasolevasse mööbliavasse?",
+      "answer": "Electrolux ESL2500RO on integreeritav kompaktne nõudepesumasin, mis on mõeldud sisseehitamiseks mööbli sisse. Andmete järgi on standardlaius 60 cm, tegelik laius umbes 55 cm ja sügavus 51,8 cm. Kõrgus on 43,8 cm (min ja max kõrgus on sama), seega sobib see eriti hästi madalamasse või piiratud kõrgusega avasse. Enne ostu soovitame üle mõõta olemasoleva kappiava ja võrrelda seda toodud mõõtudega. Sisendinfo ei täpsusta, kas mööbliesipaneel (ukseplaat) kuulub komplekti, seega tuleks see vajadusel müüjalt üle küsida."
+    },
+    {
+      "question": "Kui lihtne on seda nõudepesumasinat kasutada ja kas sellel on lühike programm näiteks peo ajal?",
+      "answer": "ESL2500RO kasutamine on lihtne – juhtelektroonika on LCD-ekraaniga ning juhtpaneel asub sisemisel küljel. Masinal on 6 erinevat pesuprogrammi ja 4 temperatuuriastet, sh spetsiaalne 20-minutiline „vabaõhtu“/peoprogramm kiireks vahepesuks. Lisaks on olemas viitstart ja automaatne väljalülitus. Hooldus käib vastavalt tootja kasutusjuhendile (filtrite puhastamine, soola ja loputusvahendi lisamine jms); täpseid hooldusjuhiseid toodud sisend ei kirjelda, seega tuleks juhinduda kaasasolevast manuaalist."
+    },
+    {
+      "question": "Kui töökindel see mudel on ja kas see on oma hinda väärt?",
+      "answer": "Sisendandmetes eraldi garantiitingimusi ega tööea pikkust ei kirjeldata, seega kehtivad üldised müüja ja tootja garantiireeglid (tuleb täpsustada müügikohas). Vastupidavuse seisukohalt on oluliseks plussiks täisroostevabast terasest kuvtüübel. Masin on tuntud brändi Electrolux kompaktne integreeritav mudel, mis mahutab 6 nõudekomplekti, tarbib vaid 6,5 l vett tsükli kohta ja 61 kWh 100 pesutsükli kohta (energiaklass F). Väikesele köögile või paarile pakub see ruumisäästlikku lahendust, mis vähendab käsitsi pesemise vajadust ja teeb igapäevase nõudepesu mugavamaks, mis õigustab hinda kasutusmugavuse ja ajasäästu kaudu."
+    }
+  ]
+}

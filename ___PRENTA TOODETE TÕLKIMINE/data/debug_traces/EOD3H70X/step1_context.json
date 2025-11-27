@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543717538 7332543717538 Oven ELECTROLUX EOD3H70X",
+  "search_queries": {
+    "main_query": "Electrolux EOD3H70X integreeritav aurufunktsiooniga ahi",
+    "additional_queries": [
+      "kuidas saada kodus pagarikvaliteediga saia ja saiakesi Electrolux SteamBake ahjuga EOD3H70X",
+      "72 l integreeritav elektriahi auruga suurele perele ja igapäevaseks küpsetamiseks",
+      "millega erineb Electrolux EOD3H70X tavalistest 60 cm integreeritavatest ahjudest",
+      "kuidas kasutada SteamBake ja AquaClean funktsioone Electrolux EOD3H70X ahjus ning hoida ahi puhtana"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EOD3H70X sobib minu kööki ja olemasolevasse mööblisse?",
+      "answer": "Electrolux EOD3H70X on integreeritav iseseisev elektriahi standardmõõdus 60 × 60 cm (kõrgus ja laius), sügavus umbes 56,9 cm. See sobib sisseehitamiseks enamiku tootjate tavapärasesse 60 cm ahjukappi, kui nišš vastab mõõtudele. Ahi vajab tavalist elektritoidet; gaasiga see ei tööta. Mahukas 72-liitrine küpsetusruum sobib hästi perele ja sagedaseks küpsetamiseks. Täpsed paigaldusmõõdud ja ühendusviisi leiab tootja paigaldusjuhendist; sisendinfo konkreetseid paigaldusnõudeid ega ühilduvust köögisüsteemidega ei täpsusta."
+    },
+    {
+      "question": "Kui lihtne on seda ahju kasutada ja kuidas seda puhastada?",
+      "answer": "EOD3H70X kasutamine on tehtud võimalikult lihtsaks: seadistamine toimub süvistatavate nuppude (Push in push out) ja LED-taimeri ekraani kaudu, millega saab täpselt määrata küpsetusaja. Ahjul on 9 küttefunktsiooni ning pöördõhu (konvektsiooni) „Even Cooking“ tehnoloogia, mis jaotab kuumuse ühtlaselt, et toitu ei peaks küpsemise ajal ringi tõstma.\n\nPuhastamisel aitab AquaClean aurupuhastus: ahju põhja valatakse vesi ja programm aurutab selleks, et pehmendada rasva ja pritsmeid, misjärel saab sisepinnad kergemini üle pühkida. See on looduslik ja keemiat mitte nõudev viis ahju värskena hoida. Täpne AquaClean programmi kasutus (veekogus, kestus jms) tuleks võtta tootja kasutusjuhendist, sest sisendinfo neid detaile ei kirjelda."
+    },
+    {
+      "question": "Kui töökindel on see ahi, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Sisendinfo ei kirjelda eraldi garantiiaega ega täpseid töökindluse näitajaid, seega tuleb garantiitingimused üle vaadata müüja või tootja ametlikust infost.\n\nHinna-väärtuse suhtes pakub Electrolux EOD3H70X mitut lisaboonust võrreldes lihtsamate integreeritavate ahjudega: SteamBake aurufunktsioon paremateks saiakesteks ja küpsetisteks, „Even Cooking“ ühtlane kuumus, AquaClean aurupuhastus lihtsamaks hoolduseks, suur 72 l küpsetusmaht, A energiaklass, üks tase teleskoopsiine mugavamaks plaatide väljatõmbamiseks ning jahe „Safe to Touch“ uksekonstruktsioon mitme klaasiga. Komplektis olevate restide ja küpsetusplaatide täpne koosseis ei ole sisendis kirjas. Kui soovite lisatarvikuid või pikendatud garantiid, tuleb need vajadusel eraldi juurde soetada."
+    }
+  ]
+}

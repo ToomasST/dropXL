@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394119625 7333394119625 Oven ELECTROLUX LOF6P16Z",
+  "search_queries": {
+    "main_query": "Electrolux LOF6P16Z pyrolüütilise puhastusega integreeritav ahi must",
+    "additional_queries": [
+      "kuidas saada ahjus ühtlane küpsetustulemus Electrolux SurroundCook 500 seeria ahjuga",
+      "72 l A++ pyrolüütilise puhastusega integreeritav ahi suurde kööki",
+      "mille poolest erineb Electrolux LOF6P16Z teistest sarnastest integreeritavatest ahjudest",
+      "kuidas kasutada ja puhastada pirolüüsi funktsiooniga Electrolux LOF6P16Z ahju"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LOF6P16Z sobib minu köögimööblisse ja vajadustele?",
+      "answer": "Electrolux LOF6P16Z on 60 cm laiune integreeritav (independent) elektriahi, mis on mõeldud köögimööbli sisse ehitamiseks. Toote standardkõrgus ja -laius on 60 cm ning mõõdud ligikaudu 59,4 × 59,4 × 56,9 cm (l×k×s), seega sobib see enamiku 60 cm integreeritavate ahjukappide lahendustega. 72-liitrine ruumikas ahi on hea valik, kui küpsetate sageli või soovite teha korraga mitu plaaditäit tänu pöördõhule ja kolmandale küttekehale. Aurufunktsiooni ja mikrolainet sel mudelil ei ole ning Wi-Fi ühendus puudub, seega kui vajate nutijuhtimist või auruahju, tasub seda arvestada. Täpse sobivuse tagamiseks kontrollige oma köögimööbli nišimõõte ja võrrelge neid ahju mõõtudega."
+    },
+    {
+      "question": "Kui lihtne on Electrolux LOF6P16Z ahju kasutada ja puhastada?",
+      "answer": "Ahju kasutamine on lihtne tänu EXPlore LED-ekraanile ja puutetundlikele nuppudele, millega saab mugavalt seada aega ja temperatuuri ning jälgida küpsetamist. Pööratavad PIPO-nupud (push in push out) teevad režiimide valimise lihtsaks. Ahi pakub 7 standardset kütterežiimi ja 45 automaatset küpsetusprogrammi ning annab automaatseid temperatuurisoovitusi. Kiire eelkuumutuse funktsioon säästab aega, pöördõhk ja SurroundCook/Even Cooking tehnoloogia tagavad ühtlase tulemuse ka mitmel tasandil korraga.\n\nPuhastamine on lahendatud pirolüütilise puhastuse (Pyroluxe) abil – ahi kuumutab end väga kõrgele temperatuurile, muudab rasva ja toidujäänused tuhaks ning pärast jahtumist saab need niiske lapiga hõlpsalt ära pühkida. Ahjul on ka puhastuse meeldetuletus. Sisendinfo ei kirjelda üksikasjalikult konkreetseid puhastusprogramme ega paigaldusjuhiseid, seega järgige kindlasti tootja kasutusjuhendit."
+    },
+    {
+      "question": "Kui töökindel ja turvaline on Electrolux LOF6P16Z ning kas see on oma hinda väärt?",
+      "answer": "Sisendinfo ei anna konkreetseid andmeid garantiiaja või töökindluse testide kohta, kuid tegu on tuntud tootja Electroluxi A++ energiatõhusa elektriahjuga. Turvalisust suurendavad automaatne väljalülitusfunktsioon, jääksoojust näitav indikaator, kolmekordne ahjuukse klaas ja lapselukk. Need vähendavad ülekuumenemise, põletuse ja laste juhusliku sisse-lülitamise riski.\n\nVäärtuspakkumise seisukohalt pakub ahi kõrge energiatõhususe klassi (A++), suurt 72 l mahtu, pirolüütilist isepuhastust, SurroundCook/Even Cooking ühtlast küpsetamist mitmel tasandil, kiiret eelkuumutust, 7 kütterežiimi ja 45 automaatprogrammi. See tähendab, et aja- ja energiasääst ning mugavus on tugevalt esindatud. Garantii pikkust ja täpseid järelteeninduse tingimusi sisend ei täpsusta, seega kontrollige need kindlasti müüjalt või tootja dokumentatsioonist."
+    }
+  ]
+}

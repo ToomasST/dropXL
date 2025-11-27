@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:4016803137450 4016803137450 ICBNci 5663",
+  "search_queries": {
+    "main_query": "Liebherr ICBNci 5663 integreeritav külmik-sügavkülmik BioFresh NoFrost – mõõdud 194–195/56–57/55",
+    "additional_queries": [
+      "integreeritav külmik 60 cm 194 cm nišši BioFresh 0°C sahtlitega",
+      "vaikne 33 dB Wi‑Fi integreeritav külmik VarioTemp funktsiooniga",
+      "Liebherr jäämasin veevärgiga ühendatav integreeritav külmik ICBNci 5663",
+      "kuidas hoida puu- ja köögivilju kauem värskena BioFresh 0°C sahtlis"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Mis on selle mudeli suurim kasutegur – kuidas ICBNci 5663 hoiab toidu kauem värskena?",
+      "answer": "BioFresh-sahtlid (Fruit & Vegetable Safe ja Meat & Dairy Safe) hoiavad temperatuuri ~0 °C juures, et puu‑ ja köögiviljad ning liha‑ ja piimatooted püsiksid kauem värsked. DuoCooling eraldab külmiku ja sügavkülma õhuringluse, mis vähendab lõhnade ülekandumist ja toidu kuivamist. Mudel on NoFrost-süsteemiga, mis hoiab sügavkülma jäävabana ja hoolduse lihtsana. citeturn0search4turn0search0"
+    },
+    {
+      "question": "Kas see mahub minu köögimööbli kappi? Mis on nõutavad niši mõõdud?",
+      "answer": "Jah, see mudel on mõeldud 194–195 cm (kõrgus) × 56–57 cm (laius) × 55 cm (sügavus) nišši. Välismõõdud on u 193,8 × 55,9 × 54,6 cm ning paigaldus on door‑on‑door tüüpi. Enne tellimist kontrolli, et kapis on piisav ventilatsioon ja niši kõrgus jääks 194–195 cm vahemikku. citeturn0search4"
+    },
+    {
+      "question": "Kas sügavkülmiku osa saab vajadusel külmikuks muuta (VarioTemp)?",
+      "answer": "Jah. VarioTemp võimaldab muuta sügavkülmiku temperatuuri vahemikus umbes −2 °C kuni +14 °C, et kasutada seda ajutiselt lisakülmikuna (nt jookide jahutamiseks) või toasoojale tundlike toiduainete hoidmiseks. citeturn0search0"
+    }
+  ]
+}

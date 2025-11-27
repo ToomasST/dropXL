@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394020150 7333394020150 Fridge ELECTROLUX ERD6DE18S1",
+  "search_queries": {
+    "main_query": "integreeritav külmik Electrolux ERD6DE18S1 DynamicAir 310 l",
+    "additional_queries": [
+      "kuidas hoida ühtlast temperatuuri külmikus DynamicAir tehnoloogiaga Electrolux ERD6DE18S1",
+      "integreeritav külmik 310 l inverterkompressoriga Electrolux ERD6DE18S1 vaikne 32 dB",
+      "millega erineb Electrolux ERD6DE18S1 teistest integreeritavatest külmikutest ilma sügavkülmata",
+      "kuidas paigaldada ja kasutada liughingedega integreeritavat külmikut Electrolux ERD6DE18S1 ja selle ExtraZone sahtleid"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux ERD6DE18S1 külmik sobib minu kööki ja mööblisse?",
+      "answer": "Tegemist on integreeritava külmikuga ilma sügavkülmikuta, mis on mõeldud köögimööbli sisse ehitamiseks. Seadme mõõdud on ligikaudu 177,2 × 54 × 54,9 cm (kõrgus × laius × sügavus) ja standarditud kõrgus 180 cm. Külmikul on liughinged ja pööratavad uksed, seega saab ukse avamissuunda muuta. Enne ostu kontrollige oma köögikapi sisemõõte ja liughingede sobivust – sisendinfo ei täpsusta konkreetseid nišimõõte ega kinnitussüsteemi detaile."
+    },
+    {
+      "question": "Kui lihtne on seda külmikut kasutada ja kuidas seda hooldada?",
+      "answer": "Electrolux ERD6DE18S1 on lihtsa kasutusloogikaga: juhtimine toimub sisemise puuteekraani (LCD) kaudu, külmikus on DynamicAir ventilaator ühtlase temperatuuri hoidmiseks, kiirjahutusfunktsioon, puu- ja juurviljasahtel niiskuskontrolliga ning 0 °C lähedane tsoon. ExtraZone sahtel ja suur täielikult väljatõmmatav sahtel aitavad toitu mugavalt korraldada. LED-valgustus tagab hea nähtavuse ja uksealarmi signaal hoiatab, kui uks on liiga kaua lahti. Täpseid puhastus- ja hooldusjuhiseid (nt kui tihti filtrit vahetada) sisend ei kirjelda – need leiab tootja kasutusjuhendist, mida tuleks kindlasti järgida."
+    },
+    {
+      "question": "Kui töökindel ja energiasäästlik see külmik on ning milline on hinna ja väärtuse suhe?",
+      "answer": "Külmikul on inverterkompressor, mis tagab stabiilsema töö ja vaiksema mürataseme (32 dB, müraklass B). DynamicAir ventilatsioon hoiab temperatuuri ühtlasena, õhupuhastusfilter aitab vähendada lõhnu ja niiskuskontrolliga sahtel hoiab puu- ja juurvilju kauem värskena. Aastane energiatarve on umbes 114 kWh ning energiatõhususklass E. Sisekest on osaliselt valmistatud taaskasutatud plastist (kuni 70% sisemisest katteplastist), mis vähendab keskkonnajalajälge. Garantii täpsed tingimused ei ole sisendis toodud ja sõltuvad müüjast/tootjast, kuid funktsioonide, mahutavuse (310 l) ja madala mürataseme tõttu pakub seade tugevat hinna-väärtuse suhet neile, kes otsivad kvaliteetset integreeritavat külmikut ilma sügavkülmata."
+    }
+  ]
+}

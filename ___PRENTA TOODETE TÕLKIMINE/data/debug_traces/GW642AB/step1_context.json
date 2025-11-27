@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:3838782467172 3838782467172 Hob GORENJE GW642AB",
+  "search_queries": {
+    "main_query": "Gorenje GW642AB integreeritav 60 cm gaasipliidiplaat wok-põletiga must",
+    "additional_queries": [
+      "kuidas saada köögis võimas wok-leek ja mitu potti korraga keeta – Gorenje GW642AB gaasipliidiplaat",
+      "60 cm 4 põletiga gaasipliidiplaat wok-põletiga musta teraspinnaga väikesele köögile",
+      "Gorenje GW642AB vs teised 60 cm malmrestidega gaasipliidiplaadid – kumba valida",
+      "kuidas paigaldada, ümber seadistada LPG-le ja puhastada Gorenje GW642AB gaasipliidiplaati"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Gorenje GW642AB sobib minu kööki ja olemasoleva gaasisüsteemiga?",
+      "answer": "Mudeli laius on 60 cm ja see on mõeldud töötasapinda süvistamiseks. Lõikeava mõõdud on ligikaudu 56 × 49 cm (laius × sügavus), seega sobib see enamikule standardsetele 60 cm köögimoodulitele. Tehaseseades töötab pliidiplaat loodusliku gaasiga (G20), kuid komplektis on ka düüsid vedelgaasile (LPG). Gaasiühenduse ning ülemineku looduslikult gaasilt balloonigaasile peab ohutuse huvides alati tegema kvalifitseeritud paigaldaja; enne ostu tasub kontrollida, kas sinu kodus on vastav gaasiühendus olemas."
+    },
+    {
+      "question": "Kui lihtne on Gorenje GW642AB kasutada ja hooldada?",
+      "answer": "Pliidiplaadil on nupust süüde – leegi süütamiseks vajutad nuppu alla ja keerad soovitud võimsusele, nii et teist kätt pole tarvis. Neli põletit (sh kahekordne WOK-põleti) katavad igapäevased toiduvalmistamisvajadused, võimsus ulatub kokku umbes 8,15 kW-ni. Malmrestid annavad nõudele stabiilse toe ning on puhastamiseks eemaldatavad; must metallpind on sile ja lihtsasti puhastatav pehme nuustiku ja sobiva puhastusvahendiga. Mudelil ei ole taimerit ega lapselukku, seega väikeste lastega kodus tuleb jälgida, et nupud ei oleks lastele kättesaadavad."
+    },
+    {
+      "question": "Kui töökindel on Gorenje GW642AB ja milline on hinna-väärtuse suhe?",
+      "answer": "GW642AB-l on massiivsed malmrestid ja lihtne mehaaniline juhtimine, mis tähendab vähe elektroonikat ja seega üldjuhul väiksemat rikketõenäosust. Põletitel on gaasikontrolli ehk leegi valveseade: kui leek peaks kustuma, katkestatakse gaasivool automaatselt, mis suurendab ohutust. Tavaliselt pakub tootja sellele mudelile vähemalt 24-kuulist garantiid, kuid täpsed tingimused sõltuvad müüjast ja riigist – need tasub enne ostu üle kontrollida. Arvestades võimast WOK-põletit, malmreste ja turvafunktsioone, pakub see mudel tugevat hinna ja kvaliteedi suhet neile, kes eelistavad gaasiga toiduvalmistamist."
+    }
+  ]
+}

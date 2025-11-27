@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283060593 8020283060593 Hood ELICA CT23 S IX/A/52",
+  "search_queries": {
+    "main_query": "integreeritav õhupuhasti 52 cm Elica CT23 S IX/A/52",
+    "additional_queries": [
+      "kuidas vähendada toidulõhnu ja auru väiksemas köögis integreeritava õhupuhastiga Elica CT23 S IX/A/52",
+      "integreeritav köögi õhupuhasti 710 m3/h 52 cm avatud köögi jaoks",
+      "Elica CT23 S IX/A/52 võrdlus teiste 52 cm integreeritavate õhupuhastitega",
+      "kuidas paigaldada ja puhastada integreeritav õhupuhasti Elica CT23 S IX/A/52"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica CT23 S IX/A/52 sobib minu kööki ja olemasolevasse mööblisse?",
+      "answer": "See mudel on täisintegreeritav õhupuhasti, mis on mõeldud paigaldamiseks ülemisse seina­kappi. Korpuse laius on ligikaudu 52 cm, seega sobib see tüüpilisse 60 cm laiusesse köögikappi. Tänu kuni umbes 710 m³/h õhuhulgale (vastavalt EL standardile) sobib see väikese ja keskmise suurusega köökidesse, sh avatud köögid, kus on vaja tugevamat õhupuhastust. Paigaldamiseks on vaja 150 mm läbimõõduga õhukanalit; kui soovite kasutada õhuringlust (ilma väljatõmbeta), tuleb lisaks soetada vastavad süsifiltrid, mis ei kuulu standardkomplekti."
+    },
+    {
+      "question": "Kui lihtne on Elica CT23 S IX/A/52 kasutada ja hooldada?",
+      "answer": "Õhupuhasti on igapäevaselt lihtne kasutada – elektroonilised nupud võimaldavad valida 3 töökiiruse ja intensiivrežiimi vahel. LED-valgusti valgustab pliidipinda ühtlaselt. Metallist rasvafilter on korduvkasutatav ja seda saab eemaldada ning pesta käsitsi või nõudepesumasinas. Mõnel versioonil on ka taimeri funktsioon ja rasvafiltri hooldusmeeldetuletus; täpse funktsionaalsuse kinnitab toote kasutusjuhend. Kui kasutate õhuringlusrežiimi, tuleb süsifiltrid vahetada tootja soovituste ja kasutussageduse järgi."
+    },
+    {
+      "question": "Kui töökindel on see mudel, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Elica CT23 S IX/A/52 on roostevabast terasest korpuse, metallrasvafiltri ja LED-valgustusega integreeritav õhupuhasti, mis on mõeldud pikaajaliseks kasutamiseks. Tootja ametlik garantii on tavaliselt 2 aastat (24 kuud), kuid täpsed tingimused sõltuvad müüjast ja riigipõhistest reeglitest. Tänu kõrgele õhuvõimsusele, suhteliselt madalale energiatarbimisele (u 65 kWh aastas) ning diskreetsele täisintegreeritavale disainile pakub see head hinna ja kvaliteedi suhet, eriti kui otsite võimsat, kuid silmale pea märkamatut õhupuhastit standardse 52 cm lahendusena."
+    }
+  ]
+}

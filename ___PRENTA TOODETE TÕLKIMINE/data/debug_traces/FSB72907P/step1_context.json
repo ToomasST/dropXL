@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543770694 7332543770694 Dishwasher AEG FSB72907P",
+  "search_queries": {
+    "main_query": "AEG integreeritav nõudepesumasin FSB72907P SatelliteClean MaxiFlex",
+    "additional_queries": [
+      "kuidas saada tihedalt laotud ja suurte nõudekomplektide puhtaks integreeritava nõudepesumasinaga AEG FSB72907P",
+      "integreeritav 60 cm AEG nõudepesumasin 14 nõudekomplekti ja 44 dB vaikne töö avaneva uksega",
+      "AEG FSB72907P võrdlus teiste integreeritavate nõudepesumasinatega SatelliteClean ja MaxiFlex lahendustega",
+      "kuidas kasutada ja hooldada AEG FSB72907P nõudepesumasinat (QuickSelect programmid, ukse automaatne avamine, põrandale suunatud valgus)"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG FSB72907P integreeritav nõudepesumasin sobib minu kööki ja nõudekogusele?",
+      "answer": "See mudel on täisintegreeritav 60 cm laiune nõudepesumasin, mis on mõeldud standardse köögimööbli kappi paigaldamiseks. Tootja järgi on minimaalne kõrgus 81,8 cm ja maksimaalne 89,8 cm, seega sobib ta enamikule tavalistele köögimoodulitele, mille esipaneel katab seadme täielikult. Arvestada tuleb ka sügavusega (toote pikkus on u 55 cm) ja mööbli enda mõõtudega.\n\nMasinal on 14 nõudekomplekti mahutavus ja 3 korvi, sh MaxiFlex söögiriistade / väikeste tarvikute sahtel, mis võimaldab mugavalt paigutada nii tavalisi kui ka ebastandardse kujuga tarvikuid. See teeb mudeli sobivaks nii igapäevaseks pere kasutuseks kui ka suuremate nõudekoguste pesemiseks. Konkreetsest köögimööbliga ühilduvusest (uksepaneel, kinnitusklambrid) sisendinfo rohkem detaile ei anna, seega tuleks mõõdud ja paigalduslahendus oma köögiga ise üle kontrollida."
+    },
+    {
+      "question": "Kui lihtne on AEG FSB72907P nõudepesumasinat kasutada ja kuidas seda hooldada?",
+      "answer": "Kasutamine on tehtud võimalikult lihtsaks: juhtimine toimub sisemise puuteekraani ja LCD kaudu. QuickSelect liugur võimaldab valida tsükli kestuse, Ecometer näitab seejuures kõige säästvamat programmi energia ja vee mõttes. Masinal on 7 programmi, automaatprogramm, ajasäästufunktsioon, viitstardi võimalus ja automaatne väljalülitus. Tsükli lõpus avaneb uks automaatselt, mis aitab nõusid paremini kuivatada.\n\nPõrandale suunatud valgussignaal (punane pesemise ajal, roheline programmi lõppedes) annab kiiresti märku, kas masin töötab või on juba lõpetanud. Hoolduse kohta sisendinfo üksikasju ei sisalda (nt filtrite täpne puhastusviis), kuid roostevabast terasest sisevann viitab vastupidavusele ja lihtsamale puhastamisele. Regulaarse hoolduse (filtrite ja tihendite puhastus, katlakivi eemaldus) täpne sagedus ja juhised tuleks võtta kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel on AEG FSB72907P, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Sisendinfo järgi on AEG FSB72907P varustatud inverter-mootoriga, roostevabast terasest sisemusega ja veekaitsesüsteemiga (kaitse veeavarii vastu), samuti automaatse väljalülituse funktsiooniga. Need lahendused on suunatud töökindlusele ja energiatõhusamale tööle. Müra tase on 44 dB (müraklass B), mis on integreeritava masina kohta vaikne.\n\nEnergiatarve on 95 kWh 100 tsükli kohta ja veekulu 10,5 l tsükli kohta, mis koos SatelliteClean® tõhusa pihustussüsteemiga (kuni 3x parem veega katvus) ja automaatse ukse avamisega annab hea tulemuse pesu- ja kuivatustulemustes. Lisaks on olemas SoftSpikes-klaasikaitsed ja MaxiFlex sahtel, mis tõstab kasutusmugavust.\n\nGarantii kestust ja täpseid tingimusi sisend ei kirjelda, seega tuleb see üle kontrollida müüja või AEG ametlike garantiitingimuste järgi. Lähtudes funktsioonidest (14 nõudekomplekti, inverter-mootor, SatelliteClean®, QuickSelect, vee- ja energiasäästlik töö) pakub seade tugevat omaduste komplekti oma hinnaklassis, kuid lõplik hinnang hinna-väärtuse suhtele sõltub ostja individuaalsetest ootustest ja pakutavast garantiist."
+    }
+  ]
+}

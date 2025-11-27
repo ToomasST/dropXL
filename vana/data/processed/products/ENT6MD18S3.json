@@ -1,0 +1,467 @@
+{
+  "name": "ENT6MD18S3",
+  "type": "simple",
+  "status": "publish",
+  "catalog_visibility": "visible",
+  "description": "<a class=\"flix-minisite-button\" title=\"Flixmedia Minisite\" href=\"javascript:;\" onclick=\"FlixServices.flixminisite.msOpenWin(&quot;https://media.flixcar.com/modular/static/minisite/show.html?lang=en&amp;prodid=2600669&amp;mpn=ENT6MD18S3&amp;ean=7333394082691&amp;distid=15151&amp;flIso=lt&amp;appc=d2ViLWFwaS9lbi8xNTE1MS9FTlQ2TUQxOFMzNzMzMzM5NDA4MjY5MVpTNXdjbVZ1ZEdFdWJIUS90Lmpzb24/bXBuPUVOVDZNRDE4UzMmZWFuPTczMzMzOTQwODI2OTEmZGlzdElkPTE1MTUxJmlzbz1lbiZmbElzbz1sdA==&quot;);\"><img style=\"height:auto;width:auto;\" height=\"100\" width=\"100\" id=\"_flixbtn2600669\" alt=\"Minisite button image\" border=\"0\" src=\"//media.flixcar.com/modular/flix-button/?env=prod&amp;switch=main&amp;manuId=1307&amp;isoCode=lt&amp;prodId=2600669&amp;template=electrolux-major/electrolux&amp;distId=?&amp;distId=15151\"></a>",
+  "short_description": "",
+  "sku": "ENT6MD18S3",
+  "regular_price": "679.00",
+  "sale_price": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": true,
+  "stock_quantity": 5,
+  "backorders": "no",
+  "backorders_allowed": false,
+  "backordered": false,
+  "supplier_sku_prefix": "PR",
+  "weight": "68.00",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "shipping_required": true,
+  "shipping_taxable": true,
+  "shipping_class": "prenta",
+  "reviews_allowed": true,
+  "categories": [
+    {
+      "name": "Kodutehnika > Integreeritav kodutehnika > Integreeritavad külmikud",
+      "slug": "kodutehnika-integreeritav-kodutehnika-integreeritavad-klmikud"
+    }
+  ],
+  "brands": [
+    {
+      "name": "ELECTROLUX",
+      "slug": "electrolux"
+    }
+  ],
+  "tags": [],
+  "images": [
+    {
+      "src": "https://e.prenta.lt/web/image/product.product/37496/image?unique=e90aed7",
+      "position": 0,
+      "alt": "ENT6MD18S3"
+    },
+    {
+      "src": "https://e.prenta.lt/web/image/product.image/21658/image_big?unique=9f4fca7",
+      "position": 1,
+      "alt": "ENT6MD18S3"
+    }
+  ],
+  "meta_data": [
+    {
+      "key": "_bp_gtin13",
+      "value": "7333394082691"
+    },
+    {
+      "key": "_bp_supplier",
+      "value": "Prenta"
+    },
+    {
+      "key": "_bp_brand",
+      "value": "ELECTROLUX"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Producer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Electrolux"
+      ]
+    },
+    {
+      "name": "Type of installation",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Built in"
+      ]
+    },
+    {
+      "name": "Type of hinges",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Sliding"
+      ]
+    },
+    {
+      "name": "Type",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Fridge with bottom freezer"
+      ]
+    },
+    {
+      "name": "Type of refrigeration technology",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No frost"
+      ]
+    },
+    {
+      "name": "Height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "177.2"
+      ]
+    },
+    {
+      "name": "Width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "54.6"
+      ]
+    },
+    {
+      "name": "Depth",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "54.9"
+      ]
+    },
+    {
+      "name": "Standardized width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "55.0"
+      ]
+    },
+    {
+      "name": "Standardized height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "180"
+      ]
+    },
+    {
+      "name": " Color",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "White"
+      ]
+    },
+    {
+      "name": "Energy efficiency class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "D"
+      ]
+    },
+    {
+      "name": "Noise level class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "B"
+      ]
+    },
+    {
+      "name": "Noise level",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "34"
+      ]
+    },
+    {
+      "name": "Cold drawer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Close to 0 ° C zone"
+      ]
+    },
+    {
+      "name": "Freezer to fridge",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Control",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "External electronic control"
+      ]
+    },
+    {
+      "name": "Annual energy consumption",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "173"
+      ]
+    },
+    {
+      "name": "Net capacity of refrigerator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "192"
+      ]
+    },
+    {
+      "name": "Net capacity of freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "61"
+      ]
+    },
+    {
+      "name": "Soft door closing",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Metallized rear wall",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Ice maker",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Door handle",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Type of compressor",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Inverter"
+      ]
+    },
+    {
+      "name": "Fan",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Air cleaning filter",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Bottle shelf",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Rapid cooling in refrigerator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Reversible doors",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Lighting",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "LED"
+      ]
+    },
+    {
+      "name": "Wi-Fi",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Number of freezer boxes/shelfs",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "3"
+      ]
+    },
+    {
+      "name": "Freezer freezing temperature",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "-14°C - -24°C"
+      ]
+    },
+    {
+      "name": "Fast freeze function in freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Freezing capacity in 24 hours",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "7.0"
+      ]
+    },
+    {
+      "name": "Maximum freezer storage time in power failure",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "11"
+      ]
+    },
+    {
+      "name": "Rising temperature indicator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "New Energy efficiency class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "E"
+      ]
+    },
+    {
+      "name": "Fully removable drawers and intermediate glass shelves in freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Humidity controlled drawer for fruits/vegetables",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Telescopic rails of cold drawer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Antibacterial technology",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Divisible glass shelf",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": " Eco mode",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Holiday function",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Individually adjustable door shelves",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Open door signal",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Door lock ",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    }
+  ],
+  "source": {
+    "prenta_product_id": 37496,
+    "prenta_category_path": "All > Saleable > Home appliances > Built in > Fridge",
+    "prenta_category_id": 27
+  }
+}

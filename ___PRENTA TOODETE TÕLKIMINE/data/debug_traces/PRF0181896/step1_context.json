@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283054417 8020283054417 Hood ELICA CIAK 2.0 GR/A/60",
+  "search_queries": {
+    "main_query": "integreeritav õhupuhasti Elica Ciak 2.0 GR/A/60 60 cm roostevaba",
+    "additional_queries": [
+      "kuidas eemaldada toiduauru ja rasva väikese köögi kapialusest Elica Ciak 2.0 integreeritava õhupuhastiga",
+      "integreeritav 60 cm õhupuhasti 225 m3/h väikese ja keskmise köögi jaoks",
+      "Elica Ciak 2.0 GR/A/60 võrdlus teiste 60 cm integreeritavate kubudega",
+      "kuidas paigaldada ja hooldada Elica Ciak 2.0 GR/A/60 sisseehitatavat õhupuhastit"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica Ciak 2.0 GR/A/60 sobib minu kööki ja olemasolevasse kappi?",
+      "answer": "See mudel on mõeldud täielikult köögikappi integreerimiseks ja sobib standardsele 60 cm laiusele lahendusele. Kubu enda laius on u 56,5 cm, sügavus umbes 28–33 cm, seega peab ülakapp olema seest piisavalt sügav ja vähemalt 60 cm lai.\nÕhupuhasti on väljatõmbeversioon, mis ühendatakse ventilatsioonitoruga (väljatõmme välja). Toru ühendus on u 120–125 mm. Minimaalne kaugus elektri- või induktsioonpliidist on ligikaudu 50 cm ja gaasipliidist umbes 65 cm (täpsed väärtused kontrolli paigaldusjuhendist). Tänu tagasihoidlikule kõrgusele ja sisseehitatavale lahendusele sobib see eelkõige väikestesse ja keskmise suurusega köökidesse, kus ta jääb kapifassaadi taha peitu."
+    },
+    {
+      "question": "Kui lihtne on Elica Ciak 2.0 õhupuhastit kasutada ja kuidas seda hooldada?",
+      "answer": "Õhupuhastil on lihtne mehaaniline liuglüliti (3 kiirust), millega seadistad tõmbevõimsuse vastavalt toiduvalmistamisele. LED-valgustus lülitatakse sisse eraldi nupust ja annab sooja, energiasäästliku töövalguse pliidile.\nHooldus on põhimõtteliselt kolmeosaline: 1) rasvafilter – metallist rasvafilter on komplektis, see tuleks regulaarselt eemaldada ja pesta (nt kord kuus, sõltuvalt kasutusest). Puhastamiseks kasuta leebet pesuvahendit ja vajadusel kontrolli juhendist, kas konkreetset filtrit tohib pesta nõudepesumasinas; 2) korpuse ja esipaneeli pühkimine niiske, mitteabrasiivse lapiga; 3) kui seadet kasutatakse siseringlusrežiimis, tuleb söefiltreid aeg-ajalt välja vahetada (see mudel vajab eraldi ostetavat süsifiltrit, täpne mudel ja vahetusintervall on kirjas tootja juhendis). Paigaldust soovitatakse lasta teha spetsialistil, et oleks tagatud õige kõrgus, õhukanali ühendus ja elektriohutus."
+    },
+    {
+      "question": "Kui töökindel Elica Ciak 2.0 on, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Elica Ciak 2.0 GR/A/60 on lihtsa konstruktsiooniga integreeritav kubu: metallkorpus, mehaaniline liuglüliti, vahetatavad metallist rasvafiltrid ja LED-valgustus. Vähem elektroonikat tähendab üldjuhul väiksemat rikete riski, ning tootja on tuntud köögiõhupuhastite bränd. Maksimaalne õhuvool on u 225 m³/h ja müratase vahemikus umbes 47–55 dB, mis on väikesele või keskmisele köögile igapäevaseks kasutuseks piisav.\nGarantii täpne pikkus sõltub müüjast ja kehtivast seadusest – seda infot tootja üldkirjeldus ei täpsusta, seega kontrolli konkreetset garantiiaega e-poe tingimustest või ostudokumendilt. Hinna-väärtuse mõttes saad peidetava, ülakappi sulanduva lahenduse, mis kaitseb kapifassaadi auru eest, pakub sooja LED-valgust ja korralikku, kuid mitte ülemäära võimast tõmmet ilma keeruliste lisafunktsioonideta – sobib hästi ostjale, kes otsib tagasihoidliku välimusega, lihtsat ja töökindlat integreeritavat õhupuhastit."
+    }
+  ]
+}

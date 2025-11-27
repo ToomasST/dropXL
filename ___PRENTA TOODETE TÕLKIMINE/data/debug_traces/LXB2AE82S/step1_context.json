@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394022628 7333394022628 Fridge ELECTROLUX LXB2AE82S",
+  "search_queries": {
+    "main_query": "Electrolux LXB2AE82S integreeritav külmik ilma sügavkülmata 82 cm",
+    "additional_queries": [
+      "kuidas säästa köögis ruumi SpaceSmart Combo lahendusega Electrolux LXB2AE82S integreeritava külmikuga",
+      "integreeritav külmik ilma sügavkülmata 127 l väikesele köögile tööpinna alla",
+      "Electrolux LXB2AE82S erinevused teistest 60 cm laiustest integreeritavatest külmikutest",
+      "kuidas paigaldada ja kasutada Electrolux LXB2AE82S integreeritavat külmikut pliidi või tööpinna alla"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LXB2AE82S külmik sobib minu kööki ja olemasolevasse mööblisse?",
+      "answer": "Electrolux LXB2AE82S on integreeritav (sisse ehitatav) külmik ilma sügavkülmata, mõeldud paigaldamiseks tööpinna alla ja sobib „SpaceSmart Combo“ lahendusse, kus külmik asub pliidi/kaitluse all. Külmiku mõõdud on ligikaudu kõrgus 81,9 cm, laius 56,2 cm ja sügavus 54,7 cm (standardlaius 60 cm, standardkõrgus 85 cm). Uks on ümbertõstetav ja kasutab liughingesid. Kui sinu köögimööbli nišš on mõeldud umbes 60 cm laiusele, kuni 85 cm kõrgele integreeritavale külmikule, siis on see mudel tõenäoliselt sobiv, kuid täpsed nišimõõdud ja uksekinnituse lahendus tuleks üle kontrollida paigaldusjuhendist või köögimööbli tootjalt. Arvestada tuleb ka sellega, et tegu on ainult külmikuga – kui vajad sügavkülma, tuleb see lahendada eraldi seadmega."
+    },
+    {
+      "question": "Kui lihtne on Electrolux LXB2AE82S külmikut kasutada ja hooldada?",
+      "answer": "See mudel on tavapärase kasutusloogikaga integreeritav külmik: jahutust juhitakse mehaanilise nupuga, sees on LED-valgustus ning tegemist on staatilise jahutustehnoloogiaga külmikuga ilma sügavkülmata. Wi-Fi või nutifunktsioone ei ole, seega on igapäevane kasutamine lihtne – uks lahti, riiulitele ja sahtlisse paigutad toidu, temperatuuri seadistus on mehaaniline. Sisendinfo ei kirjelda täpseid puhastamise ja hoolduse samme ega sulatusvajadust, seega tuleks selleks juhinduda tootja kasutusjuhendist, mis määrab ette nii puhastussageduse kui soovitatud vahendid."
+    },
+    {
+      "question": "Kui töökindel on Electrolux LXB2AE82S ja milline on garantii ning hinna-väärtuse suhe?",
+      "answer": "Sisendinfo ei too välja konkreetset garantiiaega ega -tingimusi – need sõltuvad müüjast ja kehtivast seadusandlusest, seega tuleks need enne ostu eraldi üle vaadata. Töökindluse osas on teada, et külmik kasutab on-off tüüpi kompressorit ja mehaanilist juhtimist ning riiulid on valmistatud karastatud klaasist, mis on vastupidavam ja aitab taluda raskemaid nõusid. Energiaklass on E ja aastane energiakulu 92 kWh, mis annab etteaimatava jooksva kuluga lahenduse. Pikaajaline väärtus seisneb eeskätt ruumisäästlikus „SpaceSmart Combo“ paigaldusvõimaluses (külmik pliidi all), heas 127-liitrises külmiku mahus ja praktilises „OptiSpace“ siselahenduses, kuid sisend ei anna otsest hinnangut kasutusea pikkusele."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283050556 8020283050556 Hob and Hood (2in1) ELICA NIKOLATESLA FIT BL/A/72",
+  "search_queries": {
+    "main_query": "Elica NikolaTesla Fit BL/A/72 integreeritav induktsioonpliidiplaat koos õhupuhastiga 72 cm",
+    "additional_queries": [
+      "kuidas eemaldada toidulõhnad ja aur väikses avatud köögis integreeritava pliidiplaadi ja õhupuhastiga Elica NikolaTesla Fit abil",
+      "integreeritav induktsioonpliit koos integreeritud õhupuhastiga 72 cm 7,2 kW avatud kööki",
+      "Elica NikolaTesla Fit BL/A/72 võrdlus teiste integreeritud õhupuhastiga pliidiplaatidega",
+      "kuidas paigaldada ja hooldada Elica NikolaTesla Fit BL/A/72 pliidiplaati koos õhupuhastiga"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica NikolaTesla Fit BL/A/72 sobib minu kööki ja olemasolevatesse kapimõõtudesse?",
+      "answer": "See mudel on 72 cm lai ja 51,5 cm sügav, kõrgus umbes 25 cm. Lõikeava mõõt on ligikaudu 56 × 49 cm, mis tähendab, et pliidiplaat sobib standardsele 60 cm põrandakapile, kui tööpind on piisavalt sügav ja all on ruumi sisseehitatud mootori jaoks. Kuna tegu on kanali kaudu välja puhuva (duct-out) lahendusega, on vaja planeerida ka väljatõmbe õhukanal välisseina või šahtini. Enne ostu tasub üle mõõta tööpind ja kapid ning vajadusel konsulteerida paigaldajaga, et kinnitada sobivus sinu konkreetse köögilahendusega."
+    },
+    {
+      "question": "Kui lihtne on Elica NikolaTesla Fit BL/A/72 kasutamine ja hooldus?",
+      "answer": "Pliidiplaadil on 4 induktsioonkeeduvälja ja 1 Bridge-tsoon, millega saab kaks vasakut välja üheks suureks alaks ühendada. Juhtimine käib puutetundliku slider-paneeliga, olemas on võimendus (booster), taimer automaatse väljalülitusega, pausifunktsioon, automaatne kuumutuse tõstmine ja alandamine, nõude tuvastus ning lapse lukk. Integreeritud õhupuhasti tõmbab auru ja lõhnad otse keedualade juurest ning suudab töötada automaatrežiimis, kohandades tõmbejõudu vastavalt toiduvalmistamisele. Hooldus on lihtne: keskne rest ja alumiiniumrasvafilter on eemaldatavad, neid saab pesta (enamasti nõudepesumasinas – täpne juhis on kasutusjuhendis). Klaaskeraamilist pinda puhastatakse pärast jahtumist pehme lapi ja sobiva puhastusvahendiga. Kui kasutada lisavarustusena ringlusrežiimi komplekti, tuleb süsifiltreid aeg-ajalt regenereerida või vahetada vastavalt tootja juhendile."
+    },
+    {
+      "question": "Kui töökindel on Elica NikolaTesla Fit BL/A/72, mis on garantii ning kas see on oma hinda väärt?",
+      "answer": "Elica on tuntud sisseehitatud õhupuhastiga pliidiplaatide teerajaja ning NikolaTesla Fit on nende üks populaarsemaid ruumisäästlikke mudeleid. Seadmel on A energiaklass ning efektiivne õhupuhastus (kanaliga väljatõmme kuni u 620 m³/h) koos suhteliselt madala müratasemega, mis sobib hästi avatud köök-elutoale. Induktsioontehnoloogia on kiire ja energiasäästlik, samas turvaline tänu nõude tuvastusele, jääksoojuse näidikule ja lapse lukule. Garantii täpne pikkus sõltub müüjast ja kohalikust maaletoojast (tavaliselt 2 aastat erakasutajale), seega kontrolli see info ostukohast. Hinna-väärtuse mõttes saad ühe seadmega nii kaasaegse induktsioonpliidi kui ka võimsa õhupuhasti, säästes ülemise kapi ruumi ja saades puhtama, minimalistliku köögilahenduse."
+    }
+  ]
+}

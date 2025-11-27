@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283065284 8020283065284 Hood ELICA ELITE 26 BL/A/60 GFB",
+  "search_queries": {
+    "main_query": "Elica Elite 26 integreeritav teleskoop õhupuhasti 60 cm must",
+    "additional_queries": [
+      "kuidas eemaldada toidulõhnad ja auru väikeses köögis Elica Elite 26 integreeritava õhupuhastiga",
+      "60 cm integreeritav teleskoop õhupuhasti 581 m3/h LED valgustusega must",
+      "Elica Elite 26 BL/A/60 GFB võrdlus teiste 60 cm teleskoop õhupuhastitega",
+      "kuidas paigaldada ja hooldada Elica Elite 26 BL/A/60 GFB õhupuhastit ning vahetada CFC0140343 söefiltrit"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica Elite 26 BL/A/60 GFB sobib minu kööki ja 60 cm kapile?",
+      "answer": "See mudel on 60 cm laiune integreeritav teleskoop-õhupuhasti, mis on mõeldud paigaldamiseks 60 cm laiusesse seina- või ülakappi. Kere tegelik laius on u 59,8 cm ja sügavus 28 cm, maksimaalne kõrgus umbes 30 cm, seega sobib ta standardsesse köögimööblisse. Õhupuhasti töötab vaikimisi välja­puhke­režiimil (ühendus ventilatsioonikanaliga, toru läbimõõt 150 mm); kui ventilatsioonikanalit ei ole, saab kasutada ringlusrežiimi koos eraldi ostetava CFC0140343 söefiltriga. Enne ostu tasub kontrollida oma kapi sisemõõte ja olemasoleva ventilatsioonitoru asukohta ning veenduda, et toru jaoks on 150 mm ühendus või üleminek."
+    },
+    {
+      "question": "Kui lihtne on Elica Elite 26 õhupuhastit kasutada ja hooldada?",
+      "answer": "Kasutamine on lihtne: tegu on teleskoop-õhupuhastiga, kus ette tõmmatav esipaneel käivitab tööpiirkonna ning õhku tõmmatakse mööda kogu esiserva. Kiiruse valik toimub küljele paigutatud elektrooniliste nuppudega – olemas on 3 kiirust ja intensiivne (booster) režiim tõhusamaks õhuvahetuseks. LED-valgustus (2 × 2,5 W) valgustab pliidipinda ökonoomselt.\nHooldus: metallist rasvafiltrid tuleks regulaarselt eemaldada ja pesta (vastavalt kasutusele ligikaudu iga kuu; paljud kasutajad pesevad neid nõudepesumasinas madalal temperatuuril). Kui kasutad seadet ringlusrežiimil, tuleb CFC0140343 söefiltreid vahetada tootja soovitusel umbes iga 3–4 kuu tagant, sõltuvalt toiduvalmistamise sagedusest. Täpsed paigaldus- ja hooldusjuhised on kaasas olevas kasutusjuhendis; paigaldusel tuleb järgida juhendis toodud miinimumkõrgust pliidipinna ja õhupuhasti vahel."
+    },
+    {
+      "question": "Kui töökindel on see mudel ja milline on garantii ning hinna ja kvaliteedi suhe?",
+      "answer": "Elica on tuntud õhupuhastite tootja ning Elite 26 BL/A/60 GFB on metallkorpuse ja roostevabast terasest viimistlusega teleskoop-õhupuhasti, mille maksimaalne õhuvool on kuni 581 m³/h ning müratase ligikaudu 44–65 dB, mis teeb sellest tõhusa lahenduse keskmise suurusega kööki. LED-valgustus ja elektrooniline juhtimine pakuvad mugavust ning teleskoopne esipaneel ja võimalus paneel asendada mööbliplaadiga aitavad kubu köögisisustusega ühtseks tervikuks sulandada.\nTavapraktikas on Elica õhupuhastitel Euroopas enamasti 2‑aastane tootjagarantii, kuid täpne garantiiaeg ja -tingimused sõltuvad konkreetse müüja ja riigi reeglitest – palun vaata meie poe garantiitingimusi. Hinna ja kvaliteedi mõttes pakub see mudel hea kombinatsiooni: üsna kõrge õhuvahetus, mõõdukas müratase, integreeritav disain ja mugav hooldus võimaldavad pikaajaliselt köögiõhu puhtana hoida ilma, et seade domineeriks visuaalselt köögis."
+    }
+  ]
+}

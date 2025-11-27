@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394056074 7333394056074 Oven AEG TU5AB21FSB",
+  "search_queries": {
+    "main_query": "AEG integreeritav ahi TU5AB21FSB 72 l Aqua Cleaning must",
+    "additional_queries": [
+      "kuidas küpsetada ahjus mitmel tasandil ühtlaselt AEG TU5AB21FSB SurroundCook ahjuga",
+      "integreeritav elektriahi 72 l AEG A+ energiaklass Aqua Cleaning suurele perele",
+      "millega erineb AEG TU5AB21FSB 60 cm integreeritav ahi teistest AEG ahjudest (SurroundCook, automaatprogrammid, Aqua Cleaning)",
+      "kuidas kasutada ja puhastada AEG TU5AB21FSB ahju Aqua Cleaning aurupuhastuse funktsiooniga"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG TU5AB21FSB integreeritav ahi sobib minu kööki ja olemasolevasse kappi?",
+      "answer": "See on 60 cm standardmõõdus integreeritav (sõltumatu) elektriahi, mille välismõõdud on umbes 59,6 × 59,4 × 56,9 cm (laius × kõrgus × sügavus) ja mahutavus 72 liitrit. Sobib hästi enamiku 60 cm sisseehitatavate ahjude jaoks ette nähtud kappidesse. Enne ostu mõõtke siiski oma kapi nišš ja võrrelge mõõtudega, samuti veenduge sobivas elektriühenduses, sest täpseid paigaldusnõudeid tooteinfo ei täpsusta. Mudel ei toeta Wi‑Fi ühendust, seega ei integreeru nutirakendustega."
+    },
+    {
+      "question": "Kui lihtne on AEG TU5AB21FSB ahju kasutada ja puhastada?",
+      "answer": "Ahi on elektriline, 9 standardse küpsetusfunktsiooniga ja 34 automaatse programmiga, mida juhitakse PIPO-pöördnuppude ja puutejuhtimisega. Ees on ekraaniga taimer, millega saab küpsetusaega täpselt jälgida, ning olemas on kiire eelkuumutuse funktsioon. Puhastamiseks on Aqua Cleaning: lisate ahju vett vastavalt kasutusjuhendile, ahi tekitab auru, mis pehmendab praejäänused ning need saab seejärel niiske lapiga pinnalt maha pühkida. Tootekirjeldus ei anna lisadetaile teiste hooldusviiside kohta, seega tasub täpse juhise saamiseks tutvuda kasutusjuhendiga."
+    },
+    {
+      "question": "Kui töökindel on AEG TU5AB21FSB ahi ja kas see on oma hinda väärt?",
+      "answer": "Tootekirjeldus ei täpsusta töökindluse teste ega garantiitingimusi; garantiiaeg ja -tingimused sõltuvad müüjast/tootjast ja need tuleks eraldi üle vaadata. Hinna-väärtuse poolest pakub ahi suurt 72 l mahtu, A+ energiatõhusust, SurroundCook® ühtlast kuumuse jaotust kuni kolmel tasandil, kiiret eelkuumutust, 34 automaatprogrammi, teleskoopsiine ühel tasandil ja Aqua Cleaning veeaurupuhastust. Nende funktsioonide kooslus annab palju mugavust ja energiasäästu, eriti kui küpsetate tihti või mitmel tasandil korraga."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "model": "gpt-5.1",
+  "instructions": "\n                Sa tegutsed tooteanalüüsi spetsialisti ja uuriva copywriter'ina. See on \"STEP 1: Kontekst\", mille tulemusi kasutavad kõik järgnevad sammud.\n\n                Töötle olemasolevat toote alginfot (ilma veebiotsinguta) ja koonda sellest kontekst, mis aitab hilisemates sammudes luua AI-ajastule vastava müügikirjelduse.\n\n                Läbi antud materjal ja veendu, et suudad vastata järgmistele küsimustele:\n                1. Millist probleemi toode lahendab ja kuidas see ostja elu lihtsamaks teeb?\n                2. Kas see sobib sihtkasutaja vajadustele (kellele, millistes olukordades)?\n                3. Mis on toote põhiline funktsioon ja eesmärk (kuidas see töötab, millist tulemust annab)?\n                4. Kuidas see erineb alternatiividest/mudelitest ning millised on unikaalsed eelised?\n                6. Millised on peamised omadused ja tehnilised võtmenäitajad, mida peaks bullet'ites esile tooma?\n                7. Kas see mahub kliendi ruumi/ökosüsteemi (mõõdud, maht, kontekstuaalne sobivus)?\n                8. Millega see on ühilduv ja mis võib olla lisaks vajalik (platvormid, tarkvara, tarvikud, ökosüsteemid)?\n                9. Kui lihtne on seda kasutada ja hooldada (kasutusloogika, hooldus-/uuendusvajadused, „plug & play“ aspektid)?\n                10. Kui töökindel ja vastupidav see on ning milline on garantii või järelteenindus?\n                11. Mis on tootega kaasas ja mida tuleks vajadusel eraldi soetada?\n                12. Kas see on oma hinda väärt – milline on väärtuspakkumine ja pikaajaline kasu?\n\n                Nende järelduste põhjal loo väljundid, mida kasutame otse e-poes, SEO-s ja Q&A plokis:\n\n                - 5 otsingufraasi (1 peamine, 4 lisa), kõik loomulikus eestikeelses vormis ja tuginedes ainult olemasolevale infole.\n                  • main_query: fraas, mida inimene reaalselt kirjutaks otsingusse, kui ta otsib just seda konkreetset toodet (toote tüüp + 1–2 võtmeomadust + bränd/mudel).\n                  • additional_queries: 4 long-tail päringut, mis jagunevad nii:\n                    1) probleemipõhine: kuidas lahendada tüüpilist probleemi selle tootega;\n                    2) omaduspõhine: toote tüüp + võtmenäitaja (võimsus/mõõt/maht vms) + kasutusolukord;\n                    3) võrdlev: mille poolest see erineb teistest sarnastest mudelitest;\n                    4) kasutus/hooldus: kuidas paigaldada, hooldada või igapäevaselt kasutada.\n\n                  Väljendid võivad sisaldada tehnilisi tähiseid ja mudeleid, kuid väldi ingliskeelseid täislauseid.\n\n                - 3 Q&A küsimust ja vastust eesti keeles Q&A sektsiooni jaoks, mis aitavad kliendil ostuotsust teha. Kasuta järgmisi telgi:\n                  1) sobivus ja valik (kas see sobib minu ruumi, vajadustele, olemasoleva süsteemiga);\n                  2) kasutamine ja hooldus (kuidas seda kasutada, puhastada, paigaldada, hooldada);\n                  3) töökindlus, garantii ja hinna-väärtuse suhe (kui vastupidav see on, milline on garantii, mis on peamine kasutegur hinna suhtes).\n\n                Ära leiuta uusi fakte. Kui mõne info (nt konkreetne ühilduvus, garantiitingimus, täpne kasutusviis) kohta sisendmaterjal midagi ei ütle, ära seda välja mõtle – jäta vastus neutraalseks või ütle, et sisend seda ei täpsusta.\n\n                Tagasta (kõik väärtused eesti keeles):\n                - search_queries: objekt väljadega main_query (string) ja additional_queries (array 4 stringi)\n                - qa: massiiv 3 elemendiga, igas objektis question ja answer väljad\n                ",
+  "input": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "input_text",
+          "text": "Toote alginfo (JSON): {\"sku\": \"BRB80F26CES0EO\", \"global_unique_id\": \"8806097060871\", \"source\": {\"source_system\": \"prenta\", \"source_product_id\": 37434, \"source_category_ids\": [27], \"rrp_price\": 559.0, \"purchase_price\": 440.0}, \"name\": \"Fridge SAMSUNG BRB80F26CES0EO\", \"short_description\": \"\", \"description\": \"<p></p>\\n\\n<img src=\\\"product_images/37434/flix_feature_1.img\\\" alt=\\\"\\\">\\n<h3>Visapusiškas vėsinimas</h3>\\n<img src=\\\"product_images/37434/flix_feature_2.webp\\\" alt=\\\"Ypač šviežias maistas, dar daugiau vietos\\\">\\n<h3>Ypač šviežias maistas, dar daugiau vietos</h3>\\n<h3>Iki 10 % energijos taupymo</h3>\\n<h4>SmartThings AI energijos režimas – iki 10 % *</h4>\\n<p>Sumažinkite energijos suvartojimą iki 10 %* naudodami AI energijos režimą**. Jeigu numatoma sąskaita už elektrą viršija iš anksto nustatytą lygį, sistema pasiūlys taupymo režimą.***. Ji optimizuoja kompresoriaus greitį ir atitirpinimo ciklus pagal naudojimo įpročius ir aplinkos sąlygas.</p>\\n<img src=\\\"product_images/37434/flix_feature_3.webp\\\" alt=\\\"_feature_2\\\">\\n<img src=\\\"product_images/37434/flix_feature_4.webp\\\" alt=\\\"Ilgiau išsaugo maisto šviežumą\\\">\\n<h3>Ilgiau išsaugo maisto šviežumą</h3>\\n<h4>Visapusiškas vėsinimas</h4>\\n<p>Užtikrinkite, kad visas maistas būtų tinkamai atvėsintas. Visapusiškas vėsinimas tolygiai vėsina kiekvieną skyrių nuo kampo iki kampo. Temperatūra nuolat tikrinama, o šaltas oras cirkuliuoja per strateginius ventiliacijos angas. Taip maistas išlaikomas stabilioje temperatūroje ir ilgiau išlieka šviežias.</p>\\n<img src=\\\"product_images/37434/flix_feature_5.webp\\\" alt=\\\"Idealu mėsai ir žuviai laikyti\\\">\\n<h3>Idealu mėsai ir žuviai laikyti</h3>\\n<h4>Optimal Fresh +</h4>\\n<p>Optimal Fresh + yra atskiras stalčius, puikiai tinkantis mėsai ir žuviai laikyti. Jis palaiko žemesnę temperatūrą nei likusi šaldytuvo dalis, kad produktai išliktų švieži ir išsaugotų natūralų skonį.</p>\\n<img src=\\\"product_images/37434/flix_feature_6.webp\\\" alt=\\\"Kaip matuoti\\\">\\n<h3>Kaip matuoti</h3>\", \"type\": \"simple\", \"status\": \"publish\", \"featured\": false, \"catalog_visibility\": \"visible\", \"regular_price\": \"559.0\", \"sale_price\": \"\", \"purchasable\": true, \"virtual\": false, \"tax_status\": \"taxable\", \"tax_class\": \"\", \"manage_stock\": true, \"stock_status\": \"instock\", \"stock_quantity\": 5, \"backorders\": \"no\", \"backorders_allowed\": false, \"backordered\": false, \"low_stock_amount\": null, \"sold_individually\": false, \"weight\": \"68.0\", \"dimensions\": {\"length\": \"55\", \"width\": \"54\", \"height\": \"177.5\"}, \"shipping_required\": true, \"shipping_taxable\": true, \"shipping_class\": \"prenta\", \"reviews_allowed\": true, \"average_rating\": \"0.00\", \"rating_count\": 0, \"upsell_ids\": [], \"cross_sell_ids\": [], \"category\": {\"source_id\": 27, \"path\": \"All > Saleable > Home appliances > Built in > Fridge\", \"translated_path\": \"Kodutehnika > Integreeritav kodutehnika > Integreeritavad külmikud\", \"leaf_name\": \"Integreeritavad külmikud\"}, \"categories\": [{\"name\": \"Integreeritavad külmikud\"}], \"brands\": [{\"name\": \"SAMSUNG\"}], \"tags\": [], \"images\": [{\"src\": \"product_images/37434/image_1.webp\", \"alt\": \"Fridge SAMSUNG BRB80F26CES0EO\"}, {\"src\": \"product_images/37434/image_2.webp\", \"alt\": \"Fridge SAMSUNG BRB80F26CES0EO\"}, {\"src\": \"product_images/37434/flix_gallery_1.webp\", \"alt\": \"Fridge SAMSUNG BRB80F26CES0EO\"}, {\"src\": \"product_images/37434/flix_gallery_2.webp\", \"alt\": \"Fridge SAMSUNG BRB80F26CES0EO\"}, {\"src\": \"product_images/37434/flix_gallery_3.webp\", \"alt\": \"Fridge SAMSUNG BRB80F26CES0EO\"}, {\"src\": \"product_images/37434/flix_gallery_4.webp\", \"alt\": \"Fridge SAMSUNG BRB80F26CES0EO\"}, {\"src\": \"product_images/37434/flix_gallery_5.webp\", \"alt\": \"Fridge SAMSUNG BRB80F26CES0EO\"}, {\"src\": \"product_images/37434/flix_gallery_6.webp\", \"alt\": \"Fridge SAMSUNG BRB80F26CES0EO\"}, {\"src\": \"product_images/37434/flix_gallery_7.webp\", \"alt\": \"Fridge SAMSUNG BRB80F26CES0EO\"}, {\"src\": \"product_images/37434/flix_gallery_8.webp\", \"alt\": \"Fridge SAMSUNG BRB80F26CES0EO\"}, {\"src\": \"product_images/37434/flix_gallery_9.webp\", \"alt\": \"Fridge SAMSUNG BRB80F26CES0EO\"}, {\"src\": \"product_images/37434/flix_gallery_10.webp\", \"alt\": \"Fridge SAMSUNG BRB80F26CES0EO\"}, {\"src\": \"product_images/37434/flix_gallery_11.webp\", \"alt\": \"Fridge SAMSUNG BRB80F26CES0EO\"}, {\"src\": \"product_images/37434/flix_gallery_12.webp\", \"alt\": \"Fridge SAMSUNG BRB80F26CES0EO\"}], \"attributes\": [{\"name\": \"Product line\", \"values\": [\"SAMSUNG Semi Exclusive\"]}, {\"name\": \"Producer\", \"values\": [\"Samsung\"]}, {\"name\": \"Type of installation\", \"values\": [\"Built in\"]}, {\"name\": \"Type of hinges\", \"values\": [\"Sliding\"]}, {\"name\": \"Type\", \"values\": [\"Fridge with bottom freezer\"]}, {\"name\": \"Type of refrigeration technology\", \"values\": [\"Full no frost\"]}, {\"name\": \"Standardized width (cm)\", \"values\": [60]}, {\"name\": \"Standardized height (cm)\", \"values\": [180]}, {\"name\": \"Color\", \"values\": [\"White\"]}, {\"name\": \"Energy efficiency class\", \"values\": [\"E\"]}, {\"name\": \"Noise level class\", \"values\": [\"B\"]}, {\"name\": \"Noise level (dB)\", \"values\": [\"35\"]}, {\"name\": \"Humidity controlled drawer for fruits/vegetables\", \"values\": [\"Yes\"]}, {\"name\": \"Cold drawer\", \"values\": [\"Close to 0 ° C zone\"]}, {\"name\": \"Freezer to fridge\", \"values\": [\"No\"]}, {\"name\": \"Control\", \"values\": [\"External electronic control\"]}, {\"name\": \"Annual energy consumption (kWh)\", \"values\": [\"231\"]}, {\"name\": \"Net capacity of refrigerator (l)\", \"values\": [\"231\"]}, {\"name\": \"Soft door closing\", \"values\": [\"No\"]}, {\"name\": \"Net capacity of freezer (l)\", \"values\": [\"74\"]}, {\"name\": \"Ice maker\", \"values\": [\"No\"]}, {\"name\": \"Door handle\", \"values\": [\"No\"]}, {\"name\": \"Type of compressor\", \"values\": [\"Inverter\"]}, {\"name\": \"Metallized rear wall\", \"values\": [\"Yes\"]}, {\"name\": \"Fan\", \"values\": [\"Yes\"]}, {\"name\": \"Air cleaning filter\", \"values\": [\"No\"]}, {\"name\": \"Divisible glass shelf\", \"values\": [\"No\"]}, {\"name\": \"Door lock\", \"values\": [\"No\"]}, {\"name\": \"Individually adjustable door shelves\", \"values\": [\"No\"]}, {\"name\": \"Bottle shelf\", \"values\": [\"Yes\"]}, {\"name\": \"Lightning\", \"values\": [\"LED\"]}, {\"name\": \"Rapid cooling in refrigerator\", \"values\": [\"No\"]}, {\"name\": \"Reversible doors\", \"values\": [\"Yes\"]}, {\"name\": \"Lighting\", \"values\": [\"LED\"]}, {\"name\": \"Wi-Fi\", \"values\": [\"Yes\"]}, {\"name\": \"Number of freezer boxes/shelfs\", \"values\": [\"2\"]}, {\"name\": \"Freezer freezing temperature\", \"values\": [\"-15°C - - 23°C\"]}, {\"name\": \"Fast freeze function in freezer\", \"values\": [\"Yes\"]}, {\"name\": \"Freezing capacity in 24 hours (kg/24 hours)\", \"values\": [\"6.0\"]}, {\"name\": \"Maximum freezer storage time in power failure (hours)\", \"values\": [\"6\"]}, {\"name\": \"Rising temperature indicator\", \"values\": [\"Yes\"]}, {\"name\": \"New Energy efficiency class\", \"values\": [\"E\"]}, {\"name\": \"Antibacterial technology\", \"values\": [\"No\"]}, {\"name\": \"Eco mode\", \"values\": [\"No\"]}, {\"name\": \"Holiday function\", \"values\": [\"No\"]}, {\"name\": \"Fully removable drawers and intermediate glass shelves in freezer\", \"values\": [\"No\"]}, {\"name\": \"Telescopic rails of cold drawer\", \"values\": [\"No\"]}, {\"name\": \"Open door signal\", \"values\": [\"No\"]}], \"default_attributes\": [], \"variations\": [], \"grouped_products\": [], \"menu_order\": 0, \"related_ids\": [], \"meta_data\": [{\"key\": \"_bp_gtin13\", \"value\": \"8806097060871\"}, {\"key\": \"_bp_supplier\", \"value\": \"Prenta\"}, {\"key\": \"_bp_brand\", \"value\": \"SAMSUNG\"}]}"
+        }
+      ]
+    }
+  ],
+  "tools": [],
+  "text": {
+    "verbosity": "medium",
+    "format": {
+      "type": "json_schema",
+      "name": "context_and_research_schema",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "search_queries": {
+            "type": "object",
+            "properties": {
+              "main_query": {
+                "type": "string"
+              },
+              "additional_queries": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                },
+                "minItems": 4,
+                "maxItems": 4
+              }
+            },
+            "required": [
+              "main_query",
+              "additional_queries"
+            ],
+            "additionalProperties": false
+          },
+          "qa": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": 3,
+            "items": {
+              "type": "object",
+              "properties": {
+                "question": {
+                  "type": "string"
+                },
+                "answer": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "question",
+                "answer"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "search_queries",
+          "qa"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "reasoning": {
+    "effort": "medium"
+  },
+  "previous_response_id": null,
+  "service_tier": "default"
+}

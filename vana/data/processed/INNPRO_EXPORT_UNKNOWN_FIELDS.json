@@ -1,0 +1,27 @@
+{
+  "generated_at": "2025-11-17T11:31:01.102392+00:00",
+  "detail_unknown_keys": {
+    "attribute_line_ids": 76,
+    "compound_name": 76,
+    "country_of_origin_id": 76,
+    "date_edited": 76,
+    "delivery_lead_time": 76,
+    "exclusive": 76,
+    "id": 76,
+    "product_line": 76,
+    "units_per_package": 76,
+    "volume": 76
+  },
+  "price_unknown_keys": {
+    "gross_price": 76,
+    "product_id": 76
+  },
+  "stock_unknown_keys": {
+    "product_id": 76
+  },
+  "source_category_paths": [
+    "All/Saleable/Home appliances/Built in/Dishwasher",
+    "All/Saleable/Home appliances/Built in/Freezer",
+    "All/Saleable/Home appliances/Built in/Fridge"
+  ]
+}

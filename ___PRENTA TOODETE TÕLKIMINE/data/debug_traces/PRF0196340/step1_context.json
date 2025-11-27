@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283059153 8020283059153 Hob and Hood (2in1) ELICA NIKOLATESLA LIBRA EVO BL/A/83",
+  "search_queries": {
+    "main_query": "ELICA NikolaTesla Libra EVO BL/A/83 integreeritav induktsioonpliidiplaat õhupuhastiga",
+    "additional_queries": [
+      "ruumisäästlik köögilahendus integreeritav pliidiplaat koos õhupuhastiga Elica NikolaTesla",
+      "induktsioonpliidiplaat koos õhupuhastiga 83 cm 7200 W avatud kööki",
+      "millega erineb Elica NikolaTesla Libra EVO teistest integreeritavatest pliidiplaatidest õhupuhastiga",
+      "kuidas paigaldada ja kasutada Elica NikolaTesla Libra EVO pliidiplaati koos õhupuhastiga"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas ELICA NikolaTesla Libra EVO BL/A/83 sobib minu kööki ja tööpinda?",
+      "answer": "Tegemist on integreeritava induktsioonpliidiplaadiga, kuhu on sisse ehitatud õhupuhasti. Toote standardiseeritud laius on 80 cm ja sügavus 50 cm, tegelikud mõõdud on sisendi järgi ligikaudu laius 83, sügavus 51,5 ja kõrgus 21,1 (täpseid lõike- ja süvistusmõõte sisend ei kirjelda). Paigaldusviisiks on kas pealispindne või tasapinnaga tasaselt paigaldus. Õhupuhasti versioon on nii ringlusõhuga kui ka väljatõmbega (recirculation / duct out), seega sobib nii filtriga lahenduseks kui ka ventilatsioonikanalisse ühendamiseks. Kirjelduses on loetletud mitmed sobivad lisakomplektid (erinevad filtrikomplektid ja väljalaske lahendused), mis aitavad süsteemi oma köögi järgi kohandada. Täpse sobivuse hindamiseks soovitame võrrelda köögi kapi- ja tööpinna mõõte tehniliste andmete tabeliga ning vajadusel konsulteerida paigaldajaga."
+    },
+    {
+      "question": "Kui lihtne on seda pliidiplaati kasutada ja kuidas hooldust planeerida?",
+      "answer": "Pliidiplaat on induktsiooniga ning kasutab puutetundlikku slider-juhtimist, mis teeb võimsuse reguleerimise lihtsaks. Saadaval on 4 keeduala, kaks neist saab 2xBridge-funktsiooniga ühendada suuremaks tsooniks. Mugavust lisavad taimer, pausifunktsioon, automaatne kuumakskütmine, võimsuse kiirenduseks Power Booster, jääksoojuse indikaator ja laste lukk. Pliidiplaadil on integreeritud kaalud, mis lihtsustavad toiduainete täpset mõõtmist otse pliidil. Õhupuhastil on minimaalne õhuvool 160 m³/h, maksimaalne 480 m³/h ja Boost-funktsiooniga kuni 600 m³/h; müratase jääb vahemikku 38–69 dB. Sisend ei kirjelda täpseid puhastus- ega filtrihoolduse juhiseid ega seda, millised filtrid komplektis kaasas on. Kirjeldatud on sobivad lisakomplektid (nt erinevad filtrikomplektid ja väljalaske variandid), mis võivad olla vajalikud sõltuvalt valitud paigalduslahendusest. Hoolduseks ja paigalduseks tuleks kindlasti lähtuda tootja kasutusjuhendist ja vajadusel kaasata professionaalne paigaldaja."
+    },
+    {
+      "question": "Kui töökindel ja energiasäästlik see mudel on ning milline on hinna ja väärtuse suhe?",
+      "answer": "Sisendandmed ei kirjelda otseselt töökindlust ega garantiitingimusi, seega tuleb garantiiaega ja täpsemaid järelteeninduse tingimusi kontrollida müüjalt või tootjalt. Energiasäästlikkuse osas on mudelil õhupuhasti energiatõhususe klass A+ ning vooludünaamika klass A, rasva filtreerimise klass on B. Induktsioontehnoloogia (koguvõimsus 7200 W) on üldiselt efektiivne ja kiiresti reageeriv. Lisaks aitab integreeritud õhupuhasti vältida eraldi kubu paigaldamist, mis säästab ruumi ja võib vähendada täiendavaid kulusid. Integreeritud kaalud, Power Management funktsioon, mitmed turva- ja mugavusfunktsioonid ning võimalus kasutada nii ringlus- kui väljatõmbesüsteemi loovad tugeva väärtuspakkumise, eriti kui otsid kaasaegset ja ruumisäästlikku 2in1 lahendust. Täpne hinnang hinna-väärtuse suhtele sõltub sinu eelarvest ja alternatiivsetest pakkumistest, kuid funktsionaalsuse järgi positsioneerub toode kõrgklassi integreeritavate lahenduste hulka."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7612986152944 7612986152944 Hood FABER INKA LUX EVO WH MATT A52",
+  "search_queries": {
+    "main_query": "FABER Inka Lux Evo WH Matt A52 integreeritav õhupuhasti 60 cm",
+    "additional_queries": [
+      "kuidas eemaldada toidulõhnad köögist integreeritava õhupuhastiga FABER Inka Lux Evo WH Matt A52",
+      "integreeritav õhupuhasti kuni 620 m3/h FABER Inka Lux Evo WH Matt A52 köögiõhu puhastamiseks",
+      "FABER Inka Lux Evo WH Matt A52 vs teised 60 cm integreeritavad õhupuhastid",
+      "kuidas paigaldada ja hooldada integreeritavat õhupuhastit FABER Inka Lux Evo WH Matt A52"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas FABER Inka Lux Evo WH Matt A52 sobib minu kööki ja olemasoleva köögimööbliga?",
+      "answer": "See mudel on integreeritav (built-in) õhupuhasti, mis on mõeldud paigaldamiseks köögikappi. Standardiseeritud laius on 60 cm ning sisendis on toodud mõõdud 29 × 49,2 mm (pikkus ja laius) ja kõrgus u 324,7 mm (vastavalt min/max kõrguse näitajale). Õhupuhasti versioon on \"duct out\", st see vajab ühendamist ventilatsioonitoruga (toru läbimõõt 150 mm). Sisend ei täpsusta täpseid kapi nišimõõte ega paigaldusviisi, seega soovitame enne ostu võrrelda toote mõõte oma köögikapi ja olemasoleva ventilatsioonitoru asukohaga. Kirjelduses on viidatud ka söefiltri komplektidele (F8 KIT, High Performance FHP8 KIT, Long Lasting FLL8 KIT) ja ENERGY Remote blower komplektile, mis on potentsiaalsed lisatarvikud, kuid nende täpne kasutusviis ei ole sisendis lahti kirjutatud."
+    },
+    {
+      "question": "Kuidas kasutada ja hooldada FABER Inka Lux Evo WH Matt A52 õhupuhastit?",
+      "answer": "Õhupuhastit juhitakse elektrooniliselt (electronic control), seega toimub kasutamine nuppude või paneeli kaudu, mille abil valite sobiva tõmbeastme ning lülitate sisse/välja LED-valgustuse. Sisend ei täpsusta tõmbeastmete arvu ega täpset juhtimispaneeli kujundust.\n\nFiltrite kohta on sisendis ebamäärane info: \"Filter type: No\" ning eraldi on välja toodud söefiltri komplektid (F8 KIT, High Performance FHP8 KIT, Long Lasting FLL8 KIT), kuid ei ole selgitatud, milline rasvafilter on tehases paigaldatud ega kuidas seda hooldada. Seetõttu soovitame filtrite puhastamiseks või vahetamiseks lähtuda tootja ametlikust kasutusjuhendist, mis täpsustab, kas rasvafiltrit saab pesta, kui tihti seda hooldada ja kuidas söefiltreid (kui need on lisaks ostetud ja paigaldatud) vahetada."
+    },
+    {
+      "question": "Kui töökindel on FABER Inka Lux Evo WH Matt A52 ja milline on garantii ning hinna-väärtuse suhe?",
+      "answer": "Sisendmaterjal ei sisalda otseseid andmeid garantii pikkuse, töökindluse testide ega konkreetsete vastupidavusnäitajate kohta. Garantii tingimused (nt aastate arv) sõltuvad tavaliselt tootjast ja edasimüüjast, seega palume täpse info saamiseks vaadata e-poe või tootja garantiitingimusi.\n\nToote tehnilised näitajad viitavad, et see on mõeldud igapäevaseks kasutamiseks: maksimaalne õhuvool on 540 m³/h, booster-režiimil kuni 620 m³/h, energiaklass on B (aastane energiatarve 75 kWh) ning LED-valgustuse efektiivsusklass A. Perimeerne õhu sissevõtt ja elektrooniline juhtimine lisavad kasutusmugavust. Hinna ja väärtuse suhe tulenebki eelkõige selle integreeritavast lahendusest, tugevast tõmbejõust ja energiasäästlikust LED-valgustusest, kuid konkreetset pikaajalise vastupidavuse hinnangut sisend ei võimalda anda."
+    }
+  ]
+}

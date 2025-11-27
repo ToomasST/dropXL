@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7612985659147 7612985659147 Hood FABER CYLIND I.EVO PLUS BK MATT A37/2",
+  "search_queries": {
+    "main_query": "saare õhupuhasti Faber Cylind I.Evo Plus must matt 40 cm",
+    "additional_queries": [
+      "kuidas eemaldada toidulõhnad köögist Faber Cylind I.Evo Plus saare õhupuhastiga",
+      "saare õhupuhasti 700 m3/h Faber Cylind I.Evo Plus avatud kööki",
+      "mille poolest erineb Faber Cylind I.Evo Plus teistest ümara kujuga saare õhupuhastitest",
+      "kuidas paigaldada ja hooldada Faber Cylind I.Evo Plus õhupuhastit köögis"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Faber Cylind I.Evo Plus saare õhupuhasti sobib minu kööki ja ventilatsioonisüsteemiga?",
+      "answer": "See mudel on mõeldud saare kohal rippuva õhupuhastina („Island“ paigaldus) ja ümara kujuga. Standardlaius on 40 cm (tegelikud mõõdud u 37 × 37,5 cm) ning kõrgust saab reguleerida vahemikus 770–1215 mm, seega sobivust hinnates tuleks üle mõõta köögi lae kõrgus ja saare asukoht.\n\nÕhupuhastit saab kasutada nii väljatõmbena kui ka siseringlusega („Recirculation / Duct out“). Väljatõmbe puhul on vajalik 150 mm läbimõõduga ventilatsioonitoru. Siseringluse jaoks on saadaval eraldi söefiltrid (nt Charcoal filter F9 KIT või Long Lasting FLL9 KIT), kuid sisend ei täpsusta, kas need on komplektis või tuleb need eraldi osta.\n\nMaksimaalne õhuvool on 570 m³/h ja tõhustusrežiimil kuni 700 m³/h, mis sobib enamasti keskmise kuni suurema köögi jaoks. Kui vajad Wi‑Fi või pliidiga juhtmevaba ühendust, siis see mudel neid ei paku (Wi‑Fi ja „Wireless integration with hob“ on mõlemad „No“)."
+    },
+    {
+      "question": "Kuidas Faber Cylind I.Evo Plus õhupuhastit kasutada ja hooldada?",
+      "answer": "Õhupuhastil on elektrooniline juhtimine („Electronical“), millelt saad valida sobiva töökiiruse vastavalt aurude ja lõhnade hulgale. Maksimaalne õhuvool on 570 m³/h ja tõhustusrežiimil 700 m³/h; madalamatel astmetel on müratase alates 48 dB, kõrgeimal astmel kuni 65 dB ja tõhustusel 69 dB. LED‑valgustus (klass A) tagab tööpinna hea valgustuse.\n\nHooldus: korpust tuleks puhastada pehme niiske lapiga ja sobiva, roostevabale terasele mõeldud vahendiga; abrasiive ei soovitata. Sisend ei täpsusta, millised filtrid on tehasest standardis kaasas, kuid tootega on seotud söefiltrikomplektid (Charcoal filter F9 KIT, Long Lasting FLL9 KIT), mis on vajalikud siseringlusrežiimi jaoks. Nende vahetussagedus ja täpne puhastusviis sõltuvad tootja juhistest, mis on kirjas kasutusjuhendis.\n\nPaigaldus: tegemist on laest rippuva saare õhupuhastiga, mis vajab kindlat kinnitust ning 150 mm ventilatsioonitoru (väljatõmbe puhul). Sisend ei kirjelda täpset paigaldusprotseduuri, seega on soovitatav järgida tootja paigaldusjuhendit või kasutada professionaalset paigaldusteenust."
+    },
+    {
+      "question": "Kui töökindel on Faber Cylind I.Evo Plus ja kas see on oma hinda väärt?",
+      "answer": "Toode kuulub „FABER Semi Exclusive“ tooteliini, on valmistatud roostevabast terasest musta viimistlusega ja kaalub 28 kg, mis viitab tugevale korpusele. Energiatõhususe klass on A ning aastane energiatarve 57 kWh, LED‑valgustus on samuti A klassiga – seega on tegu ökonoomse lahendusega, mis vähendab jooksvaid kulusid.\n\nPerimeertõmme („Perimeter aspiration: Yes“) aitab aurusid tõhusamalt sisse tõmmata, samal ajal kui maksimaalne (570 m³/h) ja tõhustusõhuvool (700 m³/h) pakuvad piisavat võimsust ka nõudlikumas kasutuses. Müratase jääb vahemikku 48–69 dB, mis on selles klassis tavapärane.\n\nSisendandmed ei täpsusta garantiitingimusi ega järelteeninduse kestust – see võib oleneda müüjast ja riigist. Hinna-väärtuse mõttes pakub see mudel kombot: pool‑eksklusiivne disain, energiatõhusus, tugev õhuvool ja LED‑valgustus. Kui otsid stiilset saare kohale mõeldud musta matte viimistlusega õhupuhastit, mis töötab nii väljatõmbena kui ka siseringlusega, on see mudel oma omadusi arvestades tugev valik. Garantiiperioodi ja võimalike lisade (kaugjuhtimispult, söefiltrid) kuulumise komplekti osas soovitame enne ostu müüjalt täpsustada, sest sisend seda ei kirjelda."
+    }
+  ]
+}

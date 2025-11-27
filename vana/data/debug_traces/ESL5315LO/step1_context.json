@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543994687 7332543994687 ESL5315LO",
+  "search_queries": {
+    "main_query": "Electrolux ESL5315LO integreeritav nõudepesumasin",
+    "additional_queries": [
+      "Electrolux AirDry nõudepesumasin 60 cm 13 komplekti",
+      "Integreeritav nõudepesumasin PerfectFit liughinged 60 cm",
+      "Nõudepesumasin 49 dB inverter E klass 9.9 l/tsükkel",
+      "Electrolux nõudepesumasin kuumavee ühendus viitstart"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas see kuivatab hästi ja kas uks avaneb tsükli lõpus automaatselt?",
+      "answer": "Jah. AirDry tehnoloogia avab kuivatuse lõpus ukse umbes 10 cm, et looduslik õhk saaks ringelda. Tootja andmetel on see kuni kolm korda tõhusam kui suletud uksega süsteemid."
+    },
+    {
+      "question": "Kas see sobib 60 cm laia köögimööbli nišši ja kui lihtne on paigaldus?",
+      "answer": "Jah, tegemist on 60 cm integreeritava mudeliga (laius 59,6 cm, sügavus 55 cm). Kõrgus on reguleeritav 81,8–89,8 cm. PerfectFit liughinged teevad paigalduse lihtsaks ning tavaliselt ei ole vaja soklit lõigata."
+    },
+    {
+      "question": "Milline on mahutavus ja peamised tehnilised näitajad (müra, kulu, programmid)?",
+      "answer": "Mahutab 13 komplekti, 5 programmi (sh 30-min kiirpesu) ja 3 temperatuuri. Müratase 49 dB (klass C). Energiat 94 kWh/100 tsüklit (klass E), vett 9,9 l/tsükkel. ECO tsükkel u 227 min. Inverter-mootor, roostevabast terasest sisekorpus, kuumavee sisend, viitstart, automaatne väljalülitus ja lekkevastane kaitse. Wi‑Fi puudub, automaatprogramm puudub. Kontrollpaneel on sisemine LCD."
+    }
+  ]
+}

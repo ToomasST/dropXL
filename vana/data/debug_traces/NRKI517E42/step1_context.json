@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:3838782838415 3838782838415 NRKI517E42",
+  "search_queries": {
+    "main_query": "Gorenje NRKI517E42 integreeritav külmik-sügavkülm NoFrost 177,2 cm mõõdud ja paigaldus",
+    "additional_queries": [
+      "NRKI517E42 sobivus 60 cm kappi uksele-uksele hinged ja pööratavad uksed",
+      "vaikne integreeritav külmik NoFrost E energiaklass 35 dB 177 cm",
+      "Gorenje NRKI517E42 maht 176 + 76 liitrit kiirjahutus ja kiirkülmutus",
+      "GTIN 3838782838415 Gorenje NRKI517E42 kasutusjuhend ja tehnilised andmed"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kuidas NRKI517E42 minu elu lihtsamaks teeb?",
+      "answer": "See integreeritav külmik-sügavkülm kasutab NoFrost-tehnoloogiat, mistõttu puudub vajadus käsitsi sulatamiseks. Inverterkompressor hoiab temperatuuri stabiilsena ja töötab vaikselt (35 dB, müraklass B). Kiirjahutus külmikuosas ja kiirkülmutus sügavkülmas aitavad kiiresti värskeid toiduaineid õigesse temperatuurivahemikku viia. Ukse lahti ununemisel annab märku helisignaal ning temperatuuri tõusu indikaator hoiatab võimalike probleemide eest. Kogumaht on praktiline perele: külmik 176 l ja sügavkülm 76 l."
+    },
+    {
+      "question": "Kas see sobib minu köögimööbli kappi? Millised on mõõdud ja paigaldusnõuded?",
+      "answer": "Seadme mõõdud on H×L×S: 177,2 × 54 × 54,5 cm. Mudel on mõeldud 60 cm laiusesse standardkappi (ukse/kapi standardlaius 60 cm), kinnitusega uksele-uksele. Enne ostu mõõtke ära niss (kõrgus, laius, sügavus) ja jätke tootja juhiste järgi ventilatsiooniavad üla- ja alaossa. Vajadusel saab uste avanemissuuna ümber pöörata."
+    },
+    {
+      "question": "Millised kasutusmugavused ja ohutusfunktsioonid on olemas?",
+      "answer": "Sisemine elektrooniline juhtimine on lihtne ja täpne. Külmikus on LED-valgustus, pööratavad uksed ja uksele-uksele hingede süsteem. Funktsioonidest on olemas kiirjahutus (külmik), kiirkülmutus (sügavkülm) ning ukse lahti jäämise signaal ja temperatuuri tõusu indikaator. Energiatõhusus on klass E ning müratase 35 dB, mis teeb seadme igapäevaselt vaikseks."
+    }
+  ]
+}

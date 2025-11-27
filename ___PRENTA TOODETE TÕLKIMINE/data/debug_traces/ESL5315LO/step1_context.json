@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543994687 7332543994687 Dishwasher ELECTROLUX ESL5315LO",
+  "search_queries": {
+    "main_query": "Electrolux ESL5315LO integreeritav nõudepesumasin AirDry kuivatusega",
+    "additional_queries": [
+      "kuidas saada nõud täiesti kuivaks Electrolux ESL5315LO AirDry integreeritava nõudepesumasinaga",
+      "60 cm integreeritav nõudepesumasin 13 nõudekomplektile ja 9,9 l veekuluga",
+      "Electrolux ESL5315LO erinevus teistest 60 cm integreeritavatest nõudepesumasinatest",
+      "kuidas paigaldada ja seadistada Electrolux ESL5315LO PerfectFit liughingedega nõudepesin"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux ESL5315LO sobib minu kööki ja olemasolevasse mööblinišši?",
+      "answer": "Electrolux ESL5315LO on täislaiuses (standardiseeritud laius 60 cm) integreeritav nõudepesumasin, mis on mõeldud köögimööbli sisse ehitamiseks. Seadme korpuse laius on u 59,6 cm, sügavus 55 cm ning kõrgus on reguleeritav vahemikus umbes 81,8–89,8 cm. Tänu PerfectFit liughingedele on paigaldus lihtsam ja enamasti ei ole vaja soklit lõigata, seade sobitub erineva kõrgusega integreeritavatesse niššidesse. Juhtpaneel asub sees (täielikult integreeritav lahendus), mis tähendab, et uksele lisatakse köögimööbli esipaneel. Sobivuse kinnitamiseks mõõtke oma nišš (laius, kõrgus, sügavus) ja võrrelge neid toodud mõõtudega; sisendinfo ei täpsusta sobivust konkreetsete köögisüsteemidega."
+    },
+    {
+      "question": "Kui lihtne on Electrolux ESL5315LO nõudepesumasinat kasutada ja millised programmid sellel on?",
+      "answer": "See nõudepesumasin kasutab elektroonilist juhtimist LCD-ekraaniga ning juhtpaneel asub ukse siseküljel. Valida saab 5 pesuprogrammi ja 3 temperatuuri vahel, olemas on ka umbes 30-minutiline kiirprogramm, mis sobib väiksema koguse kergelt määrdunud nõude jaoks. Seadmel on viitstardi funktsioon (alguse edasilükkamine), automaatne väljalülitus ning kuiva tulemuse jaoks AirDry funktsioon – pesutsükli lõpus avaneb uks automaatselt umbes 10 cm, et loomulik õhuvool nõud põhjalikult kuivataks. Sisendinfo ei täpsusta täpseid puhastamise või hoolduse juhiseid, seetõttu on soovitatav lähtuda tootja kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel ja ökonoomne on Electrolux ESL5315LO ning milline on garantii ja hinna-väärtuse suhe?",
+      "answer": "Sisendi järgi on Electrolux ESL5315LO varustatud inverter-mootoriga, roostevabast terasest sisekestaga ning veeavarii kaitsega, mis viitab vastupidavusele ja turvalisusele. Energiaklass on uus skaala järgi E, energiakulu on 94 kWh 100 tsükli kohta ja veekulu 9,9 l ühe tsükli kohta, mis on integreeritava 60 cm nõudepesumasina kohta mõistlik näitaja. Müratase on 49 dB (müraklass C). Lisaks tõstab väärtust AirDry automaatne ukse avamine (kuni 3× efektiivsem kuivatamine võrreldes suletud uksega süsteemidega), 13 nõudekomplekti maht ja PerfectFit liughinged lihtsaks paigalduseks. Sisendmaterjal ei sisalda infot garantiiaja või täpsete tingimuste kohta – nende kohta annab täpse info müüja või tootja ametlik dokumentatsioon."
+    }
+  ]
+}

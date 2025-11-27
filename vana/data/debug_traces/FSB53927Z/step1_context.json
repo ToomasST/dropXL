@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543761760 7332543761760 FSB53927Z",
+  "search_queries": {
+    "main_query": "AEG FSB53927Z täisintegreeritav nõudepesumasin 60 cm",
+    "additional_queries": [
+      "AEG FSB53927Z AirDry SatelliteClean nõudepesumasin",
+      "Täisintegreeritav nõudepesumasin 14 komplekti 42 dB",
+      "AEG nõudepesumasin GlassCare SoftGrip SoftSpikes",
+      "Energiamärgis D nõudepesumasin 10,5 l tsükkel"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG FSB53927Z on täisintegreeritav ja millised on mõõdud?",
+      "answer": "Jah, see on integreeritav mudel sisemise juhtpaneeli ja libisevate hingede (sliding hinges) lahendusega. Mõõdud: laius 59,6 cm, sügavus 55,0 cm, kõrgus reguleeritav 81,8–87,8 cm."
+    },
+    {
+      "question": "Kui suur on mahutavus ja kui vaikne see on?",
+      "answer": "Mahutab 14 nõudekomplekti; 3 korvi (sh MaxiFlex söögiriistade sahtel). Müratase 42 dB (müraklass B), inverter-mootor. Põrandale kuvatakse tööoleku valgussignaal."
+    },
+    {
+      "question": "Kui ökonoomne see on ja millised on olulisemad funktsioonid?",
+      "answer": "Energiamärgis D; energiakulu 85 kWh/100 tsüklit; veekulu 10,5 l/tsükkel. Olulisemad funktsioonid: AirDry automaatne ukse avamine kuni ~10 cm, SatelliteClean tõhus loputus, GlassCare (SoftGrip/SoftSpikes/GlassHolder) klaaside kaitseks, QuickSelect puutejuhtimine; 7 programmi (sh automaatne ja klaasiprogramm). Wi‑Fi puudub."
+    }
+  ]
+}

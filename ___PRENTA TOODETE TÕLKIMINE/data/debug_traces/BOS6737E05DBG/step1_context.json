@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:3838782900679 3838782900679 Oven GORENJE BOS6737E05DBG",
+  "search_queries": {
+    "main_query": "Gorenje BOS6737E05DBG integreeritav elektriahi AirFry ja AquaClean",
+    "additional_queries": [
+      "kuidas teha ahjus krõbedaid friikartuleid ilma õlita AirFry funktsiooniga Gorenje BOS6737E05DBG ahjus",
+      "77 l 60 cm integreeritav elektriahi Gorenje BOS6737E05DBG suure pere jaoks",
+      "Gorenje BOS6737E05DBG võrdlus teiste 60 cm integreeritavate ahjudega funktsioonid ja hind",
+      "kuidas kasutada AquaClean puhastusprogrammi Gorenje BOS6737E05DBG ahjul"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Gorenje BOS6737E05DBG sobib minu kööki ja olemasoleva köögimööbliga?",
+      "answer": "Gorenje BOS6737E05DBG on standardmõõdus 60 × 60 cm integreeritav elektriahi (laius u 59,5 cm, kõrgus 59,5 cm, sügavus 56,4 cm), mistõttu sobib see enamiku tootjate tavapärastesse ahjuavadesse. Enne ostu mõõda siiski üle olemasolev nišš ja veendu, et sügavust on vähemalt 56 cm ning mööbli tagaseinas on ventilatsiooniava kuuma õhu väljumiseks. Kuna ahju võimsus on umbes 3,5 kW, peab elektriühendus olema maandatud ja vastava koormuse jaoks sobiv; kui pole kindel, tasub paigaldus lasta teha kvalifitseeritud elektrikul."
+    },
+    {
+      "question": "Kui lihtne on Gorenje BOS6737E05DBG ahju kasutada ja puhastada?",
+      "answer": "Sellel mudelil on väljatõmmatavad nupud ja IconLed ekraan, mis teevad seadistamise lihtsaks ning võimaldavad kasutada kuni 92 automaatset küpsetusprogrammi ja 10 põhirežiimi (kuumõhk, AirFry, Pizza kuni 300 °C, GentleBake aeglane küpsetamine, FrozenBake külmutatud toidule, kiirkuumenemine jpm). Emailitud sisepind koos AquaClean aurupuhastusega aitab puhastamist lihtsustada: vali AquaClean programm, ahi kuumutab sees olevat vett, aur pehmendab mustuse ning pärast jahtumist saab seinad niiske lapiga üle pühkida. Eemaldatav siseukse klaas ja ühel tasandil paiknev teleskoopsiin muudavad resti ja plaate sisse‑välja liigutamise mugavaks ja turvaliseks."
+    },
+    {
+      "question": "Kui töökindel on Gorenje BOS6737E05DBG ja milline on garantii ning hinna‑väärtuse suhe?",
+      "answer": "BOS6737E05DBG kuulub Gorenje kõrgema varustustasemega seeriasse ning on mõeldud igapäevaseks kasutamiseks. Ahjukamber on kaetud vastupidava emailiga, uksel on topeltklaas ja pehme SoftOpen/GentleClose mehhanism, ülekuumenemise vältimiseks töötab dünaamiline DC+ jahutussüsteem ning lisatud on lapselukk ja ülekuumenemiskaitse – need lahendused vähendavad kulumist ja hoiavad ümbritseva mööbli paremini kaitstuna. Gorenje pakub oma kodumasinatele tavaliselt vähemalt 2‑aastast tehasegarantiid, kuid täpne garantiiperiood ja lisahoolduse tingimused sõltuvad konkreetsest turust ja müüjast, seega tasub need enne ostu müügikohast üle küsida. Tänu suurele 77‑liitrisele mahule, laiale funktsioonide valikule (AirFry, Pizza, FrozenBake, GentleBake, kiirkuumenemine, teleskoopsiinid) ja energiatõhususe klassile A pakub see ahi oma hinnaklassis väga head mugavuse ja võimaluste suhet neile, kes soovivad ühest seadmest nii igapäevast töölooma kui ka piduroogade valmistajat."
+    }
+  ]
+}

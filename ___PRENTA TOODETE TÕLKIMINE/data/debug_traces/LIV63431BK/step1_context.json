@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543669523 7332543669523 Hob ELECTROLUX LIV63431BK",
+  "search_queries": {
+    "main_query": "Electrolux LIV63431BK 60 cm integreeritav induktsioonpliidiplaat Bridge funktsiooniga",
+    "additional_queries": [
+      "kuidas ühendada pliidiplaadil keedualad üheks suureks pinnaks Electrolux LIV63431BK Bridge funktsioon",
+      "60 cm must induktsioonpliidiplaat 7350 W integreeritav nelja tsooniga peresõbralikku kööki",
+      "millega erineb Electrolux LIV63431BK Hob2Hood ja Infinite tsoonidega teistest induktsioonpliitidest",
+      "kuidas kasutada Electrolux LIV63431BK puutejuhtimist, Hob2Hood ja PowerBoost funktsiooni igapäevasel kokkamisel"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LIV63431BK sobib minu kööki ja olemasoleva kubuga?",
+      "answer": "Electrolux LIV63431BK on integreeritav 60 cm laiune induktsioonpliidiplaat (standardlaius 60 cm), mis on mõeldud tööpinda pealtpaigalduseks. Pliidiplaadi mõõdud on ligikaudu 59 × 52 × 4,4 cm, seega sobib see enamiku 60 cm laiuste köögimoodulitega lahenduste jaoks, kuid täpse sobivuse tagamiseks tuleks võrrelda mõõte oma olemasoleva tööpinna väljalõikega ja paigaldusjuhendiga (sisend ei sisalda lõikemõõte).\n\nPliidiplaadil on „Wireless integration with hood\" / Hob2Hood® funktsioon, mis võimaldab seda juhtmevabalt siduda ühilduva kubuga. Sisend ei täpsusta konkreetseid mudeli- ega brändinõudeid, seega tuleks kubu ühilduvus Hob2Hood-funktsiooniga eraldi üle kontrollida."
+    },
+    {
+      "question": "Kui lihtne on Electrolux LIV63431BK pliidiplaati kasutada ja puhastada?",
+      "answer": "Electrolux LIV63431BK on puutetundliku juhtimisega induktsioonpliidiplaat. Kõik seaded tehakse otse siledalt klaaspinnalt, ilma nuppude ja nupurõngasteta, mis teeb kasutamise loogiliseks ja võimaldab temperatuuri kiiresti tõsta või langetada.\n\nPliidiplaadil on mitu abistavat funktsiooni: Bridge-tsoon (kahe keeduala ühendamine üheks suureks pinnaks), „Infinite“ keedualad, mis kohanduvad poti suurusega, taimer, pausifunktsioon ja PowerBoost kiireks kuumutamiseks.\n\nTootja kirjelduse järgi on klaaspinda lihtne puhastada, sest esipaneelil ei ole väljaulatuvaid nuppe ega käepidemeid. Sisend ei anna täpseid juhiseid puhastusvahendite või -meetodite kohta, seega tuleks järgida paigaldus- ja kasutusjuhendis toodud soovitusi."
+    },
+    {
+      "question": "Kui töökindel ja turvaline on Electrolux LIV63431BK ning kas see on oma hinda väärt?",
+      "answer": "Sisend ei ava eraldi pliidiplaadi töökindluse statistikat ega garantiitingimusi, seega tuleb garantii pikkus ja täpsed tingimused üle vaadata müüja või tootja ametlikest dokumentidest.\n\nTurvalisuse poolelt on mudelil lapse lukk (Child lock), jääkkuumuse näidik (Residual heat indicator) ja pausifunktsioon, mis aitavad vähendada eksimis- ja põletusriski. Induktsioontehnoloogia soojendab eeskätt nõu põhja, mitte kogu pinda, ning klaasist vitrokeramika tööpind jääb tänu sellele üldjuhul jahedamaks (sisend ei täpsusta täpset toimimisloogikat, vaid tehnoloogia tüübi).\n\nHinna ja väärtuse suhtes on selle mudeli peamised tugevused Bridge-tsoon suurtele ja piklikele nõudele, „Infinite“ suurust muutvad keedualad, Hob2Hood® juhtmevaba ühendus kubuga, PowerBoost kiireks kuumutamiseks ning puutetundlik juhtimine. Need funktsioonid teevad igapäevase toiduvalmistamise paindlikumaks ja mugavamaks, mis ongi selle toote peamine pikaajaline kasutegur."
+    }
+  ]
+}

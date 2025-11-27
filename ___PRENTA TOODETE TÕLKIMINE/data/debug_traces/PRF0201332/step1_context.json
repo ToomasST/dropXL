@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283060531 8020283060531 Hood ELICA CT17 C IX/A/52",
+  "search_queries": {
+    "main_query": "integreeritav õhupuhasti Elica CT17 C IX/A/52 52 cm roostevaba",
+    "additional_queries": [
+      "kuidas vähendada toidulõhnu ja rasva väikeses köögis Elica CT17 C IX/A/52 õhupuhastiga",
+      "sisseehitatav õhupuhasti 60 cm kapile 368 m3/h väikese ja keskmise köögi jaoks",
+      "Elica CT17 C IX/A/52 võrdlus teiste täisintegreeritavate 60 cm õhupuhastitega",
+      "kuidas paigaldada ja hooldada Elica CT17 C IX/A/52 õhupuhastit (filtrite vahetus, söefilter CFC0141571)"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica CT17 C IX/A/52 sobib minu kööki ja olemasolevasse kappi?",
+      "answer": "See mudel on täisintegreeritav õhupuhasti, mis on mõeldud paigaldamiseks 60 cm laiusesse seinakappi. Kapi sisse ehitatava korpuse laius on u 53,5 cm ja sügavus u 30 cm, seega veendu, et kapis on piisavalt ruumi nii seadme kui ka 120 mm ventilatsioonitoru jaoks. Tõmbevõimsus 290–368 m³/h sobib hästi väikesele ja keskmise suurusega köögile. Paigalduskõrgus peaks olema vähemalt ~50 cm elektriplaadi ja ~65 cm gaasipliidi kohal (täpsed vahed vaata paigaldusjuhendist). Õhupuhastit saab kasutada nii väljatõmbe kui ka recirkulatsiooni režiimis (viimase jaoks on vaja eraldi söefiltrit CFC0141571)."
+    },
+    {
+      "question": "Kui lihtne on Elica CT17 C IX/A/52 kasutamine ja filtrite hooldus?",
+      "answer": "Kasutamine on lihtne: esipaneelil on mehhaanilised nupud, mille abil valid 3 kiiruse vahel ning lülitad LED-valgustuse sisse. Õhupuhastil on alumiiniumist rasvafiltrid, mis on eemaldatavad ja pestavad – neid tuleks regulaarselt puhastada käsitsi sooja vee ja õrna pesuvahendiga (või vastavalt kasutusjuhendile). Kui kasutad seadet recirkulatsioonirežiimis, paigaldatakse lisaks söefilter CFC0141571, mis neelab lõhnu; seda on üldjuhul vaja vahetada mõne kuu kuni paari korra aastas, olenevalt kasutussagedusest. Muus osas on seade „plug & play“ – igapäevane kasutamine piirdub nuppude ja valgustuse kasutamise ning filtrite perioodilise puhastamisega."
+    },
+    {
+      "question": "Kui töökindel on see mudel, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Elica CT17 C IX/A/52 on lihtsa ja töökindla ülesehitusega täisintegreeritav õhupuhasti: roostevabast terasest korpus, üks 140 W mootor, mehhaaniline nupplülitus ja LED-valgustus tähendavad, et keeruka elektroonika osi on vähe. Enamik müüjaid pakub sellele mudelile tavaliselt 2-aastast tehasegarantiid (täpne tingimus sõltub konkreetsest müüjast ja riigist). Hinna ja väärtuse suhtes pakub mudel korralikku tõmbevõimsust väikesele/keskmisele köögile, diskreetset täisintegreeritud lahendust 60 cm kapis, pestavaid metallfiltreid ja ökonoomset LED-valgust – miinuseks on pigem tagasihoidlik D energiaklass, kuid see on selles hinnaklassis ja mõõdus integreeritavate õhupuhastite puhul tavapärane."
+    }
+  ]
+}

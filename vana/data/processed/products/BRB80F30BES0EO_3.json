@@ -1,0 +1,512 @@
+{
+  "name": "BRB80F30BES0EO",
+  "type": "simple",
+  "status": "publish",
+  "catalog_visibility": "visible",
+  "description": "<p></p>",
+  "description_flix": "",
+  "short_description": "",
+  "sku": "BRB80F30BES0EO",
+  "regular_price": "682.00",
+  "sale_price": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": true,
+  "stock_quantity": 5,
+  "backorders": "no",
+  "backorders_allowed": false,
+  "backordered": false,
+  "supplier_sku_prefix": "RP-",
+  "weight": "76.00",
+  "dimensions": {
+    "length": "55",
+    "width": "54",
+    "height": "193.5"
+  },
+  "shipping_required": true,
+  "shipping_taxable": true,
+  "shipping_class": "prenta",
+  "reviews_allowed": true,
+  "categories": [
+    {
+      "name": "Kodutehnika > Integreeritav kodutehnika > Integreeritavad külmikud",
+      "slug": "kodutehnika-integreeritav-kodutehnika-integreeritavad-klmikud"
+    }
+  ],
+  "brands": [
+    {
+      "name": "SAMSUNG",
+      "slug": "samsung"
+    }
+  ],
+  "tags": [],
+  "images": [
+    {
+      "src": "data/processed/product_images/37426/image_1.webp",
+      "position": 0,
+      "alt": "BRB80F30BES0EO",
+      "origin": "prenta",
+      "source_url": "https://e.prenta.lt/web/image/product.product/37426/image?unique=4541a19"
+    }
+  ],
+  "meta_data": [
+    {
+      "key": "_bp_gtin13",
+      "value": "8806097061601"
+    },
+    {
+      "key": "_bp_supplier",
+      "value": "Prenta"
+    },
+    {
+      "key": "_bp_brand",
+      "value": "SAMSUNG"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Producer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Samsung"
+      ]
+    },
+    {
+      "name": "Type of installation",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Built in"
+      ]
+    },
+    {
+      "name": "Type of hinges",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Sliding"
+      ]
+    },
+    {
+      "name": "Type",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Fridge with bottom freezer"
+      ]
+    },
+    {
+      "name": "Type of refrigeration technology",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No frost"
+      ]
+    },
+    {
+      "name": "Height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "193.5"
+      ]
+    },
+    {
+      "name": "Width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "54.0"
+      ]
+    },
+    {
+      "name": "Depth",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "55.0"
+      ]
+    },
+    {
+      "name": "Standardized width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "60.0"
+      ]
+    },
+    {
+      "name": "Standardized height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "195"
+      ]
+    },
+    {
+      "name": " Color",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "White"
+      ]
+    },
+    {
+      "name": "Noise level class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "B"
+      ]
+    },
+    {
+      "name": "Noise level",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "35"
+      ]
+    },
+    {
+      "name": "Cold drawer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Close to 0 ° C zone"
+      ]
+    },
+    {
+      "name": "Freezer to fridge",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Control",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "External electronic control"
+      ]
+    },
+    {
+      "name": "Annual energy consumption",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "229"
+      ]
+    },
+    {
+      "name": "Net capacity of refrigerator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "224"
+      ]
+    },
+    {
+      "name": "Net capacity of freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "74"
+      ]
+    },
+    {
+      "name": "Soft door closing",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Metallized rear wall",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Ice maker",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Bottle shelf",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Rapid cooling in refrigerator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Reversible doors",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Lighting",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "LED"
+      ]
+    },
+    {
+      "name": "Wi-Fi",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Number of freezer boxes/shelfs",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "3"
+      ]
+    },
+    {
+      "name": "Freezer freezing temperature",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "2°C -23°C"
+      ]
+    },
+    {
+      "name": "Fast freeze function in freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Freezing capacity in 24 hours",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "6.0"
+      ]
+    },
+    {
+      "name": "Maximum freezer storage time in power failure",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "6"
+      ]
+    },
+    {
+      "name": "Lowest operational temperature",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "10.0"
+      ]
+    },
+    {
+      "name": "New Energy efficiency class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "E"
+      ]
+    }
+  ],
+  "source": {
+    "prenta_product_id": 37426,
+    "prenta_category_path": "All > Saleable > Home appliances > Built in > Fridge",
+    "prenta_category_id": 27,
+    "price": {
+      "gross_price": 528.1,
+      "price": 500.0,
+      "product_id": 37426
+    },
+    "detail": {
+      "attribute_line_ids": [
+        {
+          "attribute_id": 486,
+          "value_id": 7491
+        },
+        {
+          "attribute_id": 517,
+          "value_id": 5214
+        },
+        {
+          "attribute_id": 546,
+          "value_id": 5250
+        },
+        {
+          "attribute_id": 536,
+          "value_id": 5216
+        },
+        {
+          "attribute_id": 538,
+          "value_id": 5239
+        },
+        {
+          "attribute_id": 512,
+          "value_id": 9325
+        },
+        {
+          "attribute_id": 513,
+          "value_id": 5919
+        },
+        {
+          "attribute_id": 514,
+          "value_id": 5481
+        },
+        {
+          "attribute_id": 509,
+          "value_id": 4980
+        },
+        {
+          "attribute_id": 508,
+          "value_id": 5277
+        },
+        {
+          "attribute_id": 491,
+          "value_id": 4917
+        },
+        {
+          "attribute_id": 776,
+          "value_id": 8224
+        },
+        {
+          "attribute_id": 547,
+          "value_id": 5910
+        },
+        {
+          "attribute_id": 543,
+          "value_id": 5244
+        },
+        {
+          "attribute_id": 835,
+          "value_id": 9975
+        },
+        {
+          "attribute_id": 492,
+          "value_id": 5256
+        },
+        {
+          "attribute_id": 537,
+          "value_id": 5956
+        },
+        {
+          "attribute_id": 540,
+          "value_id": 7556
+        },
+        {
+          "attribute_id": 541,
+          "value_id": 5760
+        },
+        {
+          "attribute_id": 499,
+          "value_id": 4953
+        },
+        {
+          "attribute_id": 571,
+          "value_id": 5320
+        },
+        {
+          "attribute_id": 568,
+          "value_id": 8810
+        },
+        {
+          "attribute_id": 564,
+          "value_id": 5348
+        },
+        {
+          "attribute_id": 560,
+          "value_id": 5295
+        },
+        {
+          "attribute_id": 552,
+          "value_id": 5283
+        },
+        {
+          "attribute_id": 608,
+          "value_id": 6147
+        },
+        {
+          "attribute_id": 510,
+          "value_id": 4982
+        },
+        {
+          "attribute_id": 554,
+          "value_id": 5372
+        },
+        {
+          "attribute_id": 569,
+          "value_id": 10245
+        },
+        {
+          "attribute_id": 561,
+          "value_id": 5297
+        },
+        {
+          "attribute_id": 548,
+          "value_id": 5761
+        },
+        {
+          "attribute_id": 549,
+          "value_id": 9847
+        },
+        {
+          "attribute_id": 574,
+          "value_id": 5349
+        },
+        {
+          "attribute_id": 773,
+          "value_id": 8202
+        }
+      ],
+      "barcode": "8806097061601",
+      "category_id": 27,
+      "compound_name": "Fridge SAMSUNG BRB80F30BES0EO",
+      "country_of_origin_id": 180,
+      "date_edited": "2025-11-14T13:38:02+00:00",
+      "delivery_lead_time": 0,
+      "description": "<p></p>",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"8806097061601\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 37426,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/37426/image?unique=4541a19"
+      ],
+      "internal_reference": "BRB80F30BES0EO",
+      "manufacturer_id": 675,
+      "name": "BRB80F30BES0EO",
+      "price_rrp": 639.0,
+      "product_line": "SAMSUNG Semi Exclusive",
+      "units_per_package": 1,
+      "volume": 0.76,
+      "weight": 74.0,
+      "weight_bruto": 76.0
+    }
+  }
+}

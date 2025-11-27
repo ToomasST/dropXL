@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543994748 7332543994748 ENV9MC18S",
+  "search_queries": {
+    "main_query": "Electrolux ENV9MC18S integreeritav külmik-sügavkülmik 177 cm",
+    "additional_queries": [
+      "Electrolux ENV9MC18S NoFrost mõõdud 55 cm liughinged",
+      "Integreeritav külmik muudetava sügavkülmaga +4 °C Electrolux",
+      "Electrolux integreeritav külmik Wi‑Fi Cooling 360 GreenZone",
+      "Energiaklass C integreeritav külmik 35 dB 154 kWh/a"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas sügavkülma saab kasutada külmikuna?",
+      "answer": "Jah. Mudelil on muudetava režiimiga sügavkülm („Freezer to fridge“): saad seada +4 °C ja kasutada seda külmiku lisaruumina või valida tavapärase sügavkülma temperatuuri vahemikus −15…−24 °C."
+    },
+    {
+      "question": "Kas see on NoFrost ja kui vali seade on?",
+      "answer": "Jah, tegemist on NoFrost tehnoloogiaga, seega käsitsi sulatamist ei ole vaja. Müratase on 35 dB (klass B) ning töö on sujuv tänu inverterkompressorile."
+    },
+    {
+      "question": "Kas see mudel sobib 55 cm laiusesse köögikappi ja millised hinged tal on?",
+      "answer": "Jah, see on 55 cm standardlaiusega integreeritav mudel. Seadme mõõdud on H 177.2 × L 54.6 × S 54.9 cm. Uksed on ümberpööratavad ja kasutusel on liughinged (sliding), et ühendada kapiuksega. Veendu, et köögimööbli nišš mahutab need mõõdud."
+    }
+  ]
+}

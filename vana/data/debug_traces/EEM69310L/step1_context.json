@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543761500 7332543761500 EEM69310L",
+  "search_queries": {
+    "main_query": "Electrolux EEM69310L integreeritav nõudepesumasin 60 cm – 15 komplekti, 44 dB, energiaklass D",
+    "additional_queries": [
+      "Electrolux EEM69310L mõõdud ja paigaldus – kõrgus 81.8–89.8 cm, laius 59.6 cm, sügavus 55 cm, liughinged",
+      "Vaikne integreeritav nõudepesumasin klaasiprogrammiga ja automaatse ukse avamisega 60 cm",
+      "Nõudepesumasin 15 komplekti, 3 korvi, invertermootor, viitstart ja kuuma vee sisselase",
+      "EEM69310L energiakulu ja veekulu – 86 kWh / 100 tsüklit, 11 l / tsükkel"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Mida Electrolux EEM69310L paremini teeb ja millist probleemi see lahendab?",
+      "answer": "See 60 cm integreeritav nõudepesumasin sobib suurtele ja kiire elutempoga majapidamistele: 15 nõudekomplekti ja 3 korvi aitavad korraga rohkem pesta, klaasiprogramm hoolitseb õrnade klaaside eest ning tsükli lõpus avanev uks parandab loomuliku kuivamise tulemuse. Invertermootoriga töötamine on vaikne (44 dB) ning säästlik (energiaklass D; 86 kWh/100 tsüklit; vesi 11 l/tsükkel). Põrandale kuvatav valgus annab selgelt märku tööolukorrast, et köögis oleks rahu ja kord."
+    },
+    {
+      "question": "Kas see mahub minu köögimööblisse ja millised on paigaldusnõuded?",
+      "answer": "Seade on mõeldud 60 cm integreerimiseks. Reguleeritav kõrgus 81.8–89.8 cm, laius 59.6 cm ja sügavus 55 cm. Liughinged lihtsustavad esipaneeli joondamist erineva soklikõrgusega köökides. „Installation in height: No“ tähendab, et seda ei paigaldata kõrgele kappi. Nõuab mööbliesipaneeli (ei kuulu komplekti)."
+    },
+    {
+      "question": "Kas seadmel on nutijuhtimine ja millised funktsioonid/programmide valikud on?",
+      "answer": "Wi‑Fi puudub. Juhtimine on sisemine puutetundliku LCD-ga. Masinal on 8 programmi (sh automaatne ja klaasiprogramm), 4 temperatuuri, viitstart, ajasäästu valik, automaatne väljalülitus, kuuma vee sisselase ja tsükli lõpus automaatne ukse avamine parema kuivuse jaoks. Müra 44 dB (klass B), 3 korvi ja täisroostevabast terasest sisekorpus tagavad vastupidavuse ja mugavuse."
+    }
+  ]
+}

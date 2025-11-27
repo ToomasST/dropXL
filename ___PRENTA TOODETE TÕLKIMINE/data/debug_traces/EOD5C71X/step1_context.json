@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543665495 7332543665495 Oven ELECTROLUX EOD5C71X",
+  "search_queries": {
+    "main_query": "Electrolux EOD5C71X integreeritav aurufunktsiooniga ahi",
+    "additional_queries": [
+      "kuidas küpsetada kodus pagarikojakvaliteediga saiakesi Electrolux EOD5C71X SteamBake ahjus",
+      "integreeritav elektriahi 72 l mahuga ja aurufunktsiooniga suurde perekööki",
+      "milles erineb Electrolux EOD5C71X teistest 60 cm integreeritavatest ahjudest",
+      "kuidas kasutada Electrolux EOD5C71X liha termomeetrit ja ahju isepuhastust igapäevaselt"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EOD5C71X sobib minu kööki ja olemasolevasse mööblikappi?",
+      "answer": "See on 60 cm laiune integreeritav elektriahi, mis on mõeldud köögimööbli sisse ehitamiseks. Sisendinfo järgi on ahju mõõdud ligikaudu 59,4 × 59,5 × 56,9 cm (K × L × S) ning toode on märgitud standardse 60 cm kõrguse ja laiusega. Enne ostu tuleks üle mõõta olemasolev kapp ja võrrelda tootega toodud mõõtudega ning veenduda, et on olemas sobiv elektriühendus. Täpsed paigaldusnõuded on kirjas tootja paigaldusjuhendis, mida sisendinfo ei sisalda."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EOD5C71X ahju kasutada ja puhastada?",
+      "answer": "Sellel ahjul on LED-taimeri ekraan, kombineeritud pööratavad väljatõmmatavad nupud ja puutejuhtimine, mis teeb programmide ja küpsetusaja seadmise lihtsaks. SteamBake-funktsioon käivitub ühe nupuvajutusega ning ühtlane kuumuse jaotus (Even Cooking) aitab toitu ilma pööramata ühtlaselt küpsetada. Sisendinfo järgi on ahjul isepuhastusfunktsioon, mis aktiveerub kõrgel temperatuuril ja aitab rasva ning mustust lagundada, mistõttu käsitsi küürimist on vähem. Täpne puhastus- ja hooldusjuhis on kasutusjuhendis, mida sisend ei ava."
+    },
+    {
+      "question": "Kui töökindel on Electrolux EOD5C71X ja kas see on oma hinda väärt?",
+      "answer": "Sisendi järgi on ahjul A energiaklass, suur 72-liitrine küpsetusruum, ühtlase kuumusega pöördõhu süsteem, SteamBake aurufunktsioon ja komplektis liha termomeeter, mis aitab saavutada täpse sisetemperatuuri. Kolmekordne ahjuukse klaas vähendab soojakadu ning teleskoopsiinid ühel tasandil lisavad kasutusmugavust. Need omadused pakuvad mitmekülgseid küpsetusvõimalusi ja ajas mugavust, mis toetab hinna-väärtuse suhet. Sisendinfo garantiitingimusi ja töökindluse statistikat ei täpsusta; täpse garantiiaja ja -tingimused annab müüja või tootja dokumentatsioon."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394041469 7333394041469 FSE74527P",
+  "search_queries": {
+    "main_query": "AEG FSE74527P integreeritav nõudepesumasin 45 cm",
+    "additional_queries": [
+      "AEG FSE74527P mõõdud 44.6 x 55 x 81.8–89.8 cm",
+      "AEG nõudepesumasin 10 nõudekomplekti energiatõhusus C 59 kWh",
+      "AEG SatelliteClean SoftGrip SoftSpikes MaxiFlex nõudepesumasin",
+      "AEG integreeritav nõudepesumasin 45 dB sisemine juhtpaneel"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG FSE74527P sobib 45 cm laiusesse kappi ja millised on paigaldusmõõdud?",
+      "answer": "Jah, tegu on 45 cm standardlaiusega integreeritava mudeliga. Seadme mõõdud: laius 44,6 cm, sügavus 55,0 cm, kõrgus reguleeritav 81,8–89,8 cm. Libisevad hinged ja „paigaldus kõrguses“ tugi lihtsustavad sobitamist erinevatesse köögilahendustesse."
+    },
+    {
+      "question": "Kui suur on maht ja kui vaikne ning ökonoomne see masin on?",
+      "answer": "Mahutab 10 nõudekomplekti. Müra 45 dB (müra klass C). Uus energiaklass C; energiakulu 59 kWh / 100 tsüklit (Eco), vee kulu 9,9 l tsükli kohta. Eco tsükli kestus 160 min."
+    },
+    {
+      "question": "Millised on peamised funktsioonid ja kas seadmel on Wi‑Fi?",
+      "answer": "Funktsioonid: 7 programmi (sh Klaas ja Automaat), 3 temperatuuri, ajasääst, viitstart, automaatne väljalülitus, kuuma vee sissevõtt, inverter-mootor. Mugavused: 3 korvi, MaxiFlex söögiriistasahtel, SoftGrip ja SoftSpikes klaasidele, SatelliteClean suurema katvusega pihusti, topeltpihustus, tsükli lõpus automaatne ukse avanemine, sisemine valgus, põrandale suunatud valgussignaal, veekaitse, libisevad hinged. Wi‑Fi puudub."
+    }
+  ]
+}

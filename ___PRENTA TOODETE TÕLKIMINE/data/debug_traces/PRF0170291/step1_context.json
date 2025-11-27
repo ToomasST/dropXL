@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283050723 8020283050723 Hood ELICA JUNO S IX/F/50",
+  "search_queries": {
+    "main_query": "saare õhupuhasti Elica Juno S IX/F/50 roostevabast terasest 50 cm",
+    "additional_queries": [
+      "kuidas lahendada köögi lõhnad kui puudub ventilatsiooni lõõr – saare õhupuhasti Elica Juno S IX/F/50 recirkulatsiooniga",
+      "saare köögi õhupuhasti 50 cm 630 m3/h LED valgustusega avatud kööki",
+      "Elica Juno S IX/F/50 võrdlus teiste saare õhupuhastitega 50 cm ja 600 m3/h klassis",
+      "kuidas paigaldada ja hooldada Elica Juno S IX/F/50 saare õhupuhastit ja söefiltrit"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica Juno S IX/F/50 sobib minu kööki ja olemasoleva pliidiga?",
+      "answer": "See mudel on 50 cm läbimõõduga riputatav saare õhupuhasti, mis on mõeldud köökidele, kus pliit asub saarel või köögi keskel. Õhupuhasti sobib hästi kuni ca 60 cm laiuse pliidiplaadi kohale ja on eriti praktiline avatud köökides, kus puudub võimalus ühendada kubu ventilatsioonilõõriga. Õhuvõimsus 310–630 m³/h katab enamiku väike- ja keskmise suurusega köökide vajadused; kui sul on väga suur või kõrgete lagedega ruum, tasub kontrollida, kas nõutav õhuvahetus jääb sellesse vahemikku. Õhupuhasti töötab standardina recirkulatsiooni režiimis, st suunab puhastatud õhu tagasi ruumi, seega ei ole vaja eraldi ventilatsioonikanalit – piisab elektriühendusest ja õigesti valitud paigalduskõrgusest (tüüpiliselt ~55–65 cm pliidi kohal, täpse vahemiku annab paigaldusjuhend)."
+    },
+    {
+      "question": "Kui lihtne on Elica Juno S IX/F/50 kasutamine ja hooldus ning mida tuleb filtrite puhul arvestada?",
+      "answer": "Õhupuhastil on lihtne elektrooniline nuppudega juhtimine ja tavaliselt kolm töökiirust, seega igapäevane kasutamine taandub põhimõtteliselt kiiruse valimisele ning LED-valgustuse sisse- ja väljalülitamisele. Seade töötab söefiltriga recirkulatsiooni režiimis: metallist rasvafiltrit tuleb regulaarselt eemaldada ja nõudepesuvahendiga (või nõudepesumasinas, kui tootja seda lubab) puhastada, et säiliks tõhus imemine. Söefilter seob lõhnad; osa müüjaid pakub selle mudeli juurde regenereeritavat Long Life filtrit, mida saab korduvalt pesta ja uuesti kasutada, mis vähendab jooksvaid kulusid. Filtri tegelik tüüp ja see, kas see on komplektis või tuleb eraldi osta, sõltub konkreetse tarnija pakkumisest, seega soovitame selle enne ostu e-poe infot või klienditeenindust üle küsida. Juhul kui plaanid seadet paigaldada tavapärasest kõrgemale (nt väga kõrge laega ruumis), kontrolli, kas vajad täiendavaid riputustrosse või pikenduskomplekti – need on mõnel turul saadaval lisatarvikutena."
+    },
+    {
+      "question": "Kui töökindel Elica Juno S IX/F/50 on, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Elica on tuntud köögiõhupuhastite tootja ning Juno S IX/F/50 puhul kombineeritakse roostevabast terasest korpus, energiatõhus LED-valgustus, B-klassi energiakulu (umbes 55 kWh aastas) ja 310–630 m³/h õhuvõimsus, mis teeb sellest tugeva keskklassi lahenduse saarekökki. Long Life tüüpi söefiltriga versioonid on mõeldud pikaealiseks kasutuseks: filtrit saab hooldada ja see kestab oluliselt kauem kui tavalised ühekordsed söefiltrid, mis vähendab hoolduskulusid pikemas plaanis. Tootjad ja jaemüüjad pakuvad sellele mudelile Euroopas tavaliselt vähemalt 2-aastast garantiid, mõnel turul on võimalik tasulise lisagarantiiga ulatuda kuni 5–6 aastani, kuid täpne garantiiaeg ja -tingimused sõltuvad konkreetsest müüjast. Hinna-väärtuse mõttes saad disainse, saarel kasutamiseks mõeldud õhupuhasti, mis ei vaja väljatõmbetorustikku ja sobib hästi avatud ning modernsesse kööki – kui sul puudub võimalus ühendada kubu lõõri, on see tüüp sageli üks kulutõhusamaid lahendusi."
+    }
+  ]
+}

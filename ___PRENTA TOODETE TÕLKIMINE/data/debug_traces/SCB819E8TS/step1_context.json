@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543818655 7332543818655 Fridge AEG SCB819E8TS",
+  "search_queries": {
+    "main_query": "AEG SCB819E8TS integreeritav külmik sügavkülmaga MultiSpace NoFrost",
+    "additional_queries": [
+      "integreeritav külmik rohkem ruumi MultiSpace 800 AEG SCB819E8TS",
+      "integreeritav külmik 216 l külmik ja 62 l sügavkülm AEG SCB819E8TS igapäevaseks kasutuseks",
+      "AEG SCB819E8TS võrdlus teiste integreeritavate NoFrost külmikute ja MultiSpace mudelitega",
+      "kuidas kasutada ja hooldada AEG SCB819E8TS integreeritavat NoFrost külmikut"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG SCB819E8TS integreeritav külmik sobib minu kööki ja olemasolevasse mööblikappi?",
+      "answer": "AEG SCB819E8TS on integreeritav külmik alumise sügavkülmaga, mis on mõeldud köögimööbli sisse ehitamiseks. Toote standardiseeritud kõrgus on 190 cm ja standardiseeritud laius 60 cm, tegelik kõrgus u 188,4 cm, laius 54 cm ja sügavus 54,9 cm (vastavalt sisendandmetele). Uksed on ümberpööratavad ja kasutusel on liughinged (sliding hinges). Sobivuse kontrollimiseks mõõtke oma mööblinišš ning veenduge, et see on mõeldud 190 cm integreeritavale külmikule liughingedega süsteemile. Konkreetseid paigaldusnõudeid (nt ventilatsioonivuugid) sisendmaterjal ei täpsusta, seega järgige mööblitootja ja paigaldusjuhendi soovitusi."
+    },
+    {
+      "question": "Kui lihtne on AEG SCB819E8TS kasutamine ja kas sügavkülma peab käsitsi üles sulatama?",
+      "answer": "Seda külmikut juhitakse sisemise puutetundliku LCD-paneeli abil, kus saab täpselt reguleerida temperatuuri ja seadeid. Külmikus on NoFrost jahutustehnoloogia, mis tähendab, et sügavkülma ei ole vaja käsitsi üles sulatada. Seadmel on kiirjahutus külmikus ja kiirkülmutus sügavkülmas, ukse lahtijätmise alarm ning temperatuuri tõusu indikaator. Sees on LED-valgustus ja eraldi sahtlid, sh ExtraZone ja peaaegu 0 °C tsooni sahtel teleskoopsiinidel. Sisendmaterjal ei täpsusta, kui tihti tuleb õhupuhastusfiltrit vahetada ega anna detailseid puhastusjuhiseid, seega tuleb lähtuda tootja kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel on AEG SCB819E8TS ja milline on garantii ning hinna ja väärtuse suhe?",
+      "answer": "Külmikul on inverterkompressor, millele tootja annab sisendkirjelduse järgi 10-aastase garantii, mis hõlmab kompressori rikkega seotud töid, varuosi ja transporti. Müratase on 36 dB (müraklass B), mis on integreeritava külmiku kohta vaikses vahemikus. Aastane energiatarve on 235 kWh ning energiatõhususe klass E (uue skaalaga). Ülejäänud seadme üldist garantiiperioodi sisendmaterjal ei täpsusta – see sõltub müüja ja tootja garantii tingimustest. Hinna-väärtuse mõttes pakub mudel lisaruumi andvat MultiSpace 800 lahendust, paindlikku sisejaotust (ExtraZone, peaaegu 0 °C tsooni sahtel, jaotatavad riiulid), NoFrost-süsteemi, õhupuhastusfiltrit ja LED-valgustust, mis teeb sellest funktsiooniderikka integreeritava külmiku AEG Exclusive tootesarjast."
+    }
+  ]
+}

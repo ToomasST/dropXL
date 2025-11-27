@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543983155 7332543983155 TSC8M191CS",
+  "search_queries": {
+    "main_query": "AEG TSC8M191CS integreeritav külmik‑sügavkülmik",
+    "additional_queries": [
+      "AEG 8000 Cooling 360° NoFrost integreeritav külmik TwinTech",
+      "Integreeritav külmik liughingedega 189,4 cm 207+62 l 35 dB",
+      "C energiaklassi integreeritav külmik 138 kWh/a inverterkompressoriga",
+      "AEG integreeritav külmik Freezer to Fridge funktsiooniga"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas TSC8M191CS on integreeritav ja millised on mõõdud?",
+      "answer": "Jah. Tegu on integreeritava külmik‑sügavkülmikuga (liughinged). Uksed on pööratavad. Seadme mõõdud (K×L×S): 189,4 × 56,2 × 55,0 cm. Standardiseeritud mõõdud: kõrgus 190 cm, laius 60 cm. Uksekäepidet ei ole (mööbliesipaneeliga kasutamiseks)."
+    },
+    {
+      "question": "Kas külmik on NoFrost ja kuidas TwinTech aitab toitu värskena hoida?",
+      "answer": "Jah, süsteem on NoFrost – käsitsi sulatamist pole vaja. TwinTech topeltjahutus hoiab külmiku ja sügavkülma niiskusrežiimid eraldi, säilitades toidus rohkem niiskust ja vältides kuivamist. Cooling 360° tagab jaheda õhu ühtlase ringluse igas riiulis ning metalliseeritud tagasein taastab jaheduse kiiremini. Lisaks aitab GreenZone+ niiskuskontrolliga sahtel hoida puu‑ ja köögivilju kauem värskena."
+    },
+    {
+      "question": "Kas sügavkülmiku osa saab muuta külmikuks?",
+      "answer": "Jah. Freezer to Fridge funktsioon võimaldab seada sügavkülma sektsiooni kuni +4 °C (vajadusel lisajahutusruumina). Tavarežiimis töötab sügavkülm temperatuurivahemikus −15 °C kuni −24 °C."
+    }
+  ]
+}

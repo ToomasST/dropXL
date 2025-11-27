@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394073521 7333394073521 Hob AEG TI64IB30FB",
+  "search_queries": {
+    "main_query": "AEG TI64IB30FB 60 cm integreeritav induktsioonpliidiplaat Sense Boil & Fry",
+    "additional_queries": [
+      "kuidas vältida vee ülekeemist induktsioonpliidiplaadil AEG TI64IB30FB Sense Boil & Fry funktsiooniga",
+      "60 cm 4-tsooniline integreeritav induktsioonpliidiplaat 7350 W AEG TI64IB30FB pere kööki",
+      "millega erineb AEG TI64IB30FB induktsioonpliidiplaat teistest AEG mudelitest (Hob2Hood, Bridge, Sense Boil & Fry)",
+      "kuidas paigaldada ja igapäevaselt kasutada AEG TI64IB30FB induktsioonpliidiplaati Hob2Hood ja Bridge funktsioonidega"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG TI64IB30FB induktsioonpliidiplaat sobib minu kööki ja olemasolevasse tööpinda?",
+      "answer": "See on integreeritav, pealtpaigaldatav induktsioonpliidiplaat standardlaiusega 60 cm (tegelik laius u 59 cm). Sügavus on u 52 cm (standardne 55 cm) ja kõrgus 4,4 cm, seega sobib enamikule 60 cm laiustele tööpindadele. Plaadil on 4 kuumutusala ja koguvõimsus kuni 7350 W, toitepinge 220–240/400V2N. Enne ostu tasub kontrollida, kas sinu köögi elektriühendus vastab nendele nõuetele ning kas tööpinnas on piisav väljalõige. Hob2Hood funktsioon töötab ühilduvate Hob2Hood-toega õhupuhastitega, kuid pliidiplaati saab kasutada ka tavalise õhupuhastiga."
+    },
+    {
+      "question": "Kui lihtne on AEG TI64IB30FB kasutamine ja kuidas seda hooldada?",
+      "answer": "Pliidiplaat on puutetundliku liugjuhtimisega (Slider), igal tsoonil on oma eraldi juhtpaneel, taimer ja vajadusel võimsuse suurendamine. Sensoorsüsteem Sense Boil & Fry aitab vältida vee ülekeemist ja toidu kõrbemist, automaatselt reguleerides kuumust. Bridge-funktsioon võimaldab kaks tsooni üheks suureks alaks ühendada, PowerBoost annab kiire kuumuse tõusu, olemas on pausifunktsioon ja lapselukk. Pind on sile vitrokeramika klaas, mida on lihtne igapäevaselt üle pühkida; täpsemaid puhastus- ja hooldusjuhiseid annab tootja kasutusjuhend, mis ei ole siin kirjelduses esitatud."
+    },
+    {
+      "question": "Kui töökindel on AEG TI64IB30FB ja milline on hinna ja väärtuse suhe?",
+      "answer": "Kirjelduse järgi on tegu kaasaegse AEG induktsioonpliidiplaadiga, millel on mitmed mugavus- ja turvafunktsioonid: Sense Boil & Fry keemis- ja praadimisandurid, Hob2Hood juhtmevaba ühendus õhupuhastiga, Bridge-tsoonide ühendamine, PowerBoost, taimer, jääkkuumuse näidik, võimsuspiiraja ja lapselukk. Need aitavad saavutada ühtlasi paremaid toidutulemusi, suurendada ohutust ja säästa energiat, mis teeb toote hinna arvestades funktsionaalselt tugevaks valikuks. Garantii pikkust ja täpseid järelteeninduse tingimusi toote alginfo ei täpsusta – selle kohta tasub vaadata e-poe või maaletooja garantiitingimusi."
+    }
+  ]
+}

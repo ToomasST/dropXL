@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283053670 8020283053670 Hood ELICA ADÉLE BL MAT/A/60 GFB",
+  "search_queries": {
+    "main_query": "Elica Adéle BL MAT/A/60 seinale paigaldatav õhupuhasti 60 cm must klaas A-klassi",
+    "additional_queries": [
+      "kuidas eemaldada tugevad toidulõhnad väikeses köögis – Elica Adéle 60 cm seinaõhupuhasti kasutamine",
+      "60 cm seinale paigaldatav köögikubu 770 m3/h õhuhulk avatud köögi jaoks must klaas",
+      "Elica Adéle BL MAT/A/60 GFB võrdlus teiste 60 cm köögikubudega – kas tasub lisaraha",
+      "kuidas paigaldada ja hooldada Elica Adéle BL MAT/A/60 GFB õhupuhastit, süsi- ja rasvafiltrid"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica Adéle BL MAT/A/60 GFB sobib minu kööki ja pliidi kohale?",
+      "answer": "See mudel on 60 cm lai seinale paigaldatav T-kujuline õhupuhasti, mis sobib standardse 60 cm pliidi või kitsama keeduala kohale. Õhuvõimsus on 325–630 m³/h (boosteriga kuni 770 m³/h), seega sobib hästi väikestesse ja keskmise suurusega köökidesse, sh avatud kööginurkadesse, kui ühendus väljatõmbekorsten­ga on korralik. Seade on mõeldud eelkõige väljatõmbeks (duct out), kuid seda saab kasutada ka ringlusrežiimis, kui lisaks osta aktiivsöefilter CFC0141529A või pikaealine Long Life söefilter CFC0141725A (ei kuulu komplekti). Väljatõmbeava läbimõõt on 150 mm. Õhupuhasti laiuseks on 59,8 cm, sügavuseks 45,7 cm ning reguleeritav kõrgus ligikaudu 558–1079 mm, seega tasub enne ostu üle mõõta, kas kubu mahub ülemiste kappide ja lae vahele. Paigalduskõrgus sõltub pliidi tüübist; tootja juhistes on tüüpiliselt soovitatud umbes 50 cm induktsioonpliidist ja 65 cm gaasipliidist, täpne kaugus on kirjas kasutusjuhendis."
+    },
+    {
+      "question": "Kuidas seda õhupuhastit igapäevaselt kasutada ja hooldada, eriti filtreid?",
+      "answer": "Õhupuhastil on puutetundlik juhtpaneel 3 kiiruse ja booster-režiimiga, mille abil saab võimsuse valida vastavalt toiduvalmistamisele. LED-ribavalgustus (1×7 W) valgustab ühtlaselt keedupinda ja on energiasäästlik. Seadmel on metallist rasvafilter, mis püüab kinni õlisääd ja mida saab puhastada sooja vee ning nõudepesuvahendiga või panna nõudepesumasinasse; regulaarne puhastus hoiab nii tõhusust kui ka vähendab tuleohtu. Kui kasutate kubu ilma korstnata ringlusrežiimis, tuleb juurde soetada söefilter: kas tavaline aktiivsöefilter (vahetus üldjuhul iga mõne kuu järel) või pikaealine Long Life filter, mida saab perioodiliselt pesta ning ahjus kuivatada vastavalt tootja juhendile. Rasva- ja söefiltrite hooldusintervalli mõjutab kasutussagedus – kui kokkate tihti, tuleb neid puhastada või vahetada sagedamini."
+    },
+    {
+      "question": "Kui töökindel Elica Adéle BL MAT/A/60 GFB on ja milline on hinna ja kvaliteedi suhe?",
+      "answer": "Adéle seeria on metallkorpuse ja musta klaas-esipaneeliga A-klassi õhupuhasti, mille aastane energiakulu on umbes 52 kWh ning mis kasutab vastupidavat LED-valgustust. Töövõimsus (kuni 770 m³/h) ja suhteliselt madal müratase – umbes 55 dB madalal ja 69 dB tavakiirusel – teevad selle igapäevases kasutuses mugavaks, eriti kui kuumutate tihti või valmistate tugeva lõhnaga toite. Metallrasvafilter on korduvkasutatav ja nõudepesumasinas pestav, mis vähendab jooksvaid kulusid, ning söefiltrid on saadaval nii tavalise kui ka pikaealise variandina. Garantii täpne kestus sõltub müüjast ja riigist – mõnes riigis on standardne 2-aastane tehasegarantii, mõnel turul pakutakse pikendatud garantiid lisatasu või registreerimisega –, seega on mõistlik enne ostu kontrollida konkreetse e-poe tingimusi. Üldiselt pakub see mudel tugevat imemist, kaasaegset disaini ja madalat energiakulu hinnaklassis, mis on põhjendatud, kui otsite vastupidavat, hästi viimistletud seinaõhupuhastit musta klaasiga."
+    }
+  ]
+}

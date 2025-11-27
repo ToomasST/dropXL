@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283058743 8020283058743 Hob and Hood (2in1) ELICA NIKOLATESLA ALPHA B BL/A/60",
+  "search_queries": {
+    "main_query": "Elica NikolaTesla Alpha B BL/A/60 integreeritav induktsioonpliit sisseehitatud õhupuhastiga",
+    "additional_queries": [
+      "kuidas säästa ruumi köögis pliidiplaadiga, millel on sisseehitatud õhupuhasti Elica NikolaTesla Alpha",
+      "60 cm integreeritav induktsioonpliit õhupuhastiga umbes 7 kW väikesele köögile",
+      "Elica NikolaTesla Alpha B BL/A/60 võrdlus teiste 60 cm pliidiplaatidega õhupuhastiga",
+      "kuidas paigaldada ja hooldada Elica NikolaTesla Alpha integreeritava õhupuhastiga induktsioonpliiti"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica NikolaTesla Alpha B BL/A/60 sobib minu kööki ja olemasoleva ventilatsiooniga?",
+      "answer": "See on 60 cm lai integreeritav induktsioonpliit sisseehitatud õhupuhastiga, mille mõõdud on ligikaudu 60 × 51,5 × 25 cm ning väljalõike ava u 56 × 49 cm, seega sobib enamikele standardsetele 60 cm alumistele köögikappidele. Õhupuhasti töötab vaikimisi väljatõmbe režiimis (duct out), kuid tootja järgi saab seda kasutada ka ümbertõmbena, kui lisaks osta sobiv süsifilter ja paigalduskomplekt. Enne ostu tasub kontrollida, et sinu köögis oleks võimalik kas ühendada seade ventilatsioonikanaliga või paigaldada ümbertõmbesüsteem vastavalt paigaldusjuhendile."
+    },
+    {
+      "question": "Kui lihtne on seda pliidiplaati kasutada ja hooldada?",
+      "answer": "Pliidiplaadil on puutetundlik slider-juhtimine 9 võimsusastmega, eraldi võimendusrežiim kiireks kuumutamiseks ning taimer ja pausifunktsioon, seega on igapäevane kasutus loogiline ka neile, kes varem induktsioonpliiti kasutanud ei ole. Õhupuhasti käivitub ja reguleerub paneelilt, osadel paigaldusvariantidel saab kasutada automaatrežiime, mis kohandavad tõmmet vastavalt kasutatavatele keedualadele. Klaaspinda puhastatakse nagu tavalist induktsioonpliiti – lasta jahtuda, seejärel kasutada sobivat klaaspuhastusvahendit. Integreeritud metallrasvafilter on eemaldatav ja tavaliselt pestav (nt nõudepesumasinas); kui seadet kasutatakse ümbertõmberežiimis, tuleb süsifiltrit puhastada või vahetada vastavalt tootja juhistele. Täpsed puhastus- ja hooldusintervallid leiab kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel see mudel on ja milline on hinna ja kvaliteedi suhe?",
+      "answer": "Elica NikolaTesla Alpha B BL/A/60 on tuntud tootja integreeritav pliit-õhupuhasti, mille energiatõhususklass on A ja nn Green Induction tehnoloogia aitab võrreldes paljude teiste sisseehitatud õhupuhastiga induktsioonpliitidega tarbida ligikaudu 25% vähem energiat. Koguvõimsus on umbes 7,2 kW, olemas on lapselukk, jääksoojuse näidik ja automaatne väljalülitus, mis suurendavad ohutust ja töökindlust. Sisseehitatud õhupuhasti maksimaalne õhuvool on kuni 610 m³/h, mis on enamasti piisav tavalise koduköögi jaoks. Garantii pikkus sõltub konkreetsest müüjast ja riigist (mõnes riigis pakutakse kampaaniapikendusi), seetõttu tasub enne ostu müüja tingimused üle vaadata. Arvestades, et saad ühes seadmes nii täisfunktsionaalse induktsioonpliidi kui ka tööpinnaga ühetasapinnalise õhupuhasti, on tegemist ruumi säästva ja pikaajaliselt mõistliku investeeringuga, eriti väiksemates või avatud köökides."
+    }
+  ]
+}

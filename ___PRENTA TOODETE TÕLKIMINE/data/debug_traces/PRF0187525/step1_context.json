@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283055018 8020283055018 Hob and Hood (2in1) ELICA NIKOLATESLA PRIME S+ BL/F BO/83",
+  "search_queries": {
+    "main_query": "integreeritav induktsioonpliidiplaat õhupuhastiga Elica NikolaTesla Prime S+ 83 cm",
+    "additional_queries": [
+      "kuidas lahendada köögisaare kohal õhupuhasti puudumise probleemi integreeritava pliidiplaadiga Elica NikolaTesla Prime S+",
+      "83 cm induktsioonpliit sisseehitatud õhupuhastiga 7200 W avatud kööki",
+      "millega erineb Elica NikolaTesla Prime S+ teistest 2in1 pliidiplaatidest koos õhupuhastiga",
+      "kuidas puhastada ja hooldada Elica NikolaTesla Prime S+ keraamilisi lõhna- ja rasvafiltreid"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica NikolaTesla Prime S+ BL/F BO/83 sobib minu köögi mõõtudesse ja ventilatsiooni lahendusse?",
+      "answer": "See mudel on 83 cm lai integreeritav induktsioonpliit koos sisseehitatud õhupuhastiga. Tööplaadi väljalõige peab olema ligikaudu 75 × 49 cm ning seade ise on u 83 × 51,5 × 25 cm (K×L×S), mistõttu sobib see tavaliselt 80–90 cm laiusesse aluskapikorpusesse. Kogu õhupuhasti plokk asub kapi sees, seega tuleb arvestada vähemalt ~25 cm kõrguse ruumiga kapis seadme ja torustiku jaoks.\n\nKuna tegemist on recirkulatsiooniversiooniga (BL/F BO/83), puhastatakse õhk keraamiliste filtrite kaudu ja juhitakse komplektis oleva KIT0180522 tagaväljapuhkekomplekti abil tagasi ruumi kapi tagant – eraldi ühendust ventilatsioonikorstnaga pole vaja. See teeb mudeli eriti sobivaks avatud köökidesse ja köögisaartele, kus seina- või laeõhupuhastit on keeruline paigaldada. Elektriühendus on kolmefaasiline (400V3N) vastavalt paigaldusjuhendile, seega peab ühenduse tegema kvalifitseeritud elektrik."
+    },
+    {
+      "question": "Kui lihtne on Elica NikolaTesla Prime S+ pliidiplaati kasutada ja hooldada?",
+      "answer": "Igapäevane kasutamine on tehtud võimalikult lihtsaks: pliidil on puutetundlik Slider-juhtimine, 4 induktsioonitsooni ja üks ühendatav (Bridge) tsoon pikemate pottide/pannide jaoks. Olemas on võimendusrežiim (Power Booster) kiireks keetmiseks, automaatne kuumenemise funktsioon, taimer, pausifunktsioon (Stop&Go), jääkkuumuse näidik ja lapselukk, mis suurendavad ohutust ja mugavust.\n\nHooldus on samuti üles ehitatud „ülalt ligipääsu“ loogikale. Rasvafiltrid on metallist ja eemaldatavad pliidiplaadi pealt; neid saab üldjuhul pesta nõudepesumasinas. Lõhnafiltrid on keraamilised ja regenereeritavad – tootja andmetel kestavad need õigel hooldusel umbes 3–5 aastat, kuna neid saab perioodiliselt ahjus „taastada“, mitte iga paari kuu järel välja vahetada. Pliidil on hooldusmeeldetuletused ning järeltöö funktsioon (Delay Switch Off), mis hoiab õhupuhastit pärast küpsetamise lõppu veel mõnda aega madalal kiirusel sees. Paigaldamise peaks tegema volitatud paigaldaja, sest seade ühendatakse nii elektri kui ka komplektis oleva õhuvooliku- ja kanalilahendusega."
+    },
+    {
+      "question": "Kui töökindel on Elica NikolaTesla Prime S+ ja kas see on oma hinda väärt?",
+      "answer": "NikolaTesla Prime S+ on 2‑ühes lahendus: 83 cm lai A-energiaklassi induktsioonpliidiplaat ja võimas sisseehitatud õhupuhasti ühes korpuses. Õhupuhasti maksimaalne õhuhulk recirkulatsioonis ulatub sõltuvalt režiimist u 400–600+ m³/h ning Booster-režiimil kuni umbes 620 m³/h, müratase jääb tavaliselt vahemikku u 44–68 dB, mis on selle klassi seadme kohta konkurentsivõimeline. Induktsioonosa koguvõimsus on umbes 7,2 kW, vajadusel saab seda Power management funktsiooniga piirata, et sobituda olemasoleva elektrisüsteemiga.\n\nViimistlus on mustast klaasist koos malmiefektiga restiga, mis on vastupidav ja samal ajal praktiline pottide-pannide toetusala. Taaskasutatavad keraamilised filtrid vähendavad jooksvaid kulusid võrreldes tavaliste söefiltritega, kuna neid ei pea nii tihti välja vahetama. Garantii täpsed tingimused (sh kestus) sõltuvad müüjast ja riigist; need on kirjas ostudokumentidel ja garantiitingimustes. Üldiselt saab öelda, et see mudel on suunatud kliendile, kes soovib ühes seadmes nii kvaliteetset induktsioonpliiti kui ka efektiivset õhupuhastit – säästes ruumi, vältides eraldi seina- või laeõhupuhasti ostu ja paigaldust ning pakkudes samas kaasaegseid mugavusfunktsioone."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543665631 7332543665631 Microwave oven ELECTROLUX KMFE172TEX",
+  "search_queries": {
+    "main_query": "integreeritav mikrolaineahi Electrolux KMFE172TEX 800W TouchOpen",
+    "additional_queries": [
+      "kuidas kiiresti soojendada ja sulatada toitu integreeritavas mikrolaineahjus Electrolux KMFE172TEX",
+      "integreeritav mikrolaineahi 17 l 800W väikesele köögile Electrolux KMFE172TEX",
+      "millega Electrolux KMFE172TEX integreeritav mikrolaineahi erineb teistest automaatprogrammidega mudelitest",
+      "kuidas kasutada ja hooldada Electrolux KMFE172TEX integreeritavat mikrolaineahju (TouchOpen, ReTurntable)"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux KMFE172TEX integreeritav mikrolaineahi sobib minu kööki ja olemasolevasse kappi?",
+      "answer": "See mudel on mõeldud integreerimiseks mööbli sisse. Tootja järgi on paigaldusmõõdud ligikaudu kõrgus 36 cm, laius 56 cm ja sügavus 30 cm. Ahju välismõõdud on u 37,1 × 59,4 × 31,7 cm (K × L × S). Enne ostu mõõtke üle oma köögimööbli nišš ja võrrelge neid mõõte paigaldusmõõtudega. Konkreetses mööblisüsteemis sobivust sisendinfo täpselt ei kirjelda, seega vajadusel kontrollige ka oma köögimööbli tootja või paigaldajaga."
+    },
+    {
+      "question": "Kui lihtne on Electrolux KMFE172TEX mikrolaineahju kasutada ja kuidas seda hooldada?",
+      "answer": "Ahjul on puutejuhtimine LCD-ekraaniga ning TouchOpen uksemehhanism – uks avaneb nupuvajutusega kiiresti ja sujuvalt. Automaatprogrammid, sulatusfunktsioon ja lemmikprogrammide salvestamise võimalus (Favourite) teevad igapäevase kasutamise lihtsaks. Pöördtaldrik (ReTurntable) naaseb pärast tsüklit algasendisse, mis teeb toidu väljavõtmise mugavaks. Sisu on roostevabast terasest, mistõttu on seda lihtne niiske lapi ja vajadusel õrna puhastusvahendiga üle pühkida. Eraldi automaatset puhastusprogrammi sellel mudelil ei ole (see on sisendandmetes märgitud)."
+    },
+    {
+      "question": "Kui töökindel on Electrolux KMFE172TEX mikrolaineahi ja milline on garantii ning hinna-väärtuse suhe?",
+      "answer": "Sisendandmete järgi on ahjul roostevabast terasest sisu, mis on üldjuhul vastupidav materjal igapäevaseks kasutuseks. Tegemist on tuntud tootja Electroluxi integreeritava mudeliga, millel on mitmed mugavusfunktsioonid (TouchOpen, automaatsed küpsetusprogrammid, sulatusfunktsioon, lemmikseadete salvestamine, lapselukk). Need omadused pakuvad lisamugavust võrreldes lihtsamate baasmikrolaineahjudega. Konkreetseid garantiitingimusi (periood, laiendatud garantii jms) sisendinfo ei täpsusta – need sõltuvad tavaliselt müüjast ja riigipõhisest praktikast, seega soovitame garantiitingimused üle vaadata ostukohas."
+    }
+  ]
+}

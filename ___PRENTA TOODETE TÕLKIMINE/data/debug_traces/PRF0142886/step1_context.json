@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283045460 8020283045460 Hood ELICA ERA S IX/A/52",
+  "search_queries": {
+    "main_query": "integreeritav õhupuhasti Elica ERA S IX/A/52 52 cm roostevaba",
+    "additional_queries": [
+      "kuidas eemaldada tugevad toidulõhnad väikeses köögis integreeritava õhupuhastiga Elica ERA S IX/A/52",
+      "integreeritav õhupuhasti 60 cm kapile 428 m3/h väikese ja keskmise köögi jaoks",
+      "Elica ERA S IX/A/52 vs ERA C IX/A/52 milles on erinevus",
+      "kuidas paigaldada ja hooldada Elica ERA S IX/A/52 õhupuhastit ja millist süsifiltrit see kasutab"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica ERA S IX/A/52 sobib minu kööki ja olemasolevasse 60 cm ülemisse kappi?",
+      "answer": "See mudel on mõeldud integreerimiseks standardsesse 60 cm ülemisse köögikappi. Õhupuhasti enda laius on ligikaudu 53,5 cm, sügavus 30 cm ja kõrgus umbes 18 cm, nii et see jääb kapis peitu ja nähtavale jääb vaid metalläär. Enne ostu kontrolli kindlasti oma kapi sisemõõte ja paigaldusjoonist. Seadet saab kasutada nii väljatõmbega (ühendus ventilatsioonikanaliga) kui ka siseringluses – viimase jaoks on vaja lisaks osta süsifiltrid CFC0141571."
+    },
+    {
+      "question": "Kui lihtne on Elica ERA S IX/A/52 kasutamine ja filtrite puhastamine?",
+      "answer": "Kasutamine on lihtne – seadmel on kolm astet, mida reguleeritakse mehhaanilise pöördnupuga, ning tööala valgustavad soojatoonilised LED-tuled. Komplektis on metallist rasvafilter, mis kogub õhus oleva rasva ja mida saab eemaldada ning käsitsi või nõudepesumasinas puhastada (järgi tootja juhiseid). Kui kasutad õhupuhastit siseringluses, tuleb lisaks paigaldada süsifiltrid CFC0141571, mis neelavad lõhnu ja mida tuleb perioodiliselt välja vahetada vastavalt kasutusintensiivsusele ja filtri tootja soovitustele."
+    },
+    {
+      "question": "Kui töökindel ja võimas on Elica ERA S IX/A/52 ning milline on hinna ja kvaliteedi suhe?",
+      "answer": "Mudeli maksimaalne õhuvool on kuni umbes 428 m³/h, mis sobib hästi igapäevaseks kasutamiseks väiksemas ja keskmise suurusega köögis. Energiaklass B ja LED-valgustus aitavad hoida energiakulu mõistlikuna. Metallrasvafilter on vastupidav ja korduvkasutatav, lihtne mehhaaniline juhtimine vähendab rikkenõrku elektroonikaid, mis kõik annab hea hinna–kvaliteedi suhte selles klassis integreeritavate õhupuhastite seas. Garantii täpne kestus ja tingimused sõltuvad konkreetsest müüjast ja riiklikest nõuetest, seega vaata vastavat infot e-poe tootelehelt või garantiitingimustest."
+    }
+  ]
+}

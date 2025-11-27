@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394119762 7333394119762 Microwave oven ELECTROLUX EVM9E2XT",
+  "search_queries": {
+    "main_query": "Electrolux EVM9E2XT integreeritav mikrolaineahi grilliga must matt",
+    "additional_queries": [
+      "kuidas kiirelt toitu soojendada ja sulatada integreeritava Electrolux EVM9E2XT mikrolaineahjuga",
+      "44 l Electrolux integreeritav mikrolaineahi 1000 W grilliga igapäevaseks kasutuseks",
+      "Electrolux EVM9E2XT võrdlus teiste Wi-Fi ja inverter-tehnoloogiaga integreeritavate mikrolaineahjudega",
+      "kuidas paigaldada ja kasutada Electrolux EVM9E2XT integreeritavat mikrolaineahju CookSmart Touch ekraaniga"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EVM9E2XT integreeritav mikrolaineahi sobib minu kööki ja kappi?",
+      "answer": "See mudel on mõeldud integreerimiseks ja selle paigaldusmõõdud on tootja andmetel ligikaudu: kõrgus 45 cm, laius 56 cm ja sügavus 55 cm. Enne ostu kontrollige oma köögimööbli lõikeava mõõte ning võrrelge neid nende paigaldusmõõtudega. Sisend ei täpsusta ühilduvust konkreetsete köögisüsteemidega, seega vajadusel küsige köögimööbli tootjalt või paigaldajalt nõu."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EVM9E2XT mikrolaineahju kasutada ja hooldada?",
+      "answer": "Mudelil on puutetundlik juhtpaneel tekstiekraaniga ning „CookSmart Touch“ ja „MealAssist“ funktsioonid, mis juhendavad samm-sammult ja pakuvad automaatseid küpsetusprogramme (kokku 17 automaatprogrammi, 7 standardset kuumutusfunktsiooni). Tänu Wi-Fi ühendusele saab kasutada rakendust, mis annab lisajuhiseid ja retsepte. Sisendmaterjal ei täpsusta täpset puhastus- ja hooldusviisi – järgige kasutusjuhendis toodud juhiseid ahju sisepinna (email), ukse ja juhtpaneeli puhastamiseks."
+    },
+    {
+      "question": "Kui vastupidav on see mudel ja kas see on oma hinda väärt?",
+      "answer": "Sisend ei anna konkreetseid andmeid garantii kestuse või eritingimuste kohta – garantii ja järelteeninduse info leiate müüjalt või tootja ametlikest tingimustest. Hinna-väärtuse mõttes pakub see mudel mitut kõrgema klassi funktsiooni: integreeritav lahendus 44-liitrise mahuga, 1000 W mikrolainevõimsus, 1200 W grill, konvektsioon, inverter-tehnoloogia, 10 võimsustaset, 17 automaatset programmi, Wi-Fi tugi ja nutikas CookSmart Touch ekraan. Need omadused teevad selle sobivaks neile, kes soovivad ühes seadmes kiiresti soojendada, sulatada, küpsetada ja grillida ning vajavad nutikaid juhendavaid programme igapäevase toiduvalmistamise lihtsustamiseks."
+    }
+  ]
+}

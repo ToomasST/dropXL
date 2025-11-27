@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394079462 7333394079462 E6MNCE19S",
+  "search_queries": {
+    "main_query": "Electrolux E6MNCE19S integreeritav külmik-sügavkülmik TwinTech No Frost",
+    "additional_queries": [
+      "Electrolux E6MNCE19S mõõdud 188,4 × 54,6 × 54,9 cm liughinged",
+      "Integreeritav No Frost külmik-sügavkülmik 60 cm 207+62 l Electrolux",
+      "TwinTech MultiFlow ja Extra Chill sahtliga külmik Electrolux",
+      "Vaikne 37 dB E-klassi integreeritav külmik inverterkompressoriga"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas see on integreeritav mudel ja millise uksekinnitusega?",
+      "answer": "Jah, Electrolux E6MNCE19S on integreeritav külmik-sügavkülmik liughingedel. Uste avanemissuund on pööratav. Välismõõdud: kõrgus 188,4 cm, laius 54,6 cm, sügavus 54,9 cm. Standardlaius 60 cm ja standardkõrgus 190 cm. Pehme sulgumine puudub."
+    },
+    {
+      "question": "Kas see on No Frost ja mida TwinTech teeb?",
+      "answer": "Jah, see on TwinTech No Frost. Kahekordne jahutussüsteem hoiab sügavkülma härmatisevaba (ei vaja käsitsi sulatamist) ning säilitab külmikus optimaalse niiskuse, et toit ei kuivaks. MultiFlow tagab ühtlase temperatuuri riiulitel ja Extra Chill sahtel pakub 0 °C lähedast tsooni liha- ja piimatoodetele."
+    },
+    {
+      "question": "Kui suur on maht ning milline on energiatarve ja müratase?",
+      "answer": "Külmiku netomaht on 207 l ja sügavkülma netomaht 62 l. Energiaklass E, aastane energiatarve 215 kWh. Müratase 37 dB (klass C). Inverterkompressor, kiirjahutus külmikus ja kiirkülmutus (külmutusvõime 5 kg/24 h, kuni 9 h säilivust katkestuse korral). Wi‑Fi-t pole."
+    }
+  ]
+}

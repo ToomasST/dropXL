@@ -1,0 +1,472 @@
+{
+  "name": "LFB2AE88S1",
+  "type": "simple",
+  "status": "publish",
+  "catalog_visibility": "visible",
+  "description": "",
+  "description_flix": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Talpi įranga</h3><p>Šaldytuve „500 OptiSpace“ gausu vietos maisto produktams. Daugybė laikymo galimybių, todėl paprasta rasti vietą didesniems produktams. O jeigu reikia dar daugiau vietos, stalčius galima lengvai išimti.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>„OptiSpace“ turi galybę vietos maisto produktams</h3><p>Mūsų šaldytuvas su „OptiSpace“ puikiai tiks šeimai – daugybė maisto laikymo galimybių tiek ant lentynų viršaus, tiek tarp lentynų. O jeigu reikia dar daugiau vietos, stalčius galima lengvai išimti pagal konkrečius jūsų poreikius.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Užšaldymas šaldytuve su keturių žvaigždučių šaldiklio skyriumi\" src=\"data/processed/flix_media/36599/Electrolux-275848291-PSEERE17BIA00004.webp\"/></figure><div class=\"flixf-body\"><h3>Užšaldymas šaldytuve su keturių žvaigždučių šaldiklio skyriumi</h3><p>Šaldytuve esančiame keturių žvaigždučių šaldiklio skyriuje gali būti pasiekta net -18 ºC temperatūra. Veiksmingas užšaldymas šaldytuve.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Tikslus maisto laikymas naudojantis vidiniu elektroniniu valdikliu\" src=\"data/processed/flix_media/36599/Electrolux-275364874-PSEERE210CE00003.webp\"/></figure><div class=\"flixf-body\"><h3>Tikslus maisto laikymas naudojantis vidiniu elektroniniu valdikliu</h3><p>Su vidiniu elektroniniu valdikliu kontroliuokite maisto laikymo sąlygas. Šviesdiodžių indikatoriai Jums patogiai rodo temperatūrą, o nuostatos pašalina bet kokias abejones.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Aukščiausios kokybės šviesdiodinis šaldytuvo apšvietimas\" src=\"data/processed/flix_media/36599/Electrolux-281467874-PSEERF220FE0000D.webp\"/></figure><div class=\"flixf-body\"><h3>Aukščiausios kokybės šviesdiodinis šaldytuvo apšvietimas</h3><p>Puikus matomumas dėl šaldytuve integruoto šviesdiodinio apšvietimo. Nepastebimos, energiją taupančios lemputės ryškiai apšviečia visą erdvę. Suvartojama 10 kartų mažiau energijos nei esant standartiniam apšvietimui.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Patogiai laikykite daugiau produktų.\" src=\"data/processed/flix_media/36599/Electrolux-275366201-PSEERE18BIE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Patogiai laikykite daugiau produktų.</h3><p>Daržovių stalčiuje per visą šaldytuvo plotį galima nesunkiai laikyti didesnius ir ilgesnius produktus. Drąsiai apsipirkite žinodami, kad turite vietos didesniems produktams patogiai laikyti šaldytuve.</p></div></article></section>",
+  "short_description": "Talpi įranga Šaldytuve „500 OptiSpace“ gausu vietos maisto produktams. Daugybė laikymo galimybių, todėl paprasta rasti vietą didesniems produktams. O jeigu reikia dar daugiau vietos, stalčius galima lengvai išimti. „OptiSpace“ turi galybę vietos maisto produktams Mūsų šaldytuvas ",
+  "sku": "LFB2AE88S1",
+  "regular_price": "459.00",
+  "sale_price": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": true,
+  "stock_quantity": 5,
+  "backorders": "no",
+  "backorders_allowed": false,
+  "backordered": false,
+  "supplier_sku_prefix": "RP-",
+  "weight": "33.00",
+  "dimensions": {
+    "length": "54.9",
+    "width": "54.8",
+    "height": "87.3"
+  },
+  "shipping_required": true,
+  "shipping_taxable": true,
+  "shipping_class": "prenta",
+  "reviews_allowed": true,
+  "categories": [
+    {
+      "name": "Kodutehnika > Integreeritav kodutehnika > Integreeritavad külmikud",
+      "slug": "kodutehnika-integreeritav-kodutehnika-integreeritavad-klmikud"
+    }
+  ],
+  "brands": [
+    {
+      "name": "ELECTROLUX",
+      "slug": "electrolux"
+    }
+  ],
+  "tags": [],
+  "images": [
+    {
+      "src": "data/processed/product_images/36599/image_1.webp",
+      "position": 0,
+      "alt": "LFB2AE88S1",
+      "origin": "prenta",
+      "source_url": "https://e.prenta.lt/web/image/product.product/36599/image?unique=b42bfe1"
+    },
+    {
+      "src": "data/processed/product_images/36599/image_2.webp",
+      "position": 1,
+      "alt": "LFB2AE88S1",
+      "origin": "prenta",
+      "source_url": "https://e.prenta.lt/web/image/product.image/20158/image_big?unique=9ead211"
+    }
+  ],
+  "meta_data": [
+    {
+      "key": "_bp_gtin13",
+      "value": "7333394077376"
+    },
+    {
+      "key": "_bp_supplier",
+      "value": "Prenta"
+    },
+    {
+      "key": "_bp_brand",
+      "value": "ELECTROLUX"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Producer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Electrolux"
+      ]
+    },
+    {
+      "name": "Type of installation",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Built in"
+      ]
+    },
+    {
+      "name": "Type",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Fridge with freezer inside"
+      ]
+    },
+    {
+      "name": "Type of refrigeration technology",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Static"
+      ]
+    },
+    {
+      "name": "Standardized width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "60.0"
+      ]
+    },
+    {
+      "name": "Height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "87.3"
+      ]
+    },
+    {
+      "name": "Width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "54.8"
+      ]
+    },
+    {
+      "name": "Depth",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "54.9"
+      ]
+    },
+    {
+      "name": " Color",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "White"
+      ]
+    },
+    {
+      "name": "Standardized height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "90"
+      ]
+    },
+    {
+      "name": "New Energy efficiency class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "E"
+      ]
+    },
+    {
+      "name": "Energy efficiency class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "E"
+      ]
+    },
+    {
+      "name": "Freezer to fridge",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Noise level class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "C"
+      ]
+    },
+    {
+      "name": "Control",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Touch control"
+      ]
+    },
+    {
+      "name": "Annual energy consumption",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "143"
+      ]
+    },
+    {
+      "name": "Cold drawer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Net capacity of refrigerator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "109"
+      ]
+    },
+    {
+      "name": "Humidity controlled drawer for fruits/vegetables",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Net capacity of freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "14"
+      ]
+    },
+    {
+      "name": "Type of hinges",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Sliding"
+      ]
+    },
+    {
+      "name": "Soft door closing",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Metallized rear wall",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Door handle",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Ice maker",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Type of compressor",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "On-Off"
+      ]
+    },
+    {
+      "name": "Air cleaning filter",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Fan",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Bottle shelf",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Divisible glass shelf",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Door lock ",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Individually adjustable door shelves",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Lightning",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Wi-Fi",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Number of freezer boxes/shelfs",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "1"
+      ]
+    },
+    {
+      "name": "Rapid cooling in refrigerator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Reversible doors",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Freezing capacity in 24 hours",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "2.5"
+      ]
+    },
+    {
+      "name": "Maximum freezer storage time in power failure",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "9"
+      ]
+    },
+    {
+      "name": "Lighting",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "LED"
+      ]
+    },
+    {
+      "name": "Freezer freezing temperature",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "-15°C - -24°C"
+      ]
+    },
+    {
+      "name": "Fast freeze function in freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Noise level",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "37"
+      ]
+    },
+    {
+      "name": "Rising temperature indicator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Antibacterial technology",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": " Eco mode",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Holiday function",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Fully removable drawers and intermediate glass shelves in freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Open door signal",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    }
+  ],
+  "source": {
+    "prenta_product_id": 36599,
+    "prenta_category_path": "All > Saleable > Home appliances > Built in > Fridge",
+    "prenta_category_id": 27
+  }
+}

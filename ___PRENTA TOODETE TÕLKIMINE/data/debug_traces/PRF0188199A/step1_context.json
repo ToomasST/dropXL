@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283063853 8020283063853 Hood ELICA LANE SENSOR @ IX/A/52",
+  "search_queries": {
+    "main_query": "Elica Lane Sensor IX/A/52 integreeritav õhupuhasti wifi ja sensortehnoloogiaga",
+    "additional_queries": [
+      "kuidas hoida köögis õhk automaatselt puhas Elica Lane Sensor sensortehnoloogiaga õhupuhasti abil",
+      "Elica Lane Sensor 650 m3/h integreeritav 60 cm õhupuhasti väikese ja keskmise köögi jaoks",
+      "Elica Lane Sensor IX/A/52 vs tavaline integreeritav õhupuhasti – mille poolest on see mudel parem",
+      "kuidas paigaldada ja hooldada Elica Lane Sensor IX/A/52 integreeritavat õhupuhastit ja selle rasva- ja söefiltreid"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica Lane Sensor IX/A/52 sobib minu kööki ja olemasolevasse kapiavasse?",
+      "answer": "See mudel on täisintegreeritav õhupuhasti, mis on mõeldud paigaldamiseks ülemisse köögikappi. Standardlaius on 60 cm, seade ise on umbes 52 cm lai, u 28 cm sügav ja u 30 cm kõrge, seega sobib see enamiku 60 cm ülakappide sisse. Õhupuhasti ühendatakse tavaliselt 150 mm läbimõõduga õhutoruga otse ventilatsioonikanalisse. Kui köögis puudub väljatõmme, saab seda kasutada ka recirkulatsiooni režiimis, lisades eraldi ostetava söefiltri (nt CFC0140343 või taastatav CFC0162221). Tänu 255–650 m³/h õhuhulgale sobib see hästi väikese ja keskmise suurusega köökidesse. Täpsed paigaldusmõõdud ja -nõuded tasub enne ostu üle kontrollida paigaldusjuhendist või müüjalt."
+    },
+    {
+      "question": "Kui lihtne on Elica Lane Sensor IX/A/52 kasutamine ja kuidas seda hooldada?",
+      "answer": "Kasutamine on tehtud võimalikult lihtsaks: õhupuhastil on elektrooniline juhtimine 3 tööastmega ja eraldi intensiivrežiimiga. Airmatic-sensor jälgib automaatselt õhukvaliteeti ja reguleerib pöördeid ise, nii et igapäevaselt ei pea Te kiirusi käsitsi muutma. Seade on varustatud Wi-Fi ühendusega, mistõttu saab seda juhtida Elica rakendusest ning jälgida seal ka filtrite seisukorda. Elica induktsiooniplaadiga saab kasutada Hob-to-Hood Bluetooth-ühendust, mis sünkroonib õhupuhasti töö pliidi võimsusega. Hooldus on lihtne: komplektis olev alumiiniumist rasvafilter on korduvkasutatav ja pestav (soovitavalt käsitsi või vastavalt juhendile nõudepesumasinas). Kui kasutate recirkulatsiooni režiimi, tuleb lisaks hooldada või vahetada süsefiltrit; tavalised filtrid vahetatakse perioodiliselt, pikaealised taastatavad filtrid kestavad õigel hooldamisel kauem. Seadmel on filtrihoolduse meeldetuletus, mis annab märku, kui on aeg filter puhastada või välja vahetada."
+    },
+    {
+      "question": "Kui töökindel on Elica Lane Sensor IX/A/52, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Elica on spetsialiseerunud köögiõhupuhastitele ning Lane Sensor IX/A/52 on nende kõrgema klassi integreeritav mudel roostevabast terasest korpuse, perimeeterimemise ja energiasäästliku LED-valgustusega. Mootori maksimaalne õhuhulk kuni 650 m³/h ning müra tase 49–68 dB näitavad, et seade pakub tugevat tõmmet, jäädes samas mõistlikult vaikseks. Energiaklass B ja umbes 69 kWh aastane energiatarve aitavad hoida jooksvaid kulusid kontrolli all. Õige paigalduse ja regulaarse filtrihoolduse korral on see õhupuhasti mõeldud pikaajaliseks kasutamiseks. Garantii pikkus sõltub müüjast ja riigist, tavaliselt pakutakse vähemalt tehase baastootjagarantiid (nt 2 aastat); täpse garantiiperioodi kohta küsi infot konkreetse müüja tingimustest. Arvestades automaatset sensortehnoloogiat, Wi-Fi ja Hob-to-Hood ühendust, tugevat tõmmet ja diskreetset integreeritud disaini, pakub see mudel tavapärase integreeritava õhupuhastiga võrreldes rohkem mugavust ja funktsionaalsust, mis teeb selle hinna-kvaliteedi suhte tugevaks."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283002388 8020283002388 Hood ELICA ELITE 14 LUX WH/A/50",
+  "search_queries": {
+    "main_query": "Elica ELITE 14 LUX WH/A/50 integreeritav teleskoopiline õhupuhasti 50 cm valge",
+    "additional_queries": [
+      "kuidas hoida köök toidulõhnadest vaba väikesele köögile sobiva Elica Elite 14 Lux integreeritava kubuga",
+      "50 cm integreeritav teleskoopiline õhupuhasti 120 mm toruga LED valgustusega väikesele köögile",
+      "Elica ELITE 14 LUX WH/A/50 võrdlus teiste 50 cm integreeritavate õhupuhastitega",
+      "kuidas paigaldada ja puhastada Elica Elite 14 Lux õhupuhasti rasvafiltrit ning kasutada söefiltriga ringlevas režiimis"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica ELITE 14 LUX WH/A/50 sobib minu kööki ja olemasolevasse kappi?",
+      "answer": "See mudel on mõeldud integreerimiseks ülemisse köögikappi ja on standardlaiusega 50 cm (seadme laius u 49,8 cm, sügavus u 28 cm, kõrgus kuni 14 cm). See tähendab, et see sobib enamike 50 cm laiuste kappidega, kui kapis on piisavalt sügavust ja ruumi õhukanalile. Ventilatsioonitoru ühenduse läbimõõt on tootja andmetel 120 mm, seega peaks olemasolev torustik olema sama mõõduga või kohandatav. Õhupuhasti sobib eelkõige väikestesse ja keskmise suurusega köökidesse; suurematele ja väga intensiivsele praadimisele tasub kaaluda võimsamat mudelit. Enne ostu mõõda kindlasti oma kapi sisemõõdud ja toru asukoht üle."
+    },
+    {
+      "question": "Kuidas Elica ELITE 14 LUX WH/A/50 õhupuhastit kasutada ja hooldada? Kas filtrit saab pesta?",
+      "answer": "Kubu on teleskoopiline – tööle panemiseks tõmmatakse esipaneel ettepoole, mis avab sissevõtuosa. Mehaaniliste nuppudega saab valida kolme tõmbeastme vahel ja lülitada sisse LED-valgustuse. Seadmel on metallist rasvafilter, mis püüab kinni õhus oleva rasva; filter on eemaldatav ja mõeldud regulaarseks pesemiseks. Tavapäraselt võib sellist alumiiniumfiltrit pesta sooja vee ja nõudepesuvahendiga, paljudel turgudel lubab tootja ka nõudepesumasinas pesemist – täpne juhis on kirjas sinu seadme kasutusjuhendis. Kui soovid kasutada recirkulatsiooni (ilma ventilatsioonitoruta), on vaja eraldi söefiltrit, mis tuleb aeg-ajalt välja vahetada; söefilter ei kuulu tavaliselt komplekti ja tuleb osta lisavarustusena."
+    },
+    {
+      "question": "Kui töökindel on Elica ELITE 14 LUX WH/A/50, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Mudelil on lihtne mehaaniline juhtimine, metallkorpus ja eemaldatav rasvafilter, mis tähendab vähe elektroonikat ja seetõttu üldiselt head töökindlust igapäevases koduses kasutuses. LED-valgustus on energiasäästlik ja vastupidav. Energiaklass on D, mis on integreeritavate, mõõduka võimsusega kubude seas tavaline. Garantii täpne kestus sõltub müüjast ja riigist – mõnel turul pakutakse 1–2 aastat tehasegarantiid, mõnel ka pikendatud garantiid registreerimisel; sinu e-poe tingimused tuleks üle vaadata eraldi, sest sisendmaterjal täpset garantiiaega ei kirjelda. Hinna-väärtuse mõttes saad kompaktse 50 cm integreeritava teleskoopkubu tuntud tootjalt, kolme tõmbeastme, LED-valgustuse ja kahe töörežiimi võimalusega (väljatõmme ja recirkulatsioon lisasöefiltriga), mis katab enamiku väikese ja keskmise köögi vajadused ilma liigse lisamugavuste eest maksmata."
+    }
+  ]
+}

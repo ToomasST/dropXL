@@ -1,0 +1,465 @@
+{
+  "name": "LND5FE18S",
+  "type": "simple",
+  "status": "publish",
+  "catalog_visibility": "visible",
+  "description": "",
+  "description_flix": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Greitas temperatūros atkūrimas – visiška maisto apsauga\" src=\"data/processed/flix_media/30770/Electrolux-275366188-PSEERF22MPE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Greitas temperatūros atkūrimas – visiška maisto apsauga</h3><p>500 serijos „ColdSense“ šaldytuvas su tiksliais elektroniniais jutikliais greitai sugrąžina reikiamą temperatūrą atidarius dureles. Taip išvengiama staigių temperatūros šuolių, todėl apsaugotas maistas ilgiau išlieka šviežias.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„ColdSense“ – spartesnis vėsinimas apsaugo maisto produktus\" src=\"data/processed/flix_media/30770/Electrolux-275366188-PSEERF22MPE00001_1.webp\"/></figure><div class=\"flixf-body\"><h3>„ColdSense“ – spartesnis vėsinimas apsaugo maisto produktus</h3><p>„ColdSense“ naudoja tikslius temperatūros jutiklius, kad šaldytuve ar šaldiklyje greitai sugrąžintų reikiamą temperatūrą atidarius dureles. Taip išvengiama staigių temperatūros šuolių, todėl maistas ilgiau išlieka šviežias.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Stabilus vėsinimas dėl „DynamicAir“\" src=\"data/processed/flix_media/30770/Electrolux-366011456-250416ZH5Q.webp\"/></figure><div class=\"flixf-body\"><h3>Stabilus vėsinimas dėl „DynamicAir“</h3><p>Technologija „DynamicAir“ skirta užtikrinti, kad šaldytuve būtų palaikoma stabili temperatūra. Vėsus oras cirkuliuojamas šaldytuve, todėl netgi atidarius dureles maisto produktai apsaugomi nuo sušilimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"10 metų garantija kompresoriui\" src=\"data/processed/flix_media/30770/Electrolux-275367506-PSEEVL20BIE00001.webp\"/></figure><div class=\"flixf-body\"><h3>10 metų garantija kompresoriui</h3><p>Būkite ramūs žinodami, kad garantinis aptarnavimas taikomas visiems darbams, dalims bei transportavimui, kurie susiję su kompresoriaus gedimu net 10 metų!</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Tikslus maisto laikymas naudojantis vidiniu elektroniniu valdikliu</h3><p>Vidiniu elektroniniu valdikliu kontroliuokite maisto laikymo sąlygas. Šviesos diodų indikatoriai patogiai rodo temperatūrą, o nuostatos pašalina bet kokias abejones.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Išlaikykite tobulą tekstūrą, naudodami „FastFreeze“\" src=\"data/processed/flix_media/30770/Electrolux-275367677-PSEEVL19BIE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Išlaikykite tobulą tekstūrą, naudodami „FastFreeze“</h3><p>Sistema „FastFreeze“ greičiau užšaldo šviežius produktus, todėl išsaugoma daugiau vitaminų, tekstūros, skonio ir visų sveikų savybių.</p></div></article></section>",
+  "short_description": "Greitas temperatūros atkūrimas – visiška maisto apsauga 500 serijos „ColdSense“ šaldytuvas su tiksliais elektroniniais jutikliais greitai sugrąžina reikiamą temperatūrą atidarius dureles. Taip išvengiama staigių temperatūros šuolių, todėl apsaugotas maistas ilgiau išlieka šviežia",
+  "sku": "LND5FE18S",
+  "regular_price": "599.00",
+  "sale_price": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": true,
+  "stock_quantity": 5,
+  "backorders": "no",
+  "backorders_allowed": false,
+  "backordered": false,
+  "supplier_sku_prefix": "RP-",
+  "weight": "58.00",
+  "dimensions": {
+    "length": "54.9",
+    "width": "54.6",
+    "height": "177.2"
+  },
+  "shipping_required": true,
+  "shipping_taxable": true,
+  "shipping_class": "prenta",
+  "reviews_allowed": true,
+  "categories": [
+    {
+      "name": "Kodutehnika > Integreeritav kodutehnika > Integreeritavad külmikud",
+      "slug": "kodutehnika-integreeritav-kodutehnika-integreeritavad-klmikud"
+    }
+  ],
+  "brands": [
+    {
+      "name": "ELECTROLUX",
+      "slug": "electrolux"
+    }
+  ],
+  "tags": [],
+  "images": [
+    {
+      "src": "data/processed/product_images/30770/image_1.webp",
+      "position": 0,
+      "alt": "LND5FE18S",
+      "origin": "prenta",
+      "source_url": "https://e.prenta.lt/web/image/product.product/30770/image?unique=5888c30"
+    }
+  ],
+  "meta_data": [
+    {
+      "key": "_bp_gtin13",
+      "value": "7332543978625"
+    },
+    {
+      "key": "_bp_supplier",
+      "value": "Prenta"
+    },
+    {
+      "key": "_bp_brand",
+      "value": "ELECTROLUX"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Producer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Electrolux"
+      ]
+    },
+    {
+      "name": "Type of installation",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Built in"
+      ]
+    },
+    {
+      "name": "Type",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Fridge with bottom freezer"
+      ]
+    },
+    {
+      "name": "Type of refrigeration technology",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Less frost"
+      ]
+    },
+    {
+      "name": "Height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "177.2"
+      ]
+    },
+    {
+      "name": "Width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "54.6"
+      ]
+    },
+    {
+      "name": "Depth",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "54.9"
+      ]
+    },
+    {
+      "name": " Color",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "White"
+      ]
+    },
+    {
+      "name": "New Energy efficiency class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "E"
+      ]
+    },
+    {
+      "name": "Control",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Electronical with LCD"
+      ]
+    },
+    {
+      "name": "Energy efficiency class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "E"
+      ]
+    },
+    {
+      "name": "Annual energy consumption",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "221"
+      ]
+    },
+    {
+      "name": "Net capacity of refrigerator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "196"
+      ]
+    },
+    {
+      "name": "Net capacity of freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "73"
+      ]
+    },
+    {
+      "name": "Cold drawer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Freezer to fridge",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Moisture retention technology",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Type of hinges",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Sliding"
+      ]
+    },
+    {
+      "name": "Soft door closing",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Metallized rear wall",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Door handle",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Humidity controlled drawer for fruits/vegetables",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Ice maker",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Type of compressor",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Inverter"
+      ]
+    },
+    {
+      "name": "Fan",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Air cleaning filter",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Antibacterial technology",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Bottle shelf",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Divisible glass shelf",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Door lock ",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Open door signal",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Rising temperature indicator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": " Eco mode",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Holiday function",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Lightning",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "LED"
+      ]
+    },
+    {
+      "name": "Individually adjustable door shelves",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Rapid cooling in refrigerator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Reversible doors",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Freezer freezing temperature",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "-15°C - -24°C"
+      ]
+    },
+    {
+      "name": "Lighting",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "LED"
+      ]
+    },
+    {
+      "name": "Maximum freezer storage time in power failure",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "9"
+      ]
+    },
+    {
+      "name": "Number of freezer boxes/shelfs",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "3"
+      ]
+    },
+    {
+      "name": "Fast freeze function in freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Freezing capacity in 24 hours",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "3.0"
+      ]
+    },
+    {
+      "name": "Noise level",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "34"
+      ]
+    },
+    {
+      "name": "Noise level class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "B"
+      ]
+    },
+    {
+      "name": "Standardized height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "180"
+      ]
+    },
+    {
+      "name": "Standardized width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "55.0"
+      ]
+    },
+    {
+      "name": "Wi-Fi",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    }
+  ],
+  "source": {
+    "prenta_product_id": 30770,
+    "prenta_category_path": "All > Saleable > Home appliances > Built in > Fridge",
+    "prenta_category_id": 27
+  }
+}

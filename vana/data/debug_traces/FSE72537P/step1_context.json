@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543781256 7332543781256 FSE72537P",
+  "search_queries": {
+    "main_query": "AEG FSE72537P integreeritav nõudepesumasin 45 cm",
+    "additional_queries": [
+      "AEG nõudepesumasin 44 dB 10 komplekti SatelliteClean",
+      "MaxiFlex söögiriistade sahtliga kitsas nõudepesumasin AEG FSE72537P",
+      "AEG integreeritav nõudepesumasin automaatse ukse avamisega",
+      "Nõudepesumasin 45 cm E-klass 75 kWh 9,9 l AEG"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Millised on AEG FSE72537P mõõdud ja kas see sobib minu köögikappi?",
+      "answer": "Tegu on täisintegreeritava 45 cm laiuse (standardlaius 45, korpus 44,6 cm) nõudepesumasinaga. Sügavus 55 cm. Paigalduskõrgus on reguleeritav 81,8–89,8 cm (seadme kõrgus ~85 cm). Juhtpaneel on ukse siseküljel, liughinged lihtsustavad eri kõrgustega esipaneelide sobitamist. Veendu, et kapisügavus ja uksepaneeli mõõdud vastaksid neile näitajatele."
+    },
+    {
+      "question": "Kui vaikne ja ökonoomne see mudel on?",
+      "answer": "Müratase on 44 dB (müraklass B) – igapäevaselt väga vaikne. Energiaklass E, tarbimine 75 kWh / 100 tsüklit ning vee­kulu 9,9 l ühe tsükli kohta. Inverter-mootor tagab sujuva ja säästliku töö. Võimalik ühendada ka sooja vee sisselaske peale."
+    },
+    {
+      "question": "Mis eristab seda mudelit teistest 45 cm nõudepesumasinatest?",
+      "answer": "SatelliteClean pihusti tagab kuni 3× parema katvuse ja põhjalikuma pesu. MaxiFlex söögiriistade sahtel mahutab eri kujuga tarvikuid; kokku kuni 10 nõudekomplekti ja 3 korvi. QuickSelect liugjuhtimine koos Ecometeriga aitab valida säästlikuma programmi. Tsükli lõpus avaneb uks automaatselt paremaks kuivatuseks. Põrandale kuvatav valguskiir (punane/töötab, roheline/valmis) teeb oleku kontrolli lihtsaks. Lisaks klaasi- ja automaatprogramm, viitstart, roostevabast terasest sisekorpus, sisemine valgustus ja lekke­kaitse. Wi‑Fi tugi puudub."
+    }
+  ]
+}

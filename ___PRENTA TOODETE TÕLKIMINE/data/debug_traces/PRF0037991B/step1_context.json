@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:9900000020675 9900000020675 Hood ELICA ELITE 14 LUX BL/A/60",
+  "search_queries": {
+    "main_query": "integreeritav teleskoop õhupuhasti Elica Elite 14 Lux BL/A/60 60 cm",
+    "additional_queries": [
+      "kuidas eemaldada toidulõhnad väikeses köögis integreeritava õhupuhastiga Elica Elite 14 Lux 60 cm",
+      "integreeritav õhupuhasti 60 cm 304 m3/h LED-valgustusega väikesele köögile",
+      "Elica Elite 14 Lux 60 cm vs teised integreeritavad 60 cm õhupuhastid",
+      "kuidas paigaldada ja hooldada Elica Elite 14 Lux BL/A/60 integreeritavat õhupuhastit"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica Elite 14 Lux BL/A/60 sobib minu kööki ja olemasoleva pliidiga?",
+      "answer": "See mudel on 60 cm lai integreeritav, väljatõmmatava esipaneeliga õhupuhasti, mis on mõeldud paigaldamiseks seina köögikappi otse pliidi kohale. Laius sobib standardse 60 cm pliidi või keeduala kohale ning õhukanali läbimõõt on 120 mm, seega peab kapis olema ruum toru jaoks. Tootja andmetel peaks minimaalne kaugus õhupuhasti ja elektri/induktsioonpliidi vahel olema umbes 50 cm ning gaasipliidi korral umbes 65 cm – täpne paigalduskõrgus tuleks üle kontrollida paigaldusjuhendist või paigaldajaga.citeturn0search0turn0search1"
+    },
+    {
+      "question": "Kui lihtne on Elica Elite 14 Lux BL/A/60 kasutada ja hooldada?",
+      "answer": "Õhupuhastil on lihtne 3-astmeline mehaaniline nupplülitite plokk – ühest paneelist juhid nii tõmbeastmeid kui LED-valgustust. Seade on mõeldud ühendamiseks väljatõmbega ventilatsioonitoru kaudu, rasva püüdmiseks kasutatakse eemaldatavat filtrit, mida tuleb regulaarselt puhastada (enamasti võib metallfiltrit pesta käsitsi sooja vee ja pesuvahendiga, osa mudeleid lubavad ka nõudepesumasinat – kontrolli kasutusjuhendist). Kui soovid kasutada recirkulatsioonirežiimi (õhk läbib aktiivsöefiltrit ja suunatakse tagasi tuppa), on mitmetele Elite 14 mudelitele saadaval eraldi söefiltrikomplekt – kas see konkreetne BL/A/60 variant seda võimaldab ja kas filter on komplektis või lisavarustus, tuleb täpsustada müüja või tootja tehnilisest infost.citeturn0search4turn0search3turn0search6"
+    },
+    {
+      "question": "Kui võimas ja töökindel on Elica Elite 14 Lux BL/A/60 ning milline on hinna ja kvaliteedi suhe?",
+      "answer": "Elica Elite 14 Lux seeria on mõeldud peamiselt väikestele ja keskmise suurusega köökidele: õhuhulk on umbes 125–304 m³/h ja müratase 46–62 dB, mis sobib igapäevaseks koduseks kasutuseks ilma liigse mürata. Energiaklass on D, kuid metallist korpus, lihtne mehaaniline juhtimine ja LED-valgustus muudavad seadme vastupidavaks ja vähese hooldusvajadusega lahenduseks.citeturn0search0turn0search1turn0search5 Konkreetne garantiiperiood sõltub müüjast ja riigist, seega täpne info tasub üle vaadata ostukohast, kuid üldiselt pakuvad tuntud brändid nagu Elica tavakasutusele mitmeaastast tootjagarantiid."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283058187 8020283058187 Hob ELICA RATIO 604 PLUS BL",
+  "search_queries": {
+    "main_query": "Elica RATIO 604 PLUS BL 60 cm induktsioonpliidiplaat",
+    "additional_queries": [
+      "kuidas Elica Ratio 604 Plus BL induktsioonpliidiplaat aitab väikese köögi tööpinda paremini kasutada",
+      "Elica 60 cm 7200 W nelja tsooniga induktsioonpliidiplaat pere kööki",
+      "Elica Ratio 604 Plus BL võrreldes teiste 60 cm induktsioonpliidiplaatidega",
+      "kuidas paigaldada ja kasutada Elica Ratio 604 Plus BL induktsioonpliidiplaati ning hooldada klaaskeraamilist pinda"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica Ratio 604 Plus BL sobib minu kööki ja olemasolevasse tööpinda?",
+      "answer": "See mudel on standardse 60 cm laiuse integreeritava induktsioonpliidiplaadina hea valik enamiku moodulköökide jaoks. Pliidiplaadi mõõdud on ligikaudu 59 × 52 cm ning see on mõeldud paigaldamiseks tööpinna sisse ülalt või tasapinnaga ühetasapinnaliselt. Enne ostu kontrolli kindlasti oma olemasoleva ava mõõte ning köögikapi laiust, et need vastaksid tootja paigaldusjoonisele. Elektriühendus on 220–240 V ning ühenduse peaks tegema kvalifitseeritud elektrik."
+    },
+    {
+      "question": "Kui lihtne on Elica Ratio 604 Plus BL kasutamine ja kuidas seda hooldada?",
+      "answer": "Pliidiplaadil on puutetundlik „slider“ juhtpaneel, millega saad küttetugevust kiiresti sõrmega libistades muuta. Neljal keedutsoonil on 9 võimsusastet ja booster-funktsioon kiirkeeduks, lisaks on olemas taimer, pausifunktsioon ja bridge-tsoon, mis ühendab kaks vasakpoolset ala üheks suureks pinnaks. Hooldus on lihtne: lase klaaskeraamilisel pinnal jahtuda ja pühi seejärel pehme lapi ja nõrga puhastusvahendiga puhtaks. Väldi abrasiivseid käsnasid ja tugevaid kemikaale, et klaaspinda mitte kahjustada."
+    },
+    {
+      "question": "Kui töökindel on Elica Ratio 604 Plus BL ja milline on garantii ning hinna-väärtuse suhe?",
+      "answer": "Elica Ratio 604 Plus BL on klaaskeraamilise pinnaga induktsioonpliidiplaat, millel on mitmed ohutusfunktsioonid – jääksoojuse näidik, lapsekindlus, automaatne kuumenemise funktsioon, võimsuse piiramine ja pausifunktsioon – mis aitavad nii ohutusele kui ka vastupidavusele kaasa. Garantii pikkus sõltub konkreetsest müüjast ja riigist, seega kontrolli täpseid tingimusi ostukohast või garantiikaardilt. Hinna ja väärtuse suhtes pakub see mudel tugevat võimsust (kuni 7200 W), 4 keedutsooni, bridge-tsooni ning mugavat puutejuhtimist, mis teeb sellest funktsionaalse ja kaasaegse lahenduse igapäevaseks toiduvalmistamiseks."
+    }
+  ]
+}

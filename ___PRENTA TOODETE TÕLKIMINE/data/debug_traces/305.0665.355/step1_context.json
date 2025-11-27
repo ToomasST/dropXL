@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7612986152920 7612986152920 Hood FABER INKA LUX EVO BK MATT A52",
+  "search_queries": {
+    "main_query": "Faber Inka Lux Evo BK Matt A52 integreeritav õhupuhasti 60 cm",
+    "additional_queries": [
+      "kuidas eemaldada toidulõhnad köögis integreeritava õhupuhastiga Faber Inka Lux Evo",
+      "integreeritav kubu 60 cm 620 m3/h perimeertõmme must matt",
+      "Faber Inka Lux Evo BK Matt A52 erinevus teistest integreeritavatest kubudest",
+      "kuidas paigaldada ja hooldada Faber Inka Lux Evo õhupuhastit ja vahetada süsifiltri komplekti F8/FHP8/FLL8 KIT"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Faber Inka Lux Evo BK Matt A52 sobib minu köögikappi ja pliidi kohale?",
+      "answer": "See mudel on integreeritav õhupuhasti, mis on mõeldud köögikappi ehitamiseks. Standardlaius on 60 cm, seega sobib see enamiku 60 cm pliitide kohale. Kontrollida tuleb, et ülakapi sisemõõdud (laius, sügavus ja kõrgus) vastaksid kubu mõõtudele (laius u 60 cm, korpuse laius 49,2 cm ja kõrgus 317,6 mm) ning et oleks võimalik ühendada väljatõmbe toru läbimõõduga 150 mm. Sisend ei täpsusta täpsemaid paigalduspiiranguid, seega soovitame enne ostu üle vaadata tehnilise joonise või konsulteerida paigaldajaga."
+    },
+    {
+      "question": "Kuidas Faber Inka Lux Evo õhupuhastit kasutada ja hooldada? Kas filtrid on vahetatavad?",
+      "answer": "Õhupuhasti on elektroonilise juhtimisega ning varustatud LED-valgustusega, mis teeb igapäevase kasutamise lihtsaks. Perimeertõmme suunab õhu sissevõtu mööda servasid, mis parandab tõmbetõhusust. Sisendinfo ei täpsusta, millist rasvafiltrit kasutatakse ega selle puhastusviisi – täpsed juhised leiad kasutusjuhendist. Kirjelduses on toodud lisatarvikutena aktiveeritud süsifiltri komplektid (Charcoal filter F8 KIT, High Performance FHP8 KIT, Long Lasting FLL8 KIT), mille kasutamise võimalused ja vahetussageduse annab tootja paigaldus- ja kasutusjuhend. Õige ja ohutu paigalduse ning väljatõmbe kanali ühendamise (Ø150 mm) peaks tegema vastavalt juhendile, vajadusel professionaalse paigaldaja abiga."
+    },
+    {
+      "question": "Kui töökindel on see õhupuhasti ja milline on hinna ning kasuteguri suhe?",
+      "answer": "Sisendinfo järgi on tegu Faber brändi integreeritava õhupuhastiga, millel on perimeertõmme ja tagasilöögiklapp (butterfly valve), mis aitab vältida külma õhu või lõhnade tagasivoolu. Maksimaalne õhuvool on 540 m³/h (boosteriga kuni 620 m³/h), mis sobib ka intensiivsemaks toiduvalmistamiseks. Energiaklass on B ja aastane energiatarve 75 kWh, LED-valgustus on klassiga A, mis aitab hoida energiakulu mõõdukana. Sisend ei anna infot garantiiaja ega järelteeninduse kohta – need sõltuvad müüjast/tootjast. Arvestades õhuhulga, energiaklassi ja integreeritava lahenduse kombinatsiooni, pakub see mudel tasakaalu jõudluse ja energiakulu vahel, kuid lõplik hinna-väärtuse hinnang sõltub sinu köögi suurusest ja kasutusharjumustest."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283045590 8020283045590 Hob and Hood (2in1) ELICA NIKOLATESLA SWITCH BL/F/83",
+  "search_queries": {
+    "main_query": "Elica NikolaTesla Switch BL/F/83 integreeritav induktsioonpliit koos õhupuhastiga",
+    "additional_queries": [
+      "lahendus kui köögis pole ruumi seinale paigaldatavale õhupuhastile integreeritav pliidiplaat Elica NikolaTesla Switch",
+      "83 cm induktsioonpliit sisseehitatud õhupuhastiga recirkulatsiooniga avatud kööki",
+      "Elica NikolaTesla Switch BL/F/83 erinevus võrreldes tavalise pliidi ja õhupuhasti kombinatsiooniga",
+      "kuidas puhastada ja hooldada Elica NikolaTesla Switch BL/F/83 keraamilisi lõhnafiltreid ja rasvafiltreid"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica NikolaTesla Switch BL/F/83 sobib minu kööki ja olemasoleva köögimööbliga?",
+      "answer": "See mudel on 83 cm lai ja umbes 51 cm sügav, paigaldusava mõõt on ligikaudu 80,7 × 49,2 cm, seega sobib see vähemalt 80 cm laiusele tööpinnale. Tegemist on integreeritava induktsioonpliidiplaadiga, mille keskel on sisseehitatud recirkulatsioon-tüüpi õhupuhasti – õhk puhastatakse filtrite kaudu ja juhitakse puhastatult kööki tagasi, mistõttu ei ole vaja seinale eraldi kubu ega läbiviiku välisseina. See lahendus sobib eriti hästi avatud köökidesse, köögisaartele ja korteritesse, kus ventilatsioonišahti ei ole või selle asukoht ei klapi pliidi asukohaga. Kontrolli enne ostu, et köögikappide sügavus ja kõrgus võimaldaksid ca 21 cm sügavusega seadme paigaldust ning et elektrisüsteem toetaks kuni 7,4 kW koormust (vajalik eraldi kaitselülitiga toiteahel)."
+    },
+    {
+      "question": "Kui lihtne on NikolaTesla Switch BL/F/83 kasutamine ja filtrite hooldus?",
+      "answer": "Pliidiplaati juhitakse puutetundlike slider-nuppudega – igal tsoonil on oma võimsuse reguleerimine, olemas on taimer, võimendus (Booster), Stop&Go/pause funktsioon ning lapselukk. Õhupuhasti käivitub kas käsitsi või automaatrežiimil, mis kohandab tõmbe tugevust vastavalt aurude hulgale, seega igapäevane kasutus on mugav ja intuitiivne. Rasvafilter ja keraamiline lõhnifilter asuvad tööpinna pealt ligipääsetavalt keskosas; rasvafiltrid on tavaliselt pestavad (tihti nõudepesumasinas) ning keraamilised recirkulatsioonifiltrid on pikaealised ja regenereeritavad vastavalt kasutusjuhendi juhistele. Regulaarne hooldus seisnebki peamiselt filtrite puhastamises ning aeg-ajalt lõhnafiltri taastamises või vajadusel väljavahetamises – eraldi keerulist hooldust seade ei nõua."
+    },
+    {
+      "question": "Kui töökindel on NikolaTesla Switch BL/F/83 ja kas see on oma hinda väärt?",
+      "answer": "ELICA on spetsialiseerunud õhupuhastitele ja integreeritud pliidiplaatidele ning NikolaTesla seeria on nende premium-klassi lahendus, kus on ühendatud kvaliteetne klaaskeraamiline induktsioonpind ja A-klassi energiatõhus sisemine mootoriga õhupuhasti. Õhk tõmmatakse otse pliidi pinnalt, mistõttu liigub vähem auru mööda kööki ringi ning süsteem töötab tavarežiimil suhteliselt vaikselt, samas säilitades tugeva tõmbe – see parandab mugavust avatud köökides. Pikaealised (keraamilised) lõhnafiltrid ja pestavad rasvafiltrid vähendavad jooksvaid kulusid võrreldes odavate ühekordsete filtritega. Kuigi seadme ostuhind on kõrgem kui eraldi pliidi ja kubu kombinatsioonil, säästab see ruumi, annab minimalistliku disaini ning tihti vähendab paigalduskulusid (puudub eraldi seina- või laekubu ja torustik), mistõttu on see hea investeering kaasaegse köögi jaoks. Garantii pikkus sõltub müüjast ja riigist; enamasti kehtib vähemalt seadusejärgne garantiiperiood, mille täpsust annab edasimüüja."
+    }
+  ]
+}

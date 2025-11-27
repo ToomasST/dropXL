@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394079462 7333394079462 Fridge ELECTROLUX E6MNCE19S",
+  "search_queries": {
+    "main_query": "integreeritav no frost külmik sügavkülmaga Electrolux E6MNCE19S",
+    "additional_queries": [
+      "kuidas vältida külmiku käsitsi sulatamist ja toidu kuivamist integreeritava Electrolux TwinTech No Frost külmikuga",
+      "integreeritav 60 cm külmik alumise sügavkülmaga 207+62 l vaikne 37 dB väikesesse kööki",
+      "millega erineb Electrolux E6MNCE19S teistest integreeritavatest no frost külmikust-sügavkülmadest",
+      "kuidas paigaldada ja kasutada liughingedega integreeritavat külmikut Electrolux E6MNCE19S koos Extra Chill sahtliga"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas integreeritav külmik Electrolux E6MNCE19S sobib minu köögimööbliga?",
+      "answer": "See mudel on mõeldud täisintegratsiooniks („Built in“) ja kasutab liughingesid. Standardlaius on 60 cm ja standardkõrgus 190 cm, tegelikud mõõdud on u 54,9 × 54,6 × 188,4 cm (sügavus × laius × kõrgus). Uksed on ümbertõstetavad, seega saab külmiku avamissuunda muuta. Sobivuse tagamiseks mõõtke oma köögikapp ja kontrollige, et nišš ning esipaneeli kinnitusviis vastaksid liughingedega integreeritava külmiku nõuetele. Täpseid paigaldusjooniseid sisend ei kirjelda, need on tootja juhendis."
+    },
+    {
+      "question": "Kui lihtne on Electrolux E6MNCE19S külmikut kasutada ja hooldada?",
+      "answer": "Külmik-sügavkülmik kasutab No Frost tehnoloogiat, seega ei pea sügavkülmikut käsitsi sulatama. TwinTech® kahekordne jahutussüsteem ja MultiFlow tagavad ühtlase temperatuuri ning niiskuse ja aitavad hoida toitu kauem värskena. Extra Chill sahtel (lähestikku 0 °C tsoon) on sobiv värskele lihale ja juustule, ukses olevad CustomFlex® riiulid on individuaalselt reguleeritavad. Puhastamise ja täpse hoolduse kohta sisendmaterjal eraldi juhiseid ei anna – selleks tuleks lähtuda kaasasolevast kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel on Electrolux E6MNCE19S ja kas see on oma hinda väärt?",
+      "answer": "Sisendi järgi on külmikul inverterkompressor, No Frost jahutustehnoloogia, LED-valgustus ning Eco- ja puhkuserežiim, mis viitavad energiasäästlikule ja kaasaegsele lahendusele. Aastane energiatarve on 215 kWh, müratase 37 dB (müraklass C), mis on integreeritava külmiku kohta vaikne. Külmikus on 207 l külmiku- ja 62 l sügavkülmiku maht, Extra Chill külmsahtel, kiirjahutus ja kiirkülmutus ning täielikult väljatõmmatavad sügavkülma sahtlid. Lisaks on 70% sisemisest plastikvooderdusest toodetud ümbertöödeldud plastist, mis on keskkonnasõbralikum lahendus. Garantiitingimusi sisend ei täpsusta – need sõltuvad müüjast ja tootja üldtingimustest. Hinna-väärtuse mõttes pakub see mudel rohkelt mugavus- ja säilitusfunktsioone ühes integreeritavas korpuses."
+    }
+  ]
+}

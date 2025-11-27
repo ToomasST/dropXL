@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543794782 7332543794782 Hood ELECTROLUX LFG719X",
+  "search_queries": {
+    "main_query": "Electrolux LFG719X integreeritav õhupuhasti Hob2Hood 80 cm",
+    "additional_queries": [
+      "kuidas hoida köögi õhk puhas tugeva õhupuhasti Electrolux LFG719X Hob2Hood abil",
+      "integreeritav õhupuhasti Electrolux LFG719X 80 cm 700 m3/h avatud kööki",
+      "mille poolest erineb Electrolux LFG719X Hob2Hood õhupuhasti teistest integreeritavatest kubudest",
+      "kuidas puhastada rasvafiltrit ja kasutada süsinikfiltreid Electrolux LFG719X õhupuhastil"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LFG719X sobib minu kööki ja olemasoleva pliidiplaadiga?",
+      "answer": "Electrolux LFG719X on integreeritav (kappi ehitatav) õhupuhasti, mis ei ole väljatõmmatav. Standardlaius on 80 cm (toote mõõtudest: laius u 77 cm, sügavus 30 cm, maksimaalne kõrgus 331 mm), seega sobib see enim 80 cm laiusesse ülakappi või vastava laiusega nišši – mõõtke oma kapp enne üle.\n\nTegemist on väljatõmbe ehk \"duct out\" versiooniga, mis vajab ühendamist ventilatsioonitorustikuga (toru läbimõõt 150 mm). Toode toetab ka tagumist (back) väljatõmmet. \n\nÕhupuhastil on juhtmevaba Hob2Hood® ühendus pliidiplaadiga – pliidiplaat saab automaatselt reguleerida õhupuhasti jõudlust. Sisend ei täpsusta, milliste tootjate või mudelite pliidiplaatidega Hob2Hood töötab, seega tasub enne ostu kontrollida oma pliidiplaadi ühilduvust tootja info põhjal."
+    },
+    {
+      "question": "Kui lihtne on Electrolux LFG719X kasutamine ja hooldus?",
+      "answer": "Õhupuhastil on elektrooniline juhtimine ja Hob2Hood® funktsioon: sobiva pliidiplaadiga saab kubu töötamist automaatselt juhtida vastavalt pliidiplaadi võimsusele. See vähendab vajadust käsitsi kiirusi muuta.\n\nValgustuse eest hoolitsevad LED-tuled, mis annavad tugeva ja ühtlase tööpinna valguse ning on energiasäästlikud.\n\nKirjelduses on mainitud standardset rasvafiltrit, mida saab pesta või vajadusel välja vahetada – see aitab hoida kubu ja õhu puhtamana. Samuti on loetletud sobivad süsinikfiltrid ECFB01ST (OdourClean STANDARD) ja ECFBPL02 (OdourClean PLUS), aga sisendmaterjal ei ütle, kas need on komplektis või tuleb eraldi soetada ning kui tihti neid vahetada.\n\nPaigalduse ja täpse hoolduskorra kohta (nt kui sageli filtreid pesta) sisend infot ei sisalda, seega tuleks lähtuda tootja kasutus- ja paigaldusjuhendist ning vajadusel kasutada professionaalset paigaldusteenust."
+    },
+    {
+      "question": "Kui töökindel on Electrolux LFG719X ja milline on garantii ning hinna-väärtuse suhe?",
+      "answer": "Sisendi järgi on Electrolux LFG719X energiatõhus õhupuhasti: energiatõhususe klass on A, aastane energiakulu 55 kWh ning nii õhuvoolu kui valgustuse efektiivsuse klass on samuti A. LED-valgustus on pika elueaga ja säästlik.\n\nÕhupuhastil on võimas mootor: õhuvool on 300–580 m³/h, \"booster\" režiimil kuni 700 m³/h. See aitab kiiresti eemaldada auru ja toidulõhnad ning sobib ka intensiivsemaks toiduvalmistamiseks. Perimeertõmme ja tagumine väljatõmme parandavad õhu eemaldamise tõhusust. Viimistlus on roostevabast terasest, mis on üldiselt vastupidav ja ajatu välimusega.\n\nMüra tase jääb vahemikku 54–70 dB (olenevalt kiirusest), mis on võimsa integreeritava õhupuhasti kohta tavapärane. \n\nGarantiitingimuste kohta sisendinfot ei ole, seega tuleb täpne garantiiaeg ja -tingimused üle kontrollida müüja või maaletoojaga. Hinna-väärtuse mõttes pakub see mudel kombinatsiooni tugeva õhuvoolu, Hob2Hood® automaatika, LED-valgustuse ja energiatõhususe näol, mis teevad seadme pikaajaliseks kasutuseks atraktiivseks valikuks."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "model": "gpt-5.1",
+  "instructions": "\n            Eesmärk:\n            - Loo e-poe jaoks tootenimi ja toote lühikirjeldus.\n\n            Tootenime koostamise reeglid:\n            - Alusta tootenimetusega, mis on koos 1–3 võtmeomadusega. Esimesed sõnad peavad koheselt iseloomustama, mis tootega on tegemist ja mis on toote eesmärk/kasutuskoht.\n            - Järgmiseks lisa TOOTJA nimi ja TÄPNE MUDEL.\n            - Lisa detailseid tooteomadusi, mis pole veel nimetatud ja mis on vajalikult konkreetse toote eristamiseks (mõõt/maht/võimsus, materjal/värv, ühilduvus).\n            - Tooteomadusi lisades püüa mõelda toote iseloomule, et kasutada kõige relevantsemat infot, mis on antud toote puhul tähtis ja vajalik teada.\n            - Vormistus: max 200 tähemärki. Ühikud: 60 cm, 20 L, 250 ml, 65 W.\n            - Väldi turundusklišeesid, jutumärke, liigset brändikordust, semikoolonit ja punkti lõpus.\n\n            Head näited:\n            - \"Täissuuruses mänguklaviatuur RGB-valgustusega GENESIS Rhod 300 RGB NKG-1528, 104-klahviline, QWERTY, membraanlülitid, pritsmekindel, USB, must\"\n            - \"MagSafe juhtmevabad kõrvaklapid Apple AirPods (3. põlvkond) MME73TY/A, IPX4, Bluetooth 5.0, kuni 30 tundi kestvust, valged, laadimiskarbiga\"\n            - \"Kaasaskantav peokõlar LED-valgustuse ja Bluetooth 6.0-ga Kenwood AS-60BTB 5W must, 900 mAh aku, veekindel, USB-C laadimine, microSD tugi\"\n            - \"Ventilaatoriga sülearvuti jahutusalus Trust GXT1126 Aura RGB 17″, 20 cm, reguleeritav kõrgus, RGB valgustus, 10 kg kandevõime, 421x312x26 mm\"\n\n            Halvad näited:\n            - \"Parim nõudepesumasin ülisoodne super kvaliteetne!!!\"\n            - \"EcoPlus kassiliiv\" (brändi täpsus/maht puudu)\n            - \"Hamstri puur\" (liiga üldine; mõõdud/eripärad puudu)\n            - \"Telefonikaitse iPhone\" (mudel ja materjal puudu)\n\n            Toote lühikirjelduse koostamise reeglid:\n            - Kirjuta tootele lühikirjeldus eesti keeles, tuues esile toote olulisemad kasutegurid ja omadused.\n            - Pikkus: 2–3 lauset (kokku umbes 250–300 tähemärki).\n            - Hoia toon informatiivne ja neutraalne – väldi sisutühje hüüdlauseid või ülepaisutatud kiidusõnu.\n            - Lühikirjeldus peaks andma kliendile kiire ja täpse ülevaate tootest: kus, kellele ja miks toodet kasutatakse, mis muret see lahendab ja mis on kliendi peamine kasu.\n            - Võid kasutada STEP 1 Q&A põhipunkte (sobivus, kasutamine, hooldus) selleks, et lühikirjeldus vastaks tüüpilistele kliendiküsimustele, kuid ära korda Q&A küsimusi sõna-sõnalt.\n            - Väldi klišeesid nagu \"nagu pildil näha\", \"pildilt on nähtav\" jne.\n            - Ära kasuta kirjelduses semikoolonit \";\". Lõpeta mõte punktiga ja alusta uue lausega.\n\n            🗣️ Terminoloogia eelistused (lemmikloomade veeseadmed):\n            - Väldi sõnu \"joogipurskkaev\", \"joogifontein\" ja \"fontään\".\n            - Kasuta \"automaatne veedosaator\", \"automaatne joogikauss\" või \"joogivett filtreeriv jooginõu\" – vali konteksti järgi loomulik.\n\n            🗣️ Terminoloogia eelistused (integreeritavad köögiseadmed):\n            - Ära kasuta sõna \"nišš\". Kasuta \"köögimööbli avasse\", \"mööblisse\" või konkreetset mõõtu (nt \"60 cm kapp\"), et kirjeldada paigalduskohta.\n            - Asenda väljend \"uksele-uksele hinged\" variandiga \"uks-uksele paigaldus\".\n\n            Oluline: kasuta ainult seda infot, mis tuleneb algsetest tooteandmetest ja STEP 1/veebiotsingu tulemustest. Ära lisa tootenimesse ega lühikirjeldusse omadusi, mida sisendis ega usaldusväärsetes allikates ei olnud.\n\n            SEO jaoks:\n            - Loo olemasoleva info põhjal ka \"SEO Title\" ja \"SEO Meta kirjeldus\".\n            - SEO Title: maksimaalselt 60 tähemärki (eesmärgiga 50–60), peab loomulikult sisaldama peamist otsingufraasi (nt bränd + mudel + võtmeomadus), olema selge ja täpne.\n            - SEO Meta kirjeldus: maksimaalselt 160 tähemärki, kutsuv ja informatiivne, mitte liialt reklaamilik, kirjeldab lühidalt toote põhikasu ja omadusi. \n            - Ära kasuta SEO väljundites tarnija nime ega diskreetset infot.\n            - Ära kasuta semikoolonit \";\" üheski väljundis (ei pealkirjades ega kirjeldustes).\n\n            Väljund: Tagasta JSON, kus \"translated_title\" sisaldab tootenimetust, \"short_description\" sisaldab toote lühikirjeldust, \"seo_title\" sisaldab SEO pealkirja ja \"seo_meta\" sisaldab SEO meta kirjeldust.\n        ",
+  "input": "Genereeri tõlgitud andmete ja STEP 1 konteksti põhjal tootenimi ja toote lühikirjeldus.",
+  "tools": null,
+  "text": {
+    "verbosity": "low",
+    "format": {
+      "type": "json_schema",
+      "name": "translated_title_schema",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "translated_title": {
+            "type": "string"
+          },
+          "short_description": {
+            "type": "string"
+          },
+          "seo_title": {
+            "type": "string"
+          },
+          "seo_meta": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "translated_title",
+          "short_description",
+          "seo_title",
+          "seo_meta"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "reasoning": {
+    "effort": "medium"
+  },
+  "previous_response_id": "resp_03ec98b31f766c6300691c7f9a2e588191b42af2ae7e666bf1",
+  "service_tier": "default"
+}

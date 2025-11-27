@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543793952 7332543793952 Hood ELECTROLUX LFG719R",
+  "search_queries": {
+    "main_query": "Electrolux LFG719R integreeritav õhupuhasti Hob2Hood 80 cm",
+    "additional_queries": [
+      "kuidas vähendada toidulõhnu köögis Electrolux LFG719R integreeritava õhupuhastiga",
+      "integreeritav õhupuhasti 700 m3/h avatud kööki Electrolux LFG719R",
+      "Electrolux LFG719R võrdlus teiste Hob2Hood integreeritavate õhupuhastitega",
+      "kuidas paigaldada ja puhastada Electrolux LFG719R sisseehitatavat kubu"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LFG719R sobib minu kööki ja olemasoleva pliidiga?",
+      "answer": "Electrolux LFG719R on integreeritav (sisseehitatav) õhupuhasti, mille standardlaius on 80 cm (füüsiline laius u 77 cm) ja maksimaalne kõrgus 331 mm, seega sobib see 80 cm laiusesse kubunišši või ülemisse kappi. Mudel on kanaliga (duct out) versioon ja vajab 150 mm läbimõõduga õhukanalit. Õhupuhasti toetab Hob2Hood® juhtimist – see tähendab, et sobiva Hob2Hood-funktsiooniga Electroluxi pliidiplaat saab kubu juhtida juhtmevabalt. Muude tootjate või süsteemide ühilduvust antud info ei täpsusta, seega tuleks seda eraldi kontrollida."
+    },
+    {
+      "question": "Kuidas Electrolux LFG719R õhupuhastit kasutada ja hooldada?",
+      "answer": "Õhupuhasti juhtimine on elektrooniline ning seda saab lisaks käsitsijuhtimisele kasutada ka Hob2Hood® automaatrežiimis – pliidiplaat muudab kubu võimsust vastavalt kuumusele ja kasutatavate keedualade arvule. Seade on varustatud LED-valgustusega, mis annab hea ja ökonoomse tööpinna valgustuse.\n\nKirjeldus toob välja standardse rasvafiltri, mida saab vajadusel pesta või välja vahetada, et hoida kubu ja köögi pind puhtamana. Tootetutvustuses on mainitud ka sobivaid OdourClean söefiltri mudeleid (ECFB01ST, ECFBPL02) ja Silentium komplekte, kuid ei täpsustata, kas need on komplektis või lisavarustus – selle täpsustamiseks tuleks vaadata kasutusjuhendit või müüja infot. Täpne paigaldus- ja hooldusjuhis on tavaliselt kaasasolevas kasutusjuhendis; siin antud info ei kirjelda üksikasjalikke samme."
+    },
+    {
+      "question": "Kui töökindel on Electrolux LFG719R ja milline on hinna ja väärtuse suhe?",
+      "answer": "Antud mudelil on efektiivne ja võimas mootor, mille õhuvool on kuni 580 m³/h (tavarežiimis) ja kuni 700 m³/h booster-režiimis, mis aitab köögi õhu kiiresti puhastada. Minimaalne müratase on 54 dB ja maksimaalne 67 dB (boosteril 70 dB). Õhupuhastil on A-klassi energiaklass, A-klassi õhuvoolu- ja valgustõhusus, mis tähendab madalamat energiakulu ja head tööefektiivsust, ning LED-valgustus pika tööeaga. \n\nGarantii kestust ja täpseid tingimusi tootekirjeldus ei täpsusta – need sõltuvad müüjast ja kehtivatest garantiireeglitest. Hinna-väärtuse mõttes pakub seade tugevat imemisvõimsust, automaatset Hob2Hood® juhtimist ja energiatõhusat töörežiimi tuntud tootjalt, mis on paljudele ostjatele oluline lisaväärtus, kuid lõplikku hinnangu peab klient andma oma eelarve ja vajaduste põhjal."
+    }
+  ]
+}

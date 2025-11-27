@@ -1,0 +1,77 @@
+[
+  {
+    "forecast_date": null,
+    "product_id": 24379,
+    "qty": 0
+  },
+  {
+    "forecast_date": null,
+    "product_id": 3412,
+    "qty": 0
+  },
+  {
+    "forecast_date": "2025-11-28",
+    "product_id": 9872,
+    "qty": 5
+  },
+  {
+    "forecast_date": "2025-11-28",
+    "product_id": 9901,
+    "qty": 1
+  },
+  {
+    "forecast_date": "2025-11-28",
+    "product_id": 15818,
+    "qty": 5
+  },
+  {
+    "forecast_date": "2025-09-29",
+    "product_id": 15878,
+    "qty": 5
+  },
+  {
+    "forecast_date": null,
+    "product_id": 16063,
+    "qty": 0
+  },
+  {
+    "forecast_date": null,
+    "product_id": 2820,
+    "qty": 0
+  },
+  {
+    "forecast_date": null,
+    "product_id": 2812,
+    "qty": 0
+  },
+  {
+    "forecast_date": "2025-11-28",
+    "product_id": 9916,
+    "qty": 0
+  },
+  {
+    "forecast_date": null,
+    "product_id": 2840,
+    "qty": 0
+  },
+  {
+    "forecast_date": null,
+    "product_id": 2932,
+    "qty": 0
+  },
+  {
+    "forecast_date": null,
+    "product_id": 1802,
+    "qty": 5
+  },
+  {
+    "forecast_date": "2025-11-28",
+    "product_id": 10048,
+    "qty": 4
+  },
+  {
+    "forecast_date": null,
+    "product_id": 2928,
+    "qty": 0
+  }
+]

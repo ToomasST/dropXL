@@ -1,0 +1,81 @@
+{
+  "model": "gpt-5.1",
+  "instructions": "\n                Sa tegutsed tooteanalüüsi spetsialisti ja uuriva copywriter'ina. See on \"STEP 1: Kontekst\", mille tulemusi kasutavad kõik järgnevad sammud.\n\n                Töötle olemasolevat toote alginfot (ilma veebiotsinguta) ja koonda sellest kontekst, mis aitab hilisemates sammudes luua AI-ajastule vastava müügikirjelduse.\n\n                Läbi antud materjal ja veendu, et suudad vastata järgmistele küsimustele:\n                1. Millist probleemi toode lahendab ja kuidas see ostja elu lihtsamaks teeb?\n                2. Kas see sobib sihtkasutaja vajadustele (kellele, millistes olukordades)?\n                3. Mis on toote põhiline funktsioon ja eesmärk (kuidas see töötab, millist tulemust annab)?\n                4. Kuidas see erineb alternatiividest/mudelitest ning millised on unikaalsed eelised?\n                6. Millised on peamised omadused ja tehnilised võtmenäitajad, mida peaks bullet'ites esile tooma?\n                7. Kas see mahub kliendi ruumi/ökosüsteemi (mõõdud, maht, kontekstuaalne sobivus)?\n                8. Millega see on ühilduv ja mis võib olla lisaks vajalik (platvormid, tarkvara, tarvikud, ökosüsteemid)?\n                9. Kui lihtne on seda kasutada ja hooldada (kasutusloogika, hooldus-/uuendusvajadused, „plug & play“ aspektid)?\n                10. Kui töökindel ja vastupidav see on ning milline on garantii või järelteenindus?\n                11. Mis on tootega kaasas ja mida tuleks vajadusel eraldi soetada?\n                12. Kas see on oma hinda väärt – milline on väärtuspakkumine ja pikaajaline kasu?\n\n                Nende järelduste põhjal loo väljundid, mida kasutame otse e-poes, SEO-s ja Q&A plokis:\n\n                - 5 otsingufraasi (1 peamine, 4 lisa), kõik loomulikus eestikeelses vormis ja tuginedes ainult olemasolevale infole.\n                  • main_query: fraas, mida inimene reaalselt kirjutaks otsingusse, kui ta otsib just seda konkreetset toodet (toote tüüp + 1–2 võtmeomadust + bränd/mudel).\n                  • additional_queries: 4 long-tail päringut, mis jagunevad nii:\n                    1) probleemipõhine: kuidas lahendada tüüpilist probleemi selle tootega;\n                    2) omaduspõhine: toote tüüp + võtmenäitaja (võimsus/mõõt/maht vms) + kasutusolukord;\n                    3) võrdlev: mille poolest see erineb teistest sarnastest mudelitest;\n                    4) kasutus/hooldus: kuidas paigaldada, hooldada või igapäevaselt kasutada.\n\n                  Väljendid võivad sisaldada tehnilisi tähiseid ja mudeleid, kuid väldi ingliskeelseid täislauseid.\n\n                - 3 Q&A küsimust ja vastust eesti keeles Q&A sektsiooni jaoks, mis aitavad kliendil ostuotsust teha. Kasuta järgmisi telgi:\n                  1) sobivus ja valik (kas see sobib minu ruumi, vajadustele, olemasoleva süsteemiga);\n                  2) kasutamine ja hooldus (kuidas seda kasutada, puhastada, paigaldada, hooldada);\n                  3) töökindlus, garantii ja hinna-väärtuse suhe (kui vastupidav see on, milline on garantii, mis on peamine kasutegur hinna suhtes).\n\n                Ära leiuta uusi fakte. Kui mõne info (nt konkreetne ühilduvus, garantiitingimus, täpne kasutusviis) kohta sisendmaterjal midagi ei ütle, ära seda välja mõtle – jäta vastus neutraalseks või ütle, et sisend seda ei täpsusta.\n\n                Tagasta (kõik väärtused eesti keeles):\n                - search_queries: objekt väljadega main_query (string) ja additional_queries (array 4 stringi)\n                - qa: massiiv 3 elemendiga, igas objektis question ja answer väljad\n                ",
+  "input": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "input_text",
+          "text": "Toote alginfo (JSON): {\"sku\": \"ESL2500RO\", \"global_unique_id\": \"7332543765393\", \"source\": {\"source_system\": \"prenta\", \"source_product_id\": 12296, \"source_category_ids\": [26], \"rrp_price\": 399.0, \"purchase_price\": 255.0}, \"name\": \"Dishwasher ELECTROLUX ESL2500RO\", \"short_description\": \"\", \"description\": \"<br><table style=\\\"width: 380pt;\\\" width=\\\"507\\\" cellspacing=\\\"0\\\" cellpadding=\\\"0\\\" border=\\\"0\\\"></table>\\n\\n<img src=\\\"product_images/12296/flix_feature_1.webp\\\" alt=\\\"Jokio plovimo rankomis per vakarėlį\\\">\\n<h3>Jokio plovimo rankomis per vakarėlį</h3>\\n<p>Jokio plovimo rankomis per vakarėlį Turite mažą butą, planuojate didelį vakarėlį? Naudojant indaplovę „Electrolux Compact“, nereikia rankomis plauti indų tarp patiekalų. Indaplovėje įdiegta 20 minučių vakarėlio programa šį darbą nudirbs už Jus, o Jūs tuo metu galėsite pasikalbėti arba paruošti desertą.</p>\\n<h3>Kaskart tinkama programa Jūsų indams</h3>\\n<p>Kaskart tinkama programa Jūsų indams Indus visuomet išplausite nepriekaištingai, nesvarbu, ką plaunate. Pasirinkite bet kurią iš 6 programų.</p>\", \"type\": \"simple\", \"status\": \"publish\", \"featured\": false, \"catalog_visibility\": \"visible\", \"regular_price\": \"399.0\", \"sale_price\": \"\", \"purchasable\": true, \"virtual\": false, \"tax_status\": \"taxable\", \"tax_class\": \"\", \"manage_stock\": true, \"stock_status\": \"instock\", \"stock_quantity\": 5, \"backorders\": \"no\", \"backorders_allowed\": false, \"backordered\": false, \"low_stock_amount\": null, \"sold_individually\": false, \"weight\": \"20.68\", \"dimensions\": {\"length\": \"51.8\", \"width\": \"55\", \"height\": \"\"}, \"shipping_required\": true, \"shipping_taxable\": true, \"shipping_class\": \"prenta\", \"reviews_allowed\": true, \"average_rating\": \"0.00\", \"rating_count\": 0, \"upsell_ids\": [], \"cross_sell_ids\": [], \"category\": {\"source_id\": 26, \"path\": \"All > Saleable > Home appliances > Built in > Dishwasher\", \"translated_path\": \"Kodutehnika > Integreeritav kodutehnika > Integreeritavad nõudepesumasinad\", \"leaf_name\": \"Integreeritavad nõudepesumasinad\"}, \"categories\": [{\"name\": \"Integreeritavad nõudepesumasinad\"}], \"brands\": [{\"name\": \"ELECTROLUX\"}], \"tags\": [], \"images\": [{\"src\": \"product_images/12296/image_1.webp\", \"alt\": \"Dishwasher ELECTROLUX ESL2500RO\"}, {\"src\": \"product_images/12296/flix_gallery_1.webp\", \"alt\": \"Dishwasher ELECTROLUX ESL2500RO\"}, {\"src\": \"product_images/12296/flix_gallery_2.webp\", \"alt\": \"Dishwasher ELECTROLUX ESL2500RO\"}, {\"src\": \"product_images/12296/flix_gallery_3.webp\", \"alt\": \"Dishwasher ELECTROLUX ESL2500RO\"}, {\"src\": \"product_images/12296/flix_gallery_4.webp\", \"alt\": \"Dishwasher ELECTROLUX ESL2500RO\"}, {\"src\": \"product_images/12296/flix_gallery_5.webp\", \"alt\": \"Dishwasher ELECTROLUX ESL2500RO\"}, {\"src\": \"product_images/12296/flix_gallery_6.webp\", \"alt\": \"Dishwasher ELECTROLUX ESL2500RO\"}], \"attributes\": [{\"name\": \"Product line\", \"values\": [\"Electrolux Open\"]}, {\"name\": \"Producer\", \"values\": [\"Electrolux\"]}, {\"name\": \"Type of installation\", \"values\": [\"Built-in\"]}, {\"name\": \"Standardized width (cm)\", \"values\": [60]}, {\"name\": \"Standardized height (cm)\", \"values\": [\"Compact\"]}, {\"name\": \"New Energy efficiency class\", \"values\": [\"F\"]}, {\"name\": \"Control\", \"values\": [\"Electronic with LCD\"]}, {\"name\": \"Control panel location\", \"values\": [\"Internal\"]}, {\"name\": \"Energy consumption for 100 cycles (kWh)\", \"values\": [\"61\"]}, {\"name\": \"Number of programs\", \"values\": [\"6\"]}, {\"name\": \"Water consumption for 1 cycle (l)\", \"values\": [\"6.5\"]}, {\"name\": \"Number of temperatures\", \"values\": [\"4\"]}, {\"name\": \"Noise level class\", \"values\": [\"C\"]}, {\"name\": \"Glass programme\", \"values\": [\"Yes\"]}, {\"name\": \"Automatic programme\", \"values\": [\"No\"]}, {\"name\": \"Duration for 1 cycle (min.)\", \"values\": [\"230\"]}, {\"name\": \"Time saving\", \"values\": [\"No\"]}, {\"name\": \"Delay start programme\", \"values\": [\"Yes\"]}, {\"name\": \"Auto shut off\", \"values\": [\"Yes\"]}, {\"name\": \"Hot water inlet\", \"values\": [\"Yes\"]}, {\"name\": \"Type of motor\", \"values\": [\"Universal\"]}, {\"name\": \"Number of baskets\", \"values\": [\"1\"]}, {\"name\": \"Automatic door opening at the end of the cycle\", \"values\": [\"No\"]}, {\"name\": \"Higher efficiency sprays\", \"values\": [\"No\"]}, {\"name\": \"Upper spray\", \"values\": [\"No\"]}, {\"name\": \"Tub material\", \"values\": [\"Full stainless steel\"]}, {\"name\": \"Interior light\", \"values\": [\"No\"]}, {\"name\": \"Floor beam\", \"values\": [\"No\"]}, {\"name\": \"Sliding hinges\", \"values\": [\"No\"]}, {\"name\": \"Protection of water spill\", \"values\": [\"No\"]}, {\"name\": \"Installation in height\", \"values\": [\"No\"]}, {\"name\": \"Lift for the lower basket\", \"values\": [\"No\"]}, {\"name\": \"Settings, Pcs\", \"values\": [\"6\"]}, {\"name\": \"Minimal height, cm\", \"values\": [\"43.8\"]}, {\"name\": \"Maximum height, cm\", \"values\": [\"43.8\"]}, {\"name\": \"Noise level (dB)\", \"values\": [\"49\"]}, {\"name\": \"Wi-Fi\", \"values\": [\"No\"]}, {\"name\": \"Color\", \"values\": [\"White\"]}], \"default_attributes\": [], \"variations\": [], \"grouped_products\": [], \"menu_order\": 0, \"related_ids\": [], \"meta_data\": [{\"key\": \"_bp_gtin13\", \"value\": \"7332543765393\"}, {\"key\": \"_bp_supplier\", \"value\": \"Prenta\"}, {\"key\": \"_bp_brand\", \"value\": \"ELECTROLUX\"}]}"
+        }
+      ]
+    }
+  ],
+  "tools": [],
+  "text": {
+    "verbosity": "medium",
+    "format": {
+      "type": "json_schema",
+      "name": "context_and_research_schema",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "search_queries": {
+            "type": "object",
+            "properties": {
+              "main_query": {
+                "type": "string"
+              },
+              "additional_queries": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                },
+                "minItems": 4,
+                "maxItems": 4
+              }
+            },
+            "required": [
+              "main_query",
+              "additional_queries"
+            ],
+            "additionalProperties": false
+          },
+          "qa": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": 3,
+            "items": {
+              "type": "object",
+              "properties": {
+                "question": {
+                  "type": "string"
+                },
+                "answer": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "question",
+                "answer"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "search_queries",
+          "qa"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "reasoning": {
+    "effort": "medium"
+  },
+  "previous_response_id": null,
+  "service_tier": "default"
+}

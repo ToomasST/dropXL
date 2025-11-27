@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543738359 7332543738359 KESC2210L",
+  "search_queries": {
+    "main_query": "Electrolux KESC2210L integreeritav nõudepesumasin 45 cm, SatelliteClean, AirDry, 44 dB",
+    "additional_queries": [
+      "Kitsa köögi vaikne 45 cm nõudepesumasin 9 komplekti (Beam on Floor valgusindikaator)",
+      "Electrolux 600 seeria 45 cm nõudepesumasin QuickSelect liugjuhtimise ja klaasiprogrammiga",
+      "Electrolux KESC2210L veekulu 9,9 l ja energiakulu 70 kWh/100 tsüklit",
+      "Integreeritava nõudepesumasina paigaldusmõõdud 818×446×550 mm (libisevad hinged)"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Mul on vähe ruumi – kas 45 cm Electrolux KESC2210L peseb ja kuivatab sama hästi kui täissuuruses masin?",
+      "answer": "Jah. SatelliteClean topeltpöörlev pihusti annab kuni 3× parema katvuse kui tavaline süsteem, et ka tihedalt laotud nõud saaksid puhtaks; AirDry avab tsükli lõpus ukse ~10 cm, kasutades loomulikku õhuvoolu kuni 3× paremaks kuivamiseks. 9 komplekti mahutavus ja 44 dB müratase sobivad hästi väikestesse köökidesse. citeturn2search1turn2search0turn3search3"
+    },
+    {
+      "question": "Kas see sobib minu köögimööblisse? Millised on mõõdud ja paigaldusnõuded?",
+      "answer": "KESC2210L on täielikult integreeritav 45 cm laiune mudel. Seadme mõõdud on u 818 × 446 × 550 mm; soovituslik paigaldusava V×L×S 820–900 × 450 × 550 mm. Mudelil on libisevad hinged ning põrandale projitseeritav olekuindikaator (Beam on Floor). Mööbliesipaneel ei kuulu komplekti; kuumavee sisselaske võimalus on olemas. Palun kontrolli oma köögi niši kõrgust (reguleeritav 0–8 cm). citeturn3search3turn3search5"
+    },
+    {
+      "question": "Millised programmid ja kui suur on kulu (vesi/energia/müra)?",
+      "answer": "8 programmi ja 4 temperatuuri: AUTO Sense, Eco, 160/90/60 min, Kiir 30 min, Loputus & ootus, Machine Care. Tüüpiline energiakulu on 70 kWh/100 tsüklit, vee kulu u 9,9 l/tsükkel ja müratase 44 dB. QuickSelect liugjuhtimine aitab leida säästvama tsükli (Ecometer). citeturn3search3turn3search6turn3search1turn2search1"
+    }
+  ]
+}

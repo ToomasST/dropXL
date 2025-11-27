@@ -1,0 +1,81 @@
+{
+  "model": "gpt-5",
+  "instructions": "\n                Sa tegutsed tooteanalüüsi spetsialisti ja uuriva copywriter'ina. See on \"STEP 1: Kontekst\", mille tulemusi kasutavad kõik järgnevad sammud.\n\n                Töötle olemasolevat toote alginfot ja koonda sellest kontekst, mis aitab hilisemates sammudes luua AI-ajastule vastava müügikirjelduse.\n\n                Läbi antud materjal ja veendu, et suudad vastata järgmistele küsimustele:\n                1. Millist probleemi toode lahendab ja kuidas see ostja elu lihtsamaks teeb?\n                2. Kas see sobib sihtkasutaja vajadustele (kellele, millistes olukordades)?\n                3. Mis on toote põhiline funktsioon ja eesmärk (kuidas see töötab, millist tulemust annab)?\n                4. Kuidas see erineb alternatiividest/mudelitest ning millised on unikaalsed eelised?\n                6. Millised on peamised omadused ja tehnilised võtmenäitajad, mida peaks bullet'ites esile tooma?\n                7. Kas see mahub kliendi ruumi/ökosüsteemi (mõõdud, maht, kontekstuaalne sobivus)?\n                8. Millega see on ühilduv ja mis võib olla lisaks vajalik (platvormid, tarkvara, tarvikud, ökosüsteemid)?\n                9. Kui lihtne on seda kasutada ja hooldada (kasutusloogika, hooldus-/uuendusvajadused, „plug & play“ aspektid)?\n                10. Kui töökindel ja vastupidav see on ning milline on garantii või järelteenindus?\n                11. Mis on tootega kaasas ja mida tuleks vajadusel eraldi soetada?\n                12. Kas see on oma hinda väärt – milline on väärtuspakkumine ja pikaajaline kasu?\n\n                Tagasta (kõik väärtused eesti keeles):\n                - 5 otsingufraasi (1 peamine, 4 lisa), mis oleksid toote jaoks loogilised ja realistlikud, tuginedes ainult olemasolevale infole. Väljendid peavad olema loomulikus eestikeelses vormis ja võivad sisaldada vajalikke mudeli- ning tehnilisi tähiseid.\n                - 3 kõige tõenäolisemat ja levinumat küsimust ja vastust eesti keeles Q&A sektsiooni.\n\n                Tagasta JSON skeemi alusel:\n                - search_queries: objekt väljadega main_query (string) ja additional_queries (array 4 stringi)\n                - qa: massiiv 3 elemendiga, igas objektis question ja answer väljad\n                ",
+  "input": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "input_text",
+          "text": "Toote alginfo (JSON): {\"name\": \"E6MNCE19S\", \"type\": \"simple\", \"status\": \"publish\", \"catalog_visibility\": \"visible\", \"description\": \"\", \"description_flix\": \"<!DOCTYPE html><meta charset=\\\"utf-8\\\"><section class=\\\"flix-features\\\"><article class=\\\"flixf-item\\\"><figure class=\\\"flixf-media\\\"><img alt=\\\"Palaiko maistą sultingą ir drėgną\\\" src=\\\"data/processed/flix_media/38342/Electrolux-277917342-241220AJAU.webp\\\"/></figure><div class=\\\"flixf-body\\\"><h3>Palaiko maistą sultingą ir drėgną</h3><p>Bešerkšnis šaldytuvas-šaldiklis „600 TwinTech® No Frost“ išlaiko maistą 60 % sultingesnį nei šaldytuvai su vienu garintuvu. Jo dviguba vėsinimo sistema palaiko idealų drėgnumą ir neleidžia maistui išdžiūti. Ji taip pat užtikrina, kad niekada nebereikės atšildyti šaldiklio.*</p></div></article><article class=\\\"flixf-item\\\"><figure class=\\\"flixf-media\\\"><img alt=\\\"„TwinTech® No Frost“, kad maistas išliktų sultingas\\\" src=\\\"data/processed/flix_media/38342/Electrolux-277917342-241220AJAU_1.webp\\\"/></figure><div class=\\\"flixf-body\\\"><h3>„TwinTech® No Frost“, kad maistas išliktų sultingas</h3><p>„TwinTech® No Frost“ turi pažangiąją dvigubą šaldytuvo ir šaldiklio vėsinimo sistemą. Ši technologija apsaugo šaldiklį nuo apledėjimų, o šaldytuve užtikrina optimalią drėgmę ir apsaugo maisto produktus nuo džiūvimo.</p></div></article><article class=\\\"flixf-item\\\"><figure class=\\\"flixf-media\\\"><img alt=\\\"Visiška naujovė – unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*\\\" src=\\\"data/processed/flix_media/38342/Electrolux-275390787-PSEERF23BIA00003.webp\\\"/></figure><div class=\\\"flixf-body\\\"><h3>Visiška naujovė – unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*</h3><p>Didžiuodamiesi pristatome savo unikalų šaldytuvą-šaldiklį, kurio 70 % vidinės dangos pagaminta iš perdirbto plastiko. Nebenaudojamų šaldytuvų plastiką galima panaudoti naujų šaldytuvų gamyboje ir taip sumažinti aplinką išmetamų atliekų kiekį.  * Vidaus dangos plastikas rHIPS yra pagamintas panaudojant iki 70 % perdirbto plastiko, o tai sudaro 13 % viso šaldytuve esančio plastiko.</p></div></article><article class=\\\"flixf-item\\\"><figure class=\\\"flixf-media\\\"><img alt=\\\"„MultiFlow“ technologija - tolygi temperatūra visame šaldytuve\\\" src=\\\"data/processed/flix_media/38342/Electrolux-275848261-PSEERE23BIA00007.webp\\\"/></figure><div class=\\\"flixf-body\\\"><h3>„MultiFlow“ technologija - tolygi temperatūra visame šaldytuve</h3><p>„MultiFlow“ technologija padeda palaikyti vienodą temperatūrą visose šaldytuvo lentynėlėse, todėl maisto produktai ilgiau išliks švieži. Be to, ši technologija palaiko optimalią drėgmę ir apsaugo produktus nuo džiuvimo. Išsaugokite maisto produktus ilgiau su „MultiFlow“.</p></div></article><article class=\\\"flixf-item\\\"><figure class=\\\"flixf-media\\\"><img alt=\\\"Stalčiuje „Extra Chill“ mėsos išpjovos bus saugios\\\" src=\\\"data/processed/flix_media/38342/Electrolux-277917360-241220TSD6.webp\\\"/></figure><div class=\\\"flixf-body\\\"><h3>Stalčiuje „Extra Chill“ mėsos išpjovos bus saugios</h3><p>Stalčiuje „Extra Chill“ apsaugosite sūrių ar šviežių mėsos išpjovų kokybę, skonį ir šviežumą. Šiame stalčiuje nuolat cirkuliuoja šaltas oras, todėl jame užtikrinama žemesnė temperatūra nei kitose šaldytuvo srityse.</p></div></article><article class=\\\"flixf-item\\\"><figure class=\\\"flixf-media\\\"><img alt=\\\"Jūsų produktai – jūsų pasirinktas saugojimo būdas\\\" src=\\\"data/processed/flix_media/38342/Electrolux-281464169-PSEEVL20BIA00002.webp\\\"/></figure><div class=\\\"flixf-body\\\"><h3>Jūsų produktai – jūsų pasirinktas saugojimo būdas</h3><p>Šaldytuvas su „CustomFlex®“ – nuo šiol durelių lentynėles susidėkite taip, kaip patogu jums. Susikurkite norimą durelių dizainą, lengvai perdėdami ar pastumdami lentynėles į jums patogią vietą.</p></div></article></section>\", \"short_description\": \"Palaiko maistą sultingą ir drėgną Bešerkšnis šaldytuvas-šaldiklis „600 TwinTech® No Frost“ išlaiko maistą 60 % sultingesnį nei šaldytuvai su vienu garintuvu. Jo dviguba vėsinimo sistema palaiko idealų drėgnumą ir neleidžia maistui išdžiūti. Ji taip pat užtikrina, kad niekada nebe\", \"sku\": \"E6MNCE19S\", \"regular_price\": \"515.00\", \"sale_price\": \"\", \"tax_status\": \"taxable\", \"tax_class\": \"\", \"manage_stock\": true, \"stock_quantity\": 5, \"backorders\": \"no\", \"backorders_allowed\": false, \"backordered\": false, \"supplier_sku_prefix\": \"RP-\", \"weight\": \"75.00\", \"dimensions\": {\"length\": \"54.9\", \"width\": \"54.6\", \"height\": \"188.4\"}, \"shipping_required\": true, \"shipping_taxable\": true, \"shipping_class\": \"\", \"reviews_allowed\": true, \"categories\": [{\"name\": \"Kodutehnika > Integreeritav kodutehnika > Integreeritavad külmikud\", \"slug\": \"kodutehnika-integreeritav-kodutehnika-integreeritavad-klmikud\"}], \"brands\": [{\"name\": \"ELECTROLUX\", \"slug\": \"electrolux\"}], \"tags\": [], \"images\": [{\"src\": \"data/processed/product_images/38342/image_1.webp\", \"position\": 0, \"alt\": \"E6MNCE19S\", \"origin\": \"prenta\", \"source_url\": \"https://e.prenta.lt/web/image/product.product/38342/image?unique=76336d0\"}], \"meta_data\": [{\"key\": \"_bp_gtin13\", \"value\": \"7333394079462\"}, {\"key\": \"_bp_supplier\", \"value\": \"Prenta\"}, {\"key\": \"_bp_brand\", \"value\": \"ELECTROLUX\"}], \"attributes\": [{\"name\": \"Humidity controlled drawer for fruits/vegetables\", \"visible\": true, \"variation\": false, \"options\": [\"No\"]}, {\"name\": \"Producer\", \"visible\": true, \"variation\": false, \"options\": [\"Electrolux\"]}, {\"name\": \"Type of installation\", \"visible\": true, \"variation\": false, \"options\": [\"Built in\"]}, {\"name\": \"Type of hinges\", \"visible\": true, \"variation\": false, \"options\": [\"Sliding\"]}, {\"name\": \"Type\", \"visible\": true, \"variation\": false, \"options\": [\"Fridge with bottom freezer\"]}, {\"name\": \"Type of refrigeration technology\", \"visible\": true, \"variation\": false, \"options\": [\"No frost\"]}, {\"name\": \"Height\", \"visible\": true, \"variation\": false, \"options\": [\"188.4\"]}, {\"name\": \"Width\", \"visible\": true, \"variation\": false, \"options\": [\"54.6\"]}, {\"name\": \"Depth\", \"visible\": true, \"variation\": false, \"options\": [\"54.9\"]}, {\"name\": \"Standardized width\", \"visible\": true, \"variation\": false, \"options\": [\"60.0\"]}, {\"name\": \"Standardized height\", \"visible\": true, \"variation\": false, \"options\": [\"190\"]}, {\"name\": \" Color\", \"visible\": true, \"variation\": false, \"options\": [\"White\"]}, {\"name\": \"Energy efficiency class\", \"visible\": true, \"variation\": false, \"options\": [\"E\"]}, {\"name\": \"Noise level class\", \"visible\": true, \"variation\": false, \"options\": [\"C\"]}, {\"name\": \"Noise level\", \"visible\": true, \"variation\": false, \"options\": [\"37\"]}, {\"name\": \"Control\", \"visible\": true, \"variation\": false, \"options\": [\"Electronical\"]}, {\"name\": \"Annual energy consumption\", \"visible\": true, \"variation\": false, \"options\": [\"215\"]}, {\"name\": \"Net capacity of refrigerator\", \"visible\": true, \"variation\": false, \"options\": [\"207\"]}, {\"name\": \"Net capacity of freezer\", \"visible\": true, \"variation\": false, \"options\": [\"62\"]}, {\"name\": \"Soft door closing\", \"visible\": true, \"variation\": false, \"options\": [\"No\"]}, {\"name\": \"Metallized rear wall\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Ice maker\", \"visible\": true, \"variation\": false, \"options\": [\"No\"]}, {\"name\": \"Door handle\", \"visible\": true, \"variation\": false, \"options\": [\"No\"]}, {\"name\": \"Type of compressor\", \"visible\": true, \"variation\": false, \"options\": [\"Inverter\"]}, {\"name\": \"Fan\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Air cleaning filter\", \"visible\": true, \"variation\": false, \"options\": [\"No\"]}, {\"name\": \"Bottle shelf\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Divisible glass shelf\", \"visible\": true, \"variation\": false, \"options\": [\"No\"]}, {\"name\": \"Door lock \", \"visible\": true, \"variation\": false, \"options\": [\"No\"]}, {\"name\": \"Individually adjustable door shelves\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Rapid cooling in refrigerator\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Reversible doors\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Wi-Fi\", \"visible\": true, \"variation\": false, \"options\": [\"No\"]}, {\"name\": \"Number of freezer boxes/shelfs\", \"visible\": true, \"variation\": false, \"options\": [\"3\"]}, {\"name\": \"Freezer freezing temperature\", \"visible\": true, \"variation\": false, \"options\": [\"-14°C - -24°C\"]}, {\"name\": \"Fast freeze function in freezer\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Freezing capacity in 24 hours\", \"visible\": true, \"variation\": false, \"options\": [\"5.0\"]}, {\"name\": \"Maximum freezer storage time in power failure\", \"visible\": true, \"variation\": false, \"options\": [\"9\"]}, {\"name\": \"Cold drawer\", \"visible\": true, \"variation\": false, \"options\": [\"Close to 0 ° C zone\"]}, {\"name\": \"Freezer to fridge\", \"visible\": true, \"variation\": false, \"options\": [\"No\"]}, {\"name\": \"Telescopic rails of cold drawer\", \"visible\": true, \"variation\": false, \"options\": [\"No\"]}, {\"name\": \"Open door signal\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Rising temperature indicator\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"New Energy efficiency class\", \"visible\": true, \"variation\": false, \"options\": [\"E\"]}, {\"name\": \"Fully removable drawers and intermediate glass shelves in freezer\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Antibacterial technology\", \"visible\": true, \"variation\": false, \"options\": [\"No\"]}, {\"name\": \" Eco mode\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Holiday function\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Lighting\", \"visible\": true, \"variation\": false, \"options\": [\"LED\"]}], \"source\": {\"prenta_product_id\": 38342, \"prenta_category_path\": \"All > Saleable > Home appliances > Built in > Fridge\", \"prenta_category_id\": 27}}"
+        }
+      ]
+    }
+  ],
+  "tools": [],
+  "text": {
+    "verbosity": "medium",
+    "format": {
+      "type": "json_schema",
+      "name": "context_and_research_schema",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "search_queries": {
+            "type": "object",
+            "properties": {
+              "main_query": {
+                "type": "string"
+              },
+              "additional_queries": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                },
+                "minItems": 4,
+                "maxItems": 4
+              }
+            },
+            "required": [
+              "main_query",
+              "additional_queries"
+            ],
+            "additionalProperties": false
+          },
+          "qa": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": 3,
+            "items": {
+              "type": "object",
+              "properties": {
+                "question": {
+                  "type": "string"
+                },
+                "answer": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "question",
+                "answer"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "search_queries",
+          "qa"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "reasoning": {
+    "effort": "medium"
+  },
+  "previous_response_id": null,
+  "service_tier": "flex"
+}

@@ -1,0 +1,692 @@
+{
+  "name": "LNS6TE19S",
+  "type": "simple",
+  "status": "publish",
+  "catalog_visibility": "visible",
+  "description": "",
+  "description_flix": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Palaiko maistą sultingą ir drėgną\" src=\"data/processed/flix_media/20409/Electrolux-277917342-241220AJAU.webp\"/></figure><div class=\"flixf-body\"><h3>Palaiko maistą sultingą ir drėgną</h3><p>Bešerkšnis šaldytuvas-šaldiklis „600 TwinTech® No Frost“ išlaiko maistą 60 % sultingesnį nei šaldytuvai su vienu garintuvu. Jo dviguba vėsinimo sistema palaiko idealų drėgnumą ir neleidžia maistui išdžiūti. Ji taip pat užtikrina, kad niekada nebereikės atšildyti šaldiklio.*</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„TwinTech® No Frost“ apsaugo nuo išdžiūvimo\" src=\"data/processed/flix_media/20409/Electrolux-277917342-241220AJAU_1.webp\"/></figure><div class=\"flixf-body\"><h3>„TwinTech® No Frost“ apsaugo nuo išdžiūvimo</h3><p>„TwinTech® No Frost“ turi pažangiąją dvigubą šaldytuvo ir šaldiklio vėsinimo sistemą. Ši technologija apsaugo šaldiklį nuo apledėjimų, o šaldytuve užtikrina optimalią drėgmę bei apsaugo maisto produktus nuo džiūvimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Visapusiškas laikymo erdvės pritaikymas naudojant „MultiSpace“\" src=\"data/processed/flix_media/20409/Electrolux-357113625-250623YFON.webp\"/></figure><div class=\"flixf-body\"><h3>Visapusiškas laikymo erdvės pritaikymas naudojant „MultiSpace“</h3><p>Šaldytuvas „MultiSpace“ yra aukštesnis už standartinius šaldytuvus, todėl jame yra daugiau vietos produktams laikyti. Daugybė laikymo sprendimų leidžia pritaikyti erdvę pagal Jūsų poreikius – daugiau lankstumo ir tvarkos.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Stabilus vėsinimas dėl „DynamicAir“\" src=\"data/processed/flix_media/20409/Electrolux-366011456-250416ZH5Q.webp\"/></figure><div class=\"flixf-body\"><h3>Stabilus vėsinimas dėl „DynamicAir“</h3><p>Technologija „DynamicAir“ skirta užtikrinti, kad šaldytuve būtų palaikoma stabili temperatūra. Vėsus oras cirkuliuojamas šaldytuve, todėl netgi atidarius dureles maisto produktai apsaugomi nuo sušilimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"10 metų garantija kompresoriui\" src=\"data/processed/flix_media/20409/Electrolux-275367506-PSEEVL20BIE00001.webp\"/></figure><div class=\"flixf-body\"><h3>10 metų garantija kompresoriui</h3><p>Būkite ramūs žinodami, kad garantinis aptarnavimas taikomas visiems darbams, dalims bei transportavimui, kurie susiję su kompresoriaus gedimu net 10 metų!</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Jutikliniu elektroniniu valdikliu viršuje lengva reguliuoti funkcijas\" src=\"data/processed/flix_media/20409/Electrolux-275370005-PSEERF19BIA00002.webp\"/></figure><div class=\"flixf-body\"><h3>Jutikliniu elektroniniu valdikliu viršuje lengva reguliuoti funkcijas</h3><p>Tiksliai nustatykite temperatūrą ir lengvai reguliuokite šaldytuvo-šaldiklio funkcijas naudodamiesi viršuje esančio jutiklinio elektroninio valdiklio aiškiai suprantamu ekranu.</p></div></article></section>",
+  "short_description": "Palaiko maistą sultingą ir drėgną Bešerkšnis šaldytuvas-šaldiklis „600 TwinTech® No Frost“ išlaiko maistą 60 % sultingesnį nei šaldytuvai su vienu garintuvu. Jo dviguba vėsinimo sistema palaiko idealų drėgnumą ir neleidžia maistui išdžiūti. Ji taip pat užtikrina, kad niekada nebe",
+  "sku": "LNS6TE19S",
+  "regular_price": "730.56",
+  "sale_price": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": true,
+  "stock_quantity": 5,
+  "backorders": "no",
+  "backorders_allowed": false,
+  "backordered": false,
+  "supplier_sku_prefix": "RP-",
+  "weight": "67.50",
+  "dimensions": {
+    "length": "54.9",
+    "width": "54",
+    "height": "188.4"
+  },
+  "shipping_required": true,
+  "shipping_taxable": true,
+  "shipping_class": "prenta",
+  "reviews_allowed": true,
+  "categories": [
+    {
+      "name": "Kodutehnika > Integreeritav kodutehnika > Integreeritavad külmikud",
+      "slug": "kodutehnika-integreeritav-kodutehnika-integreeritavad-klmikud"
+    }
+  ],
+  "brands": [
+    {
+      "name": "ELECTROLUX",
+      "slug": "electrolux"
+    }
+  ],
+  "tags": [],
+  "images": [
+    {
+      "src": "data/processed/product_images/20409/image_1.webp",
+      "position": 0,
+      "alt": "LNS6TE19S",
+      "origin": "prenta",
+      "source_url": "https://e.prenta.lt/web/image/product.product/20409/image?unique=09f9649"
+    }
+  ],
+  "meta_data": [
+    {
+      "key": "_bp_gtin13",
+      "value": "7332543776528"
+    },
+    {
+      "key": "_bp_supplier",
+      "value": "Prenta"
+    },
+    {
+      "key": "_bp_brand",
+      "value": "ELECTROLUX"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Producer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Electrolux"
+      ]
+    },
+    {
+      "name": "Type of installation",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Built in"
+      ]
+    },
+    {
+      "name": "Type",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Fridge with bottom freezer"
+      ]
+    },
+    {
+      "name": "Type of refrigeration technology",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No frost"
+      ]
+    },
+    {
+      "name": "Height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "188.4"
+      ]
+    },
+    {
+      "name": "Width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "54.0"
+      ]
+    },
+    {
+      "name": "Depth",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "54.9"
+      ]
+    },
+    {
+      "name": " Color",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "White"
+      ]
+    },
+    {
+      "name": "Cold drawer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Control",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Internal touch control LCD"
+      ]
+    },
+    {
+      "name": "New Energy efficiency class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "E"
+      ]
+    },
+    {
+      "name": "Annual energy consumption",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "213"
+      ]
+    },
+    {
+      "name": "Net capacity of refrigerator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "213"
+      ]
+    },
+    {
+      "name": "Net capacity of freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "60"
+      ]
+    },
+    {
+      "name": "Type of hinges",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Sliding"
+      ]
+    },
+    {
+      "name": "Soft door closing",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Metallized rear wall",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Door handle",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Humidity controlled drawer for fruits/vegetables",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Ice maker",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Type of compressor",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Inverter"
+      ]
+    },
+    {
+      "name": "Fan",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Air cleaning filter",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Antibacterial technology",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Bottle shelf",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Divisible glass shelf",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Door lock ",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Open door signal",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Rising temperature indicator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": " Eco mode",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Holiday function",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Individually adjustable door shelves",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Rapid cooling in refrigerator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Reversible doors",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Lighting",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "LED"
+      ]
+    },
+    {
+      "name": "Number of freezer boxes/shelfs",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "3"
+      ]
+    },
+    {
+      "name": "Fully removable drawers and intermediate glass shelves in freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Freezer freezing temperature",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "-18°C"
+      ]
+    },
+    {
+      "name": "Fast freeze function in freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Freezing capacity in 24 hours",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "5.0"
+      ]
+    },
+    {
+      "name": "Maximum freezer storage time in power failure",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "21"
+      ]
+    },
+    {
+      "name": "Noise level",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "36"
+      ]
+    },
+    {
+      "name": "Noise level class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "C"
+      ]
+    },
+    {
+      "name": "Standardized height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "190"
+      ]
+    },
+    {
+      "name": "Standardized width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "60.0"
+      ]
+    },
+    {
+      "name": "Wi-Fi",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Telescopic rails of cold drawer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Energy efficiency class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "E"
+      ]
+    },
+    {
+      "name": "Freezer to fridge",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    }
+  ],
+  "source": {
+    "prenta_product_id": 20409,
+    "prenta_category_path": "All > Saleable > Home appliances > Built in > Fridge",
+    "prenta_category_id": 27,
+    "price": {
+      "gross_price": 570.25,
+      "price": 535.6,
+      "product_id": 20409
+    },
+    "detail": {
+      "attribute_line_ids": [
+        {
+          "attribute_id": 486,
+          "value_id": 5022
+        },
+        {
+          "attribute_id": 517,
+          "value_id": 5214
+        },
+        {
+          "attribute_id": 536,
+          "value_id": 5216
+        },
+        {
+          "attribute_id": 538,
+          "value_id": 5239
+        },
+        {
+          "attribute_id": 512,
+          "value_id": 5930
+        },
+        {
+          "attribute_id": 513,
+          "value_id": 5919
+        },
+        {
+          "attribute_id": 514,
+          "value_id": 5913
+        },
+        {
+          "attribute_id": 491,
+          "value_id": 4917
+        },
+        {
+          "attribute_id": 543,
+          "value_id": 5242
+        },
+        {
+          "attribute_id": 492,
+          "value_id": 5253
+        },
+        {
+          "attribute_id": 773,
+          "value_id": 8202
+        },
+        {
+          "attribute_id": 537,
+          "value_id": 7053
+        },
+        {
+          "attribute_id": 540,
+          "value_id": 5548
+        },
+        {
+          "attribute_id": 541,
+          "value_id": 5929
+        },
+        {
+          "attribute_id": 546,
+          "value_id": 5250
+        },
+        {
+          "attribute_id": 499,
+          "value_id": 4953
+        },
+        {
+          "attribute_id": 571,
+          "value_id": 5321
+        },
+        {
+          "attribute_id": 555,
+          "value_id": 5286
+        },
+        {
+          "attribute_id": 545,
+          "value_id": 5248
+        },
+        {
+          "attribute_id": 568,
+          "value_id": 8810
+        },
+        {
+          "attribute_id": 550,
+          "value_id": 5258
+        },
+        {
+          "attribute_id": 556,
+          "value_id": 5287
+        },
+        {
+          "attribute_id": 572,
+          "value_id": 5322
+        },
+        {
+          "attribute_id": 567,
+          "value_id": 5310
+        },
+        {
+          "attribute_id": 564,
+          "value_id": 5348
+        },
+        {
+          "attribute_id": 565,
+          "value_id": 5307
+        },
+        {
+          "attribute_id": 557,
+          "value_id": 5290
+        },
+        {
+          "attribute_id": 558,
+          "value_id": 5291
+        },
+        {
+          "attribute_id": 559,
+          "value_id": 5293
+        },
+        {
+          "attribute_id": 562,
+          "value_id": 5300
+        },
+        {
+          "attribute_id": 563,
+          "value_id": 5301
+        },
+        {
+          "attribute_id": 551,
+          "value_id": 5260
+        },
+        {
+          "attribute_id": 560,
+          "value_id": 5295
+        },
+        {
+          "attribute_id": 552,
+          "value_id": 5283
+        },
+        {
+          "attribute_id": 608,
+          "value_id": 6147
+        },
+        {
+          "attribute_id": 554,
+          "value_id": 5372
+        },
+        {
+          "attribute_id": 566,
+          "value_id": 5308
+        },
+        {
+          "attribute_id": 569,
+          "value_id": 5316
+        },
+        {
+          "attribute_id": 561,
+          "value_id": 5297
+        },
+        {
+          "attribute_id": 548,
+          "value_id": 5367
+        },
+        {
+          "attribute_id": 549,
+          "value_id": 5454
+        },
+        {
+          "attribute_id": 547,
+          "value_id": 5904
+        },
+        {
+          "attribute_id": 776,
+          "value_id": 8225
+        },
+        {
+          "attribute_id": 508,
+          "value_id": 5276
+        },
+        {
+          "attribute_id": 509,
+          "value_id": 4980
+        },
+        {
+          "attribute_id": 510,
+          "value_id": 4983
+        },
+        {
+          "attribute_id": 544,
+          "value_id": 5246
+        },
+        {
+          "attribute_id": 507,
+          "value_id": 5233
+        },
+        {
+          "attribute_id": 835,
+          "value_id": 9978
+        }
+      ],
+      "barcode": "7332543776528",
+      "category_id": 27,
+      "compound_name": "Fridge ELECTROLUX LNS6TE19S",
+      "country_of_origin_id": 110,
+      "date_edited": "2025-11-14T13:37:38+00:00",
+      "delivery_lead_time": 1,
+      "description": "",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"7332543776528\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 20409,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/20409/image?unique=09f9649"
+      ],
+      "internal_reference": "LNS6TE19S",
+      "manufacturer_id": 19,
+      "name": "LNS6TE19S",
+      "price_rrp": 690.0,
+      "product_line": "Electrolux Exclusive",
+      "units_per_package": 1,
+      "volume": 0.67,
+      "weight": 65.0,
+      "weight_bruto": 67.5
+    }
+  }
+}

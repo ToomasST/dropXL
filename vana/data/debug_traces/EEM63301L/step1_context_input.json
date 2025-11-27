@@ -1,0 +1,85 @@
+{
+  "model": "gpt-5",
+  "instructions": "\n                Sa tegutsed tooteanalüüsi spetsialisti ja uuriva copywriter'ina, kelle ülesanne on enne sisuloomet koguda tooteinfo, mis võimaldavad luua AI-ajastule vastava müügikirjelduse e-poodi. See on \"STEP 1: Kontekst ja veebiotsing\", mille tulemusi kasutavad kõik järgnevad sammud.\n\n                Alusta koondades olemasoleva tooteinfo ja tee vajadusel sihitud veebiotsinguid (ametlikud allikad, manuaalid, usaldusväärsed partnerid), mis aitavad luua põhjaliku tooteinfo ja detailse kirjelduse ning positsioneerida toote AI-otsingutes.                \n\n                Pärast materjali läbitöötamist pead suutma vastata järgmistele „Kliendi põhiküsimustele, millele kirjeldus peab vastama“:\n                1. Millist probleemi toode lahendab ja kuidas see ostja elu lihtsamaks teeb?\n                2. Kas see sobib sihtkasutaja vajadustele (kellele, millistes olukordades)?\n                3. Mis on toote põhiline funktsioon ja eesmärk (kuidas see töötab, millist tulemust annab)?\n                4. Kuidas see erineb alternatiividest/mudelitest ning millised on unikaalsed eelised?\n                6. Millised on peamised omadused ja tehnilised võtmenäitajad, mida peaks bullet'ites esile tooma?\n                7. Kas see mahub kliendi ruumi/ökosüsteemi (mõõdud, maht, kontekstuaalne sobivus)?\n                8. Millega see on ühilduv ja mis võib olla lisaks vajalik (platvormid, tarkvara, tarvikud, ökosüsteemid)?\n                9. Kui lihtne on seda kasutada ja hooldada (kasutusloogika, hooldus-/uuendusvajadused, „plug & play“ aspektid)?\n                10. Kui töökindel ja vastupidav see on ning milline on garantii või järelteenindus?\n                11. Mis on tootega kaasas ja mida tuleks vajadusel eraldi soetada?\n                12. Kas see on oma hinda väärt – milline on väärtuspakkumine ja pikaajaline kasu?\n\n                Kogutud materjali põhjal tagasta (kõik väärtused eesti keeles): \n                - 5 otsingufraasi (1 peamine, 4 lisa), mis oleksid kõige tõenäolisemad fraasid, mida kasutaksid nii AI kui ka kliendid toote leidmiseks (kasuta long-tail lähenemist ja lisa probleemipõhiseid ning kasupõhiseid päringuid). Väljendid peavad olema loomulikus eestikeelses vormis ja võivad sisaldada vajalikke mudeli- ning tehnilisi tähiseid, kuid väldi ingliskeelseid täislauseid.\n                - 3 kõige tõenäolisemat ja levinumat küsimust ja vastust eesti keeles Q&A sektsiooni, mida kasutajad võiksid küsida. Vähemalt 1 küsimus esita selliselt, mis sellele vastates saaks seletada, millist probleemi toode lahendab või milline on toote suurim kasutegur.\n\n                Tagasta JSON skeemi alusel:\n                - search_queries: objekt väljadega main_query (string) ja additional_queries (array 4 stringi)\n                - qa: massiiv 3 elemendiga, igas objektis question ja answer väljad\n                ",
+  "input": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "input_text",
+          "text": "Toote alginfo (JSON): {\"name\": \"EEM63301L\", \"type\": \"simple\", \"status\": \"publish\", \"catalog_visibility\": \"visible\", \"description\": \"\", \"description_flix\": \"<!DOCTYPE html><meta charset=\\\"utf-8\\\"><section class=\\\"flix-features\\\"><article class=\\\"flixf-item\\\"><div class=\\\"flixf-body\\\"><h3>Montuojama Indaplovė 45 cm 700 serija „GlassCare“</h3><p>700 montuojama siaura (45 cm) indaplovė, 10 komplkt.</p></div></article></section>\", \"short_description\": \"Montuojama Indaplovė 45 cm 700 serija „GlassCare“ 700 montuojama siaura (45 cm) indaplovė, 10 komplkt.\", \"sku\": \"EEM63301L\", \"regular_price\": \"542.12\", \"sale_price\": \"\", \"tax_status\": \"taxable\", \"tax_class\": \"\", \"manage_stock\": true, \"stock_quantity\": 2, \"backorders\": \"no\", \"backorders_allowed\": false, \"backordered\": false, \"supplier_sku_prefix\": \"RP-\", \"weight\": \"36.00\", \"dimensions\": {\"length\": \"55\", \"width\": \"44.6\", \"height\": \"85\"}, \"shipping_required\": true, \"shipping_taxable\": true, \"shipping_class\": \"prenta\", \"reviews_allowed\": true, \"categories\": [{\"name\": \"Kodutehnika > Integreeritav kodutehnika > Integreeritavad nõudepesumasinad\", \"slug\": \"kodutehnika-integreeritav-kodutehnika-integreeritavad-nudepesumasinad\"}], \"brands\": [{\"name\": \"ELECTROLUX\", \"slug\": \"electrolux\"}], \"tags\": [], \"images\": [{\"src\": \"data/processed/product_images/38558/image_1.webp\", \"position\": 0, \"alt\": \"EEM63301L\", \"origin\": \"prenta\", \"source_url\": \"https://e.prenta.lt/web/image/product.product/38558/image?unique=c83ed4a\"}, {\"src\": \"data/processed/product_images/38558/image_2.webp\", \"position\": 1, \"alt\": \"EEM63301L\", \"origin\": \"prenta\", \"source_url\": \"https://e.prenta.lt/web/image/product.image/22426/image_big?unique=5f7fee3\"}], \"meta_data\": [{\"key\": \"_bp_gtin13\", \"value\": \"7332543781294\"}, {\"key\": \"_bp_supplier\", \"value\": \"Prenta\"}, {\"key\": \"_bp_brand\", \"value\": \"ELECTROLUX\"}], \"attributes\": [{\"name\": \"Producer\", \"visible\": true, \"variation\": false, \"options\": [\"Electrolux\"]}, {\"name\": \"Type of installation\", \"visible\": true, \"variation\": false, \"options\": [\"Built in\"]}, {\"name\": \"Standardized width\", \"visible\": true, \"variation\": false, \"options\": [\"45.0\"]}, {\"name\": \"Standardized height\", \"visible\": true, \"variation\": false, \"options\": [\"85\"]}, {\"name\": \"New Energy efficiency class\", \"visible\": true, \"variation\": false, \"options\": [\"D\"]}, {\"name\": \"Control\", \"visible\": true, \"variation\": false, \"options\": [\"Electronical\"]}, {\"name\": \"Control panel location\", \"visible\": true, \"variation\": false, \"options\": [\"Internal\"]}, {\"name\": \"Energy consumption for 100 cycles\", \"visible\": true, \"variation\": false, \"options\": [\"67\"]}, {\"name\": \"Water consumption for 1 cycle\", \"visible\": true, \"variation\": false, \"options\": [\"9.9\"]}, {\"name\": \"Noise level class\", \"visible\": true, \"variation\": false, \"options\": [\"D\"]}, {\"name\": \"Noise level\", \"visible\": true, \"variation\": false, \"options\": [\"44\"]}, {\"name\": \"Number of programs\", \"visible\": true, \"variation\": false, \"options\": [\"8\"]}, {\"name\": \"Number of temperatures\", \"visible\": true, \"variation\": false, \"options\": [\"3\"]}, {\"name\": \"Glass programme\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Automatic programme\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Time saving\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Delay start programme\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Auto shut off\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Hot water inlet\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Type of motor\", \"visible\": true, \"variation\": false, \"options\": [\"Inverter\"]}, {\"name\": \"Number of baskets\", \"visible\": true, \"variation\": false, \"options\": [\"3\"]}, {\"name\": \"Automatic door opening at the end of the cycle\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Higher efficiency sprays\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Upper spray\", \"visible\": true, \"variation\": false, \"options\": [\"Spinning\"]}, {\"name\": \"Tub material\", \"visible\": true, \"variation\": false, \"options\": [\"Full stainless steel\"]}, {\"name\": \"Interior light\", \"visible\": true, \"variation\": false, \"options\": [\"No\"]}, {\"name\": \"Floor beam\", \"visible\": true, \"variation\": false, \"options\": [\"Time projection on the floor\"]}, {\"name\": \"Sliding hinges\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Protection of water spill\", \"visible\": true, \"variation\": false, \"options\": [\"Yes\"]}, {\"name\": \"Delay function\", \"visible\": true, \"variation\": false, \"options\": [\"Pradžios\"]}, {\"name\": \"Installation in height\", \"visible\": true, \"variation\": false, \"options\": [\"No\"]}, {\"name\": \"Lift for the lower basket\", \"visible\": true, \"variation\": false, \"options\": [\"No\"]}, {\"name\": \"Settings, Pcs\", \"visible\": true, \"variation\": false, \"options\": [\"10\"]}, {\"name\": \"Minimal height, cm\", \"visible\": true, \"variation\": false, \"options\": [\"81.8\"]}, {\"name\": \"Maximum height, cm\", \"visible\": true, \"variation\": false, \"options\": [\"87.8\"]}, {\"name\": \"Width\", \"visible\": true, \"variation\": false, \"options\": [\"44.6\"]}, {\"name\": \"Depth\", \"visible\": true, \"variation\": false, \"options\": [\"55.0\"]}, {\"name\": \" Color\", \"visible\": true, \"variation\": false, \"options\": [\"White\"]}, {\"name\": \"Wi-Fi\", \"visible\": true, \"variation\": false, \"options\": [\"No\"]}], \"source\": {\"prenta_product_id\": 38558, \"prenta_category_path\": \"All > Saleable > Home appliances > Built in > Dishwasher\", \"prenta_category_id\": 26, \"price\": {\"gross_price\": 437.19, \"price\": 390.0, \"product_id\": 38558}, \"detail\": {\"attribute_line_ids\": [{\"attribute_id\": 486, \"value_id\": 5022}, {\"attribute_id\": 517, \"value_id\": 5214}, {\"attribute_id\": 509, \"value_id\": 5075}, {\"attribute_id\": 508, \"value_id\": 5261}, {\"attribute_id\": 773, \"value_id\": 8201}, {\"attribute_id\": 492, \"value_id\": 6138}, {\"attribute_id\": 575, \"value_id\": 5991}, {\"attribute_id\": 778, \"value_id\": 8453}, {\"attribute_id\": 779, \"value_id\": 8458}, {\"attribute_id\": 776, \"value_id\": 8226}, {\"attribute_id\": 547, \"value_id\": 5438}, {\"attribute_id\": 577, \"value_id\": 6055}, {\"attribute_id\": 578, \"value_id\": 6066}, {\"attribute_id\": 579, \"value_id\": 5992}, {\"attribute_id\": 580, \"value_id\": 5994}, {\"attribute_id\": 581, \"value_id\": 5996}, {\"attribute_id\": 582, \"value_id\": 5998}, {\"attribute_id\": 583, \"value_id\": 6000}, {\"attribute_id\": 584, \"value_id\": 6002}, {\"attribute_id\": 585, \"value_id\": 6005}, {\"attribute_id\": 586, \"value_id\": 6008}, {\"attribute_id\": 587, \"value_id\": 6010}, {\"attribute_id\": 588, \"value_id\": 6012}, {\"attribute_id\": 589, \"value_id\": 6016}, {\"attribute_id\": 590, \"value_id\": 6017}, {\"attribute_id\": 591, \"value_id\": 6020}, {\"attribute_id\": 592, \"value_id\": 6023}, {\"attribute_id\": 593, \"value_id\": 6024}, {\"attribute_id\": 594, \"value_id\": 6026}, {\"attribute_id\": 830, \"value_id\": 9787}, {\"attribute_id\": 595, \"value_id\": 6029}, {\"attribute_id\": 596, \"value_id\": 6031}, {\"attribute_id\": 597, \"value_id\": 6085}, {\"attribute_id\": 598, \"value_id\": 6063}, {\"attribute_id\": 599, \"value_id\": 6064}, {\"attribute_id\": 513, \"value_id\": 6050}, {\"attribute_id\": 514, \"value_id\": 5481}, {\"attribute_id\": 491, \"value_id\": 4917}, {\"attribute_id\": 510, \"value_id\": 4983}], \"barcode\": \"7332543781294\", \"category_id\": 26, \"compound_name\": \"Dishwasher ELECTROLUX EEM63301L\", \"country_of_origin_id\": 180, \"date_edited\": \"2025-11-14T14:03:28+00:00\", \"delivery_lead_time\": 0, \"description\": \"\", \"description_flixmedia\": \"\\n    <div>\\n        <div id=\\\"flix-minisite\\\"></div>\\n        <script type=\\\"text/javascript\\\" src=\\\"//media.flixfacts.com/js/loader.js\\\" data-flix-brand=\\\"\\\" data-flix-mpn=\\\"\\\" data-flix-sku=\\\"\\\" data-flix-button=\\\"flix-minisite\\\" data-flix-inpage=\\\"flix-inpage\\\" data-flix-button-image=\\\"\\\" data-flix-price=\\\"\\\" data-flix-fallback-language=\\\"lt\\\" async=\\\"\\\" data-flix-distributor=\\\"15151\\\" data-flix-language=\\\"en\\\" data-flix-ean=\\\"7332543781294\\\"></script>\\n    </div>\\n\", \"exclusive\": false, \"id\": 38558, \"images\": [\"https://e.prenta.lt/web/image/product.product/38558/image?unique=c83ed4a\", \"https://e.prenta.lt/web/image/product.image/22426/image_big?unique=5f7fee3\"], \"internal_reference\": \"EEM63301L\", \"manufacturer_id\": 19, \"name\": \"EEM63301L\", \"price_rrp\": 529.0, \"product_line\": \"Electrolux Open\", \"units_per_package\": 1, \"volume\": 0.25, \"weight\": 34.0, \"weight_bruto\": 36.0}}}"
+        }
+      ]
+    }
+  ],
+  "tools": [
+    {
+      "type": "web_search_preview"
+    }
+  ],
+  "text": {
+    "verbosity": "medium",
+    "format": {
+      "type": "json_schema",
+      "name": "context_and_research_schema",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "search_queries": {
+            "type": "object",
+            "properties": {
+              "main_query": {
+                "type": "string"
+              },
+              "additional_queries": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                },
+                "minItems": 4,
+                "maxItems": 4
+              }
+            },
+            "required": [
+              "main_query",
+              "additional_queries"
+            ],
+            "additionalProperties": false
+          },
+          "qa": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": 3,
+            "items": {
+              "type": "object",
+              "properties": {
+                "question": {
+                  "type": "string"
+                },
+                "answer": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "question",
+                "answer"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "search_queries",
+          "qa"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "reasoning": {
+    "effort": "medium"
+  },
+  "previous_response_id": null,
+  "service_tier": "flex"
+}

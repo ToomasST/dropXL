@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283060579 8020283060579 Hood ELICA CT23 GR/A/52",
+  "search_queries": {
+    "main_query": "ELICA CT23 GR/A/52 integreeritav õhupuhasti 52 cm 580 m3/h",
+    "additional_queries": [
+      "kuidas eemaldada toidu- ja rasvalõhnad köögist Elica CT23 GR/A/52 integreeritava õhupuhastiga",
+      "integreeritav õhupuhasti 52 cm 580 m3/h halli värvi väikesele köögile",
+      "Elica CT23 GR/A/52 võrdlus teiste 52 cm sisseehitatavate õhupuhastitega",
+      "kuidas paigaldada ja hooldada Elica CT23 GR/A/52 õhupuhastit ja selle filtreid"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica CT23 GR/A/52 sobib minu köögi ülakappi ja millised mõõdud pean üle kontrollima?",
+      "answer": "See mudel on täisintegreeritav õhupuhasti, mis on mõeldud paigaldamiseks standardsesse umbes 60 cm laiusesse ülakappi – seadme tööpinna laius on umbes 52 cm (korpuse laius u 51,4 cm).citeturn0search3turn0search8 Enne ostu mõõtke üle kapi siselaius, sügavus (seadme sügavus on u 28,3 cm) ja kõrgus (u 25,1 cm), samuti planeeritava õhukanali asukoht ja läbimõõt (väljalaske ühendus 150 mm, sageli on kaasas reduktor 120 mm torule).citeturn0search0turn0search3 Kui kapis on vähem ruumi või toru ei saa 150 mm läbimõõduga vedada, tasub enne ostu konsulteerida paigaldajaga või müüjaga, sest tootja infot kanali vähendamise ja jõudluse mõju kohta sisendmaterjal ei täpsusta."
+    },
+    {
+      "question": "Kuidas Elica CT23 GR/A/52 õhupuhastit igapäevaselt kasutada ja hooldada, sh filtreid?",
+      "answer": "Õhupuhastil on 3 tõmbekiirust, mida juhitakse elektrooniliste nuppudega; soovitatav on lülitada seade sisse paar minutit enne toiduvalmistamist ja jätta see tööle mõneks ajaks ka pärast pliidi väljalülitamist, et niiskus ja lõhnad täielikult eemaldada.citeturn0search3turn0search8 Seadmel on metallist rasvafilter, mis kogub rasva – seda tuleks regulaarselt eemaldada ja pesta (näiteks sooja vee ja nõudepesuvahendiga); tootja lubab tavaliselt selliseid alumiiniumfiltreid ka nõudepesumasinas pesta, kuid konkreetseid juhiseid palume vaadata kasutusjuhendist.citeturn0search4turn0search8 Kui kasutate seadet ilma väljatõmbešahtita ringlevas režiimis, on vaja lisaks süsinikfiltrit (see ei ole komplektis ja tuleb eraldi osta; sobivaks variandiks on poodide andmetel CFC0140343).citeturn0search3turn0search9 Söefilter on kulumaterjal ja selle vahetussagedus sõltub kasutuskoormusest ning tootja soovitustest, mida sisendmaterjal täpselt ei täpsusta."
+    },
+    {
+      "question": "Kui töökindel on Elica CT23 GR/A/52, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Mudeli korpus on metallist, rasvafilter alumiiniumist ning mootori maksimaalne õhuvool on Euroopa standardi järgi u 580 m³/h, müratase umbes 46–65 dB ja energiaklass B – see tähendab korralikku tõmbejõudu ja LED-valgustusega säästlikku tööd tavalise koduköögi jaoks.citeturn0search3turn0search10 Mitme ametliku müüja andmetel kehtib tootjale tavaliselt 24-kuuline garantii, kuid täpsed garantiitingimused (nt mis kuulub tasuta remondi alla) sõltuvad konkreetse müüja ja riigi tingimustest, seega soovitame need enne ostu üle vaadata.citeturn0search4turn0search8 Arvestades, et tegu on diskreetselt kappi peitu jääva, 52 cm laiuse ja tugeva tõmbega integreeritava seadmega, pakub see üldjuhul hea hinna ja võimekuse suhet neile, kes soovivad võimalikult nähtamatut, kuid efektiivset õhupuhastit."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394077871 7333394077871 Fridge ELECTROLUX E8MNCD18S",
+  "search_queries": {
+    "main_query": "integreeritav no frost külmik Electrolux E8MNCD18S alumise sügavkülmaga",
+    "additional_queries": [
+      "kuidas hoida puu- ja köögivilju kauem värskena Electrolux E8MNCD18S GreenZone külmikus",
+      "integreeritav külmik no frost 177 cm 192+61 l Electrolux avatud kööki",
+      "milles erineb Electrolux E8MNCD18S tavalistest integreeritavatest külmikutest (Cooling 360 ja TwinTech)",
+      "kuidas paigaldada ja kasutada integreeritavat külmikut Electrolux E8MNCD18S ning kas sügavkülma peab sulatama käsitsi"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux E8MNCD18S sobib minu integreeritavasse köögikappi?",
+      "answer": "See on integreeritav külmik alumise sügavkülmaga. Standardiseeritud kõrgus on 180 cm ja laius 60 cm, tegelikud mõõdud: kõrgus 177,2 cm, laius 54,6 cm, sügavus 54,9 cm. Ustel on liughinged ning need on ümber tõstetud, seega saab ukse avamissuunda muuta. Sobivuse kinnitamiseks võrdle oma köögimööbli niši kõrgust, laiust ja sügavust nende mõõtudega ning arvesta tootja paigaldusvaruga. Ühendamiseks ei ole vaja Wi-Fi‑t, sest seda funktsiooni mudelil ei ole."
+    },
+    {
+      "question": "Kui lihtne on Electrolux E8MNCD18S kasutamine ja hooldus?",
+      "answer": "Külmikul on puutetundlik LCD-juhtimine, LED-sisese valgustus ja No Frost jahutustehnoloogia, mis hoiab sügavkülma jää- ja härmatisvaba ning vähendab vajadust käsitsi sulatamiseks. Cooling 360° tagab ühtlase temperatuuri igal riiulil, GreenZone+ niiskuskontrolliga sahtel hoiab puu- ja köögivilju kauem värskena ning Extra Chill sahtlis on jahedam tsoon liha ja juustu jaoks. Ukse lahtijätmise korral annab märku uksealarmi signaal ja tõusva temperatuuri indikaator. Sisend ei täpsusta täpseid puhastus- ja hooldusintervalle (nt filtri vahetus), seega tuleb täpsemad juhised võtta tootja kasutusjuhendist; paigaldust on soovitatav lasta teha spetsialistil."
+    },
+    {
+      "question": "Kui töökindel on see mudel ja milline on hinna ja väärtuse suhe?",
+      "answer": "Andmete järgi on külmikul inverterkompressor, TwinTech® No Frost topeltjahutussüsteem, õhupuhastusfilter ja metalliseeritud tagasein, mis aitab temperatuuri kiiremini taastada. Müra tase on 35 dB (klass B), aastane energiatarve 173 kWh ning energiatõhususklass D. Need omadused viitavad modernsele ja säästlikule integreeritavale külmikule, mis tagab ühtlase temperatuuri ja hea toidu säilivuse (Cooling 360°, GreenZone+, Extra Chill). Sisend ei täpsusta garantiitingimusi ega -pikkust, seega tuleb need üle vaadata vastava müüja või tootja garantiikirjeldusest. Hinna-väärtuse seisukohast on peamised eelised ühtlane jahutus, No Frost mugavus, eraldi värskus-tsoonid ja osaliselt taaskasutatud plastikust sisemus."
+    }
+  ]
+}

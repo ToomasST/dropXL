@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8806097060871 8806097060871 Fridge SAMSUNG BRB80F26CES0EO",
+  "search_queries": {
+    "main_query": "integreeritav külmik Samsung BRB80F26CES0EO no frost sügavkülmaga",
+    "additional_queries": [
+      "kuidas hoida toit kauem värske Samsung integreeritava no frost külmikuga BRB80F26CES0EO",
+      "integreeritav 60 cm no frost külmik sügavkülmaga 231+74 l Samsung BRB80F26CES0EO täiskõrguses köögikappi",
+      "millega erineb Samsung BRB80F26CES0EO teistest integreeritavatest no frost külmikutest",
+      "kuidas seadistada Wi-Fi ja AI energiarežiim Samsung BRB80F26CES0EO integreeritaval külmikul"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Samsung BRB80F26CES0EO sobib minu kööki ja olemasolevasse kappi?",
+      "answer": "See mudel on integreeritav külmik alumise sügavkülmaga, mis on mõeldud köögimööbli sisse paigaldamiseks. Standardlaius on 60 cm ja standardkõrgus 180 cm, tegelikud välismõõdud on u 55 × 54 × 177,5 cm (pikkus × laius × kõrgus). Hinged on liughingedega, mis sobivad enamiku integreeritavate köögikappide lahendustega. Külmiku netomaht on 231 l ja sügavkülma maht 74 l, seega sobib see hästi nii väiksemale perele kui ka paarile. Täpse sobivuse tagamiseks soovitame üle mõõta olemasoleva kapi ava ja võrrelda neid andmeid tootepildil ning tehnilises infos toodud mõõtudega."
+    },
+    {
+      "question": "Kas see külmik vajab sügavkülma käsitsi sulatamist ja kuidas on lood igapäevase kasutamisega?",
+      "answer": "Samsung BRB80F26CES0EO kasutab Full No Frost jahutustehnoloogiat, mis hoiab nii külmikus kui sügavkülmas ära jää ja härmatise tekke. See tähendab, et sügavkülma ei ole vaja käsitsi sulatada – süsteem hoolitseb automaatse sulatamise eest. Külmikus on eraldi niiskuskontrolliga sahtel puu- ja köögiviljade jaoks ning Optimal Fresh+ sahtel, mis hoiab liha ja kala jaoks jahedamat temperatuuri kui ülejäänud külmik. Välist elektroonilist juhtimist on mugav kasutada ning Wi-Fi olemasolu ja SmartThings AI energiarežiim võimaldavad energiatarbimist nutikalt optimeerida. Puhastamise ja esmakasutuse täpsed juhised ei ole kirjelduses välja toodud, seega soovitame järgida kaasasolevat kasutusjuhendit."
+    },
+    {
+      "question": "Kui töökindel on see mudel, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Kirjelduse järgi kasutab see külmik inverterkompressorit, metalliseeritud tagaseina ja ventilaatoriga õhuringlust, mis tagavad ühtlase temperatuuri (visapusiškas/\"visapusiškas vėsinimas\" ehk ühtlane jahutus) ning aitavad hoida toitu kauem värskena. Full No Frost süsteem vähendab jää tekkimist ja vajadust hooldussulatuseks, SmartThings AI energiarežiim optimeerib kompressori tööd ja sulatuscükleid kasutusharjumuste ja ümbritsevate tingimuste järgi, aidates vähendada energiakulu kuni umbes 10% ulatuses (tootja väitel). Müra tase on 35 dB (müraklass B), mis on integreeritava külmiku kohta vaikne. Garantii kestust ja täpseid tingimusi sisendandmed ei täpsusta – need sõltuvad müüjast ja kehtivast garantiipoliitikast. Hinna eest saab ostja integreeritava no frost külmiku alumise sügavkülmaga, Wi-Fi ja AI energiarežiimi, eraldi liha/kala sahtli ning suure 231+74 l mahutavuse, mis teeb sellest funktsiooniderohke mudeli oma klassis."
+    }
+  ]
+}

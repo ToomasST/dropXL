@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543774692 7332543774692 Hob ELECTROLUX LIL61434C",
+  "search_queries": {
+    "main_query": "Electrolux LIL61434C 60 cm induktsioonpliidiplaat Hob2Hood",
+    "additional_queries": [
+      "kuidas kiiremini süüa teha induktsioonpliidiplaadiga Electrolux LIL61434C",
+      "4-tsooniline 60 cm induktsioonpliidiplaat Electrolux LIL61434C pere kööki",
+      "Electrolux LIL61434C võrreldes teiste 60 cm induktsioonpliidiplaatidega Hob2Hood funktsiooniga",
+      "Electrolux LIL61434C induktsioonpliidiplaadi paigaldus ja igapäevane puhastamine"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LIL61434C induktsioonpliidiplaat sobib minu kööki ja olemasolevasse tööpinda?",
+      "answer": "See mudel on integreeritav induktsioonpliidiplaat standardse 60 cm laiusega (toote laius u 59 cm, sügavus u 52 cm) ja on mõeldud pealtpaigalduseks tööpinnale. Pliidiplaadil on 4 keedutsooni ning tööpinge 220–240 V. Sisendinfo täpseid väljalõike mõõte ei kirjelda, seega kontrollige enne ostu müüja või paigaldusjuhendi järgi, kas olemasolev tööpinna ava sobib. Pliidiplaat toetab ka juhtmevaba ühendust õhupuhastiga (Hob2Hood® funktsioon), kui kasutate sellega ühilduvat tõmbekappi."
+    },
+    {
+      "question": "Kui lihtne on Electrolux LIL61434C induktsioonpliidiplaati kasutada ja hooldada?",
+      "answer": "Pliidiplaadil on puutetundlikud juhtnupud otse klaaspinnal, seega saab võimsust ja seadistusi muuta ühe puudutusega. Induktsioontehnoloogia suunab kuumuse kiiresti ja täpselt otse nõule, ümbritsev pind jääb jahedamaks ja reageerib kohe, kui võimsust muudate. Sisseehitatud taimer, pausifunktsioon, automaatne kuumutuse sisselülitus ja PowerBoost kiirkeetmise funktsioon muudavad kasutamise mugavaks. Sile klaaspind on tänu vähestele väljaulatuvatele osadele lihtsasti puhastatav; detailsemaid hooldussoovitusi annab tootja kasutusjuhend."
+    },
+    {
+      "question": "Kui töökindel ja turvaline on Electrolux LIL61434C ning milline on selle hinna ja väärtuse suhe?",
+      "answer": "Sisendinfo põhjal on mudelil mitmed turva- ja mugavusfunktsioonid: lapselukk, jääksoojuse indikaatorid, pausifunktsioon ja induktsioontehnoloogia, mis hoiab ümbruse jahedamana ning reageerib temperatuuri muutustele kohe. PowerBoost võimaldab väga kiiret kuumenemist, Hob2Hood® ühendab pliidiplaadi juhtmevabalt sobiva õhupuhastiga, mis tõstab mugavust igapäevases kasutuses. Garantiitingimusi sisend ei täpsusta, seega palume kontrollida seda müüjalt või tootjalt. Arvestades kiiret kuumenemist, turvalisust ja lisafunktsioone, pakub see mudel tugevat funktsionaalsust oma hinnaklassis."
+    }
+  ]
+}

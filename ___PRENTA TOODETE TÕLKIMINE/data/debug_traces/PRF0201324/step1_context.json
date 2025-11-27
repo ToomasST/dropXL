@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283060517 8020283060517 Hood ELICA CT17 GR/A/52",
+  "search_queries": {
+    "main_query": "integreeritav õhupuhasti Elica CT17 GR/A/52 60 cm",
+    "additional_queries": [
+      "kuidas eemaldada toidulõhnad väikeses köögis Elica CT17 GR/A/52 integreeritava õhupuhastiga",
+      "60 cm täisintegreeritav õhupuhasti 224 m3/h väikesele köögile Elica CT17 GR/A/52",
+      "Elica CT17 GR/A/52 võrdlus teiste 60 cm integreeritavate õhupuhastitega",
+      "kuidas paigaldada ja puhastada Elica CT17 GR/A/52 sisseehitatavat õhupuhastit"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica CT17 GR/A/52 sobib minu kööki ja 60 cm laiuse kapi sisse?",
+      "answer": "Jah, Elica CT17 GR/A/52 on täisintegreeritav õhupuhasti, mille laius on umbes 53,5 cm – see on mõeldud paigaldamiseks standardsesse 60 cm ülemisse/seinakappi. Sügavus on ~30 cm ja kõrgus kuni ca 20,8 cm, seega kontrolli, et kapi sisemõõdud ja ukse mehhanism seda lubaksid. Õhukanali ühendamiseks on vaja 120 mm läbimõõduga toru. Tänu õhuvoolule 125–224 m³/h (IEC 61591 järgi) sobib see mudel kõige paremini väikestesse ja keskmise suurusega köökidesse, kus ei küpsetata väga suure auruhulgaga iga päev.citeturn0search4turn1search6turn1search1"
+    },
+    {
+      "question": "Kuidas seda õhupuhastit igapäevaselt kasutada ja hooldada?",
+      "answer": "Õhupuhasti kasutamine on lihtne: seadmel on mehaaniline liugur (slider), millega valid 3 erineva töökiiruse vahel ning lülitad sisse LED‑valgustuse. Igapäevaselt kasuta madalamat astet tavalisel toiduvalmistamisel ja kõrgemat võimsat praadimisel või tugeva auru korral. Seadmel on alumiiniumist rasvafilter, mis püüab kinni rasva – seda tuleks sõltuvalt kasutussagedusest pesta käsitsi sooja vee ja nõudepesuvahendiga (või õrna programmiga nõudepesumasinas) umbes iga 1–2 kuu tagant. Kui kasutad seadet ringlusega (ilma väljatõmbeta), tuleb juurde osta ja perioodiliselt vahetada aktiivsöefilter CFC0141571, mis puhastab õhku lõhnadest.citeturn1search6turn0search1turn1search0"
+    },
+    {
+      "question": "Kui töökindel see mudel on, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Elica on tuntud Euroopa tootja, kes spetsialiseerub köögiõhupuhastitele, ning CT17 GR/A/52 on lihtsa ehitusega sisseehitatav mudel: üks mootor, 3 kiirust, mehaaniline liugur ja LED‑valgustus. Selline lahendus tähendab üldiselt vähem elektroonikat ja vähem potentsiaalseid rikkeallikaid. Õhuvool (125–224 m³/h), energia­klass C ja umbes 50 kWh aastane energiatarve teevad sellest kokkuhoidliku variandi väikese või keskmise köögi jaoks, kus eelistatakse, et kubu oleks kapis peidetud. Euroopa jaekaubanduses antakse sellele mudelile tavaliselt 2–3 aastat tootjagarantiid; täpne garantiiaeg ja järelteenindus sõltub müüjast ja riigist ning on kirjas ostudokumentidel. Arvestades täisintegreeritavat disaini, vaikset tööd (u 45–54 dB), pestavat rasvafiltrit ja LED‑valgust, pakub see mudel oma hinnaklassis head hinna‑ ja kvaliteedi suhet neile, kes ei vaja nutifunktsioone ega väga suurt õhujõudlust.citeturn0search4turn1search6turn1search1turn0search1"
+    }
+  ]
+}

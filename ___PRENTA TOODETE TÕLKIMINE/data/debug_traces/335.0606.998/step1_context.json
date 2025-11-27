@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7612985789165 7612985789165 Hood FABER CYLINDRA PLUS BK MATT A37/2",
+  "search_queries": {
+    "main_query": "Faber Cylindra Plus BK Matt A37/2 seinale paigaldatav ümar õhupuhasti",
+    "additional_queries": [
+      "kuidas eemaldada köögist toidulõhnad seinale paigaldatava ümara kubuga Faber Cylindra Plus BK Matt",
+      "ümmargune seinale paigaldatav kubu 40 cm laiusega ja 700 m3/h võimsusega Faber Cylindra Plus",
+      "Faber Cylindra Plus BK Matt A37/2 võrdlus teiste A energiaklassi seinaõhupuhastitega",
+      "kuidas paigaldada ja hooldada Faber Cylindra Plus BK Matt A37/2 õhupuhastit 150 mm õhukanaliga"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Faber Cylindra Plus BK Matt A37/2 sobib minu kööki ja olemasoleva ventilatsiooniga?",
+      "answer": "See mudel on seinale paigaldatav ümmargune õhupuhasti, mille standardlaius on 40 cm (toote mõõdud u 37–37,5 cm) ja kõrgus umbes 890 mm. Õhupuhasti versioon on „duct out“, ehk see on ette nähtud ühendamiseks ventilatsioonišahti või õue mineva toruga. Õhukanali läbimõõt peab olema 150 mm. Tagantväljatõmme (back aspiration) on võimalik. Juhtmeta ühendust pliidiplaadiga ega Wi-Fi funktsiooni sellel mudelil ei ole. Kui sinu köögis on seinal piisavalt ruumi ja olemas 150 mm ventilatsioonitoru ühenduskoht, sobib see mudel tõenäoliselt hästi; täpse sobivuse hindamiseks võrdle oma ruumi mõõte toodud mõõtudega."
+    },
+    {
+      "question": "Kuidas Faber Cylindra Plus BK Matt A37/2 õhupuhastit kasutada ja hooldada? Kas filtrid on vahetatavad?",
+      "answer": "Õhupuhastil on elektrooniline juhtimine ja LED-valgustus, õhuvoolu vahemik on 280–570 m³/h, booster-režiimis kuni 700 m³/h. Täpne nuppude asetus ja režiimide arv ei ole andmetes kirjeldatud, seega tuleks kasutamisel lähtuda tootega kaasas olevast juhendist. Sisend ei täpsusta põhifiltri tüüpi, kuid kirjelduses on toodud söefiltrikomplektide koodid (Charcoal filter F9 KIT ja Long Lasting FLL9 KIT), mis viitab sellele, et vastavad söefiltrid on selle mudeliga kasutatavad lisatarvikud. Üldjuhul on söefiltrid vahetatavad kuluvosad, kuid vahetusintervalli ja täpse hoolduskorra annab tootja kasutusjuhend. Õhupuhasti korpust ja nähtavaid pindu tuleks puhastada nõrga puhastusvahendiga vastavalt juhendile; filtrite puhastamise ja vahetamise täpne viis ei ole siin andmetes lahti kirjutatud."
+    },
+    {
+      "question": "Kui töökindel ja energiasäästlik on Faber Cylindra Plus BK Matt A37/2 ning mida peaksin teadma garantii ja lisatarvikute kohta?",
+      "answer": "Antud mudeli energiatõhususklass on A ning aastane energiatarve 57 kWh, LED-valgustuse energiatõhususklass on samuti A. Maksimaalne õhuvool on 570 m³/h ja booster-režiimis kuni 700 m³/h, müra tase jääb vahemikku 48–69 dB. Rasvafiltreerimise tõhususklass on B. Need näitajad viitavad heale jõudluse ja energiasäästu suhtele oma klassis. Korpuse viimistlus on roostevaba teras musta värvitooniga, mis on tavaliselt vastupidav ja lihtne hooldada. Garantii tingimuste kohta sisend teavet ei sisalda, seega tuleks täpne garantiiaeg ja -tingimused üle kontrollida müüja või tootja info põhjal. Tootekirjelduses on toodud mitme lisatarviku koodid (söefiltrikomplektid, kaugjuhtimispult, KIT REMOTE BLOWER ENERGY-PRO), kuid ei ole selgelt öeldud, kas need on komplektis või tuleb need eraldi osta. Seega tasub enne ostu müüjalt täpsustada, millised tarvikud on hinnas ja millised on eraldi lisavarustus."
+    }
+  ]
+}

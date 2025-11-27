@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543986743 7332543986743 Dishwasher AEG FSE76738P",
+  "search_queries": {
+    "main_query": "integreeritav nõudepesumasin AEG FSE76738P 60 cm Wi-Fi",
+    "additional_queries": [
+      "kuidas pesta õrnu klaase nõudepesumasinas SoftGrips ja SoftSpikes funktsiooniga AEG FSE76738P",
+      "integreeritav nõudepesumasin 60 cm 14 komplekti MaxiFlex sahtliga suure pere kööki",
+      "millega erineb AEG FSE76738P teistest 60 cm integreeritavatest nõudepesumasinatest",
+      "kuidas kasutada QuickSelect ja Wi-Fi kaugjuhtimist nõudepesumasinal AEG FSE76738P"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG FSE76738P integreeritav nõudepesumasin sobib minu kööki ja olemasolevasse mööblisse?",
+      "answer": "AEG FSE76738P on 60 cm laiune integreeritav nõudepesumasin. Tootel on reguleeritav paigalduskõrgus 81,8–89,8 cm ning sügavus 56 cm (toote mõõtudest). Masinal on liughinged ja see sobib paigaldamiseks kapi sisse (\"Installation in height: Yes\"). Enne ostu mõõtke kindlasti oma nõudepesumasina nišš (laius, kõrgus, sügavus) ja võrrelge neid toodud mõõtudega. Seade mahutab kuni 14 nõudekomplekti ja sellel on 3 korvi (sh MaxiFlex söögiriistade sahtel), seega sobib see hästi keskmise või suurema pere jaoks. Ühilduvuse kohta konkreetse mööblisüsteemiga tooteteave lisaks ei täpsusta."
+    },
+    {
+      "question": "Kuidas AEG FSE76738P nõudepesumasinat kasutada ja millised on peamised funktsioonid?",
+      "answer": "Sellel mudelil on elektrooniline LCD juhtimine ja sisemine juhtpaneel. Nõudepesumasinal on 7 programmi ja 4 temperatuuri, sealhulgas klaasiprogramm ja automaatprogramm. QuickSelect liuguriga saab valida tsükli kestuse ning Ecometer aitab valida energiat ja vett säästvama programmi. Wi‑Fi ühendusega on võimalik kasutada nutikat kaugjuhtimist ja saada soovitusi programmi valikuks ning ECO-raporteid (tootja kirjelduses nimetatud rakendus, täpset nime ei ole toodud). MaxiFlex sahtel on mõeldud eri mõõtu ja kujuga söögiriistadele ja tarvikutele ning SoftGrips ja SoftSpikes hoiavad õrnu klaase kindlalt ja kaitsevad neid kriimustuste ja purunemise eest. Üksikasjalikud kasutus- ja hooldusjuhised (nt filtrite puhastamine) ei ole tootetekstis avatud, seetõttu soovitame lähtuda ametlikust kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel ja energiasäästlik on AEG FSE76738P ning milline on garantii?",
+      "answer": "AEG FSE76738P kuulub uue energiamärgistuse klassi A, tarbides 54 kWh 100 pesutsükli kohta ja umbes 10,9 liitrit vett ühe tsükli jooksul, mis viitab heale energiatõhususele. Inverter-mootor, roostevabast terasest sisekorpus, veekaitsesüsteem ja kõrgema tõhususega pihustid (SatelliteClean, ülemine pihusti) suurendavad töökindlust ja pesutulemust. Müratase on 43 dB (müra klass B), mis on integreeritava masina kohta vaikne. Automaatne ukse avanemine tsükli lõpus aitab nõusid paremini kuivatada. Garantii kestus ja täpsed tingimused ei ole sisendandmetes kirjas – need olenevad müüjast ja kohalikest tingimustest, seega palume need eraldi üle vaadata. Hinna-väärtuse mõttes pakub seade energiasäästlikkust, Wi‑Fi nutifunktsioone ja klaasidele mõeldud erikinnitusi, mis tõstab selle kasutusmugavust ja pikaajalist väärtust."
+    }
+  ]
+}

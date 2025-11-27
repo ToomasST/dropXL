@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543717439 7332543717439 Oven ELECTROLUX EOF3H70X",
+  "search_queries": {
+    "main_query": "Electrolux EOF3H70X integreeritav ahi AquaClean 72 l",
+    "additional_queries": [
+      "kuidas lihtsustada ahju puhastamist Electrolux EOF3H70X AquaClean funktsiooniga",
+      "72 l integreeritav elektriahi pöördõhuga küpsetamiseks mitmel tasandil",
+      "millega erineb Electrolux EOF3H70X teistest A-klassi 60 cm integreeritavatest ahjudest",
+      "kuidas kasutada Electrolux EOF3H70X ahju ja AquaClean puhastusprogrammi igapäevaselt"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EOF3H70X ahi sobib minu kööki ja olemasolevasse mööblisse?",
+      "answer": "Electrolux EOF3H70X on 60 cm standardmõõdus integreeritav, iseseisev elektriahi. Tootel on standardiseeritud kõrgus 60 cm ja laius 60 cm, tegelikud mõõdud on ligikaudu 59,4 × 59,5 × 56,9 cm (kõrgus × laius × sügavus). Mahutavus on suur – 72 liitrit, mis sobib hästi nii igapäevaseks kasutamiseks kui ka suuremate roogade jaoks. Enne ostu tasub üle mõõta köögimööbli nišš ja võrrelda seda nende mõõtudega. Toite ja ühenduse täpseid nõudeid tootekirjeldus ei täpsusta, seega tuleb need kontrollida paigaldusjuhendist või elektrikult."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EOF3H70X ahju kasutada ja puhastada?",
+      "answer": "Ahi on elektriline ja sellel on 8 standardset küttefunktsiooni ning pöördõhk (konvektsioon), mis võimaldab küpsetada mitmel tasandil korraga. Juhtimine toimub sisse-välja vajutatavate nuppudega (PIPO) ning küpsetusaja jälgimist lihtsustab LED-taimeri ekraan, kus saab seadistada ja jälgida küpsetusaega.\n\nPuhastamiseks on ahjul AquaClean funktsioon: ahju põhja asetatud vesi aurustub ja aitab pehmendada pritsmeid ning rasva, et need oleksid lihtsamini mahapühitavad. Täpne puhastusprotseduuri käik (vee kogus, programmi valik jms) ei ole tootekirjelduses lahti seletatud, seega tuleks juhinduda seadmega kaasas olevast kasutusjuhendist. Daily hooldus on peamiselt sise- ja uksepindade niiske lapiga üle käimine pärast jahtumist."
+    },
+    {
+      "question": "Kui töökindel on Electrolux EOF3H70X ja kas see on oma hinda väärt?",
+      "answer": "Tootekirjeldus rõhutab ühtlast küpsetamist SurroundCook® ja Even Cooking tehnoloogiaga, mis jaotavad kuuma õhu ühtlaselt, ning Safe to Touch ukse, mis hoiab uksepinna piisavalt jahedamana. Ahjul on metallist juhtpaneel, roostevabast terasest viimistlus, A energiaklass ja 72 liitrine ruumikas sisemus, samuti 1 tasandiga teleskoopsiinid, mis lisavad kasutusmugavust.\n\nGarantii kestust ja täpseid järelteeninduse tingimusi sisendandmed ei kirjelda – kehtivad müüja ja/või maaletooja tingimused. Hinna ja väärtuse mõttes pakub see mudel suure mahutavuse, A-klassi energiatõhususe, ühtlase küpsetamise ja aurupõhise AquaClean puhastuse koos kaasaegsete mugavustega (LED-taimer, konvektsioon, teleskoopsiinid), mis teeb selle funktsioonide ja kasutusmugavuse poolest tugevaks valikuks oma klassis."
+    }
+  ]
+}

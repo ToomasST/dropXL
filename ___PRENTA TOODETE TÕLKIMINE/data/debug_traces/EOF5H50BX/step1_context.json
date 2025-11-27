@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543819942 7332543819942 Oven ELECTROLUX EOF5H50BX",
+  "search_queries": {
+    "main_query": "integreeritav ahi Electrolux EOF5H50BX 65 l AquaClean",
+    "additional_queries": [
+      "kuidas lahendada ahjus ebaühtlase küpsemise probleemi Electrolux SurroundCook ahjuga EOF5H50BX",
+      "65 l pöördõhuga integreeritav ahi mitmel tasandil küpsetamiseks",
+      "mille poolest Electrolux EOF5H50BX erineb teistest 60 cm integreeritavatest ahjudest",
+      "kuidas kasutada Electrolux EOF5H50BX ahjul AquaClean aurupuhastust ja igapäevaselt hooldada"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EOF5H50BX sobib minu kööki ja tavalisse integreeritava ahju kappi?",
+      "answer": "Electrolux EOF5H50BX on 60 cm lai integreeritav ahi, mis on mõeldud standardsesse sisseehitatavasse ahjukappi. Toote välismõõdud on ligikaudu 59,5 × 58,9 × 56 cm (laius × kõrgus × sügavus) ning tootja on märkinud standardse laiuse ja kõrguse 60 cm. Ahju maht on 65 liitrit, mis sobib hästi nii igapäevaseks toiduvalmistamiseks kui ka suuremate vormide ja plaadikookide jaoks. Enne ostu soovitame üle mõõta olemasoleva kapi niši ja veenduda, et elektriühendus vastab tootja nõuetele, sest sisendmaterjal täpseid paigaldustingimusi ei kirjelda."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EOF5H50BX ahju kasutada ja puhastada?",
+      "answer": "Electrolux EOF5H50BX on elektriline pöördõhuga integreeritav ahi 8 standardse küpsetusfunktsiooniga (sh pöördõhk ja grill). Juhtimine toimub kombineeritud lahendusega: sissetõmmatavad pöördnupud (PIPO) ja puutetundlikud nupud, lisaks informatiivne LED-taimeri ekraan, millega saab seada küpsetusaja ja jälgida protsessi. Puhastamist lihtsustab AquaClean funktsioon: ahju põhja lisatakse vesi, mis kuumutamisel aurustub ja niisutab ahju sisepinnale kinnitunud rasva ja toidujäänuseid, muutes need kergesti lapiga mahapühitavaks. See on looduslik ja lihtne viis ahju seest puhtana hoida; sisend ei täpsusta eraldi automaatset puhastusprogrammi seadistusi, need leiab kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel on Electrolux EOF5H50BX ja kas see on oma hinda väärt?",
+      "answer": "EOF5H50BX on tuntud tootja Electrolux integreeritav ahi, millel on A energiaklass, 65-liitrine küpsetusmaht, pöördõhk (Convection), Even Cooking/SurroundCook tehnoloogia ühtlaseks küpsemiseks mitmel tasandil, grillifunktsioon, AquaClean aurupuhastus ja 1 taseme teleskoopsiinid mugavaks resti/sõrde väljatõmbamiseks. Need omadused teevad igapäevase kasutamise mugavaks ja aitavad kokku hoida nii aega kui ka energiat. Sisendmaterjal ei kirjelda garantiitingimusi ega täpset töökindluse statistikat, seega soovitame garantiiperioodi ja -katte kohta täpsustada müüjalt või tootja ametlikult kodulehelt. Hinna-väärtuse mõttes sobib see mudel ostjale, kes eelistab usaldusväärset, funktsiooniderohket, kuid ilma nutiühenduse ja pyro- või auruküpsetuse lisadeta ahju, kus rõhk on ühtlasel küpsetamisel ja kergel hooldusel."
+    }
+  ]
+}

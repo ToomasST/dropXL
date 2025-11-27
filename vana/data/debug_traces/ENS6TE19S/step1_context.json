@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543811915 7332543811915 ENS6TE19S",
+  "search_queries": {
+    "main_query": "Electrolux ENS6TE19S integreeritav külmik-sügavkülmik TwinTech No Frost 188 cm",
+    "additional_queries": [
+      "ENS6TE19S sisseehitatav külmik sügavkülmaga 213+60 l E-klassi 35 dB",
+      "Electrolux integreeritav No Frost külmik liughingedega ENS6TE19S",
+      "Electrolux TwinTech MultiSpace DynamicAir integreeritav külmik",
+      "Electrolux ENS6TE19S mõõdud 188.4 × 54 × 54.9 cm"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas sügavkülm on No Frost ja kas pean seda sulatama?",
+      "answer": "Jah. Mudel ENS6TE19S kasutab TwinTech No Frost kahekordset jahutust: sügavkülm on härmatisevaba, mistõttu seda pole vaja käsitsi sulatada, ning külmikus hoitakse optimaalset niiskust, mis aitab toidul kuni 60% kauem mahlane püsida. DynamicAir tagab ühtlase temperatuuri jaheda õhu ringlusega."
+    },
+    {
+      "question": "Kas see on integreeritav mudel ja millised on ukse lahendused?",
+      "answer": "Jah, tegu on integreeritava (built-in) külmik-sügavkülmikuga. Hinged on liughingedega (sliding) ning uksed on ümbertõstetavad. Ukse avanemisel on olemas helisignaal (open door alarm). Seadmel endal välist käepidet ei ole (door handle: no)."
+    },
+    {
+      "question": "Millised on mõõdud, mahud, müratase ja energiatõhusus?",
+      "answer": "Mõõdud (K×L×S): 188.4 × 54.0 × 54.9 cm. Standardlaius: 60.0. Külmiku netomaht 213 l, sügavkülma netomaht 60 l (3 sahtlit, sahtlid ja vaheplaadid täielikult eemaldatavad). Müratase 35 dB. Energiaklass E, aastane energiakulu 213 kWh. Külmutusvõime 5 kg/24 h, voolukatkestuse korral hoiab toitu kuni 21 h. Inverterkompressorile kehtib 10-aastane garantii."
+    }
+  ]
+}

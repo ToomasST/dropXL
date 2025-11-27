@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283053120 8020283053120 Hood ELICA LANE B IX/A/52",
+  "search_queries": {
+    "main_query": "integreeritav õhupuhasti Elica Lane B IX/A/52 52 cm inox",
+    "additional_queries": [
+      "kuidas eemaldada toidulõhnad väikeses köögis integreeritava õhupuhastiga Elica Lane B IX/A/52",
+      "integreeritav kubu 52 cm 395 m3/h perimeertõmbega väikese köögi jaoks",
+      "Elica Lane B IX/A/52 võrdlus teiste 52 cm integreeritavate õhupuhastitega",
+      "kuidas paigaldada ja hooldada Elica Lane B IX/A/52 õhupuhastit ja selle filtreid"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica Lane B IX/A/52 sobib minu kööki ja olemasoleva mööbliga?",
+      "answer": "See mudel on mõeldud täielikult integreeritavaks köögimööbli kappi. Õhupuhasti laius on umbes 51,4 cm, sügavus 28,3 cm ja maksimaalne kõrgus ligikaudu 32 cm, seega sobib see standardsesse 60 cm laiusesse ülemiskappi, kuhu jääb mõlemale küljele väike varu. Enne ostu mõõtke üle kapi sisemõõdud ja veenduge, et kapis on võimalik välja juhtida 150 mm ventilatsioonitoru. Tõmbevõimsus 285–395 m³/h sobib hästi väikesele ja keskmise suurusega köögile; väga suurtesse avatud köökidesse tasub kaaluda võimsamat mudelit."
+    },
+    {
+      "question": "Kui lihtne on Elica Lane B IX/A/52 kasutamine ja hooldus?",
+      "answer": "Õhupuhastil on elektrooniline juhtimine esipaneelil asuvate nuppudega, mis teeb töörežiimi ja kiiruse valiku intuitiivseks. LED‑valgustus aitab mugavalt tööpinda valgustada. Hooldus seisneb peamiselt korpuse ja juhtpaneeli regulaarsetes niiske lapiga puhastamistes ning rasvafiltri puhastamises või vahetamises vastavalt kasutusjuhendile. Filtri hooldamise sagedus sõltub kasutamise intensiivsusest; tavaliselt soovitatakse seda teha vähemalt kord kuus. Täpsemad juhised on toote kaasasolevas manuaalis."
+    },
+    {
+      "question": "Kui töökindel on Elica Lane B IX/A/52 ja milline on garantii ning hinna-väärtuse suhe?",
+      "answer": "Elica on spetsialiseerunud köögiõhupuhastitele ning Lane B IX/A/52 on valmistatud roostevabast terasest korpusega, LED‑valgustuse ja perimeertõmbega, mis kokku annab vastupidava ja tõhusa lahenduse igapäevaseks kasutamiseks. Energiaklass D tähendab, et tegu ei ole kõige energiatõhusama, kuid siiski mõõduka tarbimisega seadmega. Tavaliselt kehtib tootjale vähemalt 2‑aastane garantii, kuid täpne garantii kestus ja tingimused sõltuvad müüjast ja riigist – kontrollige seda meie tootelehelt või ostuhetkel. Arvestades integreeritavat disaini, roostevaba viimistlust ja funktsionaalsust, pakub see mudel tugevat hinna ja kvaliteedi suhet neile, kes otsivad märkamatult kappi peitu jäävat, kuid piisava võimsusega õhupuhastit."
+    }
+  ]
+}

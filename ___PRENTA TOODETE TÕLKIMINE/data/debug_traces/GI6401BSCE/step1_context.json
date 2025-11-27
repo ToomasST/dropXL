@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:3838782757440 3838782757440 Hob GORENJE GI6401BSCE",
+  "search_queries": {
+    "main_query": "Gorenje GI6401BSCE 60 cm induktsioonpliidiplaat PowerBoostiga",
+    "additional_queries": [
+      "kuidas vahetada vana keraamiline pliidiplaat Gorenje GI6401BSCE induktsioonpliidiplaadi vastu",
+      "induktsioonpliidiplaat 60 cm 7 kW nelja tsooniga väikese köögi jaoks",
+      "millega erineb Gorenje GI6401BSCE teistest 60 cm induktsioonpliidiplaatidest",
+      "kuidas paigaldada ja kasutada Gorenje GI6401BSCE induktsioonpliidiplaati ning hooldada klaaskeraamilist pinda"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Gorenje GI6401BSCE sobib minu olemasolevasse kööki ja 60 cm tööpinda?",
+      "answer": "See mudel on standardse laiusega 60 cm (toote mõõdud u 59 × 52 × 6 cm) ning mõeldud tööpinda süvistamiseks. Paigaldusava peab olema ligikaudu 560 × 490 mm ja sügavust vähemalt 50 mm, seega sobib see enamiku 60 cm laiuste pliidialuste kappidega köökidesse. Vajalik on 220–240 V elektritoide ning piisav kaitseautomaat; ühenduse peab tegema kvalifitseeritud elektrik. Kui olemasolev lõikeava on sarnase mõõduga, saab vana plaadi enamasti otse välja vahetada."
+    },
+    {
+      "question": "Kui lihtne on Gorenje GI6401BSCE kasutamine ja kuidas seda hooldada?",
+      "answer": "Pliidiplaadil on esiservas puutetundlik juhtpaneel, millega seadistad kuumust, taimerit ja PowerBoost kiirkuumutust. Neli induktsioonitsooni tunnevad poti ise ära ja kuumenevad vaid põhja alt, mis teeb kasutamise kiireks ja täpseks. Pärast kasutamist lase pliidiplaadil jahtuda (jälgi jääksoojuse indikaatoreid) ja puhasta sile klaaskeraamiline pind pehme lapi ja sobiva pliidipuhastusvahendiga. Väldi abrasiivseid nuge ja terasvilla ning kasuta ainult induktsioonile sobiva põhjaga nõusid, et pind püsiks kaua ilus ja toimiks tõrgeteta."
+    },
+    {
+      "question": "Kui töökindel on Gorenje GI6401BSCE ja milline on hinna-väärtuse suhe?",
+      "answer": "Gorenje GI6401BSCE on 7,0 kW võimsusega nelja tsooniga induktsioonpliidiplaat, millel on mitmed turva- ja mugavusfunktsioonid: lapselukk, jääksoojuse näidikud, automaatne väljalülitus ja kiirkuumutuse PowerBoost. Need vähendavad ülekeemise ja ülekuumenemise riski ning muudavad igapäevase toiduvalmistamise kiiremaks ja energiasäästlikumaks. Täpne garantiiperiood sõltub müüjast ja riigist, kuid tavaliselt kehtib vähemalt seadusest tulenev garantii; täpse info leiab ostudokumentidelt või garantiitingimustest. Arvestades funktsioone ja 60 cm integreeritava induktsioonpliidi segmenti, pakub see mudel üldiselt head hinna ja kvaliteedi suhet neile, kes soovivad turvalist ja kaasaegset pliidiplaati ilma tippklassi lisavidinateta (nt Wi-Fi või laiendatavad tsoonid)."
+    }
+  ]
+}

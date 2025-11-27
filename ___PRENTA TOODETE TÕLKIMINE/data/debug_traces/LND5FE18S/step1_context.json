@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543978625 7332543978625 Fridge ELECTROLUX LND5FE18S",
+  "search_queries": {
+    "main_query": "integreeritav külmik Electrolux LND5FE18S ColdSense",
+    "additional_queries": [
+      "kuidas hoida toitu kauem värskena integreeritava külmikuga Electrolux LND5FE18S (ColdSense, DynamicAir)",
+      "integreeritav külmik-sügavkülmik 55 cm laiusega 196 l + 73 l Electrolux inverterkompressoriga",
+      "millega erineb Electrolux LND5FE18S teistest integreeritavatest külmik-sügavkülmikest (ColdSense, DynamicAir, FastFreeze)",
+      "kuidas paigaldada ja kasutada integreeritavat Electrolux LND5FE18S külmik-sügavkülmikut (liughinged, LCD juhtimine)"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LND5FE18S integreeritav külmik sobib minu kööki ja kui suur see on?",
+      "answer": "See on integreeritav külmik alumise sügavkülmaga, mõeldud köögimööbli sisse paigaldamiseks. Standardiseeritud kõrgus on 180 cm, laius 55 cm ning tegelikud mõõdud ligikaudu 177,2 × 54,6 × 54,9 cm (K × L × S). Mudel kasutab liughingi (sliding hinges), seega sobib see köögimööbliga, mis on mõeldud liugukse süsteemile. Uksed on ümber tõstetavad, nii et avamissuunda saab vajadusel muuta. Külmiku netomaht on 196 l ja sügavkülma netomaht 73 l, mis sobib hästi väikesele või keskmisele perele."
+    },
+    {
+      "question": "Kui lihtne on Electrolux LND5FE18S külmikut kasutada ja hooldada?",
+      "answer": "Külmik on juhitav sisemise elektroonilise LCD-valikupaneeli abil, kus LED-indikaatorid näitavad selgelt temperatuuri. „ColdSense“ ja „DynamicAir“ tehnoloogiad hoolitsevad automaatselt kiire ja ühtlase jahutuse eest, „FastFreeze“ funktsioon aitab värskeid toiduaineid kiiresti külmutada. Sees on LED-valgustus ning eraldi niiskuskontrolliga sahtel puu- ja köögiviljadele. Jää tekke vähendamiseks kasutatakse „Less frost“ tehnoloogiat, kuid täpset sulatamis- ja puhastusjuhendit tootja sisendmaterjal ei kirjelda – selle leiab kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel on Electrolux LND5FE18S ja milline on garantii ning hinna-väärtuse suhe?",
+      "answer": "Mudelis kasutatakse inverterkompressorit, mis tagab stabiilse töö ja madala mürataseme (34 dB, müraklass B). Külmikul on „ColdSense“ ja „DynamicAir“ tehnoloogiad ühtlase temperatuuri hoidmiseks ning „FastFreeze“ funktsioon sügavkülmas, mis aitab paremini säilitada toidu tekstuuri ja vitamiine. Kompressorile kehtib 10-aastane garantii, mis tootja kirjelduse järgi hõlmab kompressoriga seotud tööd, varuosasid ja transporti. Üldise seadme garantii kestust sisend ei täpsusta. Arvestades integreeritava lahenduse, funktsioonide ja madala mürataseme kombinatsiooni, pakub see mudel tugevat hinna ja funktsionaalsuse suhet ostjale, kes otsib vaikset ja toitu hästi säilitavat sisseehitatavat külmik-sügavkülmikut."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543818655 7332543818655 SCB819E8TS",
+  "search_queries": {
+    "main_query": "AEG SCB819E8TS integreeritav külmik-sügavkülm NoFrost",
+    "additional_queries": [
+      "AEG MultiSpace 800 SCB819E8TS 188.4 cm liughinged",
+      "Integreeritav külmik alumise sügavkülmaga 216/62 l E klass 36 dB",
+      "AEG SCB819E8TS 0°C sahtel ExtraZone teleskoopsiinidega",
+      "Sisseehitatav külmik LED valgustus inverterkompressor 10 a garantii"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG SCB819E8TS sobib 60 cm integreerimiseks ja mis on täpsed mõõdud?",
+      "answer": "Jah. Seade on integreeritav (sisseehitatav) ja kasutab liughingi süsteemi. Uksed on ümbertõstetavad. Seadme mõõdud: kõrgus 188.4 cm, laius 54.0 cm, sügavus 54.9 cm; standardiseeritud laius 60 cm nišile. Veendu, et köögimööbli uks ja nišš sobivad liughingede süsteemiga."
+    },
+    {
+      "question": "Kas külmik on hooldusvaba ja kui vali see on?",
+      "answer": "Jah, külmikus kasutatakse NoFrost-tehnoloogiat, mistõttu ei ole vaja käsitsi sulatada. Ventilaator ja õhupuhastusfilter aitavad tagada ühtlase õhuringluse. Müratase on 36 dB (müra klass B). LED-valgustus on ühtlane ja energiasäästlik."
+    },
+    {
+      "question": "Millised on peamised mahud, energia- ja funktsiooninäitajad?",
+      "answer": "Netomaht: külmik 216 l, sügavkülm 62 l. Energiaklass E, aastane energiatarve 235 kWh. Funktsioonid: kiire jahutus külmikus, kiirkülmutus (10 kg/24 h), kuni 9 tundi säilivust voolukatkestusel, puhkuse (Holiday) režiim, avatud ukse signaal ja temperatuuri tõusu indikaator. Juhtimine sisemise puute-LCD abil. On eraldi 0 °C lähedane sahtel ja ExtraZone korralduslahendus (teleskoopsiinidel). Inverterkompressorile on tootja poolt 10-aastane garantii."
+    }
+  ]
+}

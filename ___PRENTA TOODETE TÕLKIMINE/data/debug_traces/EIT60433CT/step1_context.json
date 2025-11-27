@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394124308 7333394124308 Hob ELECTROLUX EIT60433CT",
+  "search_queries": {
+    "main_query": "Electrolux EIT60433CT 60 cm induktsioonpliidiplaat must matt",
+    "additional_queries": [
+      "kuidas kiiremini süüa teha induktsioonpliidiplaadiga PowerBoost funktsiooniga Electrolux EIT60433CT",
+      "induktsioonpliidiplaat 60 cm 7200 W integreeritav must matt avatud kööki",
+      "mille poolest erineb Electrolux EIT60433CT teistest 60 cm induktsioonpliidiplaatidest Hob2Hood funktsiooniga",
+      "kuidas paigaldada ja kasutada Electrolux EIT60433CT induktsioonpliidiplaati ning Hob2Hood õhupuhasti ühendust"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EIT60433CT pliidiplaat sobib minu kööki ja olemasolevasse tööpinda?",
+      "answer": "See on 60 cm lai integreeritav induktsioonpliidiplaat pinnapealseks paigalduseks. Tootes on märgitud mõõdud: laius u 59 cm, sügavus u 52 cm ja kõrgus u 4,4 cm ning standardne laiuse klass 60 cm. Enne ostu tuleks võrrelda neid mõõte oma tööpinna ava ja köögimööbli mõõtudega ning vajadusel vaadata paigaldusjuhendist täpsed väljalõike mõõdud, mida sisendmaterjal ei täpsusta."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EIT60433CT induktsioonpliidiplaati kasutada ja kuidas seda hooldada?",
+      "answer": "Pliidiplaadil on puutetundlik juhtimine otse klaaspinnalt, eraldi nuppe ega keeratavaid nuppe ei ole. Võimsust ja funktsioone (nt PowerBoost, taimer, pausifunktsioon, laste lukk) saab valida ühe puudutusega. Klaasist sile matt must SaphirMatt® SE pind on lihtsasti puhastatav, kuna pinnal pole väljaulatuvaid osi; igapäevase hoolduse jaoks piisab tavaliselt niiske lapi ja sobiva puhastusvahendi kasutamisest. Täpsed puhastus- ja hooldussoovitused on kirjas kasutusjuhendis, mida sisend ei ava."
+    },
+    {
+      "question": "Kui töökindel ja vastupidav on Electrolux EIT60433CT ja milline on hinna-väärtuse suhe?",
+      "answer": "Kirjelduses on välja toodud SaphirMatt® SE matt must klaaspind, mis on tootja sõnul kriimustuskindlam kui nende standardsed keraamilise klaasi pliidiplaadid, mis viitab heale vastupidavusele. Lisaks pakub pliidiplaat tugevat ja kiiret 7200 W induktsioonkuumutust, PowerBoost kiirkuumendust, Hob2Hood® juhtmevaba ühendust õhupuhastiga, taimerit, laste lukku, pausi- ja automaatse kuumutuse funktsioone – seega on funktsioone arvestades hinna-väärtuse suhe tugev. Garantiiaega ja täpseid garantiitingimusi sisendmaterjal ei kirjelda; need sõltuvad müüjast ja kehtivatest tingimustest ning tuleks eraldi üle täpsustada."
+    }
+  ]
+}

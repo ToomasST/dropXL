@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394041452 7333394041452 Dishwasher ELECTROLUX EEG63410L",
+  "search_queries": {
+    "main_query": "Electrolux EEG63410L 45 cm integreeritav nõudepesumasin",
+    "additional_queries": [
+      "kuidas pesta õrnu klaase nõudepesumasinas Electrolux EEG63410L SoftGrips ja SoftSpikes hoidikutega",
+      "45 cm integreeritav nõudepesumasin 10 nõudekomplektile energiatõhususklass C väikesesse kööki",
+      "Electrolux EEG63410L võrreldes teiste 45 cm integreeritavate nõudepesumasinatega SatelliteClean ja MaxiFlex eelised",
+      "kuidas paigaldada ja kasutada Electrolux EEG63410L integreeritavat nõudepesumasinat QuickSelect programmide ja viitstardiga"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EEG63410L integreeritav nõudepesumasin sobib minu kööki ja olemasolevasse mööblisse?",
+      "answer": "See mudel on 45 cm laiune integreeritav nõudepesumasin, mis on mõeldud köögimööbli kappi paigaldamiseks. Sisendinfo järgi on standardlaius 45 cm, tegelik laius umbes 44,6 cm, sügavus 55 cm ning reguleeritav kõrgus vahemikus 81,8–89,8 cm. Seega sobib see enamikesse kitsastesse (45 cm) integreeritavatesse kapiniššidesse. Seadmel on sisemine juhtpaneel ja see kuulub kategooriasse „Integreeritavad nõudepesumasinad“, mis tähendab, et esipaneel kaetakse köögimööbli uksega. Ühendatav on ka sooja vee sisselaskeavale. Wi‑Fi või nutirakenduse tuge sisend ei kirjelda (märgitud „No“), seega ei sobi see neile, kes otsivad nutifunktsioonidega masinat. Enne ostu mõõtke üle oma nišš ja võrrelge seda toodud mõõtudega."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EEG63410L kasutamine ja millist hooldust see vajab?",
+      "answer": "Masina kasutus on tehtud võimalikult lihtsaks: sisendinfo järgi on seadmel sisemine puutetundlik LCD juhtimine ja QuickSelect liugur, millega saab valida pesutsükli kestuse. Ecometeri rohelised ribad aitavad valida energiat ja vett säästva programmi. Seadmel on automaatprogramm, klaasiprogramm, ajasäästufunktsioon, viitstart ning 8 programmi ja 3 temperatuuri. Kolm korvi (sh MaxiFlex söögiriistade sahtel) ja SoftGrips/SoftSpikes klaasihoidjad muudavad nõude paigutamise mugavaks ja kaitsevad õrnu klaase. Tsükli lõpus avaneb uks automaatselt, mis aitab nõusid loomulikul teel kuivatada.\nHoolduse kohta sisend konkreetselt juhiseid ei anna. Üldiselt nõuavad nõudepesumasinad regulaarset filtrite, korvide ja pihustite puhastamist ning soovi korral katlakivivastaste vahendite kasutamist. Täpsed puhastus- ja hooldusjuhised leiab seadmega kaasasolevast kasutusjuhendist, mida sisendandmed ei kirjelda."
+    },
+    {
+      "question": "Kui töökindel on Electrolux EEG63410L ning milline on garantii ja hinna-väärtuse suhe?",
+      "answer": "Sisendinfo järgi on seadmel invertertüüpi mootor, täielikult roostevabast terasest sisekorpus, üleujutuskaitse ning kõrgema tõhususega pihustid (SatelliteClean ja topeltpihustid ülemises ja alumises korvis). Need lahendused viitavad vaiksemale tööle (45 dB, müraklass C), paremale pesutulemusele ja vastupidavamale konstruktsioonile. Energiakulu on 59 kWh 100 pesutsükli kohta ja veekulu 9,9 l ühe tsükli kohta, mis teeb sellest uue energiamärgise järgi C-klassi nõudepesumasina.\nGarantii pikkus ja täpsed järelteeninduse tingimused ei ole sisendis kirjas ning sõltuvad müüjast ja/või kohalikust Electroluxi esindusest. Hinna-väärtuse seisukohalt pakub see mudel kitsa 45 cm integreeritava masina kohta palju funktsioone: klaasikaitse (SoftGrips/SoftSpikes), MaxiFlex söögiriistade sahtel, automaatne ukse avanemine, kuvatav aeg põrandal ning säästlikud programmid. Kui otsite vaikset ja funktsiooniderikast integreeritavat 45 cm masinat, võib see olla oma hinda väärt, kuid lõplik hinnang sõltub teie eelarvest ja konkreetsetest vajadustest."
+    }
+  ]
+}

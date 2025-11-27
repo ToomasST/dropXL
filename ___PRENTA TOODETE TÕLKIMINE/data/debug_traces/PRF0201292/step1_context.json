@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283060418 8020283060418 Hood ELICA INN 2.0 IX/A/52",
+  "search_queries": {
+    "main_query": "integreeritav õhupuhasti Elica INN 2.0 IX/A/52 52 cm roostevaba",
+    "additional_queries": [
+      "kuidas eemaldada köögis toidulõhnad ja aur integreeritava õhupuhastiga Elica INN 2.0 IX/A/52",
+      "integreeritav 60 cm köögi õhupuhasti 690 m3/h perimeertõmme avatud kööki",
+      "Elica INN 2.0 IX/A/52 vs tavaline teleskoop õhupuhasti – mille poolest parem",
+      "kuidas paigaldada ja hooldada Elica INN 2.0 IX/A/52 integreeritavat õhupuhastit (filtrite puhastus ja kanal)"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica INN 2.0 IX/A/52 sobib minu kööki ja olemasolevasse mööblikappi?",
+      "answer": "See mudel on täisintegreeritav õhupuhasti, mis on mõeldud paigaldamiseks 60 cm laiusesse ülakappi. Õhupuhasti enda laius on u 51,4 cm ja sügavus 28,2 cm, maksimaalne kõrgus umbes 36,7 cm, seega peab kapis olema piisavalt ruumi nii korpuse kui ka õhukanali jaoks. Väljatõmbetoru läbimõõt on 150 mm (sageli on komplektis või lisana üleminek 125 mm torule). Kui sinu kapp on 60 cm lai ja seal on võimalik õhukanal õue või ventilatsioonivõrku viia, sobib see mudel üldjuhul hästi; enne ostu mõõda kapp seest üle ja veendu, et kanalitee on lahendatav."
+    },
+    {
+      "question": "Kui lihtne on Elica INN 2.0 IX/A/52 õhupuhastit kasutada ja hooldada?",
+      "answer": "Õhupuhasti juhitakse elektrooniliste nuppudega ning seadmel on 3 töökiirust + intensiivne režiim, mida saad vastavalt toiduvalmistamisele valida. Perimeertõmme kogub auru ja lõhnu mööda servasid, mis muudab tõmbe efektiivsemaks. Seadmel on metallist rasvafilter, mida tuleks regulaarselt puhastada – tavaliselt saab seda eemaldada ja pesta käsitsi sooja vee ja nõudepesuvahendiga ning paljud kasutajad pesevad seda ka nõudepesumasinas (madalal temperatuuril). Kui kasutad lisaks söefiltrit (ringlusseadmena), tuleb seda aeg-ajalt välja vahetada vastavalt filtri tootja soovitusele ja kasutussagedusele. Paigaldus ise eeldab korrektset kinnitamist kappi ja õhukanali ühendamist; kui ventilatsiooni- või elektritööd ei ole sulle tuttavad, on mõistlik kasutada professionaalset paigaldust."
+    },
+    {
+      "question": "Kui töökindel on see mudel ja milline on hinna ja kvaliteedi suhe?",
+      "answer": "Elica INN 2.0 IX/A/52 on tuntud tootja Elica roostevabast terasest täisintegreeritav õhupuhasti, mille maksimaalne õhuvool on kuni umbes 690 m³/h ning energiatõhususe klass A. See tähendab, et seade on oma jõudluse kohta ökonoomne ja sobib hästi keskmise suurusega kööki, kus süüakse ja küpsetatakse igapäevaselt. Perimeertõmme, suhteliselt madal müratase (u 51–67 dB sõltuvalt kiirusest) ja LED-valgustus tõstavad kasutusmugavust. Garantii pikkus sõltub konkreetse müüja tingimustest ja riigi seadustest, kuid tavaliselt on see vähemalt 2 aastat – täpse info leiad ostukohast. Arvestades integreeritavat disaini, võimsust ja energiaklassi, pakub see mudel üldjuhul väga head hinna ja kvaliteedi suhet võrreldes lihtsamate teleskoop- või väiksema võimsusega lahendustega."
+    }
+  ]
+}

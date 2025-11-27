@@ -1,0 +1,81 @@
+{
+  "model": "gpt-5.1",
+  "instructions": "\n                Sa tegutsed tooteanalüüsi spetsialisti ja uuriva copywriter'ina. See on \"STEP 1: Kontekst\", mille tulemusi kasutavad kõik järgnevad sammud.\n\n                Töötle olemasolevat toote alginfot (ilma veebiotsinguta) ja koonda sellest kontekst, mis aitab hilisemates sammudes luua AI-ajastule vastava müügikirjelduse.\n\n                Läbi antud materjal ja veendu, et suudad vastata järgmistele küsimustele:\n                1. Millist probleemi toode lahendab ja kuidas see ostja elu lihtsamaks teeb?\n                2. Kas see sobib sihtkasutaja vajadustele (kellele, millistes olukordades)?\n                3. Mis on toote põhiline funktsioon ja eesmärk (kuidas see töötab, millist tulemust annab)?\n                4. Kuidas see erineb alternatiividest/mudelitest ning millised on unikaalsed eelised?\n                6. Millised on peamised omadused ja tehnilised võtmenäitajad, mida peaks bullet'ites esile tooma?\n                7. Kas see mahub kliendi ruumi/ökosüsteemi (mõõdud, maht, kontekstuaalne sobivus)?\n                8. Millega see on ühilduv ja mis võib olla lisaks vajalik (platvormid, tarkvara, tarvikud, ökosüsteemid)?\n                9. Kui lihtne on seda kasutada ja hooldada (kasutusloogika, hooldus-/uuendusvajadused, „plug & play“ aspektid)?\n                10. Kui töökindel ja vastupidav see on ning milline on garantii või järelteenindus?\n                11. Mis on tootega kaasas ja mida tuleks vajadusel eraldi soetada?\n                12. Kas see on oma hinda väärt – milline on väärtuspakkumine ja pikaajaline kasu?\n\n                Nende järelduste põhjal loo väljundid, mida kasutame otse e-poes, SEO-s ja Q&A plokis:\n\n                - 5 otsingufraasi (1 peamine, 4 lisa), kõik loomulikus eestikeelses vormis ja tuginedes ainult olemasolevale infole.\n                  • main_query: fraas, mida inimene reaalselt kirjutaks otsingusse, kui ta otsib just seda konkreetset toodet (toote tüüp + 1–2 võtmeomadust + bränd/mudel).\n                  • additional_queries: 4 long-tail päringut, mis jagunevad nii:\n                    1) probleemipõhine: kuidas lahendada tüüpilist probleemi selle tootega;\n                    2) omaduspõhine: toote tüüp + võtmenäitaja (võimsus/mõõt/maht vms) + kasutusolukord;\n                    3) võrdlev: mille poolest see erineb teistest sarnastest mudelitest;\n                    4) kasutus/hooldus: kuidas paigaldada, hooldada või igapäevaselt kasutada.\n\n                  Väljendid võivad sisaldada tehnilisi tähiseid ja mudeleid, kuid väldi ingliskeelseid täislauseid.\n\n                - 3 Q&A küsimust ja vastust eesti keeles Q&A sektsiooni jaoks, mis aitavad kliendil ostuotsust teha. Kasuta järgmisi telgi:\n                  1) sobivus ja valik (kas see sobib minu ruumi, vajadustele, olemasoleva süsteemiga);\n                  2) kasutamine ja hooldus (kuidas seda kasutada, puhastada, paigaldada, hooldada);\n                  3) töökindlus, garantii ja hinna-väärtuse suhe (kui vastupidav see on, milline on garantii, mis on peamine kasutegur hinna suhtes).\n\n                Ära leiuta uusi fakte. Kui mõne info (nt konkreetne ühilduvus, garantiitingimus, täpne kasutusviis) kohta sisendmaterjal midagi ei ütle, ära seda välja mõtle – jäta vastus neutraalseks või ütle, et sisend seda ei täpsusta.\n\n                Tagasta (kõik väärtused eesti keeles):\n                - search_queries: objekt väljadega main_query (string) ja additional_queries (array 4 stringi)\n                - qa: massiiv 3 elemendiga, igas objektis question ja answer väljad\n                ",
+  "input": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "input_text",
+          "text": "Toote alginfo (JSON): {\"sku\": \"OSC6N181ES\", \"global_unique_id\": \"7332543973873\", \"source\": {\"source_system\": \"prenta\", \"source_product_id\": 31059, \"source_category_ids\": [27], \"rrp_price\": 699.0, \"purchase_price\": 515.0}, \"name\": \"Fridge AEG OSC6N181ES\", \"short_description\": \"\", \"description\": \"<img src=\\\"product_images/31059/flix_feature_1.webp\\\" alt=\\\"Food kept juicy, food kept hydrated\\\">\\n<h3>Food kept juicy, food kept hydrated</h3>\\n<p>Food kept juicy, food kept hydrated 6000 TwinTech® No Frost fridge-freezer protects flavours in every ingredient. It&#39;s dual cooling system ensures the freezer stays frost-free and the fridge humidity optimal preventing the food from drying out.</p>\\n<img src=\\\"product_images/31059/flix_feature_2.webp\\\" alt=\\\"TwinTech® No Frost - keeps food juicy and hydrated\\\">\\n<h3>TwinTech® No Frost - keeps food juicy and hydrated</h3>\\n<p>TwinTech® No Frost - keeps food juicy and hydrated TwinTech® No Frost has an advanced dual cooling system for the fridge and freezer. This technology ensures the freezer stays frost-free and the fridge humidity optimal, preventing the food from drying out.</p>\\n<img src=\\\"product_images/31059/flix_feature_3.webp\\\" alt=\\\"Peace Of Mind Included\\\">\\n<h3>Peace Of Mind Included</h3>\\n<p>Peace Of Mind Included AEG produce quality home appliances that are built to last, all our appliances come with a 2 year manufacturer&#39;s warranty as standard to protect against manufacturing faults and defects that occur during this warranty period. See the terms and conditions for your manufacturer&#39;s warranty.</p>\\n<h3>Internal Electronic Control. For cooling precision</h3>\\n<p>Internal Electronic Control. For cooling precision The Internal Electronic Control feature gives you full command of the storage conditions of your food. The LED indicators show you the temperature setting clearly for convenient adjustment and control.</p>\\n<h3>Perfectly fresh food with Frostmatic</h3>\\n<p>Perfectly fresh food with Frostmatic The Frostmatic function activates the maximum freezing power, so your fresh produce freezes as quickly as possible. The freezer then returns to its normal setting.</p>\\n<h3>LED lighting illuminates every corner</h3>\\n<p>LED lighting illuminates every corner The internal LED lighting produces a discreet, soft light, shining evenly across the whole space. Plus, LED bulbs are smaller and more energy efficient than standard bulbs – a more sustainable choice.</p>\", \"type\": \"simple\", \"status\": \"publish\", \"featured\": false, \"catalog_visibility\": \"visible\", \"regular_price\": \"699.0\", \"sale_price\": \"\", \"purchasable\": true, \"virtual\": false, \"tax_status\": \"taxable\", \"tax_class\": \"\", \"manage_stock\": true, \"stock_status\": \"instock\", \"stock_quantity\": 5, \"backorders\": \"no\", \"backorders_allowed\": false, \"backordered\": false, \"low_stock_amount\": null, \"sold_individually\": false, \"weight\": \"58.0\", \"dimensions\": {\"length\": \"54.9\", \"width\": \"54.6\", \"height\": \"177.2\"}, \"shipping_required\": true, \"shipping_taxable\": true, \"shipping_class\": \"prenta\", \"reviews_allowed\": true, \"average_rating\": \"0.00\", \"rating_count\": 0, \"upsell_ids\": [], \"cross_sell_ids\": [], \"category\": {\"source_id\": 27, \"path\": \"All > Saleable > Home appliances > Built in > Fridge\", \"translated_path\": \"Kodutehnika > Integreeritav kodutehnika > Integreeritavad külmikud\", \"leaf_name\": \"Integreeritavad külmikud\"}, \"categories\": [{\"name\": \"Integreeritavad külmikud\"}], \"brands\": [{\"name\": \"AEG\"}], \"tags\": [], \"images\": [{\"src\": \"product_images/31059/image_1.webp\", \"alt\": \"Fridge AEG OSC6N181ES\"}, {\"src\": \"product_images/31059/flix_gallery_1.webp\", \"alt\": \"Fridge AEG OSC6N181ES\"}, {\"src\": \"product_images/31059/flix_gallery_2.webp\", \"alt\": \"Fridge AEG OSC6N181ES\"}, {\"src\": \"product_images/31059/flix_gallery_3.webp\", \"alt\": \"Fridge AEG OSC6N181ES\"}, {\"src\": \"product_images/31059/flix_gallery_4.webp\", \"alt\": \"Fridge AEG OSC6N181ES\"}, {\"src\": \"product_images/31059/flix_gallery_5.webp\", \"alt\": \"Fridge AEG OSC6N181ES\"}, {\"src\": \"product_images/31059/flix_gallery_6.webp\", \"alt\": \"Fridge AEG OSC6N181ES\"}, {\"src\": \"product_images/31059/flix_gallery_7.webp\", \"alt\": \"Fridge AEG OSC6N181ES\"}, {\"src\": \"product_images/31059/flix_gallery_8.webp\", \"alt\": \"Fridge AEG OSC6N181ES\"}, {\"src\": \"product_images/31059/flix_gallery_9.webp\", \"alt\": \"Fridge AEG OSC6N181ES\"}, {\"src\": \"product_images/31059/flix_gallery_10.webp\", \"alt\": \"Fridge AEG OSC6N181ES\"}, {\"src\": \"product_images/31059/flix_gallery_11.webp\", \"alt\": \"Fridge AEG OSC6N181ES\"}, {\"src\": \"product_images/31059/flix_gallery_12.webp\", \"alt\": \"Fridge AEG OSC6N181ES\"}], \"attributes\": [{\"name\": \"Product line\", \"values\": [\"AEG Exclusive\"]}, {\"name\": \"Producer\", \"values\": [\"AEG\"]}, {\"name\": \"Type of installation\", \"values\": [\"Built in\"]}, {\"name\": \"Type\", \"values\": [\"Fridge with bottom freezer\"]}, {\"name\": \"Type of refrigeration technology\", \"values\": [\"No frost\"]}, {\"name\": \"Color\", \"values\": [\"White\"]}, {\"name\": \"New Energy efficiency class\", \"values\": [\"E\"]}, {\"name\": \"Cold drawer\", \"values\": [\"No\"]}, {\"name\": \"Freezer to fridge\", \"values\": [\"No\"]}, {\"name\": \"Control\", \"values\": [\"Internal electronic control\"]}, {\"name\": \"Annual energy consumption (kWh)\", \"values\": [\"216\"]}, {\"name\": \"Net capacity of refrigerator (l)\", \"values\": [\"195\"]}, {\"name\": \"Net capacity of freezer (l)\", \"values\": [\"62\"]}, {\"name\": \"Telescopic rails of cold drawer\", \"values\": [\"No\"]}, {\"name\": \"Type of hinges\", \"values\": [\"Sliding\"]}, {\"name\": \"Soft door closing\", \"values\": [\"No\"]}, {\"name\": \"Metallized rear wall\", \"values\": [\"No\"]}, {\"name\": \"Door handle\", \"values\": [\"No\"]}, {\"name\": \"Humidity controlled drawer for fruits/vegetables\", \"values\": [\"No\"]}, {\"name\": \"Ice maker\", \"values\": [\"No\"]}, {\"name\": \"Type of compressor\", \"values\": [\"Inverter\"]}, {\"name\": \"Fan\", \"values\": [\"No\"]}, {\"name\": \"Air cleaning filter\", \"values\": [\"No\"]}, {\"name\": \"Antibacterial technology\", \"values\": [\"No\"]}, {\"name\": \"Bottle shelf\", \"values\": [\"No\"]}, {\"name\": \"Divisible glass shelf\", \"values\": [\"No\"]}, {\"name\": \"Door lock\", \"values\": [\"No\"]}, {\"name\": \"Open door signal\", \"values\": [\"Yes\"]}, {\"name\": \"Rising temperature indicator\", \"values\": [\"Yes\"]}, {\"name\": \"Eco mode\", \"values\": [\"No\"]}, {\"name\": \"Holiday function\", \"values\": [\"No\"]}, {\"name\": \"Individually adjustable door shelves\", \"values\": [\"No\"]}, {\"name\": \"Rapid cooling in refrigerator\", \"values\": [\"No\"]}, {\"name\": \"Reversible doors\", \"values\": [\"Yes\"]}, {\"name\": \"Lighting\", \"values\": [\"LED\"]}, {\"name\": \"Number of freezer boxes/shelfs\", \"values\": [\"3\"]}, {\"name\": \"Fully removable drawers and intermediate glass shelves in freezer\", \"values\": [\"No\"]}, {\"name\": \"Fast freeze function in freezer\", \"values\": [\"Yes\"]}, {\"name\": \"Freezing capacity in 24 hours (kg/24 hours)\", \"values\": [\"4.5\"]}, {\"name\": \"Noise level (dB)\", \"values\": [\"35\"]}, {\"name\": \"Noise level class\", \"values\": [\"B\"]}, {\"name\": \"Standardized height (cm)\", \"values\": [180]}, {\"name\": \"Standardized width (cm)\", \"values\": [55]}, {\"name\": \"Wi-Fi\", \"values\": [\"No\"]}, {\"name\": \"Freezer freezing temperature\", \"values\": [\"-14°C - -24°C\"]}, {\"name\": \"Maximum freezer storage time in power failure (hours)\", \"values\": [\"9\"]}, {\"name\": \"Energy efficiency class\", \"values\": [\"E\"]}], \"default_attributes\": [], \"variations\": [], \"grouped_products\": [], \"menu_order\": 0, \"related_ids\": [], \"meta_data\": [{\"key\": \"_bp_gtin13\", \"value\": \"7332543973873\"}, {\"key\": \"_bp_supplier\", \"value\": \"Prenta\"}, {\"key\": \"_bp_brand\", \"value\": \"AEG\"}]}"
+        }
+      ]
+    }
+  ],
+  "tools": [],
+  "text": {
+    "verbosity": "medium",
+    "format": {
+      "type": "json_schema",
+      "name": "context_and_research_schema",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "search_queries": {
+            "type": "object",
+            "properties": {
+              "main_query": {
+                "type": "string"
+              },
+              "additional_queries": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                },
+                "minItems": 4,
+                "maxItems": 4
+              }
+            },
+            "required": [
+              "main_query",
+              "additional_queries"
+            ],
+            "additionalProperties": false
+          },
+          "qa": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": 3,
+            "items": {
+              "type": "object",
+              "properties": {
+                "question": {
+                  "type": "string"
+                },
+                "answer": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "question",
+                "answer"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "search_queries",
+          "qa"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "reasoning": {
+    "effort": "medium"
+  },
+  "previous_response_id": null,
+  "service_tier": "default"
+}

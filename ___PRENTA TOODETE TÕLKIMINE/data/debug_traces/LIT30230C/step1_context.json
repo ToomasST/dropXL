@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543848287 7332543848287 Hob ELECTROLUX LIT30230C",
+  "search_queries": {
+    "main_query": "Electrolux LIT30230C 30 cm kahe tsooniga induktsioonpliidiplaat",
+    "additional_queries": [
+      "väikese köögi jaoks kitsas 30 cm Electrolux induktsioonpliidiplaat",
+      "kahe keedualaga 3650 W induktsioonpliidiplaat 30 cm tööpinna jaoks",
+      "Electrolux LIT30230C võrreldes teiste 30 cm modulaarsete induktsioonpliidiplaatidega",
+      "Electrolux LIT30230C induktsioonpliidiplaadi paigaldus ja puutetundliku juhtimise kasutamine"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LIT30230C induktsioonpliidiplaat sobib minu kööki ja kas seda saab kombineerida teiste pliidiplaatidega?",
+      "answer": "Electrolux LIT30230C on 30 cm laiune modulaarne induktsioonpliidiplaat kahe keedualaga, mis sobib hästi väiksematesse köökidesse, köögisaartele või olukordadesse, kus on vähe tööpinna laiust. Sisendinfo põhjal on seda võimalik kombineerida teiste Electroluxi modulaarsete pliidiplaatidega (gaas-, induktsioon- või elektriplaadid), et luua just sinu vajadustele vastav lahendus. Pliidiplaadi mõõdud on ligikaudu 52 × 29 × 4,4 cm ning paigaldustüüp on üleselt paigaldatav (surface mounting). Täpse sobivuse jaoks tuleks kontrollida oma tööpinna väljalõike mõõte ja elektriühenduse nõudeid, mida sisend ei täpsusta."
+    },
+    {
+      "question": "Kui lihtne on Electrolux LIT30230C induktsioonpliidiplaati kasutada ja puhastada?",
+      "answer": "Sisendi järgi on Electrolux LIT30230C kasutamine lihtne tänu puutetundlikule juhtpaneelile ja sileda vitrokeramika klaaspinnale. Toitel ning võimsusel saab mugavalt sõrmega valida, on olemas taimer ning pausifunktsioon, mis teeb igapäevase kasutamise lihtsamaks. Induktsioonitehnoloogia suunab kuumuse otse nõusse, mistõttu ümbrus jääb jahedamaks ja kasutus turvalisemaks. Klaaspind on sile ja ilma nuppudeta, mistõttu on seda sisendi põhjal lihtne puhastada. Täpsemaid puhastus- ja kasutusjuhiseid tootja juhendist sisend ei kirjelda."
+    },
+    {
+      "question": "Kui töökindel on Electrolux LIT30230C ja kas see on oma hinda väärt?",
+      "answer": "Sisendinfo ei täpsusta garantiitingimusi ega konkreetset töökindluse perioodi, kuid tegu on tuntud kaubamärgi Electrolux induktsioonpliidiplaadiga. Mudel LIT30230C pakub 3650 W koguvõimsust, PowerBoost kiirkuumutuse funktsiooni, taimerit, järelekuumuse indikaatorit, lapse lukku ja pausifunktsiooni, mis suurendavad nii turvalisust kui kasutusmugavust. Modulaarne 30 cm lahendus on eriti väärtuslik neile, kellel on vähe ruumi või kes soovivad ise erinevatest pliidiplaatidest komplekti kokku panna. Garantiitingimused ja järelteenindus sõltuvad müüjast ning neid sisend ei täpsusta, seega tasub need enne ostu müüjalt üle küsida."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7612985885881 7612985885881 Hood FABER IN-NOVA PREMIUM BK M A60/2",
+  "search_queries": {
+    "main_query": "integreeritav õhupuhasti Faber IN-NOVA PREMIUM BK M A60/2 60 cm must",
+    "additional_queries": [
+      "kuidas eemaldada tugevaid toidulõhnu köögist integreeritava õhupuhastiga Faber IN-NOVA PREMIUM",
+      "integreeritav õhupuhasti 60 cm A energiaklassiga perimeertõmbe ja LED-valgustusega avatud kööki",
+      "mille poolest erineb Faber IN-NOVA PREMIUM BK M A60/2 teistest 60 cm integreeritavatest õhupuhastitest",
+      "kuidas paigaldada ja igapäevaselt kasutada Faber IN-NOVA PREMIUM BK M A60/2 integreeritavat kubu ja aktiivsöefiltri komplekte"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Faber IN-NOVA PREMIUM BK M A60/2 sobib minu kööki ja standardsesse 60 cm seinakappi?",
+      "answer": "See mudel on integreeritav õhupuhasti standardse laiusega 60 cm (tooteandmetes „Standardized width (cm)“ 60). Korpuse mõõdud on ligikaudu 56,2 × 36 cm ning kõrgus umbes 340 mm, seega sobib see tüüpilisse 60 cm laiusesse ülakappi, eeldusel et kapi sügavus ja ehitus lubavad paigalduse. Õhupuhasti on mõeldud ühendamiseks ventilatsioonitoruga (hood version: duct out, väljatõmme), kanaliga ühendamiseks on vaja 150 mm läbimõõduga toru. Kui ventilatsioonitoru kasutamine ei ole võimalik ja soovite siseõhu ringlust, on kirjelduses toodud eraldi müüdavad aktiivsöefiltrite komplektid – nende sobivuse ja konfiguratsiooni osas tuleks täpsustada müüjalt või paigaldajalt."
+    },
+    {
+      "question": "Kui lihtne on seda õhupuhastit kasutada ja hooldada?",
+      "answer": "Faber IN-NOVA PREMIUM BK M A60/2 kasutamine on lihtne: seadmel on elektrooniline juhtimine ning perimeertõmme, mis tõmbab auru ja lõhnad sisse läbi ümberäärse pilu. LED-valgustus tagab hea nähtavuse pliidi kohal ning autonoomne sensoritehnoloogia aitab õhu eemaldamist automaatselt juhtida (sisend viitab „Autonomous sensor technology: Yes“, kuid täpne tööloogika ei ole kirjeldatud). Hoolduse kohta (näiteks millist rasvafiltrit kasutatakse ja kuidas seda puhastada) sisendmaterjal täpseid juhiseid ei anna – selleks tuleb lähtuda tootja kasutusjuhendist. Aktiivsöefiltrid on saadaval eraldi komplektidena (Charcoal filter F9 KIT, Long Lasting FLL9 KIT), mille vahetussagedus sõltub tootja soovitustest ja kasutuskoormusest."
+    },
+    {
+      "question": "Kui töökindel ja energiatõhus see mudel on ning kas see on oma hinda väärt?",
+      "answer": "Sisendandmete põhjal on Faber IN-NOVA PREMIUM BK M A60/2 energiatõhus A energiaklassi õhupuhasti (aastane energiatarve u 54 kWh), LED-valgustusega ja perimeertõmbega. Maksimaalne õhuvool on kuni 570 m³/h (booster režiimis 670 m³/h) ning müratase jääb vahemikku 53–69 dB, mis on selle võimsusklassi integreeritava kubu kohta tavapärane. Mudel kuulub Faber Semi Exclusive tootesarja ja pakub lisaks autonoomsele sensorile ka võimalust kasutada lisavarustusena puldpulti (REMOTE CONTROL 7T PREMIUM BLACK) ning kaugmootori komplekti (KIT REMOTE BLOWER ENERGY-PRO), mis võib suurendada kasutusmugavust ja vähendada müra köögis. Garantiitingimusi ja täpset töökindluse infot sisend ei kirjelda, seega tuleb garantii pikkus ja tingimused üle kontrollida müüjalt. Lähtuvalt võimsusest, energiatõhususest ja lisavõimalustest pakub toode tugevat hinna–võimekuse suhet neile, kes otsivad kvaliteetset integreeritavat väljatõmbekubu."
+    }
+  ]
+}

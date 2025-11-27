@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543987160 7332543987160 Dishwasher ELECTROLUX EEG88520W",
+  "search_queries": {
+    "main_query": "integreeritav nõudepesumasin Electrolux EEG88520W 60 cm",
+    "additional_queries": [
+      "kuidas kaitsta õrnu veiniklaase nõudepesumasinas Electrolux EEG88520W (SoftGrips ja SoftSpikes)",
+      "60 cm integreeritav nõudepesumasin 14 nõudekomplekti jaoks avatud kööki 42 dB",
+      "Electrolux EEG88520W vs teised Electrolux integreeritavad nõudepesumasinad",
+      "kuidas kasutada QuickSelect ja Wi-Fi funktsiooni nõudepesumasinal Electrolux EEG88520W"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EEG88520W sobib minu köögi mööblikappi ja ruumi?",
+      "answer": "See on täislaiuses (60 cm) integreeritav nõudepesumasin, mis on mõeldud paigaldamiseks köögimööbli sisse. Toote standardlaius on 60 cm, minimaalne kõrgus 81,8 cm ja maksimaalne kõrgus 89,8 cm, seega sobib see enamikesse standardsetesse 60 cm integreeritavatesse niššidesse. Mahutavus on 14 nõudekomplekti, mis sobib hästi keskmise või suurema pere igapäevaseks kasutuseks. Täpse sobivuse kontrollimiseks mõõtke oma kapp ja võrrelge olemasolevate mõõtudega; sisend ei täpsusta muid paigaldusnõudeid."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EEG88520W nõudepesumasinat kasutada ja hooldada?",
+      "answer": "Masinat juhitakse puutejuhtimisega LCD-paneelilt ning QuickSelect-liuguriga, millega saab lihtsalt valida pesutsükli kestuse. Ecometer näitab roheliste ribadega kõige säästlikuma programmi, lisaks on olemas automaatprogramm, klaasiprogramm, ajasäästu ja viitstardi funktsioon. Nõud paigutatakse kolmesse korvi, üleval on MaxiFlex söögiriistade sahtel, mis mahutab eri kujuga tarvikuid. Seadmel on Wi-Fi, mis võimaldab seda juhtida ja jälgida nutiseadme rakenduse kaudu; sisend ei täpsusta rakenduse üksikasju. Hoolduse (nt filtrite puhastamine või katlakivi ennetamine) osas tuleks järgida kasutusjuhendit, mida sisend täpsemalt ei kirjelda."
+    },
+    {
+      "question": "Kui töökindel ja ökonoomne on Electrolux EEG88520W ning milline on garantiiga seotu?",
+      "answer": "Sisend kirjeldab inverter-mootorit, roostevabast terasest sisuvanni, SatelliteClean® kõrgema efektiivsusega pihusteid ja automaatset ukse avanemist tsükli lõpus – need lahendused viitavad heale pesutulemusele ja vastupidavusele. Müra on 42 dB (klass B), mistõttu sobib see hästi avatud kööki. Energiaklass on B, energiakulu 64 kWh / 100 tsüklit ja vee kulu 9,9 l tsükli kohta, mis teeb masina üsna ökonoomseks. Sisend ei täpsusta garantiiaega ega eritingimusi – need sõltuvad müüjast ja kohalike garantiireeglite kokkulepetest. Hinna-väärtuse mõttes pakub seade lisaks tavapärasele pesule ka klaasihoiuga SoftGrips/SoftSpikes lahendust, MaxiFlex sahtlit ja nutikat Wi-Fi/QuickSelect juhtimist, mis aitab nii mugavuse kui ka kulude optimeerimisega pikemas plaanis."
+    }
+  ]
+}

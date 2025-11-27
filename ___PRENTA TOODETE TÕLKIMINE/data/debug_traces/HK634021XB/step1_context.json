@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543484355 7332543484355 Hob AEG HK634021XB",
+  "search_queries": {
+    "main_query": "AEG HK634021XB 60 cm klaaskeraamiline elektripliidiplaat",
+    "additional_queries": [
+      "kuidas vältida laste juhuslikku pliidi sisselülitamist AEG HK634021XB lapse lukustusega",
+      "4 keedualaga 60 cm klaaskeraamiline integreeritav pliidiplaat AEG HK634021XB igapäevaseks kasutamiseks",
+      "AEG HK634021XB võrdlus teiste 60 cm klaaskeraamiliste pliidiplaatidega",
+      "AEG HK634021XB paigaldus, kasutamine ja klaaskeraamilise pinna puhastamine"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG HK634021XB pliidiplaat sobib minu köögi tööpinnale?",
+      "answer": "AEG HK634021XB on integreeritav klaaskeraamiline elektripliidiplaat standardse 60 cm laiusega, seega sobib üldjuhul enamikele 60 cm köögimoodulitele. Tootel on 4 keeduala ning tegemist on pealtpaigaldatava (surface mounting) mudeliga. Pliidiplaadi välismõõdud on ligikaudu 57,6 × 51,6 cm, kõrgus 4 cm; standardiseeritud laius on 60 cm ja sügavus 50 cm. Täpsed tööpinna väljalõike mõõdud ei ole tootekirjelduses toodud, seega tuleks need võtta paigaldus-/kasutusjuhendist või küsida müüjalt/installatsiooniteenuselt."
+    },
+    {
+      "question": "Kui lihtne on AEG HK634021XB pliidiplaati kasutada ja hooldada?",
+      "answer": "Pliidiplaat on varustatud puutetundlike juhtnuppudega, mis võimaldavad täpselt reguleerida kõiki 4 keeduala. Olemas on automaatne eelkuumutuse funktsioon (Automax / Automatic heating-up), mis kuumutab keeduala kiiresti ja lülitub seejärel valitud võimsustasemele, samuti taimer kuni 99 minutini, mida saab kasutada nii keetmisaja kui ka meeldetuletusena. Pause-funktsioon võimaldab toiduvalmistamise ajutiselt peatada ja seejärel jätkata samadelt seadistustelt, lapse lukk hoiab ära pliidi juhusliku sisselülitamise ning jääkkuumuse indikaator näitab, kui pind on veel kuum. Pind on sile klaaskeraamiline (vitrokeramika), mis on üldjuhul lihtsasti puhastatav sobivate puhastusvahenditega, kuid täpset hooldusjuhist tootekirjeldus ei täpsusta – selle leiab kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel on AEG HK634021XB ja milline on garantii ning hinna-väärtuse suhe?",
+      "answer": "Tootekirjeldus ei too eraldi välja garantiiaega ega konkreetseid töökindluse näitajaid – garantii tingimused sõltuvad müüjast ja kehtivatest reeglitest. Funktsioonide poolest pakub see mudel heas hinnaklassis mitmeid praktilisi lahendusi: 4 keeduala, laiendatavad tsoonid (extension zones), 6300 W koguvõimsus, puutetundlik juhtimine, automaatne eelkuumutamine, taimer, Pause-funktsioon, lapse lukk ja jääkkuumuse näidik. Need võimaldavad toitu valmistada täpselt ja mugavalt ning suurendavad ohutust. Kui otsite 60 cm integreeritavat klaaskeraamilist elektripliidiplaati koos ohutus- ja mugavusfunktsioonidega, on AEG HK634021XB funktsioonide ja hinna suhe tootekirjelduse põhjal tugev."
+    }
+  ]
+}

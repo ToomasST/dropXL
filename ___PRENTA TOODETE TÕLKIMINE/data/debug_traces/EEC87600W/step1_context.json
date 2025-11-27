@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394080888 7333394080888 Dishwasher ELECTROLUX EEC87600W",
+  "search_queries": {
+    "main_query": "Electrolux EEC87600W integreeritav nõudepesumasin ComfortLift ja WiFi",
+    "additional_queries": [
+      "nõudepesumasin seljasõbralik tõstetava alumise korviga ComfortLift Electrolux",
+      "integreeritav nõudepesumasin 60 cm A energiaklass 43 dB vaikselt töötav kööki",
+      "Electrolux EEC87600W võrreldes tavalise integreeritava nõudepesumasinaga ComfortLift ja nutijuhtimine",
+      "kuidas ühendada ja kasutada Electrolux EEC87600W WiFi-ga ning valida QuickSelect pesuprogrammi"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EEC87600W sobib minu köögimööblisse ja kui palju nõusid sinna mahub?",
+      "answer": "Electrolux EEC87600W on integreeritav 60 cm laiune nõudepesumasin, mis on mõeldud köögimööbli sisse paigaldamiseks. Standardiseeritud laius on 60 cm ja paigalduskõrgus on reguleeritav vahemikus umbes 81,8–89,8 cm, seadme sügavus on u 56 cm. Seade mahutab kuni 14 nõudekomplekti ning sellel on 3 korvi, sh ComfortLift-funktsiooniga alumine korv. Tooteinfo ei täpsusta, kas mööbliesipaneel (ukseplaat) kuulub komplekti, seega vajadusel kontrolli seda müüjalt või paigaldusjuhendist."
+    },
+    {
+      "question": "Kui lihtne on seda nõudepesumasinat kasutada ja kuidas toimub igapäevane kasutamine?",
+      "answer": "Electrolux EEC87600W kasutamine on tehtud võimalikult mugavaks. Seadmel on tekstitüüpi puutejuhtimine QuickSelect funktsiooniga – libistatava juhtliistuga valid soovitud tsükli aja ning Ecometer näitab, milline valik on kõige säästlikum. Nõud on lihtne paigutada tänu 3 korvile ja ComfortLift tõstemehhanismile alumisel korvil, mis tõstab korvi vöökõrgusele. Masin avab tsükli lõpus ukse automaatselt, sisemus on valgustatud ja TimeBeam® projitseerib põrandale tsükli oleku ja järelejäänud aja. WiFi ühendus võimaldab nõudepesumasinat rakenduse kaudu nutikalt juhtida ja jälgida. Täpsemad paigaldus- ning puhastus- ja hooldusjuhised (nt filtrite puhastamine) ei ole tootekirjelduses välja toodud ja need tuleks võtta kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel ja ökonoomne see mudel on ning milline on garantii?",
+      "answer": "Tootekirjelduse järgi on Electrolux EEC87600W energiatõhus A energiaklassi integreeritav nõudepesumasin. Energiakulu on 54 kWh 100 tsükli kohta ja veekulu u 11 l tsükli kohta, mis aitab pikemas plaanis kulusid vähendada. Seadmel on inverter-mootor, roostevabast terasest sisevann, lekkevastane veekaitse ning vaikne töö (müra tase 43 dB, müraklass B), mis viitab kvaliteetsele ja vastupidavale ehitusele. Garantii kestust ja täpseid tingimusi tooteinfo kahjuks ei täpsusta – selle osas palun vaata müüja või maaletooja garantiitingimusi. Hinna ja väärtuse suhtes pakub mudel lisaks ökonoomsusele mugavusfunktsioone nagu ComfortLift, automaatne ukse avanemine, QuickSelect, TimeBeam® ja WiFi-nutijuhtimine, mis eristavad seda paljudest tavapärastest integreeritavatest masinatest."
+    }
+  ]
+}

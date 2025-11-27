@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543637683 7332543637683 Hob ELECTROLUX EIS62443",
+  "search_queries": {
+    "main_query": "Electrolux EIS62443 60 cm integreeritav induktsioonpliidiplaat SenseBoil ja Hob2Hood",
+    "additional_queries": [
+      "kuidas vältida vee ülekeemist köögis Electrolux SenseBoil keeduanduriga induktsioonpliidiplaadiga",
+      "60 cm must integreeritav induktsioonpliidiplaat 7200 W nelja keedualaga väikese köögi jaoks",
+      "mille poolest erineb Electrolux EIS62443 induktsioonpliidiplaat teistest 60 cm mudelitest Hob2Hood ja keeduanduriga",
+      "kuidas kasutada, lukustada ja puhastada Electrolux EIS62443 induktsioonpliidiplaati"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EIS62443 induktsioonpliidiplaat sobib minu kööki ja olemasoleva tehnikaga?",
+      "answer": "Electrolux EIS62443 on integreeritav induktsioonpliidiplaat standardse laiusega 60 cm (toote mõõdud ligikaudu 59 × 52 × 4,4 cm). See sobib enamikele tavalistele tööpindadele, kuid täpsed väljalõike mõõdud ei ole sisendis toodud – need tuleks kontrollida paigaldusjuhendist. Pliidiplaadil on neli keeduala ja koguvõimsus 7200 W, seega vajab see sobivat elektriühendust (ühenduse tüüpi sisend ei täpsusta). Hob2Hood® funktsioon võimaldab pliidiplaadil juhtmevabalt suhelda ühilduvate Electroluxi õhupuhastitega, kuid konkreetset ühilduvate mudelite loetelu sisend ei sisalda. Induktsiooniga töötamiseks on vaja induktsiooniga ühilduvaid keedunõusid."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EIS62443 pliidiplaati kasutada ja puhastada?",
+      "answer": "Pliidiplaadil on jutik- ja liugurjuhtimine, kus iga keeduala võimsust saab eraldi reguleerida – see teeb kasutamise lihtsaks ja loogiliseks. SenseBoil® keeduandur tuvastab, millal vesi keema hakkab, ning langetab automaatselt temperatuuri, et vältida ülekeemist. Olemas on taimer, pausifunktsioon, lapse lukk ja jääksoojust näitavad indikaatorid, mis lisavad mugavust ja ohutust. Klaaskeraamiline (vitrokeramika) sile pind on sisendi järgi tasane ja seetõttu lihtsasti puhastatav – enamasti piisab niiskest lapist; täpsemad puhastus- ja hooldussoovitused on kasutusjuhendis, mida sisend ei ava."
+    },
+    {
+      "question": "Kui töökindel on see pliidiplaat, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Electrolux EIS62443 on tuntud tootja Electroluxi integreeritav induktsioonpliidiplaat, millel on mitmed turvalisust ja mugavust tõstvad funktsioonid: lapse lukk, jääksoojust näitavad indikaatorid, võimsuse piiramine, pausifunktsioon ning automaatne kuumutuse vähendamine SenseBoil® anduriga. PowerBoost tagab kiire kuumenemise, Hob2Hood® automatiseerib õhupuhasti tööd ja Infinite-tüüpi keedualad kohanduvad nõu suurusega, mis aitab energiat tõhusamalt kasutada. Garantii pikkust ja täpseid tingimusi sisend ei täpsusta – need sõltuvad müüjast/tootjast ja tuleks eraldi üle vaadata. Arvestades võimsust, funktsioonide hulka ja automaatikat, pakub seade oma hinnaklassis tugevat mugavus- ja ohutuspaketti pikaajaliseks kasutamiseks."
+    }
+  ]
+}

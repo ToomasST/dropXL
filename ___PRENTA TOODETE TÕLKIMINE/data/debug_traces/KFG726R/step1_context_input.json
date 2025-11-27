@@ -1,0 +1,81 @@
+{
+  "model": "gpt-5.1",
+  "instructions": "\n                Sa tegutsed tooteanalüüsi spetsialisti ja uuriva copywriter'ina. See on \"STEP 1: Kontekst\", mille tulemusi kasutavad kõik järgnevad sammud.\n\n                Töötle olemasolevat toote alginfot (ilma veebiotsinguta) ja koonda sellest kontekst, mis aitab hilisemates sammudes luua AI-ajastule vastava müügikirjelduse.\n\n                Läbi antud materjal ja veendu, et suudad vastata järgmistele küsimustele:\n                1. Millist probleemi toode lahendab ja kuidas see ostja elu lihtsamaks teeb?\n                2. Kas see sobib sihtkasutaja vajadustele (kellele, millistes olukordades)?\n                3. Mis on toote põhiline funktsioon ja eesmärk (kuidas see töötab, millist tulemust annab)?\n                4. Kuidas see erineb alternatiividest/mudelitest ning millised on unikaalsed eelised?\n                6. Millised on peamised omadused ja tehnilised võtmenäitajad, mida peaks bullet'ites esile tooma?\n                7. Kas see mahub kliendi ruumi/ökosüsteemi (mõõdud, maht, kontekstuaalne sobivus)?\n                8. Millega see on ühilduv ja mis võib olla lisaks vajalik (platvormid, tarkvara, tarvikud, ökosüsteemid)?\n                9. Kui lihtne on seda kasutada ja hooldada (kasutusloogika, hooldus-/uuendusvajadused, „plug & play“ aspektid)?\n                10. Kui töökindel ja vastupidav see on ning milline on garantii või järelteenindus?\n                11. Mis on tootega kaasas ja mida tuleks vajadusel eraldi soetada?\n                12. Kas see on oma hinda väärt – milline on väärtuspakkumine ja pikaajaline kasu?\n\n                Nende järelduste põhjal loo väljundid, mida kasutame otse e-poes, SEO-s ja Q&A plokis:\n\n                - 5 otsingufraasi (1 peamine, 4 lisa), kõik loomulikus eestikeelses vormis ja tuginedes ainult olemasolevale infole.\n                  • main_query: fraas, mida inimene reaalselt kirjutaks otsingusse, kui ta otsib just seda konkreetset toodet (toote tüüp + 1–2 võtmeomadust + bränd/mudel).\n                  • additional_queries: 4 long-tail päringut, mis jagunevad nii:\n                    1) probleemipõhine: kuidas lahendada tüüpilist probleemi selle tootega;\n                    2) omaduspõhine: toote tüüp + võtmenäitaja (võimsus/mõõt/maht vms) + kasutusolukord;\n                    3) võrdlev: mille poolest see erineb teistest sarnastest mudelitest;\n                    4) kasutus/hooldus: kuidas paigaldada, hooldada või igapäevaselt kasutada.\n\n                  Väljendid võivad sisaldada tehnilisi tähiseid ja mudeleid, kuid väldi ingliskeelseid täislauseid.\n\n                - 3 Q&A küsimust ja vastust eesti keeles Q&A sektsiooni jaoks, mis aitavad kliendil ostuotsust teha. Kasuta järgmisi telgi:\n                  1) sobivus ja valik (kas see sobib minu ruumi, vajadustele, olemasoleva süsteemiga);\n                  2) kasutamine ja hooldus (kuidas seda kasutada, puhastada, paigaldada, hooldada);\n                  3) töökindlus, garantii ja hinna-väärtuse suhe (kui vastupidav see on, milline on garantii, mis on peamine kasutegur hinna suhtes).\n\n                Ära leiuta uusi fakte. Kui mõne info (nt konkreetne ühilduvus, garantiitingimus, täpne kasutusviis) kohta sisendmaterjal midagi ei ütle, ära seda välja mõtle – jäta vastus neutraalseks või ütle, et sisend seda ei täpsusta.\n\n                Tagasta (kõik väärtused eesti keeles):\n                - search_queries: objekt väljadega main_query (string) ja additional_queries (array 4 stringi)\n                - qa: massiiv 3 elemendiga, igas objektis question ja answer väljad\n                ",
+  "input": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "input_text",
+          "text": "Toote alginfo (JSON): {\"sku\": \"KFG726R\", \"global_unique_id\": \"7332543814794\", \"source\": {\"source_system\": \"prenta\", \"source_product_id\": 39578, \"source_category_ids\": [25], \"rrp_price\": 299.0, \"purchase_price\": 228.66}, \"name\": \"Hood ELECTROLUX KFG726R\", \"short_description\": \"\", \"description\": \"<p style=\\\"color: rgb(76, 76, 76);\\\">ECFB01ST OdourClean STANDARD Carbon filter model</p><p style=\\\"color: rgb(76, 76, 76);\\\">ECFBPL02 OdourClean PLUS Carbon filter model</p><p style=\\\"color: rgb(76, 76, 76);\\\">M8CKSL28 SILENTIUM KIT COMPATIBLE</p><p style=\\\"color: rgb(76, 76, 76);\\\">M8CKSL07 <span style=\\\"font-family: inherit; font-style: initial; font-variant-ligatures: initial; font-variant-caps: initial; font-weight: initial;\\\">SILENTIUM KIT COMPATIBLE</span></p>\\n\\n<h3>Leiskite kaitlentei pasirūpinti gartraukiu</h3>\\n<p>Leiskite kaitlentei pasirūpinti gartraukiu 600 serijos gartraukis „Hob2Hood®“ automatiškai valdo galios nustatymus. Kai gaminate, ventiliatorius prisitaiko pagal kaitlentės nustatymus. Tokiu būdu galėsite patogiai gaminti maistą be jokių trukdžių.</p>\\n<img src=\\\"product_images/39578/flix_feature_1.webp\\\" alt=\\\"„Hob2Hood®“. Tobulas pagalbininkas ruošiant maistą\\\">\\n<h3>„Hob2Hood®“. Tobulas pagalbininkas ruošiant maistą</h3>\\n<p>„Hob2Hood®“. Tobulas pagalbininkas ruošiant maistą Funkcija „Hob2Hood®“ automatiškai įjungia gartraukio šviesas, kai įjungiate kaitlentę. Kai gaminate, ventiliatoriaus greitis automatiškai reguliuojamas pagal kaitlentės karščio nuostatas, veiksmingai pašalinant gaminimo kvapus.</p>\\n<img src=\\\"product_images/39578/flix_feature_2.webp\\\" alt=\\\"„ExtractionTech Plus“ - aukštos kokybės kvapų pašalinimas\\\">\\n<h3>„ExtractionTech Plus“ - aukštos kokybės kvapų pašalinimas</h3>\\n<p>„ExtractionTech Plus“ - aukštos kokybės kvapų pašalinimas „ExtractionTech Plus“ užtikrina, kad jūsų virtuvė išliks gaivi ir švari kiekvieną kartą gaminant maistą. Didelio našumo variklis kruopščiai išvalo orą ir pašalina kvapus, kad būtų geresnė maisto gaminimo aplinka.</p>\\n<img src=\\\"product_images/39578/flix_feature_3.webp\\\" alt=\\\"Apšvieskite gaminimo vietą su „Pure Illumination“\\\">\\n<h3>Apšvieskite gaminimo vietą su „Pure Illumination“</h3>\\n<p>Apšvieskite gaminimo vietą su „Pure Illumination“ Mūsų „Pure Illumination“ užtikrina stiprų ir patikimą apšvietimą, kad gamindami viską matytumėte. Energiją taupančios LED lemputės apšviečia visą gaminimo paviršių, kad galėtumėte matyti kiekvieną smulkmeną ruošdami valgius.</p>\\n<h3>„Grease Filter Plus“ užtikrina aukštą našumą</h3>\\n<p>„Grease Filter Plus“ užtikrina aukštą našumą „Grease Filter Plus“ užtikrina itin našų riebalų pašalinimą ir švarią maisto gaminimo aplinką. Filtrą lengva valyti rankomis arba indaplovėje, jis nuolat palaiko optimalų efektyvumą ir užtikrina puikius rezultatus.</p>\\n<img src=\\\"product_images/39578/flix_feature_4.webp\\\" alt=\\\"Nebereikia spėlioti apie filtro priežiūrą\\\">\\n<h3>Nebereikia spėlioti apie filtro priežiūrą</h3>\\n<p>Nebereikia spėlioti apie filtro priežiūrą Nereikia prisiminti, kada reikia valyti filtrus. Gartraukis turi patogią pranešimų apie filtrą sistemą, kuri primena, kai riebalų filtrą ir anglies filtrą reikia prižiūrėti – nereikia savęs apsikrauti.</p>\", \"type\": \"simple\", \"status\": \"publish\", \"featured\": false, \"catalog_visibility\": \"visible\", \"regular_price\": \"299.0\", \"sale_price\": \"\", \"purchasable\": true, \"virtual\": false, \"tax_status\": \"taxable\", \"tax_class\": \"\", \"manage_stock\": true, \"stock_status\": \"instock\", \"stock_quantity\": 5, \"backorders\": \"no\", \"backorders_allowed\": false, \"backordered\": false, \"low_stock_amount\": null, \"sold_individually\": false, \"weight\": \"9.2\", \"dimensions\": {\"length\": \"30\", \"width\": \"54\", \"height\": \"\"}, \"shipping_required\": true, \"shipping_taxable\": true, \"shipping_class\": \"prenta\", \"reviews_allowed\": true, \"average_rating\": \"0.00\", \"rating_count\": 0, \"upsell_ids\": [], \"cross_sell_ids\": [], \"category\": {\"source_id\": 25, \"path\": \"All > Saleable > Home appliances > Built in > Hood\", \"translated_path\": \"Kodutehnika > Integreeritav kodutehnika > Integreeritavad õhupuhastid/kubud\", \"leaf_name\": \"Integreeritavad õhupuhastid/kubud\"}, \"categories\": [{\"name\": \"Integreeritavad õhupuhastid/kubud\"}], \"brands\": [{\"name\": \"ELECTROLUX\"}], \"tags\": [], \"images\": [{\"src\": \"product_images/39578/image_1.webp\", \"alt\": \"Hood ELECTROLUX KFG726R\"}, {\"src\": \"product_images/39578/image_2.webp\", \"alt\": \"Hood ELECTROLUX KFG726R\"}, {\"src\": \"product_images/39578/image_3.webp\", \"alt\": \"Hood ELECTROLUX KFG726R\"}, {\"src\": \"product_images/39578/image_4.webp\", \"alt\": \"Hood ELECTROLUX KFG726R\"}, {\"src\": \"product_images/39578/flix_gallery_1.webp\", \"alt\": \"Hood ELECTROLUX KFG726R\"}, {\"src\": \"product_images/39578/flix_gallery_2.webp\", \"alt\": \"Hood ELECTROLUX KFG726R\"}, {\"src\": \"product_images/39578/flix_gallery_3.webp\", \"alt\": \"Hood ELECTROLUX KFG726R\"}, {\"src\": \"product_images/39578/flix_gallery_4.webp\", \"alt\": \"Hood ELECTROLUX KFG726R\"}, {\"src\": \"product_images/39578/flix_gallery_5.webp\", \"alt\": \"Hood ELECTROLUX KFG726R\"}, {\"src\": \"product_images/39578/flix_gallery_6.webp\", \"alt\": \"Hood ELECTROLUX KFG726R\"}, {\"src\": \"product_images/39578/flix_gallery_7.webp\", \"alt\": \"Hood ELECTROLUX KFG726R\"}, {\"src\": \"product_images/39578/flix_gallery_8.webp\", \"alt\": \"Hood ELECTROLUX KFG726R\"}], \"attributes\": [{\"name\": \"Product line\", \"values\": [\"Electrolux Exclusive\"]}, {\"name\": \"Producer\", \"values\": [\"Electrolux\"]}, {\"name\": \"Type of installation\", \"values\": [\"Built-in\"]}, {\"name\": \"Type of hood\", \"values\": [\"Not retractable\"]}, {\"name\": \"Hood version\", \"values\": [\"Duct out\"]}, {\"name\": \"Standardized width (cm)\", \"values\": [60]}, {\"name\": \"Wireless integration with hob\", \"values\": [\"Yes\"]}, {\"name\": \"Chimney\", \"values\": [\"No\"]}, {\"name\": \"Filter type\", \"values\": [\"No\"]}, {\"name\": \"Butterfly valve\", \"values\": [\"Yes\"]}, {\"name\": \"Perimeter aspiration\", \"values\": [\"Yes\"]}, {\"name\": \"Finish\", \"values\": [\"Painted steel\"]}, {\"name\": \"Color\", \"values\": [\"Black\"]}, {\"name\": \"Control\", \"values\": [\"Electronical\"]}, {\"name\": \"Lighting\", \"values\": [\"LED\"]}, {\"name\": \"Option to connect a dimmer\", \"values\": [\"No\"]}, {\"name\": \"Tune White\", \"values\": [\"No\"]}, {\"name\": \"Duct size, mm\", \"values\": [\"150\"]}, {\"name\": \"Autonomous sensor technology\", \"values\": [\"No\"]}, {\"name\": \"Back aspiration\", \"values\": [\"Yes\"]}, {\"name\": \"Wi-Fi\", \"values\": [\"No\"]}, {\"name\": \"Minimal Airflow (m3/h, IEC 61591)\", \"values\": [\"300\"]}, {\"name\": \"Maximum Airflow (m3/h, IEC 61591)\", \"values\": [\"580\"]}, {\"name\": \"Booster Airflow (m3/h, IEC 61591)\", \"values\": [\"700\"]}, {\"name\": \"Annual energy consumption (kWh)\", \"values\": [\"55\"]}, {\"name\": \"Energy efficiency class\", \"values\": [\"A\"]}, {\"name\": \"Fluid dynamic efficiency class\", \"values\": [\"A\"]}, {\"name\": \"Lighting efficiency class\", \"values\": [\"A\"]}, {\"name\": \"Grease filtering efficiency class\", \"values\": [\"D\"]}, {\"name\": \"Minimal Noise level, dB\", \"values\": [\"54\"]}, {\"name\": \"Maximum Noise level, dB\", \"values\": [\"67\"]}, {\"name\": \"Booster Noise level, dB\", \"values\": [\"70\"]}, {\"name\": \"Max Height (mm)\", \"values\": [\"331.0\"]}], \"default_attributes\": [], \"variations\": [], \"grouped_products\": [], \"menu_order\": 0, \"related_ids\": [], \"meta_data\": [{\"key\": \"_bp_gtin13\", \"value\": \"7332543814794\"}, {\"key\": \"_bp_supplier\", \"value\": \"Prenta\"}, {\"key\": \"_bp_brand\", \"value\": \"ELECTROLUX\"}]}"
+        }
+      ]
+    }
+  ],
+  "tools": [],
+  "text": {
+    "verbosity": "medium",
+    "format": {
+      "type": "json_schema",
+      "name": "context_and_research_schema",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "search_queries": {
+            "type": "object",
+            "properties": {
+              "main_query": {
+                "type": "string"
+              },
+              "additional_queries": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                },
+                "minItems": 4,
+                "maxItems": 4
+              }
+            },
+            "required": [
+              "main_query",
+              "additional_queries"
+            ],
+            "additionalProperties": false
+          },
+          "qa": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": 3,
+            "items": {
+              "type": "object",
+              "properties": {
+                "question": {
+                  "type": "string"
+                },
+                "answer": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "question",
+                "answer"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "search_queries",
+          "qa"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "reasoning": {
+    "effort": "medium"
+  },
+  "previous_response_id": null,
+  "service_tier": "default"
+}

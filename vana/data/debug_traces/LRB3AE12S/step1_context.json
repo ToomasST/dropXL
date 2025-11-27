@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543733088 7332543733088 LRB3AE12S",
+  "search_queries": {
+    "main_query": "Electrolux LRB3AE12S integreeritav külmik (ilma sügavkülmata)",
+    "additional_queries": [
+      "122 cm sisseehitatav külmik OptiSpace niiskuskontrolliga sahtliga",
+      "208 l integreeritav külmik 34 dB libiseva uksekinnitusega",
+      "E energiaklassiga integreeritav külmik 101 kWh/aastas",
+      "Electrolux 500 OptiSpace sisseehitatav külmik LRB3AE12S"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas see on sisseehitatav mudel ja mis uksekinnitusega? Kas ukse poolsust saab muuta?",
+      "answer": "Jah, Electrolux LRB3AE12S on integreeritav külmik (Built in) libiseva uksekinnitusega (sliding hinges). Ukse poolsus on ümberpööratav (Reversible doors)."
+    },
+    {
+      "question": "Millised on mõõdud ja millisesse köögimööbli nišši see sobib?",
+      "answer": "Külmiku mõõdud (K × L × S): 121,8 × 54,8 × 54,9 cm. Standardiseeritud niši mõõdud: kõrgus 125 cm ja laius 60 cm. Minimaalne ümbritsev temperatuur tööks on 10 °C. Paigalduse sobivus tasub üle kontrollida köögimööbli tootja juhistega."
+    },
+    {
+      "question": "Kas külmikul on sügavkülmik? Milline on maht, müratase ja energiakulu?",
+      "answer": "Sügavkülmikut ei ole (fridge without freezer). Külmiku netomaht on 208 l. Müratase 34 dB (klass B). Energiaklass E, hinnanguline aastane energiatarve 101 kWh."
+    }
+  ]
+}

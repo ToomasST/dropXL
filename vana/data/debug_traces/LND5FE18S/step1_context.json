@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543978625 7332543978625 LND5FE18S",
+  "search_queries": {
+    "main_query": "Electrolux LND5FE18S integreeritav külmik sügavkülmaga 177 cm",
+    "additional_queries": [
+      "Electrolux LND5FE18S ColdSense DynamicAir",
+      "177 cm 55 cm integreeritav külmkapp E klass 34 dB",
+      "Electrolux sisseehitatav külmik liughinged FastFreeze",
+      "Integreeritav külmik inverterkompressor 10-aastase garantiiga Electrolux"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LND5FE18S on NoFrost?",
+      "answer": "Ei. Mudel kasutab LessFrost-tehnoloogiat (vähem härmatist), seega sügavkülm vajab aeg-ajalt käsitsi sulatamist. Külmikus hoiab ühtlast temperatuuri DynamicAir ventilaator ning värske toidu kiireks külmutamiseks on FastFreeze."
+    },
+    {
+      "question": "Millised on mõõdud ja paigaldusnõuded? Kas ukse suunda saab muuta?",
+      "answer": "Seadme mõõdud on u x l x s: 177,2 × 54,6 × 54,9 cm. Külmik on integreeritav (sisseehitatav) ja kasutab liughingi süsteemi. Uste suund on pööratav (reversible). Palun kontrolli oma köögimööbli tootja juhiseid niši täpsete mõõtude ja paigaldusvahede osas."
+    },
+    {
+      "question": "Kui vaikne ja energiatõhus see on?",
+      "answer": "Müra on 34 dB (müraklass B). Energiamärgis on E, aastane energiatarve 221 kWh. Netomaht: külmik 196 l, sügavkülm 73 l. Kompressor on inverter-tüüpi ja sellele kehtib 10-aastane garantii."
+    }
+  ]
+}

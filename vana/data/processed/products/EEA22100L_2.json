@@ -1,0 +1,572 @@
+{
+  "name": "EEA22100L",
+  "type": "simple",
+  "status": "publish",
+  "catalog_visibility": "visible",
+  "description": "",
+  "description_flix": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Natural drying with fresh air\" src=\"data/processed/flix_media/18684/Electrolux-275366473-PSEEDW18MPA00003.webp\"/></figure><div class=\"flixf-body\"><h3>Natural drying with fresh air</h3><p>Our 300 AirDry Dishwasher finishes each cycle with a breath of fresh air, performing 3x better than closed-door systems. The door opens automatically during the drying phase using fresh air to get plates and cutlery completely dry.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"3x better drying with AirDry\" src=\"data/processed/flix_media/18684/Electrolux-275366473-PSEEDW18MPA00003_1.webp\"/></figure><div class=\"flixf-body\"><h3>3x better drying with AirDry</h3><p>The new AirDry technology uses natural airflow to finish drying, for up to 3x better performance compared to closed-door systems. The door opens 10 cm towards the end of the cycle, letting air circulate for superb drying results.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Water touches every corner, with the Dual Spray Arms</h3><p>Every glass, dish and plate is covered by the dishwasher's two rotating spray arms. The sprinklers make sure water gets into every corner, so your dishes come out sparkling. On both the upper and lower basket.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Quick and efficient</h3><p>Your new time saver. When you have a light load, our 30-minute quick wash programme offers the perfect solution. And all without compromising on results. For the perfect washing result - fast.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Easy installation, PerfectFit\" src=\"data/processed/flix_media/18684/Electrolux-275368141-PSEEDW19BIE00002.webp\"/></figure><div class=\"flixf-body\"><h3>Easy installation, PerfectFit</h3><p>With PerfectFit Sliding Hinges, it’s never been easier to install your new dishwasher. The hinges accommodate all niche machine heights and even remove the need to cut the plinth. You can be confident that your machine will fit into your kitchen perfectly.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Rinse and hold – pre-washing for freshness</h3><p>If it takes you a few days to fill up the dishwasher, the rinse and hold programme will prevent the build-up of odours in the meantime. Water jets remove food remnants from plates and glassware, making sure the kitchen stays fresh.</p></div></article></section>",
+  "short_description": "Natural drying with fresh air Our 300 AirDry Dishwasher finishes each cycle with a breath of fresh air, performing 3x better than closed-door systems. The door opens automatically during the drying phase using fresh air to get plates and cutlery completely dry. 3x better drying w",
+  "sku": "EEA22100L",
+  "regular_price": "367.90",
+  "sale_price": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": true,
+  "stock_quantity": 5,
+  "backorders": "no",
+  "backorders_allowed": false,
+  "backordered": false,
+  "supplier_sku_prefix": "RP-",
+  "weight": "33.33",
+  "dimensions": {
+    "length": "55",
+    "width": "44.6",
+    "height": "85"
+  },
+  "shipping_required": true,
+  "shipping_taxable": true,
+  "shipping_class": "prenta",
+  "reviews_allowed": true,
+  "categories": [
+    {
+      "name": "Kodutehnika > Integreeritav kodutehnika > Integreeritavad nõudepesumasinad",
+      "slug": "kodutehnika-integreeritav-kodutehnika-integreeritavad-nudepesumasinad"
+    }
+  ],
+  "brands": [
+    {
+      "name": "ELECTROLUX",
+      "slug": "electrolux"
+    }
+  ],
+  "tags": [],
+  "images": [
+    {
+      "src": "data/processed/product_images/18684/image_1.webp",
+      "position": 0,
+      "alt": "EEA22100L",
+      "origin": "prenta",
+      "source_url": "https://e.prenta.lt/web/image/product.product/18684/image?unique=6fe96c6"
+    }
+  ],
+  "meta_data": [
+    {
+      "key": "_bp_gtin13",
+      "value": "7332543732098"
+    },
+    {
+      "key": "_bp_supplier",
+      "value": "Prenta"
+    },
+    {
+      "key": "_bp_brand",
+      "value": "ELECTROLUX"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Producer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Electrolux"
+      ]
+    },
+    {
+      "name": "Type of installation",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Built-in"
+      ]
+    },
+    {
+      "name": "Standardized width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "45.0"
+      ]
+    },
+    {
+      "name": "Standardized height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "85"
+      ]
+    },
+    {
+      "name": "New Energy efficiency class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "F"
+      ]
+    },
+    {
+      "name": "Control",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Touch control without LCD"
+      ]
+    },
+    {
+      "name": "Control panel location",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Internal"
+      ]
+    },
+    {
+      "name": "Energy consumption for 100 cycles",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "78"
+      ]
+    },
+    {
+      "name": "Number of programs",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "6"
+      ]
+    },
+    {
+      "name": "Water consumption for 1 cycle",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "9.9"
+      ]
+    },
+    {
+      "name": "Number of temperatures",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "3"
+      ]
+    },
+    {
+      "name": "Noise level class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "C"
+      ]
+    },
+    {
+      "name": "Glass programme",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Automatic programme",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Duration for 1 cycle",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "240"
+      ]
+    },
+    {
+      "name": "Time saving",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Delay start programme",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Auto shut off",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Hot water inlet",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Type of motor",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Inverter"
+      ]
+    },
+    {
+      "name": "Number of baskets",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "2"
+      ]
+    },
+    {
+      "name": "Automatic door opening at the end of the cycle",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Higher efficiency sprays",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Upper spray",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Tub material",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Full stainless steel"
+      ]
+    },
+    {
+      "name": "Interior light",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Floor beam",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Sliding hinges",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Protection of water spill",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Installation in height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Lift for the lower basket",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Settings, Pcs",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "9"
+      ]
+    },
+    {
+      "name": "Minimal height, cm",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "81.8"
+      ]
+    },
+    {
+      "name": "Maximum height, cm",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "87.8"
+      ]
+    },
+    {
+      "name": "Width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "44.6"
+      ]
+    },
+    {
+      "name": "Depth",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "55.0"
+      ]
+    },
+    {
+      "name": "Noise level",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "47"
+      ]
+    },
+    {
+      "name": " Color",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "White"
+      ]
+    },
+    {
+      "name": "Wi-Fi",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    }
+  ],
+  "source": {
+    "prenta_product_id": 18684,
+    "prenta_category_path": "All > Saleable > Home appliances > Built in > Dishwasher",
+    "prenta_category_id": 26,
+    "price": {
+      "gross_price": 296.69,
+      "price": 260.0,
+      "product_id": 18684
+    },
+    "detail": {
+      "attribute_line_ids": [
+        {
+          "attribute_id": 486,
+          "value_id": 5022
+        },
+        {
+          "attribute_id": 517,
+          "value_id": 5982
+        },
+        {
+          "attribute_id": 509,
+          "value_id": 5075
+        },
+        {
+          "attribute_id": 508,
+          "value_id": 5261
+        },
+        {
+          "attribute_id": 773,
+          "value_id": 8203
+        },
+        {
+          "attribute_id": 492,
+          "value_id": 5988
+        },
+        {
+          "attribute_id": 575,
+          "value_id": 5991
+        },
+        {
+          "attribute_id": 778,
+          "value_id": 8459
+        },
+        {
+          "attribute_id": 577,
+          "value_id": 6041
+        },
+        {
+          "attribute_id": 779,
+          "value_id": 8458
+        },
+        {
+          "attribute_id": 578,
+          "value_id": 6066
+        },
+        {
+          "attribute_id": 776,
+          "value_id": 8225
+        },
+        {
+          "attribute_id": 579,
+          "value_id": 5993
+        },
+        {
+          "attribute_id": 580,
+          "value_id": 5994
+        },
+        {
+          "attribute_id": 780,
+          "value_id": 8422
+        },
+        {
+          "attribute_id": 581,
+          "value_id": 5996
+        },
+        {
+          "attribute_id": 582,
+          "value_id": 5998
+        },
+        {
+          "attribute_id": 583,
+          "value_id": 6000
+        },
+        {
+          "attribute_id": 584,
+          "value_id": 6002
+        },
+        {
+          "attribute_id": 585,
+          "value_id": 6005
+        },
+        {
+          "attribute_id": 586,
+          "value_id": 6007
+        },
+        {
+          "attribute_id": 587,
+          "value_id": 6010
+        },
+        {
+          "attribute_id": 588,
+          "value_id": 6013
+        },
+        {
+          "attribute_id": 589,
+          "value_id": 6015
+        },
+        {
+          "attribute_id": 590,
+          "value_id": 6017
+        },
+        {
+          "attribute_id": 591,
+          "value_id": 6020
+        },
+        {
+          "attribute_id": 592,
+          "value_id": 6021
+        },
+        {
+          "attribute_id": 593,
+          "value_id": 6024
+        },
+        {
+          "attribute_id": 594,
+          "value_id": 6026
+        },
+        {
+          "attribute_id": 595,
+          "value_id": 6029
+        },
+        {
+          "attribute_id": 596,
+          "value_id": 6031
+        },
+        {
+          "attribute_id": 597,
+          "value_id": 6048
+        },
+        {
+          "attribute_id": 598,
+          "value_id": 6063
+        },
+        {
+          "attribute_id": 599,
+          "value_id": 6064
+        },
+        {
+          "attribute_id": 513,
+          "value_id": 6050
+        },
+        {
+          "attribute_id": 514,
+          "value_id": 5481
+        },
+        {
+          "attribute_id": 547,
+          "value_id": 6065
+        },
+        {
+          "attribute_id": 491,
+          "value_id": 4917
+        },
+        {
+          "attribute_id": 510,
+          "value_id": 4983
+        }
+      ],
+      "barcode": "7332543732098",
+      "category_id": 26,
+      "compound_name": "Dishwasher ELECTROLUX EEA22100L",
+      "country_of_origin_id": 180,
+      "date_edited": "2025-11-07T12:37:51+00:00",
+      "delivery_lead_time": 1,
+      "description": "",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"7332543732098\"></script>\n    </div>\n",
+      "exclusive": false,
+      "id": 18684,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/18684/image?unique=6fe96c6"
+      ],
+      "internal_reference": "EEA22100L",
+      "manufacturer_id": 19,
+      "name": "EEA22100L",
+      "price_rrp": 359.0,
+      "product_line": "Electrolux Open",
+      "units_per_package": 1,
+      "volume": 0.29,
+      "weight": 31.85,
+      "weight_bruto": 33.33
+    }
+  }
+}

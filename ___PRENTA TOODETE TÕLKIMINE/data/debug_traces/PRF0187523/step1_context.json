@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283055001 8020283055001 Hob and Hood (2in1) ELICA NIKOLATESLA FIT XL BACK EXIT BL/F/83",
+  "search_queries": {
+    "main_query": "Elica NikolaTesla Fit XL Back Exit 83 cm induktsioonpliit integreeritud õhupuhastiga",
+    "additional_queries": [
+      "kuidas lahendada avatud köögi või köögisaare aurude eemaldamine ilma seinale kinnitatava õhupuhastita – Elica NikolaTesla Fit XL",
+      "83 cm induktsioonpliit integreeritud õhupuhastiga 80 cm alumisele kapile avatud kööki",
+      "Elica NikolaTesla Fit XL võrreldes teiste 2in1 pliidiplaat-õhupuhasti mudelitega",
+      "kuidas paigaldada ja hooldada Elica NikolaTesla Fit XL Back Exit integreeritavat pliidiplaati koos õhupuhastiga"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica NikolaTesla Fit XL Back Exit pliidiplaat-õhupuhasti sobib minu kööki ja 80 cm alumisele kapile?",
+      "answer": "See mudel on mõeldud standardsele 80 cm alumisele kapile: pliidiplaadi mõõdud on ligikaudu 83 × 51,5 × 25 cm ning väljalõike mõõt on u 75 × 49 cm, seega jääb mõlemale küljele väike varu töötasapinda. Seade sobib eriti hästi avatud kööki või saarele, kus ei soovita eraldi seina- või laeõhupuhastit. Back Exit versioonil on komplektis KIT0180522 tagaväljundi komplekt – õhk tõmmatakse alla, puhastatakse keraamiliste lõhnakaitse filtrite abil ning juhitakse tagasi ruumi mööbli tagant, eraldi ventilatsioonišahti ei ole tavakasutuses vaja. Arvestada tuleb, et korpus on 25 cm kõrge ja vajab kapis ruumi kanalile ja filtritele ning seade nõuab tugevat elektriühendust (kokkuvõttes umbes 7,2–7,4 kW), mille peab tegema kvalifitseeritud elektrik vastavalt kohalikele nõuetele."
+    },
+    {
+      "question": "Kuidas Elica NikolaTesla Fit XL pliidiplaati kasutada ja hooldada? Kas filtrid on pestavad või vahetatavad?",
+      "answer": "Pliidiplaadil on neli induktsioonkeeduala, mida saab vajadusel kahes sillatsooni (2xBridge) ühendada suuremate pottide ja pannide jaoks. Juhtimine toimub esiserval asuva puutetundliku Slider-paneeliga, kus saab reguleerida nii keeduvõimsust kui ka õhupuhasti tõmbeastmeid. Autocapture-funktsioon suudab vastavalt keetasemele imemisvõimsust automaatselt kohandada, olemas on taimer, Stop&Go/Pause funktsioon, soojendamisrežiim, jääkkuumuse näidik ja lapse­lukk. Igapäevane puhastus on lihtne, kuna klaaspind on täiesti sile ja keskne rest on eemaldatav; selle alt pääseb ligi rasvafilterele ja sisemisele kogumisosale, kust saab juhusliku vedeliku ära kallata. Metallist rasvafiltreid saab pesta ja need sobivad üldjuhul ka nõudepesumasinasse, lõhnu siduvad keraamilised filtrid on pika elueaga ning neid saab tootja juhendi järgi perioodiliselt regeneerida; nende eluiga on tavaliselt mitu aastat (olenevalt kasutussagedusest). Seade annab märguande, kui filtreid on vaja puhastada või hooldada. Täpsed puhastus- ja regenereerimisjuhised leiab kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel on Elica NikolaTesla Fit XL ja milline on garantii ning hinna-väärtuse suhe?",
+      "answer": "NikolaTesla Fit XL kuulub Elica kõrgemasse tootesarja ning ühendab A energiaklassi induktsioonpliidi ja õhupuhasti ühte kompaktse seadmesse. Õhupuhasti tõmbevõimsus ulatub kuni umbes 620 m³/h ning müratase jääb tavarežiimidel mõõdukaks, mis sobib hästi avatud köögi puhul. Pika elueaga keraamilised lõhnakaitsefiltrid ja pestavad rasvafiltrid vähendavad jooksvaid kulusid, automaatfunktsioonid (Autocapture, viitväljalülitus, hooldusmeeldetuletused) teevad kasutamise mugavaks ning mitmed turvafunktsioonid (lapse­lukk, automaatne väljalülitus, jääkkuumuse näidik, võimsuse juhtimine) lisavad töökindlust. Kokku hoiad eraldi õhupuhasti ostu ja saad puhtama, minimalistliku köögilahenduse, mis teeb selle toote hinna mõistlikuks valikus, kui otsid kvaliteetset 2in1 lahendust. Garantii täpne kestus sõltub müüja ja tootja tingimustest ning sinu riigi õigusest (enamasti vähemalt 2 aastat); palun vaata konkreetseid garantiitingimusi meie e-poe tootekaardilt või küsi klienditeeninduselt."
+    }
+  ]
+}

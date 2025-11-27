@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543988563 7332543988563 Oven ELECTROLUX COB8S39WZ",
+  "search_queries": {
+    "main_query": "Electrolux COB8S39WZ integreeritav aurufunktsiooniga ahi",
+    "additional_queries": [
+      "kuidas valmistada tervislikke toite auruga Electrolux COB8S39WZ ahjus",
+      "70 l integreeritav täisauru ahi kiire eelkuumutusega pere kööki",
+      "millega erineb Electrolux COB8S39WZ tavalistest integreeritavatest ahjudest",
+      "kuidas kasutada Steamify ja aurupuhastuse funktsiooni Electrolux COB8S39WZ ahjus"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux COB8S39WZ sobib minu kööki ja olemasolevasse mööbliavasse?",
+      "answer": "Electrolux COB8S39WZ on 60 cm standardsuuruses integreeritav elektriahi (standardne kõrgus ja laius 60 × 60 cm). Toote välismõõdud on ligikaudu 59,4 × 59,5 × 56,7 cm (K × L × S), seega sobib see enamikesse 60 cm laiustesse integreeritavatesse ahjuniššidesse. Ahju maht on 70 l, mis on mugav nii igapäevaseks kasutamiseks kui ka suurematele peredele. Seadmel on sisseehitatud veepaak (950 ml) aurufunktsioonide jaoks, seega ei ole vaja püsivat veeühendust. Elektriühenduse täpset tüüpi ja nõudeid sisendinfo ei täpsusta – need leiab paigaldusjuhendist või müüjalt."
+    },
+    {
+      "question": "Kui lihtne on seda ahju kasutada ja puhastada?",
+      "answer": "COB8S39WZ on varustatud TFT puutejuhtpaneeliga teksti-ekraaniga, mis teeb programmide, temperatuuri ja aja seadistamise intuitiivseks. Steamify® funktsioon võimaldab valida ainult temperatuuri – ahi kohandab ise aurutaseme, et toit küpseks õigesti. Sisseehitatud lihatermomeeter aitab saavutada soovitud sisetemperatuuri ning peatab programmi, kui tulemus on käes. Ahjul on 225 automaatset küpsetusprogrammi ja 20 standardset kütterežiimi, samuti kiirkuumutuse funktsioon. Wi-Fi ühenduse ja My Electrolux Kitchen äpiga saab ahju jälgida ja teatud funktsioone juhtida distantsilt. Puhastamiseks on ahjul aurupuhastus („Steam clean“), mis pehmendab mustuse – seejärel tuleb pind käsitsi üle pühkida. Täpne kasutus- ja puhastusjuhend on ahjuga kaasas olevas manuaalis; sisendinfo lisatarvikuid ega konkreetset puhastusprotseduuri detailideni ei kirjelda."
+    },
+    {
+      "question": "Kui töökindel ja energiatõhus see mudel on ning milline on hinna ja väärtuse suhe?",
+      "answer": "Electrolux COB8S39WZ kuulub A++ energiatõhususklassi, mis tähendab madalamat energiakulu võrreldes paljude tavapäraste ahjudega. Suur 70 l ahi, täisauru funktsioon (100% aur), Steamify® automaatne aurutaseme reguleerimine, lihatermomeeter, 225 automaatprogrammi, kiirkuumutuse funktsioon, pehme ukse sulgumine, lapselukk, kolmekordse klaasiga uks ja Wi-Fi nutijuhtimine koos My Electrolux Kitchen äpiga annavad kokku funktsioonirohke, mugava ja kaasaegse seadme. Need omadused aitavad küpsetada ühtlasemalt, tervislikumalt (vähem rasva aurutatult), säästa aega ning energiat, mis toetab kõrgemat hinnataset. Sisendinfo ei täpsusta garantiiaega ega eritingimusi – need sõltuvad müüjast ja riiklikest nõuetest ning tuleks enne ostu müüjalt üle küsida."
+    }
+  ]
+}

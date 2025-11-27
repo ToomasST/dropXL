@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7612985612876 7612985612876 Hood FABER VALUE PB X A60/1",
+  "search_queries": {
+    "main_query": "õhupuhasti Faber VALUE PB X A60 60 cm roostevaba",
+    "additional_queries": [
+      "kuidas eemaldada toidulõhnad ja aur köögist seinale paigaldatava õhupuhastiga Faber VALUE PB X A60",
+      "Faber VALUE PB X A60 seinakubu 60 cm 380 m3/h väikese ja keskmise köögi jaoks",
+      "Faber VALUE PB X A60 võrdlus teiste 60 cm seinaõhupuhastitega – milline köögikubu valida",
+      "kuidas paigaldada, puhastada ja vahetada Faber VALUE PB X A60 õhupuhasti rasva- ja söefiltreid"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Faber VALUE PB X A60/1 sobib minu kööki ja olemasoleva pliidi kohale?",
+      "answer": "See mudel on 60 cm lai ja umbes 47 cm sügav, seinale paigaldatav kaminatüüpi õhupuhasti roostevabast terasest viimistlusega. See sobib hästi tavalise 60 cm laiuse pliidi kohale ning väikese või keskmise suurusega kööki, kus on vaja eemaldada igapäevase toiduvalmistamise auru ja lõhnu. Õhupuhasti väljalaskeava läbimõõt on 150 mm, seega sobib see standardse ventilatsioonitoruga; vajadusel saab koos sobiva üleminekuga ühendada ka 120 mm süsteemiga (lahendus sõltub sinu ventilatsioonist). Kui korteris puudub väljatõmbešaht, saab seadet kasutada ka siseringlusrežiimis, lisades eraldi ostetavad söefiltrid. Enne ostu mõõda kindlasti ära kapi-/laekõrgus ja kontrolli, et seinale jääks piisavalt ruumi kapuutsi laiuse, kõrguse ning soovitusliku paigalduskõrguse jaoks (täpne vahemik on kirjas paigaldusjuhendis)."
+    },
+    {
+      "question": "Kui lihtne on Faber VALUE PB X A60/1 kasutamine ja kuidas seda hooldada?",
+      "answer": "Õhupuhastil on lihtne mehhaaniline nupplülititega juhtimine ja kolm töökiirust, seega on kasutamine intuitiivne: lülitad seadme sisse, valid sobiva võimsusastme ning vajadusel LED-valgustuse. Seade on varustatud metallist kassett-rasvafiltritega, mis on korduvkasutatavad – neid saab eemaldada ja pesta käsitsi või nõudepesumasinas. Hea tava on filtreid regulaarselt puhastada, et hoida õhuvoolu ja vähendada lõhnu. Kui kasutad õhupuhastit siseringlusrežiimis, tuleb lisaks paigaldada aktiivsöefiltrid: tavaline F3 filter või kaua kestev FLL3 long lasting filter, mis on spetsiaalselt Faber VALUE seeriale mõeldud. Long-life FLL3 filtrit saab tootja juhiste järgi pesta ja uuesti kasutada ning selle eluiga on oluliselt pikem kui tavalisel söefiltril; täpne pesu- ja vahetusintervall on toodud filtripakendil. Igapäevaselt piisab, kui pühid korpuse niiske lapiga ja väldid agressiivseid abrasiivseid puhastusvahendeid, et säilitada roostevaba terase viimistlus."
+    },
+    {
+      "question": "Kui töökindel on Faber VALUE PB X A60/1 ja kas see on oma hinda väärt?",
+      "answer": "Faber on spetsialiseerunud õhupuhastite tootja, ning VALUE PB X A60/1 on lihtsa, mehaanilise ehitusega seinale paigaldatav mudel, kus on üks mootor, kolm kiirust ja LED-valgustus – vähem elektroonikat tähendab tavaliselt ka vähem võimalikke rikkeallikaid. Roostevabast terasest korpus ja pestavad metallrasvafiltrid teevad seadme vastupidavaks ning vähendavad jooksvat kulu, sest filtreid ei pea pidevalt välja vahetama. Energiatarve on mõõdukas (energiaklass C ja aastane energiakulu u 56 kWh vastavalt tehnilistele andmetele), LED-lambid on ökonoomsed ja pika elueaga. Söefiltrid (F3 või kauakestev FLL3) on lisatarvikud, mis tuleb eraldi osta, kuid annavad võimaluse kasutada õhupuhastit ka seal, kus ventilatsioonikanalit pole. Garantii täpsed tingimused (kestus ja ulatus) sõltuvad konkreetsest müüjast ja riigist, kuid seadmele rakendub tootjagarantii; meie hinnangul pakub see mudel hea hinna ja funktsionaalsuse suhte neile, kes otsivad usaldusväärset, lihtsa juhtimisega 60 cm seinaõhupuhastit ilma nuti- ja lisavidinateta."
+    }
+  ]
+}

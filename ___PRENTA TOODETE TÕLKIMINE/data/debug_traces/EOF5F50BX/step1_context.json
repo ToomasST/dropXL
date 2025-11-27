@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394072791 7333394072791 Oven ELECTROLUX EOF5F50BX",
+  "search_queries": {
+    "main_query": "Electrolux EOF5F50BX integreeritav elektriahi SurroundCook",
+    "additional_queries": [
+      "kuidas vältida ebaühtlast küpsemist ahjus Electrolux EOF5F50BX SurroundCook ventilaatoriga",
+      "65 l Electrolux integreeritav ahi ventilaatoriga ja grilliga küpsetamiseks mitmel tasandil",
+      "millega erineb Electrolux EOF5F50BX 500 seeria integreeritav ahi teistest sarnastest mudelitest",
+      "kuidas puhastada Aqua clean ja katalüütilise puhastusega Electrolux EOF5F50BX ahju"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EOF5F50BX integreeritav ahi sobib minu kööki ja olemasolevasse kappi?",
+      "answer": "See mudel on integreeritav elektriahi standardkõrgusega 60 cm ja standardlaiusega 60 cm, välismõõdud ligikaudu 59,4 × 58,9 × 56 cm (laius × kõrgus × sügavus). See tähendab, et ahi on mõeldud paigaldamiseks enamikesse tavalistesse 60 cm integreeritavatesse köögikappidesse. Enne ostu tasub siiski üle mõõta oma kapi nišš ja võrrelda seda toote mõõtudega ning veenduda, et köögis on olemas elektritoide (ahi on elektriline). Värv on roostevaba teras / must, sobides kaasaegsetesse köökidesse."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EOF5F50BX ahju kasutada ja puhastada?",
+      "answer": "Electrolux EOF5F50BX kasutamine on tehtud lihtsaks: ahjul on SurroundCook® kuumõhuventilaator ühtlaseks küpsemiseks, 7 standardset küttefunktsiooni, grillifunktsioon ning 32 automaatset programmid, mis aitavad valida sobiva seade erinevatele toitudele. Juhtimine toimub puutejuhtimise ja sisse-välja vajutatavate nuppude (PIPO) abil, ekraanil oleva SET-funktsiooniga saab täpselt määrata küpsetusaja ning seadistada alguse või lõpu aja.\n\nPuhastamine on hõlpsam kui tavalises ahjus: tagasein on kaetud katalüütilise pinnaga, mis neelab ja oksüdeerib rasva, ülejäänud sisepind on kergesti puhastatav email. Atribuutidest selgub, et ahjul on Aqua clean + katalüütilised seinad, mis tähendab, et ahi on mõeldud lihtsustatud puhastuseks. Täpse puhastusprotseduuri (nt millist programmi või veekogust kasutada) kohta soovitame vaadata kasutusjuhendit, sest sisendinfo seda täpselt ei kirjelda."
+    },
+    {
+      "question": "Kui töökindel ja energiasäästlik on Electrolux EOF5F50BX ning milline on garantii ja hinna-väärtuse suhe?",
+      "answer": "Kirjelduse järgi on Electrolux EOF5F50BX A-energiaklassiga elektriahi, mis tähendab energiasäästlikumat tööd võrreldes madalama klassi mudelitega. SurroundCook® kuumõhusüsteem ja Even Cooking tehnoloogia jaotavad soojust ühtlaselt, ahi soojeneb kiiremini ja hoiab kokku nii aega kui elektrit. Metallist ja klaasist juhtpaneel ning roostevaba teras / must viimistlus viitavad vastupidavatele materjalidele. \n\nGarantii täpne kestus ja tingimused ei ole sisendmaterjalis välja toodud – need sõltuvad müüjast ja tootja garantiipoliitikast, seega soovitame need eraldi üle küsida. Hinna-väärtuse mõttes pakub see mudel 65-liitrist ruumikat ahju, mitmetasandilist küpsetamist (kolmas küttekeha), grillifunktsiooni, 32 automaatprogrammi ning lihtsustatud puhastussüsteemi, mis kokkuvõttes annab hea funktsionaalsuse integreeritava ahju hinnaklassis."
+    }
+  ]
+}

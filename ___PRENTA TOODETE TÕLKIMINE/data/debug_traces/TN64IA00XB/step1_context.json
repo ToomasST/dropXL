@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394076010 7333394076010 Hob AEG TN64IA00XB",
+  "search_queries": {
+    "main_query": "AEG TN64IA00XB 60 cm induktsioonpliidiplaat Hob2Hood ja PowerBoost",
+    "additional_queries": [
+      "kuidas kiiresti ja täpselt süüa teha PowerBoostiga AEG TN64IA00XB induktsioonpliidiplaadil",
+      "integreeritav 60 cm 7200 W induktsioonpliidiplaat 4 keedualaga peredele",
+      "millega erineb AEG TN64IA00XB teistest 60 cm induktsioonpliitidest Hob2Hood ja eraldi puutejuhtimise poolest",
+      "kuidas kasutada ja hooldada AEG TN64IA00XB induktsioonpliidiplaati (puutenupud, taimer, lapselukk)"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG TN64IA00XB sobib minu köögi tööpinda ja olemasolevasse elektrisüsteemi?",
+      "answer": "AEG TN64IA00XB on integreeritav, pinnapealse paigaldusega induktsioonpliidiplaat standardlaiusega 60 cm. Toote mõõdud on ligikaudu laius 57,6 cm, sügavus 51,6 cm ja kõrgus 4,6 cm, seega sobib see enamiku 60 cm laiuste köögimoodulitega lahenduste jaoks. Täpne väljalõike mõõt ei ole tootekirjelduses toodud, seega soovitame need üle kontrollida köögimööbli tootja või paigaldusjuhendi järgi.\n\nElektritoide on 220–240/400V2N, mistõttu peab ühenduse tegema kvalifitseeritud elektrik, kes saab kinnitada ka sinu kodu elektrisüsteemi sobivuse. Pliidiplaadil on Hob2Hood®-funktsioon ja juhtmevaba integratsioon kubuga; ühilduvus sõltub konkreetsest õhupuhasti mudelist ja tootekirjeldus seda täpsemalt ei täpsusta."
+    },
+    {
+      "question": "Kui lihtne on AEG TN64IA00XB kasutamine ja kuidas seda hooldada?",
+      "answer": "Pliidiplaadil on neli keedutsooni, mida juhitakse eraldi puutetundlike nuppudega. Igal tsoonil on oma juhtpaneel ning võimsust reguleeritakse +/− nuppudega, mis teeb kasutamise intuitiivseks. Sisseehitatud taimerit saab seadistada kuni 1 tunniks; aja lõppedes lülitab pliidiplaat keedutsooni automaatselt välja. PowerBoost-funktsioon võimaldab väga kiiret kuumutamist (nt vee kiireks keetmiseks), Pause-funktsioon võimaldab küpsetamise ajutiselt peatada ja jätkata, ning lapselukk aitab vältida juhuslikku ümberseadistamist.\n\nPinda kirjeldatakse kui vitroceramic, mis tähendab siledat klaaskeraamilist pinda. Tootekirjeldus ei anna eraldi hooldusjuhiseid, kuid selliseid pindu puhastatakse üldjuhul pärast jahtumist pehme lapi ja klaaskeraamilistele pliidiplaatidele sobiva puhastusvahendiga, vältides karedaid svamme ja abrasiivseid aineid."
+    },
+    {
+      "question": "Kui töökindel on AEG TN64IA00XB ja milline on hinna ning funktsioonide suhe?",
+      "answer": "Tootekirjelduse järgi on AEG TN64IA00XB 5000 Fast & Powerful seeria induktsioonpliidiplaat, mis pakub kiiret ja täpset kuumutamist. PowerBoost tagab lisavõimsuse, Hob2Hood® võimaldab pliidiplaadil juhtmevabalt suhelda sobiva kubuga, ning turvalisust ja mugavust lisavad lapselukk, jääkkuumuse näidik, võimsuse piiramine, automaatne kuumutuse sisselülitus ja taimeriga automaatne väljalülitus. Need funktsioonid vähendavad ülekuumenemise riski ja aitavad saavutada stabiilseid tulemusi, mis viitab heale kasutusmugavusele ja töökindlusele igapäevases koduses kasutuses.\n\nGarantiiaega ja täpseid järelteeninduse tingimusi kirjeldus ei täpsusta; kehtivad tootja ja müüja üldised garantiitingimused. Hinna ja väärtuse suhtes annab see mudel palju kaasaegseid funktsioone (induktsioon, nelja tsooniga 7200 W koguvõimsus, Hob2Hood®-ühendus, puutejuhtimine, taimer, turvafunktsioonid), mis muudavad küpsetamise kiiremaks, energiasäästlikumaks ja mugavamaks võrreldes lihtsamate klaaskeraamiliste või vanemate elektriplaatidega."
+    }
+  ]
+}

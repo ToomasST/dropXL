@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7612986152937 7612986152937 Hood FABER INKA LUX EVO BK MATT A70",
+  "search_queries": {
+    "main_query": "Faber Inka Lux Evo BK Matt A70 integreeritav õhupuhasti 70 cm",
+    "additional_queries": [
+      "kuidas vähendada toidulõhnu köögis Faber Inka Lux Evo integreeritava õhupuhastiga",
+      "integreeritav 70 cm õhupuhasti 670 m3/h tõmbejõuga ja LED valgustusega avatud kööki",
+      "Faber Inka Lux Evo BK MATT A70 võrdlus teiste 70 cm integreeritavate õhupuhastitega",
+      "Faber Inka Lux Evo õhupuhasti paigaldus 150 mm torule, söefiltri komplektid ja hooldus"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Faber Inka Lux Evo BK Matt A70 sobib minu kööki ja olemasolevasse mööblisse?",
+      "answer": "See mudel on integreeritav õhupuhasti, mis on mõeldud kapi sisse paigaldamiseks ega ole väljatõmmatav. Standardiseeritud laius on 70 cm, sügavus u 29 cm ja kõrgus u 32,5 cm (Min/Max Height 324,7 mm), seega sobib see kööki, kus ülemine kapp või õhupuhasti jaoks mõeldud nišš vastab nendele mõõtudele. Õhupuhasti on „duct out“ versioon, väljatõmbeühenduse läbimõõt on 150 mm. Kirjelduses on toodud ka valikulised söefiltrikomplektid (F8 KIT, High Performance FHP8 KIT, Long Lasting FLL8 KIT), mida saab kasutada ümberringlusrežiimiks, kui ventilatsioonitoru ei ole võimalik ühendada. Täpse sobivuse kontrollimiseks võrrelge mõõte ja toru läbimõõtu oma köögi lahendusega."
+    },
+    {
+      "question": "Kuidas Faber Inka Lux Evo õhupuhastit igapäevaselt kasutada ja hooldada?",
+      "answer": "Õhupuhastit juhitakse elektroonilise juhtpaneeli abil, millega saab lülitada sisse väljatõmbe ja LED-valgustuse ning muuta tõmbejõudu (täpseid režiimide arve sisend ei kirjelda). Tänu perimeertõmbele toimub õhu imemine mööda servasid, mis parandab efektiivsust. Hoolduse kohta täpset juhendit sisend ei anna, kuid nagu kõigi õhupuhastite puhul, tuleb regulaarselt puhastada seadme nähtavaid pindu ja järgida filtrite puhastamise või vahetamise soovitusi kasutusjuhendis. Söefiltrid (F8 KIT, FHP8 KIT, FLL8 KIT) on lisatarvikud ja need tuleb vajadusel perioodiliselt välja vahetada; vahetusintervalli sisend ei täpsusta. Paigaldus tuleb teostada vastavalt tootja juhistele, arvestades 150 mm väljatõmbetoru mõõtu."
+    },
+    {
+      "question": "Kui töökindel ja võimas on Faber Inka Lux Evo ning milline on hinna ja kvaliteedi suhe?",
+      "answer": "Sisendi järgi on tegu Faber Semi Exclusive tootesarja integreeritava õhupuhastiga, mille maksimaalne õhuhulk on 570 m³/h ja intensiivrežiimil kuni 670 m³/h. Müratase jääb vahemikku 47–66 dB (sõltuvalt režiimist), energiatõhususe klass on B, valgustuse tõhususe klass A ning rasvafiltreerimise klass D. Õhupuhastil on perimeertõmme ja butterfly-klapp ning LED-valgustus, mis kokku annavad hea tõmbejõu ja energiasäästliku valgustuse oma hinnaklassis. Garantii pikkust ja täpseid tingimusi sisend ei täpsusta – need sõltuvad müüjast või lepingust. Pikaajalise kasu seisukohalt on tugevaks argumendiks kõrge maksimaalne õhuvooluhulk ja mõõdukas energiatarve (70 kWh/aastas sisendi järgi)."
+    }
+  ]
+}

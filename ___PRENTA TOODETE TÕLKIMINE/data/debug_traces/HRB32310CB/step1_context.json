@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543982905 7332543982905 Hob AEG HRB32310CB",
+  "search_queries": {
+    "main_query": "integreeritav klaaskeraamiline pliidiplaat AEG HRB32310CB 30 cm",
+    "additional_queries": [
+      "kuidas lahendada väikese köögi pliidiplaadi vajadus 30 cm AEG HRB32310CB kahe keedualaga",
+      "2-keedualaga 30 cm klaaskeraamiline elektripliidiplaat taimeri ja lapselukuga",
+      "AEG HRB32310CB võrdlus teiste 30 cm integreeritavate klaaskeraamiliste pliidiplaatidega",
+      "kuidas kasutada AEG HRB32310CB puutetundlikke juhtnuppe, taimerit ja pausifunktsiooni"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG HRB32310CB pliidiplaat sobib minu kööki ja olemasolevasse tööpinna lõikeavasse?",
+      "answer": "AEG HRB32310CB on integreeritav klaaskeraamiline elektripliidiplaat kahe keedualaga. Standardlaius on 30 cm ja standard-sügavus 50 cm, toote enda mõõdud on ligikaudu 29 × 52 × 3,8 cm. See sobib hästi kitsamasse tööpinda või nn domino-lahendusse. Täpseid lõikeava mõõte ja elektriühenduse nõudeid sisend ei kirjelda, seega soovitame enne paigaldust kontrollida tootja paigaldusjuhendist või konsulteerida paigaldajaga."
+    },
+    {
+      "question": "Kui lihtne on AEG HRB32310CB pliidiplaati kasutada ja kuidas toimivad puutetundlikud juhtnupud, taimer ja lukustus?",
+      "answer": "Pliidiplaat on varustatud puutetundliku juhtpaneeliga, kus eraldi jutiklahvid ja pluss/miinus nupud võimaldavad täpselt reguleerida temperatuuri. Sisseehitatud taimerit saab seadistada kuni 99 minutiks ning seda saab kasutada nii keeduväljade juhtimiseks kui ka eraldi meeldetuletusena. Lapselukk ja nuppude lukustus võimaldavad seaded ajutiselt fikseerida, et neid ei saaks kogemata muuta (näiteks puhastamise ajal või kui lapsed on köögis). Pind on sile klaaskeraamika, mistõttu on seda üldiselt lihtne puhtana hoida, kuid täpseid puhastussoovitusi sisend ei täpsusta – need leiab toote kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel ja turvaline on AEG HRB32310CB ning milline on hinna ja funktsionaalsuse suhe?",
+      "answer": "Sisendi põhjal on AEG HRB32310CB varustatud mitme turva- ja mugavusfunktsiooniga: lapselukk, juhtnuppude lukustus, jääksoojuse indikaator, pausifunktsioon ja taimer. Need aitavad muuta kasutamise turvalisemaks ja kontrollitavamaks. Pliidiplaadi võimsus on kuni 2900 W ning tänu puutetundlikule juhtimisele ja täpsetele seadistustele sobib see hästi igapäevaseks kasutamiseks väiksemates köökides või lisaplaadina. Garantii täpne kestus ja järelteeninduse tingimused ei ole sisendis kirjas, seega tuleks need üle vaadata müüja või tootja pakutavatest garantiitingimustest. Arvestades kompaktset mõõtu ja lisafunktsioone (taimer, paus, lapselukk, jääksoojuse indikaator), pakub see mudel funktsionaalsust, mis on oma hinnaklassis atraktiivne, eriti kui on vaja ruumisäästlikku lahendust."
+    }
+  ]
+}

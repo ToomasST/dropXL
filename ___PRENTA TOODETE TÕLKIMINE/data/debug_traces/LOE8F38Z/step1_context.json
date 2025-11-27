@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394119663 7333394119663 Oven ELECTROLUX LOE8F38Z",
+  "search_queries": {
+    "main_query": "Electrolux LOE8F38Z integreeritav elektriahi MealAssist 72 l",
+    "additional_queries": [
+      "kuidas saavutada ühtlane küpsetus mitmel tasandil Electrolux LOE8F38Z ahjus",
+      "integreeritav elektriahi 72 l 60 cm laiusega A+ energiaklassiga perele",
+      "Electrolux LOE8F38Z võrdlus teiste Electrolux 700 seeria integreeritavate ahjudega",
+      "kuidas kasutada ja puhastada Aqua clean + katalüütilise puhastusega ahju Electrolux LOE8F38Z"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LOE8F38Z ahi sobib minu kööki ja vajadustele?",
+      "answer": "Electrolux LOE8F38Z on 60 cm standardkõrguse ja -laiusega integreeritav elektriahi (sügavus u 56,8 cm), mis on mõeldud paigaldamiseks eraldiseisvasse ahjukappi. Suur 72 liitrine küpsetusruum sobib hästi nii igapäevaseks kasutamiseks kui ka suuremate koguste (mitu plaati korraga) küpsetamiseks. Ahi töötab ainult elektriga ja ei ole aurufunktsiooni ega mikrolainefunktsiooniga kombiseade, samuti puudub Wi-Fi. Sisend ei täpsusta täpseid nišimõõte, seega tuleks need enne ostu üle kontrollida tootja paigaldusjoonisest või köögimööbli valmistajaga."
+    },
+    {
+      "question": "Kui lihtne on Electrolux LOE8F38Z ahju kasutada ja hooldada?",
+      "answer": "Ahi on varustatud EXCite puutetundliku TFT-ekraaniga, mis võimaldab funktsioone ja seadeid valida intuitiivselt. MealAssist (Kepimo vadovas) küpsetusjuht pakub kuni 99 automaatset programmi ning ahi soovitab ise sobivat temperatuuri; lisaks saab salvestada 3 sageli kasutatavat seadet. Saadaval on 16 küpsetusfunktsiooni (sh pöördõhk, grill, pitsa, soojashoidmine, taigna kergitamine jne) ning kiirkuumenemine. Puhastamist lihtsustab Aqua clean + katalüütiline puhastus: tagasein on katalüütilise kattega, ülejäänud pind on kergesti puhastatava emailiga. Täpne Aqua clean ja katalüütiliste pindade kasutus- ja hooldusjuhend on toodud ahju kasutusjuhendis, mida sisend ei sisalda."
+    },
+    {
+      "question": "Kui töökindel on Electrolux LOE8F38Z ahi ja milline on garantii ning hinna-väärtuse suhe?",
+      "answer": "Sisend ei sisalda infot konkreetse garantiiperioodi või järelteeninduse tingimuste kohta – need sõltuvad müüjast ja tootja ametlikest tingimustest ning tuleks eraldi üle vaadata. Mudelil on mitmed ohutust ja mugavust suurendavad lahendused: automaatne väljalülitus, jääksoojuse indikaator, lapselukk, kolmekordse klaasiga uks ning pehmelt sulguvad uksehinged. A+ energiatõhusus aitab vähendada energiakulu. Suur 72 l maht, 16 küpsetusrežiimi, kiirkuumenemine, automaatsed programmid ja Aqua clean + katalüütiline puhastus teevad sellest funktsioonide rohkuse poolest tugeva valiku 60 cm integreeritavate elektriahjude seas, kuid lõplik hinna-väärtuse hinnang sõltub ostja eelarvest ja vajadustest."
+    }
+  ]
+}

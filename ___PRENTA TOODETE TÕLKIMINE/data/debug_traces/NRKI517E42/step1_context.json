@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:3838782838415 3838782838415 Fridge GORENJE NRKI517E42",
+  "search_queries": {
+    "main_query": "Gorenje NRKI517E42 integreeritav NoFrost külmik sügavkülmaga",
+    "additional_queries": [
+      "kuidas lahendada sügavkülma jää ja härmatise probleem integreeritava külmikuga Gorenje NRKI517E42",
+      "integreeritav külmik sügavkülmaga 177 cm E energiaklassiga väikese köögi jaoks",
+      "Gorenje NRKI517E42 võrdlus teiste E-klassi integreeritavate NoFrost külmikutega",
+      "kuidas paigaldada ja seadistada ukse-uksel hingedega Gorenje NRKI517E42 külmik"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Gorenje NRKI517E42 sobib minu köögimööbli mõõtudega?",
+      "answer": "See on täiskõrguses integreeritav külmik sügavkülmaga, mille toote mõõdud on ligikaudu 177,2 × 54 × 54,5 cm (kõrgus × laius × sügavus). See on mõeldud standardsele umbes 178–180 cm kõrgele integreeritavale külmikkapile. Uksest-ukseni (door-on-door) hinged tähendavad, et mööblipaneel kinnitatakse otse seadme uksele, mistõttu peab kapi uks avanema samas suunas. Enne ostu mõõda kindlasti olemasolev nišš (kõrgus, laius, sügavus ja ukse avanemiseks vajalik ruum) ja võrdle neid külmiku mõõtudega. Seadme kogumaht on u 252 l, millest 176 l on külmik ja 76 l sügavkülm, seega sobib hästi 2–4-liikmelisele perele.\n"
+    },
+    {
+      "question": "Kui lihtne on seda külmikut kasutada ja hooldada?",
+      "answer": "NRKI517E42 on igapäevaselt üsna muretu seade. NoFrost Dual jahutustehnoloogia hoiab sügavkülma härmatisvabana ning eraldi õhuringlus külmiku- ja sügavkülmaosas aitab vältida jää kogunemist, nii et käsitsi sulatamist praktiliselt ei ole vaja. Temperatuuri seadistatakse sisemise elektroonilise juhtripaneeli abil; olemas on kiire jahutuse ja kiire külmutuse funktsioon, mis on kasulikud suurema ostukoguse kiireks jaotamiseks. LED-valgustus teeb sisu hästi nähtavaks. Avatud ukse ja temperatuuri tõusu korral annab seade märku helisignaaliga. Hooldus piirdub enamasti sisepindade, klaasriiulite ja sahtlite perioodilise puhastamisega ning uksetihendite ülevaatamisega; sügavkülma jääd eemaldama ei pea. Paigaldus ja ukse poole vahetus tuleks lasta teha asjatundjal, et säiliks õige tihendus ja töökindlus.\n"
+    },
+    {
+      "question": "Kui töökindel on see mudel ja kas see on oma hinda väärt?",
+      "answer": "Mudelis kasutatakse inverterkompressorit, mis töötab tavapärasest kompressorist ühtlasemalt ja vaiksemalt (müratase umbes 35 dB, müraklass B) ning aitab vähendada energiakulu. Energiatõhususklass on E, aastane tarbimine umbes 235 kWh, mis on integreeritava NoFrost külmiku kohta mõistlik tase. NoFrost Dual tehnoloogia ja nutikas AdaptTech temperatuuri juhtimine aitavad hoida ühtlast sisekliimat ja kaitsta toitu järskude temperatuurikõikumiste eest, pikendades nii toidu säilivust ja vähendades raiskamist. LED-valgustus, niiskust reguleeritav puu- ja köögiviljasahtel ning kolm mahukat sügavkülmisahtlit lisavad kasutusmugavust. Garantii täpne kestus sõltub müüjast ja riigist, seega kontrolli seda konkreetse e-poe tingimustest, kuid üldiselt on tegu funktsioonide ja kvaliteedi poolest tasakaalus valikuga võrreldes lihtsamate staatilise jahutusega integreeritavate külmikutega."
+    }
+  ]
+}

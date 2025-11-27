@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:3838782755217 3838782755217 Oven GORENJE BPS6737E04DBG",
+  "search_queries": {
+    "main_query": "Gorenje BPS6737E04DBG pürolüüspuhastusega integreeritav ahi 77 l must",
+    "additional_queries": [
+      "kuidas hoida köögi integreeritav ahi puhas ilma kemikaalideta pürolüüspuhastusega gorenje bps6737e04dbg",
+      "integreeritav ahi 77 l AirFry funktsiooniga suur perele küpsetamine",
+      "gorenje bps6737e04dbg võrdlus teiste pürolüütiliste 60 cm integreeritavate ahjudega",
+      "kuidas kasutada ja hooldada Gorenje BPS6737E04DBG ahju AirFry ja PyroClean programme"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Gorenje BPS6737E04DBG ahi sobib minu köögi kappi ja millised on vajalikud mõõdud?",
+      "answer": "See on standardne 60 × 60 cm integreeritav elektriahi, mis sobib enamiku kaasaegsete köögimööbli kappidena mõeldud ahjuniššidesse. Tootja järgi peaks niši miinimummõõt olema umbes 560 × 590 × 550 mm (laius × kõrgus × sügavus); kui sinu kapp on mõeldud tavalisele 60 cm ahjule, on see mudel üldjuhul sobiv. Ahi töötab 220–240 V võrgupingel ja umbes 3,5 kW võimsusega, seega peab elektriühenduse tegema kvalifitseeritud elektrik, et kaitse ja kaabeldus oleks vastavuses kohalike nõuetega."
+    },
+    {
+      "question": "Kui lihtne on seda ahju kasutada ja kuidas toimib PyroClean puhastus?",
+      "answer": "Ahi on täiselektroonilise juhtimisega: puutejuhtimine, väljatõmmatavad nupud, selge IconLed taimer ning kuni 10 põhikütteviisi ja lai valik automaatprogramme (sh AirFry õhuga frittimine, Pizza, FrozenBake, GentleBake, kiirkuumutamine). Igapäevaseks kasutamiseks valid lihtsalt sobiva programmi ja temperatuuri, ahi soojeneb kiiresti ning 77-liitrine kamber mahutab ka suuremad plaadid. PyroClean on pürolüüspuhastus: ahi kuumutab end väga kõrgele temperatuurile, põletades rasva ja prahi peeneks tuhaks. Puhastuse ajal lukustub uks automaatselt ning jahtumise järel piisab, kui pühid põhja seest järelejäänud tuha niiske lapiga. Enne pürolüüsi tuleks eemaldada rest ja küpsetusplaadid ning järgida kasutusjuhendis toodud ohutussoovitusi."
+    },
+    {
+      "question": "Kui vastupidav on see ahi, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Gorenje BPS6737E04DBG kuulub Gorenje Semi Exclusive sarja ning on mõeldud igapäevaseks kasutamiseks: emaleeritud sisepind, tugev musta klaasi ja roostevaba terasega esipaneel, SoftOpen/GentleClose uks, neljakordne klaas ja Ultra Cool Door lahendus vähendavad kuumenemist ukse välispinnal ning lisavad ohutust ja vastupidavust. Mehhaaniline lapselukk aitab vältida juhuslikku sisse- või väljalülitamist. Pürolüüspuhastus säästab aega ja puhastuskeemiat, AirFry ja suured küpsetusplaadid võivad asendada eraldi fritüüri või õhufritüüri, mis teeb sellest hinna eest väga mitmekülgse seadme. Garantii täpset pikkust ja lisagarantii võimalusi käesolev info ei kirjelda – see sõltub müüjast ja riigi reeglitest, seega kontrolli ostutingimusi või küsi müüjalt."
+    }
+  ]
+}

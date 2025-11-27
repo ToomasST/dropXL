@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283061620 8020283061620 Hood ELICA ADÉLE @ BLMAT/A/60",
+  "search_queries": {
+    "main_query": "Elica Adéle BLMAT/A/60 seinale paigaldatav õhupuhasti 60 cm Wi‑Fi",
+    "additional_queries": [
+      "kuidas vabaneda tugevast praelõhnast väikeses köögis Elica Adéle 60 cm õhupuhastiga",
+      "A‑klassi 60 cm seinale paigaldatav köögikubu Wi‑Fi ja LED valgustusega avatud kööki",
+      "Elica Adéle BLMAT/A/60 vs tavaline 60 cm seinakubu – mis vahe on võimsusel ja müratasemel",
+      "kuidas paigaldada ja hooldada Elica Adéle BLMAT/A/60 õhupuhastit ning millal vahetada söefiltreid"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica Adéle @ BLMAT/A/60 sobib minu kööki ja olemasoleva pliidiga?",
+      "answer": "Elica Adéle @ BLMAT/A/60 on 60 cm lai seinale paigaldatav T‑kujuline õhupuhasti, mis sobib eelkõige kuni 60 cm laiuse pliidiplaadi kohale; laiema pliidi puhul tasub eelistada laiemat kubu. Õhuvõimsus on 325–630 m³/h, intensiivrežiimis kuni 770 m³/h, mis katab väikese ja keskmise köögi vajadused ning sobib ka mõõduka kasutusega avatud köökidele. Standardversioon töötab väljatõmbena ja vajab 150 mm läbimõõduga ventilatsioonitoru. Kui ventilatsioonitoru puudub, saab kubu kasutada siseringlusega, lisades aktiivsöefiltrid CFC0141529A või regenereritava filtri CFC0141725A. Paigalduskõrgus sõltub pliidist – praktikas jäetakse vähemalt u 50 cm induktsioonpliidi ja u 65 cm gaasipliidi kohale (täpsed vahed täpsustuvad kasutusjuhendis)."
+    },
+    {
+      "question": "Kuidas Elica Adéle õhupuhastit kasutada ja hooldada?",
+      "answer": "Kubu juhitakse esiküljel oleva puutetundliku paneeliga, kus on kolm töökiirust ja intensiivrežiim tugevaks küpsetamiseks. Integreeritud LED‑valgusriba valgustab ühtlaselt tööpinda väikese energiakuluga. Seadmel on metallist rasvafiltrid, mis on korduvkasutatavad – neid tuleks regulaarselt eemaldada ja puhastada (nt kord kuus) käsitsi või nõudepesumasinas vastavalt juhendile. Kui kasutad siseringlust, tuleb lisatud söefiltreid perioodiliselt vahetada või regenererida (sõltuvalt valitud filtritüübist). Wi‑Fi ja juhtmevaba integreerimine pliidiplaadiga lihtsustavad igapäevast kasutamist, kuid nende ühendamine toimub vastavalt tootja juhistele rakenduses ja/või pliidiplaadi menüüs."
+    },
+    {
+      "question": "Kui töökindel see mudel on, milline on garantii ja kas hind on end õigustav?",
+      "answer": "Adéle kuulub Elica Exclusive tooteliini ning on valmistatud musta soft‑touch viimistluse ja musta klaasi kombinatsioonist, mis on nii vastupidav kui ka kergesti puhastatav. Õhupuhasti on energiatõhus (energiaklass A, hinnanguline aastane tarbimine ~52 kWh) ning varustatud LED‑valgustuse ja tõhusa õhuvooluga (kuni 770 m³/h), pakkudes tugevat tõmmet suhteliselt madala müratasemega. Nutifunktsioonid (Wi‑Fi ja ühendus pliidiplaadiga) ning hea imemisvõimsus teevad sellest samas hinnaklassis tavapärastest kubudest mugavama ja paindlikuma lahenduse. Garantii pikkus ja tingimused sõltuvad müüjast ja riigist – need tuleb üle vaadata konkreetse e‑poe tootelehel või ostudokumentidelt –, kuid korraliku paigalduse ja korrapärase hoolduse korral on tegemist pika kasutuseaga seadmega."
+    }
+  ]
+}

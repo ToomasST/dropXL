@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394073538 7333394073538 Hob AEG TO64IM00XB",
+  "search_queries": {
+    "main_query": "AEG TO64IM00XB 60 cm induktsioonpliidiplaat DoubleBridge",
+    "additional_queries": [
+      "induktsioonpliidiplaat suurele potile ja pannile DoubleBridge funktsiooniga AEG TO64IM00XB",
+      "60 cm 7200W induktsioonpliidiplaat 4 keedualaga ja puutejuhtimisega AEG TO64IM00XB",
+      "millega erineb AEG TO64IM00XB teistest 60 cm induktsioonpliidiplaatidest",
+      "kuidas paigaldada ja igapäevaselt kasutada AEG TO64IM00XB induktsioonpliidiplaati"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG TO64IM00XB pliidiplaat sobib minu kööki ja olemasolevasse tööpinda?",
+      "answer": "AEG TO64IM00XB on integreeritav 60 cm laiune induktsioonpliidiplaat (standardlaius 60 cm, standardsügavus 55 cm). Tooteandmetes on mõõdud ligikaudu 57,6 × 51,6 × 4,9 cm (laius × sügavus × kõrgus), seega sobib see enamiku standardsete köögimööbli lahendustega. Pinge on märgitud 220–240/400V2N, mistõttu peab ühenduse tegema kvalifitseeritud elektrik vastavalt teie kodusele elektrisüsteemile. Täpsed lõikeava mõõdud ja ühendusviis ei ole sisendis toodud, seega soovitame enne ostu kontrollida paigaldusjuhendit või küsida nõu paigaldajalt."
+    },
+    {
+      "question": "Kui lihtne on seda induktsioonpliidiplaati kasutada ja kuidas on lood taimeri ning hooldusega?",
+      "answer": "AEG TO64IM00XB on kasutamisel lihtne: puutetundlikud liugjuhtnupud võimaldavad valida võimsustaset otse vahemikus 1–14, ilma pluss- ja miinusnuppe korduvalt vajutamata. Pliidiplaadil on taimer, mida saab seadistada kuni 1 tunniks; aja möödudes lülitub vastav keeduala automaatselt välja. Olemas on ka pausifunktsioon, PowerBoost kiirkeedurežiim, jääkkuumuse indikaator ja lapse lukk. Sisendinfo ei kirjelda täpseid puhastus- ega hooldusjuhiseid, kuid üldjoontes on klaaskeraamilise induktsioonpinna hooldus lihtne ja detailne juhis tuleb tootja kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel on AEG TO64IM00XB, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Sisendinfo ei anna konkreetseid andmeid garantiitingimuste ega töökindluse testide kohta – garantii pikkus sõltub müüja ja tootja tingimustest. Tegemist on tuntud kaubamärgi AEG 6000 seeria induktsioonpliidiplaadiga, millel on 4 keeduala, 2xBridge/DoubleBridge funktsioon suuremate nõude jaoks, PowerBoost kiireks kuumutamiseks, automaatne kuumutuse tõstmine, taimer automaatse väljalülitusega, lapse lukk, jääkkuumuse näidik ja võimsuse piiraja. Tänu 7200 W koguvõimsusele ja paindlikule keedualade ühendamise võimalusele pakub see mudel palju funktsioone ühes seadmes, mis teeb sellest tugeva hinna-väärtuse suhtega valiku neile, kes otsivad kaasaegset ja mugavat induktsioonpliidiplaati. Garantii täpsustamiseks vaadake konkreetse müüja tingimusi."
+    }
+  ]
+}

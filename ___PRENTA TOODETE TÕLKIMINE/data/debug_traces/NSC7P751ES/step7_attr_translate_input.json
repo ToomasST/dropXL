@@ -1,0 +1,55 @@
+{
+  "model": "gpt-5.1",
+  "instructions": "\n                            Tõlgi järgmised atribuudinimed ja -väärtused eesti keelde.\n\n                            Oluline:\n                            - Arvesta toote iseloomu ja kogu läbitöödeldud konteksti (pealkiri, kirjeldus, SEO päringud, KKK), et tõlge vastaks toote tegelikele omadustele.\n                            - Säilita mõõtühikud õigel kujul (cm, mm, L, W, V jne) ja arvväärtused; kasuta korrektselt eestikeelseid käändeid ja idiomaatilist sõnajärge.\n                            - Ära lisa uusi tähendusi ega väärtusi; tõlgi ainult antud nimesid ja väärtusi.\n                            - Iga translation-objekt PEAB sisaldama ka \"attr_name\" välja. Kui kind == \"name\", siis kasuta attr_name = source.\n\n                            Tagasta täpselt skeemiga { translations: [ { kind: 'name'|'value', source: string, translated: string, attr_name?: string } ] }.\n                        ",
+  "input": "{\"items\": [{\"kind\": \"value\", \"attr_name\": \"Product line\", \"source\": \"AEG Semi Exclusive\"}, {\"kind\": \"value\", \"attr_name\": \"Annual energy consumption (kWh)\", \"source\": \"247\"}, {\"kind\": \"value\", \"attr_name\": \"Net capacity of refrigerator (l)\", \"source\": \"287\"}, {\"kind\": \"value\", \"attr_name\": \"Net capacity of freezer (l)\", \"source\": \"89\"}, {\"kind\": \"value\", \"attr_name\": \"Freezing capacity in 24 hours (kg/24 hours)\", \"source\": \"10.5\"}, {\"kind\": \"value\", \"attr_name\": \"Maximum freezer storage time in power failure (hours)\", \"source\": \"4\"}, {\"kind\": \"value\", \"attr_name\": \"Standardized width (cm)\", \"source\": \"70\"}]}",
+  "tools": null,
+  "text": {
+    "verbosity": "low",
+    "format": {
+      "type": "json_schema",
+      "name": "attr_translations_schema",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "translations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "kind": {
+                  "type": "string"
+                },
+                "source": {
+                  "type": "string"
+                },
+                "translated": {
+                  "type": "string"
+                },
+                "attr_name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "kind",
+                "source",
+                "translated",
+                "attr_name"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "translations"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "reasoning": {
+    "effort": "medium"
+  },
+  "previous_response_id": "resp_0d153e3bdd07e69800691c599bd7cc819398cb4a2032c78040",
+  "service_tier": "default"
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283054561 8020283054561 Hob and Hood (2in1) ELICA NIKOLATESLA PRIME S+ BL/A/83",
+  "search_queries": {
+    "main_query": "Elica NikolaTesla Prime S+ BL/A/83 integreeritav induktsioonpliidiplaat õhupuhastiga",
+    "additional_queries": [
+      "kuidas lahendada aurude ja toidulõhnade eemaldamine köögisaarelt – Elica NikolaTesla Prime S+ pliidiplaat koos integreeritud õhupuhastiga",
+      "induktsioonpliidiplaat õhupuhastiga 83 cm 80 cm kapile köögisaarele – Elica NikolaTesla Prime S+",
+      "Elica NikolaTesla Prime S+ võrdlus teiste 80 cm integreeritavate pliidiplaatidega koos õhupuhastiga",
+      "kuidas paigaldada, kasutada ja puhastada Elica NikolaTesla Prime S+ BL/A/83 integreeritavat induktsioonpliidiplaati õhupuhastiga"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica NikolaTesla Prime S+ BL/A/83 sobib minu kööki ja olemasoleva kapiga?",
+      "answer": "See mudel on 83 cm lai, 51,5 cm sügav ja 25 cm kõrge ning vajab tööpinna väljalõiget ligikaudu 75 × 49 cm, seega on see mõeldud eelkõige 80 cm alumisele kapile või saarekappi sobitamiseks. Õhupuhasti versioon on \"duct out\", mis tähendab, et aurud ja lõhnad juhitakse välisõhku – köögis peab olema võimalik ventilatsioonitoru välja juhtida. Elektriühendus on 220–240 V ning kogu võimsus kuni umbes 7,2 kW, seega peab elektrik kontrollima, et sinu kodu elektrisüsteem (kaitse ja kaabeldus) seda koormust talub. Kui need tingimused on täidetud, sobib mudel hästi nii seinaäärsesse kööki kui ka köögisaarele, eriti kui soovid puhta joonega lahendust ilma eraldi rippuva kubuta."
+    },
+    {
+      "question": "Kui lihtne on seda pliidiplaati kasutada ja kuidas käib hooldus ning puhastamine?",
+      "answer": "Pliidiplaadil on neli induktsioonkeeduala ning üks sillafunktsiooniga (Bridge) tsoon, mida saab liita suuremate pottide ja pannide jaoks. Juhtimine toimub slider-puutepaneeliga, kus saad valida 9 võimsusastet ja Booster-režiimi kiireks kuumutamiseks; olemas on ka taimer, pausinupp (Stop&Go), automaatne kuumutus, jääksoojuse näidik ja lapselukk, mis teeb kasutamise intuitiivseks ja turvaliseks. Integreeritud õhupuhasti asub keskel resti all ning Autocapture-funktsioon saab pliidilt info ja reguleerib automaatselt tõmbe tugevust, et aurud ja lõhnad kohe keedualade juurest ära juhtida. Hooldus on lahendatud ülalt ligipääsetavate filtritega: metallrasvafiltri ja resti saab lihtsasti üles tõsta ning puhastada vastavalt juhendile, samuti on sees hooldus- ja filtrivahetuse meeldetuletus ning spetsiaalne äravooluklapiga kogumisala juhuks, kui vedelikku satub sissevõtuavasse. Regulaarne filtrite puhastus ja kanali kontroll tagab hea tõmbe ja vaikse töö."
+    },
+    {
+      "question": "Kui töökindel on Elica NikolaTesla Prime S+ ning milline on garantii ja hinna-väärtuse suhe?",
+      "answer": "NikolaTesla Prime S+ on Elica kõrgema klassi mudel, mis ühendab A-energiaklassi, tõhusa brushless-mootoriga integreeritud õhupuhasti ning kuni 620 m³/h tõmbevõimsuse. See tähendab tugevat, samas suhteliselt vaikset tõmmet otse keedupinnalt, mis vähendab aurude ja rasva levikut kööki. Induktsioontehnoloogia, võimsuse piiramine (Power management), sillafunktsioon ja automaatne tõmbejuhtimine pakuvad mugavust, mida paljud eraldi pliidiplaadi ja kubu kombinatsioonid ei paku. Garantii täpset pikkust ja tingimusi sisendmaterjal ei täpsusta – need sõltuvad müüjast ja riigist, seega kontrolli meie e-poe garantiitingimusi; mõnel turul pakuvad ametlikud edasimüüjad ka pikendatud garantiid toote registreerimisel. Hinna mõttes tasub seda mudelit eelkõige siis, kui soovid disainilahendust, kus eraldi kubu ei ole nähtaval (nt köögisaarel või akna ees), ning hindad ruumisäästu, tugevat tõmmet ja ühes seadmes koondatud kõrgklassi funktsioone."
+    }
+  ]
+}

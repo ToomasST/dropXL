@@ -1,0 +1,6 @@
+requests>=2.31.0
+    # Optional but recommended for progress bars
+    tqdm>=4.66.0
+    python-dotenv>=1.0.0
+    # For FlixMedia rendering (enable with --flix-render)
+    playwright>=1.55.0

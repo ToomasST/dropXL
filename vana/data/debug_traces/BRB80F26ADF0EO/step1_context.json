@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8806097060741 8806097060741 BRB80F26ADF0EO",
+  "search_queries": {
+    "main_query": "Samsung BRB80F26ADF0EO integreeritav külmik-sügavkülmik No Frost",
+    "additional_queries": [
+      "Samsung integreeritav külmik 177.5 cm Twin Cooling ja Cool Select Plus",
+      "BRB80F26ADF0EO Wi‑Fi SmartThings külmik energiamärgis D 35 dB",
+      "Sisseehitatav külmik alumise sügavkülmaga 193+74 l, inverter kompressor",
+      "Samsung No Frost integreeritav külmik 54 cm laiusega"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Millised on mõõdud ja millisesse kappi see sobib?",
+      "answer": "Mõõdud (K × L × S): 177.5 × 54 × 55 cm. Standardiseeritud nišimõõdud: laius 60 cm ja kõrgus 180 cm. Tegu on integreeritava uksele‑uksele (door‑on‑door) lahendusega alumise sügavkülmaga."
+    },
+    {
+      "question": "Kas seadmel on No Frost ja kas lõhnad ei kandu sektsioonide vahel?",
+      "answer": "Jah. No Frost hoiab ära härmatise nii külmikus kui sügavkülmas. Twin Cooling™ kasutab külmikul ja sügavkülmal eraldi aurusteid ja ventilaatoreid, optimeerib temperatuuri ning niiskust ja aitab vältida lõhnade segunemist."
+    },
+    {
+      "question": "Kas külmikut saab juhtida telefonist ja kas on AI energiasääst?",
+      "answer": "Jah. Seadmel on Wi‑Fi ja tugi SmartThings rakendusele. AI energiarežiim võib vähendada energiatarvet kuni 10%: kui prognoositav elektrikulu ületab etteantud piiri, soovitab süsteem säästurežiimi ning optimeerib kompressori kiirust ja sulatus‑tsükleid vastavalt kasutusele ja keskkonnale. Cool Select Plus tsooni režiime saab valida nii paneelilt kui äpist: 2°C, −1°C, −5°C või −15…−23°C."
+    }
+  ]
+}

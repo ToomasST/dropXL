@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8806097060772 8806097060772 BRB80F26ADS0EO",
+  "search_queries": {
+    "main_query": "Samsung BRB80F26ADS0EO integreeritav külmik-sügavkülm No Frost",
+    "additional_queries": [
+      "Samsung BRB80F26ADS0EO Twin Cooling 177,5 cm liughingedega",
+      "Integreeritav külmik Wi‑Fi SmartThings 54x55x177,5 cm",
+      "Samsung Cool Select Plus konverteeritav sügavkülm‑külmik",
+      "Samsung integreeritav külmik 190+74 l 35 dB D klass"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas see mudel on integreeritav ja millised on mõõdud ning hinged?",
+      "answer": "Jah, tegu on integreeritava (built‑in) külmikuga alumise sügavkülmaga. Mõõdud: kõrgus 177,5 cm, laius 54 cm, sügavus 55 cm (standardiseeritud: H 180 cm, W 60 cm). Ustel on liughinged (sliding) ja need on pööratavad."
+    },
+    {
+      "question": "Kas külmik on No Frost ja kuidas Twin Cooling™ ning Cool Select Plus tsoon toimivad?",
+      "answer": "Jah, No Frost. Twin Cooling™ kasutab eraldi aurusteid ja ventilaatoreid, et hoida külmikus ja sügavkülmas sobivat temperatuuri ning niiskust ning vältida lõhnade segunemist. Cool Select Plus tsoonis saab valida režiime ühe nupuvajutusega või läbi SmartThings rakenduse: jahutus (2 °C), pehme külm (-1 °C), osaline külm (-5 °C) või sügavkülm (-15…-23 °C). Mudel toetab ka „freezer to fridge“ funktsiooni."
+    },
+    {
+      "question": "Kas seda saab telefoniga juhtida ja millised on energia- ning müranäitajad?",
+      "answer": "Jah, külmik on Wi‑Fi toega ja töötab SmartThingsiga (sh AI Energy Mode, mis optimeerib kompressori kiirust ja sulatustsükleid ning võib vähendada energiakulu kuni 10%). Energiaklass D, aastane tarbimine ca 185 kWh. Müra 35 dB (klass B). Kogumahud: külmik 190 l, sügavkülm 74 l."
+    }
+  ]
+}

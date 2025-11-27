@@ -1,0 +1,2339 @@
+{
+  "offer": {
+    "products": {
+      "product": {
+        "item": [
+          {
+            "@code_on_card": "GV520E10S",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "GORENJE"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "GV520E10S"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"3838782460814\"></script>\n    </div>\n"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "3838782460814",
+                "price": {
+                  "@gross": "236.90"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "GV563E11",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "GORENJE"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "GV563E11"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"3838782890079\"></script>\n    </div>\n"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "3838782890079",
+                "price": {
+                  "@gross": "257.50"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "KEAD2100L",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "KEAD2100L"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Pamirškite šlapius indus, džiovinkite atidarydami dureles\" src=\"data/processed/flix_media/19211/Electrolux-275366473-PSEEDW18MPA00003.webp\"/></figure><div class=\"flixf-body\"><h3>Pamirškite šlapius indus, džiovinkite atidarydami dureles</h3><p>AirDry“ kiekvieną indų plovimo ciklą užbaigia natūraliu oro srauto džiovinimu. Džiovinimo fazės pabaigoje durelės automatiškai šiek tiek praveriamos – Jums nereikia nei piršto pajudinti. Natūralus oras cirkuliuoja indaplovėje, visiškai išdžiovindamas lėkštes ir virtuvės reikmenis.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Triskart efektyvesnis džiovinimas su „AirDry“\" src=\"data/processed/flix_media/19211/Electrolux-275366473-PSEEDW18MPA00003_1.webp\"/></figure><div class=\"flixf-body\"><h3>Triskart efektyvesnis džiovinimas su „AirDry“</h3><p>Naujoji „AirDry“ technologija užbaigia džiovinimą natūraliu oro srautu, todėl džiovinimas triskart efektyvesnis nei uždarų durelių sistemose. Baigiantis ciklui durelės atidaromos 10 cm ir oras gali cirkuliuoti, kad indai išdžiūtų nepriekaištingai.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Vanduo pasieks kiekvieną kampelį su dvigubu purkštuku\" src=\"data/processed/flix_media/19211/Electrolux-281466021-PSEEDW200FA00006.webp\"/></figure><div class=\"flixf-body\"><h3>Vanduo pasieks kiekvieną kampelį su dvigubu purkštuku</h3><p>Kiekvieną stiklinę, indą ir lėkštę apipurškia dvi besisukančios indaplovės purkštuvo alkūnės. Purkštuvais užtikrinama, kad vanduo patektų į kiekvieną kampelį ir indai būtų tviskančiai išplaunami. Tiek viršutiniame, tiek apatiniame krepšyje.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Greita ir veiksminga</h3><p>Jūsų naujas pagalbininkas taupant laiką. Kai skalbinių yra nedaug, galite naudoti 30 min. sparčiojo skalbimo programą – ji yra puikus sprendimas. Ir visa tai pasiekiama nesumenkinant rezultatų. Puikus ir greitas skalbimas.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Paprasta įrengti su „PerfectFit“\" src=\"data/processed/flix_media/19211/Electrolux-275368141-PSEEDW19BIE00002.webp\"/></figure><div class=\"flixf-body\"><h3>Paprasta įrengti su „PerfectFit“</h3><p>Naudojant slankiojančius lankstus „PerfectFit“, įrengti naują indaplovę ypač paprasta. Lankstai prisitaiko prie visų nišoje įrengiamų prietaisų aukščių ir netgi nereikia pjauti grindjuostės. Galite būti tikri, kad prietaisas puikiai tilps Jūsų virtuvėje.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>„Rinse and Hold“ – pirminis plovimas gaivai</h3><p>Jeigu indaplovei pripildyti reikia kelių dienų, skalavimo ir mirkymo programa apsaugos nuo nemalonių kvapų susidarymo. Vandens čiurkšlės pašalina maisto likučius nuo lėkščių ir stiklinių indų bei užtikrina gaivą virtuvėje.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543731084",
+                "price": {
+                  "@gross": "267.80"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-24"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "NRKI517E42",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "GORENJE"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "NRKI517E42"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"3838782838415\"></script>\n    </div>\n"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "3838782838415",
+                "price": {
+                  "@gross": "303.85"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "EEQ47200L",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "EEQ47200L"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<p><br></p>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543798377",
+                "price": {
+                  "@gross": "319.30"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-16"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "FSB5360CZ",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "AEG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "FSB5360CZ"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Tobula švara net ir kampuose\" src=\"data/processed/flix_media/23899/Electrolux-275456500-PSAADW17MPE00005.webp\"/></figure><div class=\"flixf-body\"><h3>Tobula švara net ir kampuose</h3><p>Net ir šalia vienas kito sukrauti indai yra tinkamai nuplaunami dėka „SatelliteClean®“ purkštuvo. Novarotiškas purkštuvas užtikrina, kad vanduo patektų visur – iki trijų kartų geresnis padengimas vandeniu ir puikūs rezultatai su bet kokiais indais.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„SatelliteClean®“ - galingas indų plovimas\" src=\"data/processed/flix_media/23899/Electrolux-275739767-PSAADW17BIE00008.webp\"/></figure><div class=\"flixf-body\"><h3>„SatelliteClean®“ - galingas indų plovimas</h3><p>Nepriekaištingas indų plovimas indaplove su „SatelliteClean®“. Šis purkštuvas triskart geriau indus aprūpina vandeniu nei įprastas. Dvigubas besisukantis purkštuvas nuolat keičia purškimo kampą. Vanduo pasiekia kiekvieną kampelį. Ypač kruopščiam plovimui.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Nesudėtingas atsakingo indų plovimo būdas\" src=\"data/processed/flix_media/23899/Electrolux-275739686-PSAADW210KE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Nesudėtingas atsakingo indų plovimo būdas</h3><p>Atsakingus žingsnius žengti lengva. „QuickSelect“ slankikliu jutikliniame ekrane pasirinkite norimą ciklo trukmę ir „Ecometer“ ryškiais žaliais stulpeliais nurodys tvariausią programą energijai bei vandeniui taupyti.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Patikrinkite vos pažvelgę\" src=\"data/processed/flix_media/23899/Electrolux-277185228-PSABDW18BIE00004.webp\"/></figure><div class=\"flixf-body\"><h3>Patikrinkite vos pažvelgę</h3><p>Ši pilnai įmontuojama indaplovė gali išmaniai ir visapusiškai informuoti jus apie tai, kas vyksta su jūsų indais. Vykdant ciklą, ant grindų projektuojamas specialus raudonas šviesos spindulys. Kai indai jau švarūs ir paruošti iškrauti, spindulys tampa žalias. Paprasta ir efektyvu.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Natūralus džiovinimas su „AirDry“\" src=\"data/processed/flix_media/23899/Electrolux-275456663-PSAADW17MPE00004.webp\"/></figure><div class=\"flixf-body\"><h3>Natūralus džiovinimas su „AirDry“</h3><p>Naujoji technologija „AirDry“ leidžia maksimaliai pagerinti džiovinimo rezultatus naudojant natūralų oro srautą. Durelės atidaromos automatiškai iki 10 cm, kai ciklas pasiekia paskutinį etapą ir indai yra išplauti. Taip indai išdžiovinami natūraliai bei sumažinamos energijos sąnaudos.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Sklandus montavimas\" src=\"data/processed/flix_media/23899/Electrolux-275456679-PSAADW18BIE00009.webp\"/></figure><div class=\"flixf-body\"><h3>Sklandus montavimas</h3><p>Indaplovę galima sklandžiai įmontuoti naudojant slankiojančių vyrių sistemą „PerfectFit“. Ji prisitaiko prie visų nišoje įrengiamų prietaisų aukščių dėl to nereikia pjauti grindjuostės. Dera bet kurioje šiuolaikiškoje virtuvėje.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543719549",
+                "price": {
+                  "@gross": "303.85"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-30"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "NRKI517E62WF",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "GORENJE"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "NRKI517E62WF"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<p><strong>AdaptTech<br></strong><br>\nA smart fridge freezer that learns users habits.<br>\nAdaptTech monitors usage patterns to predict door openings and pre-cools the interior by 1–2 °C, minimizing temperature fluctuations. This helps preserve food freshness and nutrients longer.</p>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "3838782838439",
+                "price": {
+                  "@gross": "339.90"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "NRKI517E82WF",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "GORENJE"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "NRKI517E82WF"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<p><strong>AdaptTech</strong><br>\nA smart fridge freezer that learns users habits.<br>\nAdaptTech monitors usage patterns to predict door openings and pre-cools the interior by 1–2 °C, minimizing temperature fluctuations. This helps preserve food freshness and nutrients longer.</p>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "3838782838446",
+                "price": {
+                  "@gross": "360.50"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "EEM63310L",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "EEM63310L"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Montuojama Indaplovė 45 cm 700 serija „GlassCare“</h3><p>Electrolux 911 077 020</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543738397",
+                "price": {
+                  "@gross": "339.90"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-23"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "OSC5D181ES",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "AEG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "OSC5D181ES"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Adaptyvus aušinimas. Mažiau maisto švaistymo\" src=\"data/processed/flix_media/30946/Electrolux-275458088-PSAARF22MPE00002.webp\"/></figure><div class=\"flixf-body\"><h3>Adaptyvus aušinimas. Mažiau maisto švaistymo</h3><p>Dėl tikslių elektroninių jutiklių 5000 serijos „ColdSense“ šaldytuvo temperatūra atidarius ir uždarius duris greitai grįžta į reikiamą temperatūrą. Taip išvengiama staigių temperatūros šuolių, todėl maistas ilgiau išlieka šviežias.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„ColdSense“ apsaugo maistą greitai atstatydamas temperatūrą\" src=\"data/processed/flix_media/30946/Electrolux-281521625-PSAARF22MPE00001.webp\"/></figure><div class=\"flixf-body\"><h3>„ColdSense“ apsaugo maistą greitai atstatydamas temperatūrą</h3><p>„ColdSense“ naudoja tikslius temperatūros jutiklius, kad greitai sugrąžintų reikiamą šaldytuvo ar šaldiklio temperatūrą atidarius dureles. Taip išvengiama staigių temperatūros šuolių, todėl maistas ilgiau išlieka šviežias.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Kiekviena lentyna vėsinama tolygiai. Dėl „DynamicAir“\" src=\"data/processed/flix_media/30946/Electrolux-275459533-241114GTWT.webp\"/></figure><div class=\"flixf-body\"><h3>Kiekviena lentyna vėsinama tolygiai. Dėl „DynamicAir“</h3><p>Technologija „DynamicAir“ skirta palaikyti pastovų oro srautą, kad šaldytuve būtų užtikrinta stabili temperatūra. Kiekviena lentyna yra vėsinama tolygiai, kad nebūtų šiltų zonų. Nesidaugina bakterijos. Maisto produktai ilgiau išlieka šviežūs.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Technologija „LowFrost“ padeda lengviau atitirpinti šaldiklį ir suteikia galimybę tą daryti rečiau</h3><p>Efektyvus šaldytuvas-šaldiklis su pažangia technologija „Low Frost“, kuri palengvina atitirpinimą ir suteikia galimybę tai daryti rečiau dėl paslėptų šaldymo elementų, kurie sumažina šerkšno kaupimąsi.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Dešimt metų be jokių rūpesčių\" src=\"data/processed/flix_media/30946/Electrolux-275740773-PSAAVL20BIE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Dešimt metų be jokių rūpesčių</h3><p>Dešimties metų garantija kompresoriui - užtikrina maksimalią ramybę. Garantija taikoma visiems darbams, dalims bei transportavimui, kurie susiję su kompresoriaus gedimu.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Vidinis elektroninis valdymas. Dėl tikslaus aušinimo</h3><p>Viduje esančio elektroninio valdymo funkcija leidžia visiškai valdyti jūsų maisto laikymo sąlygas. LED indikatoriai aiškiai rodo temperatūros nustatymą, kad būtų patogu reguliuoti ir valdyti.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543848119",
+                "price": {
+                  "@gross": "391.40"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-16"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "FSE72537P",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "AEG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "FSE72537P"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Vanduo purškiamas iki 3 kartų efektyviau jo naudojant tiek pat\" src=\"data/processed/flix_media/19881/Electrolux-275456500-PSAADW17MPE00005.webp\"/></figure><div class=\"flixf-body\"><h3>Vanduo purškiamas iki 3 kartų efektyviau jo naudojant tiek pat</h3><p>Indaplovėje „6000 SatelliteClean®“ kruopščiai išvalomi net ir arti vienas kito sudėti arba didesni indai. Naujoviškas purkštukas purškia iki 3 kartų efektyviau taip užtikrindamas, kad visi indų kampeliai būtų švarūs.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„SatelliteClean®“ - galingas indų plovimas\" src=\"data/processed/flix_media/19881/Electrolux-275739767-PSAADW17BIE00008.webp\"/></figure><div class=\"flixf-body\"><h3>„SatelliteClean®“ - galingas indų plovimas</h3><p>Nepriekaištingas indų plovimas indaplove su „SatelliteClean®“. Šis purkštuvas triskart geriau indus aprūpina vandeniu nei įprastas. Dvigubas besisukantis purkštuvas nuolat keičia purškimo kampą. Vanduo pasiekia kiekvieną kampelį. Ypač kruopščiam plovimui.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Pritaikyta erdvė ir patogus plovimas naudojant „MaxiFlex“\" src=\"data/processed/flix_media/19881/Electrolux-275740637-PSAADW20BIA00002.webp\"/></figure><div class=\"flixf-body\"><h3>Pritaikyta erdvė ir patogus plovimas naudojant „MaxiFlex“</h3><p>„MaxiFlex“ stalčius yra sukurtas taip, kad tilptų įvairaus dydžio stalo įrankiai ir reikmenys – tiek dideli, tiek neįprastų formų. Universalios pertvaros ir padidintas gylis, kad būtų galima pritaikyti kiekvienam įrankiui. Beveik visi įrankiai sklandžiai įdedami ir išplaunami vienu kartu.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Nesudėtingas atsakingo indų plovimo būdas\" src=\"data/processed/flix_media/19881/Electrolux-275739686-PSAADW210KE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Nesudėtingas atsakingo indų plovimo būdas</h3><p>Atsakingus žingsnius žengti lengva. „QuickSelect“ slankikliu jutikliniame ekrane pasirinkite norimą ciklo trukmę ir „Ecometer“ ryškiais žaliais stulpeliais nurodys tvariausią programą energijai bei vandeniui taupyti.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Speciali jūsų trapių taurių apsauga\" src=\"data/processed/flix_media/19881/Electrolux-275533308-PSABDW17BIE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Speciali jūsų trapių taurių apsauga</h3><p>Taurės visuomet yra trapiausi gaminiai indaplovėje, o tai reiškia, kad joms reikia specialios priežiūros. Viršutiniame šios indaplovės krepšyje yra minkšti guminiai smaigai, skirti prilaikyti ir apsaugoti taures. „SoftSpikes“ veiksmingai stabilizuoja taures ir puodelius, neleisdami jiems nuvirsti ir sudužti.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Patikrinkite vos pažvelgę\" src=\"data/processed/flix_media/19881/Electrolux-277185228-PSABDW18BIE00004.webp\"/></figure><div class=\"flixf-body\"><h3>Patikrinkite vos pažvelgę</h3><p>Ši pilnai įmontuojama indaplovė gali išmaniai ir visapusiškai informuoti jus apie tai, kas vyksta su jūsų indais. Vykdant ciklą, ant grindų projektuojamas specialus raudonas šviesos spindulys. Kai indai jau švarūs ir paruošti iškrauti, spindulys tampa žalias. Paprasta ir efektyvu.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543781256",
+                "price": {
+                  "@gross": "386.25"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-19"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "BRB80F26CES0EO",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "SAMSUNG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "BRB80F26CES0EO"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<p></p>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "8806097060871",
+                "price": {
+                  "@gross": "440.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-21"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "EEM48321L",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "EEM48321L"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Montuojama Indaplovė 60 cm 600 serija \"SatelliteClean\"</h3><p>700 serijos \"MaxiFlex\" 60 cm pločio montuojama indaplovė, 14 komplektų.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543685738",
+                "price": {
+                  "@gross": "375.95"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-23"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "BRB80F26CEF0EO",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "SAMSUNG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "BRB80F26CEF0EO"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<p></p>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "8806097060857",
+                "price": {
+                  "@gross": "480.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "BRB80F30BES0EO",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "SAMSUNG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "BRB80F30BES0EO"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<p></p>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "8806097061601",
+                "price": {
+                  "@gross": "500.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-14"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "ENT6MD18S3",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "ENT6MD18S3"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Išlaikykite maisto sultingumą ir drėgmę</h3><p>00 serijos „TwinTech® No Frost“ šaldytuvas su šaldikliu išsaugo kiekvieno maisto produkto skonį. Jo dviguba vėsinimo sistema apsaugo šaldiklį nuo apledėjimų, o šaldytuve užtikrina optimalią drėgmę bei apsaugo maisto produktus nuo džiūvimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„TwinTech® No Frost“, kad maistas išliktų sultingas\" src=\"data/processed/flix_media/37496/Electrolux-277917342-241220AJAU.webp\"/></figure><div class=\"flixf-body\"><h3>„TwinTech® No Frost“, kad maistas išliktų sultingas</h3><p>„TwinTech® No Frost“ turi pažangiąją dvigubą šaldytuvo ir šaldiklio vėsinimo sistemą. Ši technologija apsaugo šaldiklį nuo apledėjimų, o šaldytuve užtikrina optimalią drėgmę ir apsaugo maisto produktus nuo džiūvimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Visiška naujovė – unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*\" src=\"data/processed/flix_media/37496/Electrolux-275390787-PSEERF23BIA00003.webp\"/></figure><div class=\"flixf-body\"><h3>Visiška naujovė – unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*</h3><p>Didžiuodamiesi pristatome savo unikalų šaldytuvą-šaldiklį, kurio 70 % vidinės dangos pagaminta iš perdirbto plastiko. Nebenaudojamų šaldytuvų plastiką galima panaudoti naujų šaldytuvų gamyboje ir taip sumažinti aplinką išmetamų atliekų kiekį.  * Vidaus dangos plastikas rHIPS yra pagamintas panaudojant iki 70 % perdirbto plastiko, o tai sudaro 13 % viso šaldytuve esančio plastiko.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„MultiFlow“ technologija - tolygi temperatūra visame šaldytuve\" src=\"data/processed/flix_media/37496/Electrolux-275848261-PSEERE23BIA00007.webp\"/></figure><div class=\"flixf-body\"><h3>„MultiFlow“ technologija - tolygi temperatūra visame šaldytuve</h3><p>„MultiFlow“ technologija padeda palaikyti vienodą temperatūrą visose šaldytuvo lentynėlėse, todėl maisto produktai ilgiau išliks švieži. Be to, ši technologija palaiko optimalią drėgmę ir apsaugo produktus nuo džiuvimo. Išsaugokite maisto produktus ilgiau su „MultiFlow“.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Stalčiuje „Extra Chill“ mėsos išpjovos bus saugios\" src=\"data/processed/flix_media/37496/Electrolux-277917360-241220TSD6.webp\"/></figure><div class=\"flixf-body\"><h3>Stalčiuje „Extra Chill“ mėsos išpjovos bus saugios</h3><p>Stalčiuje „Extra Chill“ apsaugosite sūrių ar šviežių mėsos išpjovų kokybę, skonį ir šviežumą. Šiame stalčiuje nuolat cirkuliuoja šaltas oras, todėl jame užtikrinama žemesnė temperatūra nei kitose šaldytuvo srityse.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Durelių garso signalas</h3><p>Atidarytų durelių perspėjimo garso signalas įspėja, kai durelės per ilgai paliekamos atidarytos, ir taip padeda išvengti maisto ir energijos švaistymo.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7333394082691",
+                "price": {
+                  "@gross": "509.85"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-12-17"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "E6MNCE19S",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "E6MNCE19S"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Palaiko maistą sultingą ir drėgną\" src=\"data/processed/flix_media/38342/Electrolux-277917342-241220AJAU.webp\"/></figure><div class=\"flixf-body\"><h3>Palaiko maistą sultingą ir drėgną</h3><p>Bešerkšnis šaldytuvas-šaldiklis „600 TwinTech® No Frost“ išlaiko maistą 60 % sultingesnį nei šaldytuvai su vienu garintuvu. Jo dviguba vėsinimo sistema palaiko idealų drėgnumą ir neleidžia maistui išdžiūti. Ji taip pat užtikrina, kad niekada nebereikės atšildyti šaldiklio.*</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„TwinTech® No Frost“, kad maistas išliktų sultingas\" src=\"data/processed/flix_media/38342/Electrolux-277917342-241220AJAU_1.webp\"/></figure><div class=\"flixf-body\"><h3>„TwinTech® No Frost“, kad maistas išliktų sultingas</h3><p>„TwinTech® No Frost“ turi pažangiąją dvigubą šaldytuvo ir šaldiklio vėsinimo sistemą. Ši technologija apsaugo šaldiklį nuo apledėjimų, o šaldytuve užtikrina optimalią drėgmę ir apsaugo maisto produktus nuo džiūvimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Visiška naujovė – unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*\" src=\"data/processed/flix_media/38342/Electrolux-275390787-PSEERF23BIA00003.webp\"/></figure><div class=\"flixf-body\"><h3>Visiška naujovė – unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*</h3><p>Didžiuodamiesi pristatome savo unikalų šaldytuvą-šaldiklį, kurio 70 % vidinės dangos pagaminta iš perdirbto plastiko. Nebenaudojamų šaldytuvų plastiką galima panaudoti naujų šaldytuvų gamyboje ir taip sumažinti aplinką išmetamų atliekų kiekį.  * Vidaus dangos plastikas rHIPS yra pagamintas panaudojant iki 70 % perdirbto plastiko, o tai sudaro 13 % viso šaldytuve esančio plastiko.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„MultiFlow“ technologija - tolygi temperatūra visame šaldytuve\" src=\"data/processed/flix_media/38342/Electrolux-275848261-PSEERE23BIA00007.webp\"/></figure><div class=\"flixf-body\"><h3>„MultiFlow“ technologija - tolygi temperatūra visame šaldytuve</h3><p>„MultiFlow“ technologija padeda palaikyti vienodą temperatūrą visose šaldytuvo lentynėlėse, todėl maisto produktai ilgiau išliks švieži. Be to, ši technologija palaiko optimalią drėgmę ir apsaugo produktus nuo džiuvimo. Išsaugokite maisto produktus ilgiau su „MultiFlow“.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Stalčiuje „Extra Chill“ mėsos išpjovos bus saugios\" src=\"data/processed/flix_media/38342/Electrolux-277917360-241220TSD6.webp\"/></figure><div class=\"flixf-body\"><h3>Stalčiuje „Extra Chill“ mėsos išpjovos bus saugios</h3><p>Stalčiuje „Extra Chill“ apsaugosite sūrių ar šviežių mėsos išpjovų kokybę, skonį ir šviežumą. Šiame stalčiuje nuolat cirkuliuoja šaltas oras, todėl jame užtikrinama žemesnė temperatūra nei kitose šaldytuvo srityse.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Jūsų produktai – jūsų pasirinktas saugojimo būdas\" src=\"data/processed/flix_media/38342/Electrolux-281464169-PSEEVL20BIA00002.webp\"/></figure><div class=\"flixf-body\"><h3>Jūsų produktai – jūsų pasirinktas saugojimo būdas</h3><p>Šaldytuvas su „CustomFlex®“ – nuo šiol durelių lentynėles susidėkite taip, kaip patogu jums. Susikurkite norimą durelių dizainą, lengvai perdėdami ar pastumdami lentynėles į jums patogią vietą.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7333394079462",
+                "price": {
+                  "@gross": "515.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-23"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "LNS6TE19S",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "LNS6TE19S"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Palaiko maistą sultingą ir drėgną\" src=\"data/processed/flix_media/20409/Electrolux-277917342-241220AJAU.webp\"/></figure><div class=\"flixf-body\"><h3>Palaiko maistą sultingą ir drėgną</h3><p>Bešerkšnis šaldytuvas-šaldiklis „600 TwinTech® No Frost“ išlaiko maistą 60 % sultingesnį nei šaldytuvai su vienu garintuvu. Jo dviguba vėsinimo sistema palaiko idealų drėgnumą ir neleidžia maistui išdžiūti. Ji taip pat užtikrina, kad niekada nebereikės atšildyti šaldiklio.*</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„TwinTech® No Frost“ apsaugo nuo išdžiūvimo\" src=\"data/processed/flix_media/20409/Electrolux-277917342-241220AJAU_1.webp\"/></figure><div class=\"flixf-body\"><h3>„TwinTech® No Frost“ apsaugo nuo išdžiūvimo</h3><p>„TwinTech® No Frost“ turi pažangiąją dvigubą šaldytuvo ir šaldiklio vėsinimo sistemą. Ši technologija apsaugo šaldiklį nuo apledėjimų, o šaldytuve užtikrina optimalią drėgmę bei apsaugo maisto produktus nuo džiūvimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Visapusiškas laikymo erdvės pritaikymas naudojant „MultiSpace“\" src=\"data/processed/flix_media/20409/Electrolux-357113625-250623YFON.webp\"/></figure><div class=\"flixf-body\"><h3>Visapusiškas laikymo erdvės pritaikymas naudojant „MultiSpace“</h3><p>Šaldytuvas „MultiSpace“ yra aukštesnis už standartinius šaldytuvus, todėl jame yra daugiau vietos produktams laikyti. Daugybė laikymo sprendimų leidžia pritaikyti erdvę pagal Jūsų poreikius – daugiau lankstumo ir tvarkos.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Stabilus vėsinimas dėl „DynamicAir“\" src=\"data/processed/flix_media/20409/Electrolux-366011456-250416ZH5Q.webp\"/></figure><div class=\"flixf-body\"><h3>Stabilus vėsinimas dėl „DynamicAir“</h3><p>Technologija „DynamicAir“ skirta užtikrinti, kad šaldytuve būtų palaikoma stabili temperatūra. Vėsus oras cirkuliuojamas šaldytuve, todėl netgi atidarius dureles maisto produktai apsaugomi nuo sušilimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"10 metų garantija kompresoriui\" src=\"data/processed/flix_media/20409/Electrolux-275367506-PSEEVL20BIE00001.webp\"/></figure><div class=\"flixf-body\"><h3>10 metų garantija kompresoriui</h3><p>Būkite ramūs žinodami, kad garantinis aptarnavimas taikomas visiems darbams, dalims bei transportavimui, kurie susiję su kompresoriaus gedimu net 10 metų!</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Jutikliniu elektroniniu valdikliu viršuje lengva reguliuoti funkcijas\" src=\"data/processed/flix_media/20409/Electrolux-275370005-PSEERF19BIA00002.webp\"/></figure><div class=\"flixf-body\"><h3>Jutikliniu elektroniniu valdikliu viršuje lengva reguliuoti funkcijas</h3><p>Tiksliai nustatykite temperatūrą ir lengvai reguliuokite šaldytuvo-šaldiklio funkcijas naudodamiesi viršuje esančio jutiklinio elektroninio valdiklio aiškiai suprantamu ekranu.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543776528",
+                "price": {
+                  "@gross": "535.60"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-26"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "ENT6MD19S3",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "ENT6MD19S3"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Išlaikykite maisto sultingumą ir drėgmę</h3><p>00 serijos „TwinTech® No Frost“ šaldytuvas su šaldikliu išsaugo kiekvieno maisto produkto skonį. Jo dviguba vėsinimo sistema apsaugo šaldiklį nuo apledėjimų, o šaldytuve užtikrina optimalią drėgmę bei apsaugo maisto produktus nuo džiūvimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„TwinTech® No Frost“, kad maistas išliktų sultingas\" src=\"data/processed/flix_media/37401/Electrolux-277917342-241220AJAU.webp\"/></figure><div class=\"flixf-body\"><h3>„TwinTech® No Frost“, kad maistas išliktų sultingas</h3><p>„TwinTech® No Frost“ turi pažangiąją dvigubą šaldytuvo ir šaldiklio vėsinimo sistemą. Ši technologija apsaugo šaldiklį nuo apledėjimų, o šaldytuve užtikrina optimalią drėgmę ir apsaugo maisto produktus nuo džiūvimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Visiška naujovė – unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*\" src=\"data/processed/flix_media/37401/Electrolux-275390787-PSEERF23BIA00003.webp\"/></figure><div class=\"flixf-body\"><h3>Visiška naujovė – unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*</h3><p>Didžiuodamiesi pristatome savo unikalų šaldytuvą-šaldiklį, kurio 70 % vidinės dangos pagaminta iš perdirbto plastiko. Nebenaudojamų šaldytuvų plastiką galima panaudoti naujų šaldytuvų gamyboje ir taip sumažinti aplinką išmetamų atliekų kiekį.  * Vidaus dangos plastikas rHIPS yra pagamintas panaudojant iki 70 % perdirbto plastiko, o tai sudaro 13 % viso šaldytuve esančio plastiko.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„MultiFlow“ technologija - tolygi temperatūra visame šaldytuve\" src=\"data/processed/flix_media/37401/Electrolux-275848261-PSEERE23BIA00007.webp\"/></figure><div class=\"flixf-body\"><h3>„MultiFlow“ technologija - tolygi temperatūra visame šaldytuve</h3><p>„MultiFlow“ technologija padeda palaikyti vienodą temperatūrą visose šaldytuvo lentynėlėse, todėl maisto produktai ilgiau išliks švieži. Be to, ši technologija palaiko optimalią drėgmę ir apsaugo produktus nuo džiuvimo. Išsaugokite maisto produktus ilgiau su „MultiFlow“.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Stalčiuje „Extra Chill“ mėsos išpjovos bus saugios\" src=\"data/processed/flix_media/37401/Electrolux-277917360-241220TSD6.webp\"/></figure><div class=\"flixf-body\"><h3>Stalčiuje „Extra Chill“ mėsos išpjovos bus saugios</h3><p>Stalčiuje „Extra Chill“ apsaugosite sūrių ar šviežių mėsos išpjovų kokybę, skonį ir šviežumą. Šiame stalčiuje nuolat cirkuliuoja šaltas oras, todėl jame užtikrinama žemesnė temperatūra nei kitose šaldytuvo srityse.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Jūsų produktai – jūsų pasirinktas saugojimo būdas\" src=\"data/processed/flix_media/37401/Electrolux-281464169-PSEEVL20BIA00002.webp\"/></figure><div class=\"flixf-body\"><h3>Jūsų produktai – jūsų pasirinktas saugojimo būdas</h3><p>Šaldytuvas su „CustomFlex®“ – nuo šiol durelių lentynėles susidėkite taip, kaip patogu jums. Susikurkite norimą durelių dizainą, lengvai perdėdami ar pastumdami lentynėles į jums patogią vietą.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7333394082738",
+                "price": {
+                  "@gross": "525.30"
+                },
+                "stock": {
+                  "@available_stock_quantity": "2",
+                  "@forecast_date": "2025-11-30"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "OSC6N181ES",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "AEG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "OSC6N181ES"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Food kept juicy, food kept hydrated\" src=\"data/processed/flix_media/31059/Electrolux-275741783-PSAARF20BIA00001.webp\"/></figure><div class=\"flixf-body\"><h3>Food kept juicy, food kept hydrated</h3><p>6000 TwinTech® No Frost fridge-freezer protects flavours in every ingredient. It's dual cooling system ensures the freezer stays frost-free and the fridge humidity optimal preventing the food from drying out.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"TwinTech® No Frost - keeps food juicy and hydrated\" src=\"data/processed/flix_media/31059/Electrolux-276634938-PSAAVL20MPA00001.webp\"/></figure><div class=\"flixf-body\"><h3>TwinTech® No Frost - keeps food juicy and hydrated</h3><p>TwinTech® No Frost has an advanced dual cooling system for the fridge and freezer. This technology ensures the freezer stays frost-free and the fridge humidity optimal, preventing the food from drying out.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Peace Of Mind Included\" src=\"data/processed/flix_media/31059/Electrolux-278100806-PSAAPL210KE00005.webp\"/></figure><div class=\"flixf-body\"><h3>Peace Of Mind Included</h3><p>AEG produce quality home appliances that are built to last, all our appliances come with a 2 year manufacturer's warranty as standard to protect against manufacturing faults and defects that occur during this warranty period. See the terms and conditions for your manufacturer's warranty.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Internal Electronic Control. For cooling precision</h3><p>The Internal Electronic Control feature gives you full command of the storage conditions of your food. The LED indicators show you the temperature setting clearly for convenient adjustment and control.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Perfectly fresh food with Frostmatic</h3><p>The Frostmatic function activates the maximum freezing power, so your fresh produce freezes as quickly as possible. The freezer then returns to its normal setting.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>LED lighting illuminates every corner</h3><p>The internal LED lighting produces a discreet, soft light, shining evenly across the whole space. Plus, LED bulbs are smaller and more energy efficient than standard bulbs – a more sustainable choice.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543973873",
+                "price": {
+                  "@gross": "515.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-12-02"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "KEGB9420W",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "KEGB9420W"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Trapios taurės patikimose rankose</h3><p>Su taurėmis būtina elgtis atsargiau, ypač jas plaunant. Indaplovės „700 GlassCare“ viršutiniame krepšyje yra minkšti laikikliai „SoftGrips“, kurie tvirtai, tačiau švelniai, laiko sudėtas taures. Tuo tarpu „SoftSpikes“ guminiai padėklai užtikrinta, kad taurės nesusibraižytų ir nesudužtų.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Jūsų taurės apsaugotos naudojant „SoftGrips“ ir „SoftSpikes“\" src=\"data/processed/flix_media/30577/Electrolux-275367221-PSEEDW18MPA00004.webp\"/></figure><div class=\"flixf-body\"><h3>Jūsų taurės apsaugotos naudojant „SoftGrips“ ir „SoftSpikes“</h3><p>Daugiau nereikės taurių plauti rankomis – jomis pasirūpins „SoftGrips“ ir „SoftSpikes“. Minkšta medžiaga tvirtai, bet švelniai laiko taures vietoje ir apsaugo jas nuo skilimų ir dužimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Geresnis matomumas, veiksmingesnis indų sudėjimas\" src=\"data/processed/flix_media/30577/Electrolux-281465950-PSEEDW130F000036.webp\"/></figure><div class=\"flixf-body\"><h3>Geresnis matomumas, veiksmingesnis indų sudėjimas</h3><p>Vidinis apšvietimas pagerina indaplovės vidaus matomumą. Aiškiai matysite geriausias vietas jūsų indams ir įrankiams sudėti.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Visada informuoti su „TimeBeam®“\" src=\"data/processed/flix_media/30577/Electrolux-275389250-PSEEDW24BIA00002.webp\"/></figure><div class=\"flixf-body\"><h3>Visada informuoti su „TimeBeam®“</h3><p>Funkcija „TimeBeam®“ nuolatos praneša apie indaplovės ciklo būseną. Pagrindinė informacija rodoma ant grindų, ties prietaisu, todėl visada matosi laikas, likęs iki ciklo pabaigos. Nuo šiol visada žinosite, kada indai bus švarūs.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„QuickSelect“ - Indus plaukite tvariai ir taupykite\" src=\"data/processed/flix_media/30577/Electrolux-275366452-PSEEDW18BIE0000C.webp\"/></figure><div class=\"flixf-body\"><h3>„QuickSelect“ - Indus plaukite tvariai ir taupykite</h3><p>Indus plaukite tvariai ir taupykite energiją. Naudokite jutiklinio ekrano slankiklį, kad pasirinktumėte pageidaujamą ciklo laiką, o „Ecometer“ intuityviomis žaliomis juostomis parodys tvariausią energijos ir vandens taupymo programą.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„QuickSelect“ su „Wi-Fi“ Interaktyvus indaplovės valdymas per išmanųjį įrenginį\" src=\"data/processed/flix_media/30577/Electrolux-275367190-PSEEDL24BIA00002.webp\"/></figure><div class=\"flixf-body\"><h3>„QuickSelect“ su „Wi-Fi“ Interaktyvus indaplovės valdymas per išmanųjį įrenginį</h3><p>Mūsų interaktyviosios indaplovės „QuickSelect“ indus plauna išmaniai ir tvariai. Gaukite patarimų dėl tinkamos esamiems indams programos ir pasirinkite, kada indaplovei veikti, kad būtų pigiau. Programėlė apibendrina naudojimo duomenis ir pateikia atsiliepimus apie tvarumą.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543988938",
+                "price": {
+                  "@gross": "448.05"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-24"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "BRB80F26ADS0EO",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "SAMSUNG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "BRB80F26ADS0EO"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<p></p>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "8806097060772",
+                "price": {
+                  "@gross": "520.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "SCB819E8TS",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "AEG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "SCB819E8TS"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Kitas šaldytuvo talpos lygis\" src=\"data/processed/flix_media/19525/Electrolux-277196565-PSAARF170KA00001.webp\"/></figure><div class=\"flixf-body\"><h3>Kitas šaldytuvo talpos lygis</h3><p>Šaldytuve-šaldiklyje „MultiSpace 800“ yra daugiau vietos nei standartinio dizaino prietaisuose, nes šaldytuvo viršuje yra papildoma laikymo vieta. Šiame šaldytuve yra daug galimybių laikyti produktus dėl reguliuojamo vidaus išdėstymo.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>„MultiSpace“ – kitas šaldytuvo talpos lygis</h3><p>AEG šaldytuve „MultiSpace“ yra daugiau vietos nei standartinio dydžio prietaisuose, nes šaldytuvo viršuje yra papildoma laikymo vieta. Šiame šaldytuve yra daug galimybių laikyti produktus dėl reguliuojamo vidaus išdėstymo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Dešimt metų be jokių rūpesčių\" src=\"data/processed/flix_media/19525/Electrolux-275480939-PSAAVL20BIA0000B.webp\"/></figure><div class=\"flixf-body\"><h3>Dešimt metų be jokių rūpesčių</h3><p>Dėl inverterinio kompresoriaus dešimties metų garantijos užtikrinamas maksimalus laikas be rūpesčių. Garantija taikoma visiems darbams, dalims bei transportavimui, kurie susiję su komoresoriaus gedimu.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Elektroninis dvigubo lietimo valdiklis. Tiksliai ir lengvai valdoma\" src=\"data/processed/flix_media/19525/Electrolux-275458215-PSAAVL20BIA00001.webp\"/></figure><div class=\"flixf-body\"><h3>Elektroninis dvigubo lietimo valdiklis. Tiksliai ir lengvai valdoma</h3><p>Valdykite kiekvieną šaldiklio funkciją naudodami elektroninį dvigubo lietimo valdiklį. Skydelis ir LED ekranas suteikia lengvą prieigą prie temperatūros ir bendrųjų nuostatų. Tiksliai sureguliuokite nustatymus, kad galėtumėte tinkamai laikyti maisto produktus.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„ExtraZone“ - jūsų įvairių rūšių maisto produktams\" src=\"data/processed/flix_media/19525/Electrolux-276436656-2411145SWA.webp\"/></figure><div class=\"flixf-body\"><h3>„ExtraZone“ - jūsų įvairių rūšių maisto produktams</h3><p>Naudojant stalčių „ExtraZone“, šaldytuve galima palaikyti tvarką ir nesumaišyti jame laikomų įvairių rūšių maisto produktų. Šis stalčius idealiai pritaikytas įvairių rūšių maisto produktams, kad jie būtų lengviau pasiekiami ir geriau matomi, todėl mažiau tikėtina jiems likti nepastebėtiems ir sugesti.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"LED lemputės apšviečia kiekvieną kampelį\" src=\"data/processed/flix_media/19525/Electrolux-275745039-PSAAVL20BIA00004.webp\"/></figure><div class=\"flixf-body\"><h3>LED lemputės apšviečia kiekvieną kampelį</h3><p>Viduje įmontuotos LED lemputės sukuria švelnią šviesą, kuri tolygiai apšviečia visą erdvę. Be to, LED lemputės yra mažesnės ir labiau taupančios elektros energiją nei standartinės – tvaresnis pasirinkimas.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543818655",
+                "price": {
+                  "@gross": "545.90"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-12-02"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "TSC8M191CS",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "AEG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "TSC8M191CS"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Vėsinamas kiekvienas kampelis. padeda sumažinti maisto atliekų kiekį*</h3><p>„8000 Cooling 360°“ šaldytuvas su šaldikliu turi keletą oro kanalų, kuriais užtikrinamas tolygus vėsinimas. Tai padeda apsaugoti maistą kiekvienoje lentynėlėje ir sumažinti atliekų kiekį 28 %*. Nerūdijančiojo plieno paviršiai suteiks Jūsų virtuvei elegancijos ir prabangos. Padeda sumažinti maisto atliekų kiekį 28 %* *Palyginti su „500 ColdSense“ šaldytuvu. Remiantis nepriklausomais lentynose laikomo minkšto sūrio ir virto kumpio tinkamumo valgyti bandymais. Dėl maisto rūšies rezultatai gali skirtis. Skaičiuojant maisto atliekų mažinimo galimybes vertintos tik prietaiso savybės ir neatsižvelgta į vartotojų elgesį.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Su „Cooling 360°“ kruopščiai atvėsinsite kiekvieną kampelį\" src=\"data/processed/flix_media/31146/Electrolux-281518427-PSAARF22BIA00005.webp\"/></figure><div class=\"flixf-body\"><h3>Su „Cooling 360°“ kruopščiai atvėsinsite kiekvieną kampelį</h3><p>Specialiai sukurta sistema cirkuliuoja vėsų orą į kiekvieną kampą. Tikra nerūdijančio plieno nugarėlė pasižymi aukščiausios kokybės dizainu, o varstant duris greičiau atvėsta. Užtikrintai saugo kiekvieno produkto tekstūrą.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Naujos eros išradimas. Unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*\" src=\"data/processed/flix_media/31146/Electrolux-275740749-PSAARF23BIA00002.webp\"/></figure><div class=\"flixf-body\"><h3>Naujos eros išradimas. Unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*</h3><p>Vėsinimo srityje išaušo nauja era. Pristatome savo šaldytuvą-šaldiklį, kurio 70 % vidinės dangos pagaminta iš perdirbto plastiko. Nebenaudojamų šaldytuvų plastiką galima panaudoti naujų šaldytuvų gamyboje ir taip sumažinti aplinką išmetamų atliekų kiekį.  * Vidaus dangos plastikas rHIPS yra pagamintas panaudojant iki 70 % perdirbto plastiko, o tai sudaro 13 % viso šaldytuve esančio plastiko.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„GreenZone+“ technologija padeda išsaugoti vaisių ir daržovių maistinę vertę\" src=\"data/processed/flix_media/31146/Electrolux-275458448-240613ZDXB.webp\"/></figure><div class=\"flixf-body\"><h3>„GreenZone+“ technologija padeda išsaugoti vaisių ir daržovių maistinę vertę</h3><p>„GreenZone+“ technologija su automatine drėgmės plėvele išlaiko vaisių ir daržovių šviežumą ilgesnį laiką. Aukšto našumo stalčiuje sukuriama puiki aplinka išsaugoti produktų maistinę vertę ir skonį, tuo pačiu užkertant kelią per didelei drėgmei ir maisto džiūvimui.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Šaldiklio zona paverčiama šaldytuvu. Daugiau lankstumo\" src=\"data/processed/flix_media/31146/Electrolux-275457707-PSAARE23BIA00002.webp\"/></figure><div class=\"flixf-body\"><h3>Šaldiklio zona paverčiama šaldytuvu. Daugiau lankstumo</h3><p>Šaldiklio skyrius yra visiškai kaitomas, tad galite nustatyti šaldiklyje +4 °C temperatūrą, kad padidintumėte šaldytuvo talpą, arba tiesiog naudokite kaip įprastą nuo –15 °C iki –24 °C temperatūros šaldiklį.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„TwinTech®“ „NoFrost“ - palaiko optimalią drėgmę ir nedžiovina maisto\" src=\"data/processed/flix_media/31146/Electrolux-275740151-2411147IYR.webp\"/></figure><div class=\"flixf-body\"><h3>„TwinTech®“ „NoFrost“ - palaiko optimalią drėgmę ir nedžiovina maisto</h3><p>Su „TwinTech®“ „NoFrost“ jums niekada nereikės atitirpinti šaldiklio. Dviguba aušinimo sistema išlaiko iki 60 % daugiau drėgmės nei šaldytuvai su vienu garintuvu.* Nenaudojant sauso oro iš šaldiklio, jis palaiko idealią drėgmę ir neleidžia maistui išdžiūti.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543983155",
+                "price": {
+                  "@gross": "762.20"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-12-02"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "GV520E15",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "GORENJE"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "GV520E15"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"3838782574436\"></script>\n    </div>\n"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "3838782574436",
+                "price": {
+                  "@gross": "210.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "GV520E11",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "GORENJE"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "GV520E11"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"3838782460807\"></script>\n    </div>\n"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "3838782460807",
+                "price": {
+                  "@gross": "230.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "GV561D10",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "GORENJE"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "GV561D10"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"3838782459863\"></script>\n    </div>\n"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "3838782459863",
+                "price": {
+                  "@gross": "270.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "GV16D5",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "GORENJE"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "GV16D5"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"3838782946349\"></script>\n    </div>\n"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "3838782946349",
+                "price": {
+                  "@gross": "290.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "KESC2210L",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "KESC2210L"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Montuojama Indaplovė 45 cm 600 serija \"SatelliteClean\"</h3><p>Electrolux 911 074 061</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543738359",
+                "price": {
+                  "@gross": "329.60"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "BRB80F30AEF0EO",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "SAMSUNG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "BRB80F30AEF0EO"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<p></p>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "8806097061557",
+                "price": {
+                  "@gross": "500.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-07"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "BRB80F26ADF0EO",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "SAMSUNG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "BRB80F26ADF0EO"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<p></p>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "8806097060741",
+                "price": {
+                  "@gross": "520.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-18"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "BRB80F30ADF0EO",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "SAMSUNG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "BRB80F30ADF0EO"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<p></p>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "8806097061502",
+                "price": {
+                  "@gross": "550.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-07"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "NSC7P751ES",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "AEG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "NSC7P751ES"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<br><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"99\" style=\"width: 74pt;\"></table>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543832095",
+                "price": {
+                  "@gross": "830.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-24"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "LFB2AE88S1",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "LFB2AE88S1"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Talpi įranga</h3><p>Šaldytuve „500 OptiSpace“ gausu vietos maisto produktams. Daugybė laikymo galimybių, todėl paprasta rasti vietą didesniems produktams. O jeigu reikia dar daugiau vietos, stalčius galima lengvai išimti.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>„OptiSpace“ turi galybę vietos maisto produktams</h3><p>Mūsų šaldytuvas su „OptiSpace“ puikiai tiks šeimai – daugybė maisto laikymo galimybių tiek ant lentynų viršaus, tiek tarp lentynų. O jeigu reikia dar daugiau vietos, stalčius galima lengvai išimti pagal konkrečius jūsų poreikius.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Užšaldymas šaldytuve su keturių žvaigždučių šaldiklio skyriumi\" src=\"data/processed/flix_media/36599/Electrolux-275848291-PSEERE17BIA00004.webp\"/></figure><div class=\"flixf-body\"><h3>Užšaldymas šaldytuve su keturių žvaigždučių šaldiklio skyriumi</h3><p>Šaldytuve esančiame keturių žvaigždučių šaldiklio skyriuje gali būti pasiekta net -18 ºC temperatūra. Veiksmingas užšaldymas šaldytuve.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Tikslus maisto laikymas naudojantis vidiniu elektroniniu valdikliu\" src=\"data/processed/flix_media/36599/Electrolux-275364874-PSEERE210CE00003.webp\"/></figure><div class=\"flixf-body\"><h3>Tikslus maisto laikymas naudojantis vidiniu elektroniniu valdikliu</h3><p>Su vidiniu elektroniniu valdikliu kontroliuokite maisto laikymo sąlygas. Šviesdiodžių indikatoriai Jums patogiai rodo temperatūrą, o nuostatos pašalina bet kokias abejones.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Aukščiausios kokybės šviesdiodinis šaldytuvo apšvietimas\" src=\"data/processed/flix_media/36599/Electrolux-281467874-PSEERF220FE0000D.webp\"/></figure><div class=\"flixf-body\"><h3>Aukščiausios kokybės šviesdiodinis šaldytuvo apšvietimas</h3><p>Puikus matomumas dėl šaldytuve integruoto šviesdiodinio apšvietimo. Nepastebimos, energiją taupančios lemputės ryškiai apšviečia visą erdvę. Suvartojama 10 kartų mažiau energijos nei esant standartiniam apšvietimui.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Patogiai laikykite daugiau produktų.\" src=\"data/processed/flix_media/36599/Electrolux-275366201-PSEERE18BIE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Patogiai laikykite daugiau produktų.</h3><p>Daržovių stalčiuje per visą šaldytuvo plotį galima nesunkiai laikyti didesnius ir ilgesnius produktus. Drąsiai apsipirkite žinodami, kad turite vietos didesniems produktams patogiai laikyti šaldytuve.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7333394077376",
+                "price": {
+                  "@gross": "283.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-26"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "EEM63301L",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "EEM63301L"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Montuojama Indaplovė 45 cm 700 serija „GlassCare“</h3><p>700 montuojama siaura (45 cm) indaplovė, 10 komplkt.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543781294",
+                "price": {
+                  "@gross": "390.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "2",
+                  "@forecast_date": "2025-11-16"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "E8MNCD18S",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "E8MNCD18S"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Apsaugo maistą kiekvienoje lentynėlėje ir sumažina atliekų kiekį*\" src=\"data/processed/flix_media/36598/Electrolux-242952269-PSEERE19PCE00004.webp\"/></figure><div class=\"flixf-body\"><h3>Apsaugo maistą kiekvienoje lentynėlėje ir sumažina atliekų kiekį*</h3><p>Stilingas nerūdijančiojo plieno šaldytuvas su šaldikliu „800 Cooling 360°“ užtikrina tolygų temperatūros paskirstymą kiekvienoje lentynėlėje. Apsaugo bet kurioje vietoje padėtą maistą ir padeda sumažinti atliekų kiekį 28 %*.  *Palyginti su „500 ColdSense“ šaldytuvu. Remiantis nepriklausomais lentynose laikomo minkšto sūrio ir virto kumpio tinkamumo valgyti bandymais. Dėl maisto rūšies rezultatai gali skirtis. Maisto atliekų sumažėjimas apskaičiuotas vertinant vien prietaiso galimybes, neatsižvelgiant į naudotojo elgesį.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Aušinimas kiekviename kampelyje. Puikus skonis kiekviename kąsnyje\" src=\"data/processed/flix_media/36598/Electrolux-275399734-PSEEVL20BIA00005.webp\"/></figure><div class=\"flixf-body\"><h3>Aušinimas kiekviename kampelyje. Puikus skonis kiekviename kąsnyje</h3><p>Dėka „Cooling 360°“ oro cirkuliacijos šaltas oras per efektyvias oro angas paskirstomas į kiekvieną prietaiso kampelį. Dėl naujoviškos tikro nerūdijančiojo plieno galinės sienelės temperatūra viduje greitai atkuriama po durų atidarymo. Su meile atrinktus vaisius ir daržoves išlaikysite labai skanius.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Visiška naujovė – unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*\" src=\"data/processed/flix_media/36598/Electrolux-275390787-PSEERF23BIA00003.webp\"/></figure><div class=\"flixf-body\"><h3>Visiška naujovė – unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*</h3><p>Didžiuodamiesi pristatome savo unikalų šaldytuvą-šaldiklį, kurio 70 % vidinės dangos pagaminta iš perdirbto plastiko. Nebenaudojamų šaldytuvų plastiką galima panaudoti naujų šaldytuvų gamyboje ir taip sumažinti aplinką išmetamų atliekų kiekį.  * Vidaus dangos plastikas rHIPS yra pagamintas panaudojant iki 70 % perdirbto plastiko, o tai sudaro 13 % viso šaldytuve esančio plastiko.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„GreenZone“ padeda išsaugoti vaisių ir daržovių maistinę vertę\" src=\"data/processed/flix_media/36598/Electrolux-275391701-PSEERE23BIA0000A.webp\"/></figure><div class=\"flixf-body\"><h3>„GreenZone“ padeda išsaugoti vaisių ir daržovių maistinę vertę</h3><p>„GreenZone+“ technologija su automatine drėgmės plėvele išlaiko vaisių ir daržovių šviežumą ilgesnį laiką. Aukšto našumo stalčiuje sukuriama puiki aplinka išsaugoti produktų maistinę vertę ir skonį, tuo pačiu užkertant kelią per didelei drėgmei ir maisto džiūvimui.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„TwinTech® No Frost“ apsaugo nuo išdžiūvimo\" src=\"data/processed/flix_media/36598/Electrolux-277917342-241220AJAU.webp\"/></figure><div class=\"flixf-body\"><h3>„TwinTech® No Frost“ apsaugo nuo išdžiūvimo</h3><p>„TwinTech® No Frost“ turi pažangiąją dvigubą šaldytuvo ir šaldiklio vėsinimo sistemą. Ši technologija apsaugo šaldiklį nuo apledėjimų, o šaldytuve užtikrina optimalią drėgmę bei apsaugo maisto produktus nuo džiūvimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Stalčiuje „Extra Chill“ mėsos išpjovos bus saugios\" src=\"data/processed/flix_media/36598/Electrolux-277917360-241220TSD6.webp\"/></figure><div class=\"flixf-body\"><h3>Stalčiuje „Extra Chill“ mėsos išpjovos bus saugios</h3><p>Stalčiuje „Extra Chill“ apsaugosite sūrių ar šviežių mėsos išpjovų kokybę, skonį ir šviežumą. Šiame stalčiuje nuolat cirkuliuoja šaltas oras, todėl jame užtikrinama žemesnė temperatūra nei kitose šaldytuvo srityse.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7333394077871",
+                "price": {
+                  "@gross": "585.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "3",
+                  "@forecast_date": "2025-11-04"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "IRBci 5150",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "LIEBHERR"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "IRBci 5150"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"4016803114413\"></script>\n    </div>\n"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "4016803114413",
+                "price": {
+                  "@gross": "1480.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "2"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "ICNd 5133",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "LIEBHERR"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "ICNd 5133"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"4016803117551\"></script>\n    </div>\n"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "4016803117551",
+                "price": {
+                  "@gross": "1235.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "2"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "ICBNdi 5163",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "LIEBHERR"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "ICBNdi 5163"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"4016803115137\"></script>\n    </div>\n"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "4016803115137",
+                "price": {
+                  "@gross": "1644.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "2"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "ESL5315LO",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "ESL5315LO"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<br><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"90\" style=\"width: 68pt;\"></table>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543994687",
+                "price": {
+                  "@gross": "244.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-12-04"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "EEA22100L",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "EEA22100L"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Natural drying with fresh air\" src=\"data/processed/flix_media/18684/Electrolux-275366473-PSEEDW18MPA00003.webp\"/></figure><div class=\"flixf-body\"><h3>Natural drying with fresh air</h3><p>Our 300 AirDry Dishwasher finishes each cycle with a breath of fresh air, performing 3x better than closed-door systems. The door opens automatically during the drying phase using fresh air to get plates and cutlery completely dry.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"3x better drying with AirDry\" src=\"data/processed/flix_media/18684/Electrolux-275366473-PSEEDW18MPA00003_1.webp\"/></figure><div class=\"flixf-body\"><h3>3x better drying with AirDry</h3><p>The new AirDry technology uses natural airflow to finish drying, for up to 3x better performance compared to closed-door systems. The door opens 10 cm towards the end of the cycle, letting air circulate for superb drying results.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Water touches every corner, with the Dual Spray Arms</h3><p>Every glass, dish and plate is covered by the dishwasher's two rotating spray arms. The sprinklers make sure water gets into every corner, so your dishes come out sparkling. On both the upper and lower basket.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Quick and efficient</h3><p>Your new time saver. When you have a light load, our 30-minute quick wash programme offers the perfect solution. And all without compromising on results. For the perfect washing result - fast.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Easy installation, PerfectFit\" src=\"data/processed/flix_media/18684/Electrolux-275368141-PSEEDW19BIE00002.webp\"/></figure><div class=\"flixf-body\"><h3>Easy installation, PerfectFit</h3><p>With PerfectFit Sliding Hinges, it’s never been easier to install your new dishwasher. The hinges accommodate all niche machine heights and even remove the need to cut the plinth. You can be confident that your machine will fit into your kitchen perfectly.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Rinse and hold – pre-washing for freshness</h3><p>If it takes you a few days to fill up the dishwasher, the rinse and hold programme will prevent the build-up of odours in the meantime. Water jets remove food remnants from plates and glassware, making sure the kitchen stays fresh.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543732098",
+                "price": {
+                  "@gross": "260.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-12-02"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "EEA12100L",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "EEA12100L"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Pamirškite šlapius indus, džiovinkite atidarydami dureles\" src=\"data/processed/flix_media/18756/Electrolux-275366473-PSEEDW18MPA00003.webp\"/></figure><div class=\"flixf-body\"><h3>Pamirškite šlapius indus, džiovinkite atidarydami dureles</h3><p>AirDry“ kiekvieną indų plovimo ciklą užbaigia natūraliu oro srauto džiovinimu. Džiovinimo fazės pabaigoje durelės automatiškai šiek tiek praveriamos – Jums nereikia nei piršto pajudinti. Natūralus oras cirkuliuoja indaplovėje, visiškai išdžiovindamas lėkštes ir virtuvės reikmenis.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Triskart efektyvesnis džiovinimas su „AirDry“\" src=\"data/processed/flix_media/18756/Electrolux-275366473-PSEEDW18MPA00003_1.webp\"/></figure><div class=\"flixf-body\"><h3>Triskart efektyvesnis džiovinimas su „AirDry“</h3><p>Naujoji „AirDry“ technologija užbaigia džiovinimą natūraliu oro srautu, todėl džiovinimas triskart efektyvesnis nei uždarų durelių sistemose. Baigiantis ciklui durelės atidaromos 10 cm ir oras gali cirkuliuoti, kad indai išdžiūtų nepriekaištingai.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Vanduo pasieks kiekvieną kampelį su dvigubu purkštuku\" src=\"data/processed/flix_media/18756/Electrolux-281466021-PSEEDW200FA00006.webp\"/></figure><div class=\"flixf-body\"><h3>Vanduo pasieks kiekvieną kampelį su dvigubu purkštuku</h3><p>Kiekvieną stiklinę, indą ir lėkštę apipurškia dvi besisukančios indaplovės purkštuvo alkūnės. Purkštuvais užtikrinama, kad vanduo patektų į kiekvieną kampelį ir indai būtų tviskančiai išplaunami. Tiek viršutiniame, tiek apatiniame krepšyje.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Greita ir veiksminga</h3><p>Jūsų naujas pagalbininkas taupant laiką. Kai skalbinių yra nedaug, galite naudoti 30 min. sparčiojo skalbimo programą – ji yra puikus sprendimas. Ir visa tai pasiekiama nesumenkinant rezultatų. Puikus ir greitas skalbimas.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Paprasta įrengti su „PerfectFit“\" src=\"data/processed/flix_media/18756/Electrolux-275368141-PSEEDW19BIE00002.webp\"/></figure><div class=\"flixf-body\"><h3>Paprasta įrengti su „PerfectFit“</h3><p>Naudojant slankiojančius lankstus „PerfectFit“, įrengti naują indaplovę ypač paprasta. Lankstai prisitaiko prie visų nišoje įrengiamų prietaisų aukščių ir netgi nereikia pjauti grindjuostės. Galite būti tikri, kad prietaisas puikiai tilps Jūsų virtuvėje.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>„Rinse and Hold“ – pirminis plovimas gaivai</h3><p>Jeigu indaplovei pripildyti reikia kelių dienų, skalavimo ir mirkymo programa apsaugos nuo nemalonių kvapų susidarymo. Vandens čiurkšlės pašalina maisto likučius nuo lėkščių ir stiklinių indų bei užtikrina gaivą virtuvėje.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543738427",
+                "price": {
+                  "@gross": "238.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-12-04"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "LXB2AE82S",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "LXB2AE82S"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<br><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"99\" style=\"width: 74pt;\"></table>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7333394022628",
+                "price": {
+                  "@gross": "295.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-10-13"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "LYB2AE82S",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Freezer"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "LYB2AE82S"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<br><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"99\" style=\"width: 74pt;\"></table>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7333394022642",
+                "price": {
+                  "@gross": "305.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "LFB3AE82R",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "LFB3AE82R"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<br><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"99\" style=\"width: 74pt;\"></table><br><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"99\" style=\"width: 74pt;\"></table>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7333394014456",
+                "price": {
+                  "@gross": "305.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-12-02"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "EES27200L",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "EES27200L"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<p> <br></p>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7333394052038",
+                "price": {
+                  "@gross": "275.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "4",
+                  "@forecast_date": "2025-12-02"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "LRB3AE12S",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "LRB3AE12S"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<br><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"133\" style=\"width: 100pt;\"></table>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543733088",
+                "price": {
+                  "@gross": "292.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "EEM48300L",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "EEM48300L"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Montuojama Indaplovė 60 cm 600 serija \"SatelliteClean\"</h3><p>700 serijos Maxiflex 60cm pločio montuojama indaplovė, 14 komplektų.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543676378",
+                "price": {
+                  "@gross": "340.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "EEM43211L",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "EEM43211L"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Montuojama Indaplovė 45 cm 600 serija \"SatelliteClean\"</h3><p>Electrolux 911 074 089</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543781263",
+                "price": {
+                  "@gross": "300.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-23"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "FSB72907P",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "AEG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "FSB72907P"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Vanduo purškiamas iki 3 kartų efektyviau jo naudojant tiek pat\" src=\"data/processed/flix_media/19204/Electrolux-275456500-PSAADW17MPE00005.webp\"/></figure><div class=\"flixf-body\"><h3>Vanduo purškiamas iki 3 kartų efektyviau jo naudojant tiek pat</h3><p>Indaplovėje „6000 SatelliteClean®“ kruopščiai išvalomi net ir arti vienas kito sudėti arba didesni indai. Naujoviškas purkštukas purškia iki 3 kartų efektyviau taip užtikrindamas, kad visi indų kampeliai būtų švarūs.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„SatelliteClean®“ - galingas indų plovimas\" src=\"data/processed/flix_media/19204/Electrolux-275739767-PSAADW17BIE00008.webp\"/></figure><div class=\"flixf-body\"><h3>„SatelliteClean®“ - galingas indų plovimas</h3><p>Nepriekaištingas indų plovimas indaplove su „SatelliteClean®“. Šis purkštuvas triskart geriau indus aprūpina vandeniu nei įprastas. Dvigubas besisukantis purkštuvas nuolat keičia purškimo kampą. Vanduo pasiekia kiekvieną kampelį. Ypač kruopščiam plovimui.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Pritaikyta erdvė ir patogus plovimas naudojant „MaxiFlex“</h3><p>„MaxiFlex“ stalčius yra sukurtas taip, kad tilptų įvairaus dydžio stalo įrankiai ir reikmenys – tiek dideli, tiek neįprastų formų. Universalios pertvaros ir padidintas gylis, kad būtų galima pritaikyti kiekvienai įkrovai. Beveik visi įrankiai sklandžiai įdedami ir išplaunami vienu kartu.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Nesudėtingas atsakingo indų plovimo būdas\" src=\"data/processed/flix_media/19204/Electrolux-275739686-PSAADW210KE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Nesudėtingas atsakingo indų plovimo būdas</h3><p>Atsakingus žingsnius žengti lengva. „QuickSelect“ slankikliu jutikliniame ekrane pasirinkite norimą ciklo trukmę ir „Ecometer“ ryškiais žaliais stulpeliais nurodys tvariausią programą energijai bei vandeniui taupyti.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Speciali jūsų trapių taurių apsauga\" src=\"data/processed/flix_media/19204/Electrolux-275533308-PSABDW17BIE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Speciali jūsų trapių taurių apsauga</h3><p>Taurės visuomet yra trapiausi gaminiai indaplovėje, o tai reiškia, kad joms reikia specialios priežiūros. Viršutiniame šios indaplovės krepšyje yra minkšti guminiai smaigai, skirti prilaikyti ir apsaugoti taures. „SoftSpikes“ veiksmingai stabilizuoja taures ir puodelius, neleisdami jiems nuvirsti ir sudužti.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Patikrinkite vos pažvelgę\" src=\"data/processed/flix_media/19204/Electrolux-277185228-PSABDW18BIE00004.webp\"/></figure><div class=\"flixf-body\"><h3>Patikrinkite vos pažvelgę</h3><p>Ši pilnai įmontuojama indaplovė gali išmaniai ir visapusiškai informuoti jus apie tai, kas vyksta su jūsų indais. Vykdant ciklą, ant grindų projektuojamas specialus raudonas šviesos spindulys. Kai indai jau švarūs ir paruošti iškrauti, spindulys tampa žalias. Paprasta ir efektyvu.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543770694",
+                "price": {
+                  "@gross": "329.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-23"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "FSB53927Z",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "AEG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "FSB53927Z"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Nepriekaištingai švarios taurės. Nereikia plauti rankomis.\" src=\"data/processed/flix_media/15659/Electrolux-267236652-2021737922.webp\"/></figure><div class=\"flixf-body\"><h3>Nepriekaištingai švarios taurės. Nereikia plauti rankomis.</h3><p>Sistema „GlassCare“ modernioje AEG indaplovėje skirta profesionaliai pasirūpinti stikliniais indais. Unikali technologija „SoftGrip“ užtikrina, kad kiekvienos taurės kotelis ir kojelė būtų švelniai, bet tvirtai prilaikomi tiksliai tinkamoje padėtyje visą plovimo laiką.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„GlassCare“ sistema padeda apsaugoti stiklines bei taures nuo skilimo ar dužimo\" src=\"data/processed/flix_media/15659/Electrolux-275480869-PSAADW17MPE00001.webp\"/></figure><div class=\"flixf-body\"><h3>„GlassCare“ sistema padeda apsaugoti stiklines bei taures nuo skilimo ar dužimo</h3><p>Funkcija „GlassHolder“ visapusiškai pasirūpina visų stiklinių indų saugumu. Apatiniame krepšyje esantys „SoftGrips“ ir „SoftSpikes“, kurie specialiai sukurti prilaikyti taures vietose, kad kiekvieno plovimo metu apsaugotų taures nuo žalos.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Pritaikyta erdvė ir patogus plovimas naudojant „MaxiFlex“</h3><p>„MaxiFlex“ stalčius yra sukurtas taip, kad tilptų įvairaus dydžio stalo įrankiai ir reikmenys – tiek dideli, tiek neįprastų formų. Universalios pertvaros ir padidintas gylis, kad būtų galima pritaikyti kiekvienai įkrovai. Beveik visi įrankiai sklandžiai įdedami ir išplaunami vienu kartu.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„SatelliteClean®“ - galingas indų plovimas\" src=\"data/processed/flix_media/15659/Electrolux-275739767-PSAADW17BIE00008.webp\"/></figure><div class=\"flixf-body\"><h3>„SatelliteClean®“ - galingas indų plovimas</h3><p>Nepriekaištingas indų plovimas indaplove su „SatelliteClean®“. Šis purkštuvas triskart geriau indus aprūpina vandeniu nei įprastas. Dvigubas besisukantis purkštuvas nuolat keičia purškimo kampą. Vanduo pasiekia kiekvieną kampelį. Ypač kruopščiam plovimui.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Plovimo ciklo nustatymas be jokių pastangų naudojant funkciją „QuickSelect“\" src=\"data/processed/flix_media/15659/Electrolux-275455711-PSAADW18BIA00001.webp\"/></figure><div class=\"flixf-body\"><h3>Plovimo ciklo nustatymas be jokių pastangų naudojant funkciją „QuickSelect“</h3><p>Valdymas „QuickSelect“ suteikia galimybę optimaliai kontroliuoti indaplovę. Slankikliu pasirinkite ciklo trukmę ir vienu prisilietimu pridėkite papildomas funkcijas. Tuomet leiskite prietaisui atlikti visą likusį darbą. Individualiai pritaikytas plovimas jums tinkamu metu. Nepriekaištingai švarūs indai.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Natūralus džiovinimas su „AirDry“\" src=\"data/processed/flix_media/15659/Electrolux-275456663-PSAADW17MPE00004.webp\"/></figure><div class=\"flixf-body\"><h3>Natūralus džiovinimas su „AirDry“</h3><p>Naujoji technologija „AirDry“ leidžia maksimaliai pagerinti džiovinimo rezultatus naudojant natūralų oro srautą. Durelės atidaromos automatiškai iki 10 cm, kai ciklas pasiekia paskutinį etapą ir indai yra išplauti. Taip indai išdžiovinami natūraliai bei sumažinamos energijos sąnaudos.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543761760",
+                "price": {
+                  "@gross": "335.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-19"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "EEM69310L",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "EEM69310L"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Montuojama Indaplovė 60 cm 700 serija „GlassCare“</h3><p>700 montuojama indaplovė (60 cm), 15 komplkt.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543761500",
+                "price": {
+                  "@gross": "355.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-23"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "FSB64907Z",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "AEG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "FSB64907Z"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Tobula švara net ir kampuose\" src=\"data/processed/flix_media/30218/Electrolux-275456500-PSAADW17MPE00005.webp\"/></figure><div class=\"flixf-body\"><h3>Tobula švara net ir kampuose</h3><p>Net ir šalia vienas kito sukrauti indai yra tinkamai nuplaunami dėka „SatelliteClean®“ purkštuvo. Novarotiškas purkštuvas užtikrina, kad vanduo patektų visur – iki trijų kartų geresnis padengimas vandeniu ir puikūs rezultatai su bet kokiais indais.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„SatelliteClean®“ - galingas indų plovimas\" src=\"data/processed/flix_media/30218/Electrolux-275739767-PSAADW17BIE00008.webp\"/></figure><div class=\"flixf-body\"><h3>„SatelliteClean®“ - galingas indų plovimas</h3><p>Nepriekaištingas indų plovimas indaplove su „SatelliteClean®“. Šis purkštuvas triskart geriau indus aprūpina vandeniu nei įprastas. Dvigubas besisukantis purkštuvas nuolat keičia purškimo kampą. Vanduo pasiekia kiekvieną kampelį. Ypač kruopščiam plovimui.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Pritaikyta erdvė ir patogus plovimas naudojant „MaxiFlex“</h3><p>„MaxiFlex“ stalčius yra sukurtas taip, kad tilptų įvairaus dydžio stalo įrankiai ir reikmenys – tiek dideli, tiek neįprastų formų. Universalios pertvaros ir padidintas gylis, kad būtų galima pritaikyti kiekvienai įkrovai. Beveik visi įrankiai sklandžiai įdedami ir išplaunami vienu kartu.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Nesudėtingas atsakingo indų plovimo būdas\" src=\"data/processed/flix_media/30218/Electrolux-275739686-PSAADW210KE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Nesudėtingas atsakingo indų plovimo būdas</h3><p>Atsakingus žingsnius žengti lengva. „QuickSelect“ slankikliu jutikliniame ekrane pasirinkite norimą ciklo trukmę ir „Ecometer“ ryškiais žaliais stulpeliais nurodys tvariausią programą energijai bei vandeniui taupyti.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Speciali jūsų trapių taurių apsauga\" src=\"data/processed/flix_media/30218/Electrolux-275533308-PSABDW17BIE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Speciali jūsų trapių taurių apsauga</h3><p>Taurės visuomet yra trapiausi gaminiai indaplovėje, o tai reiškia, kad joms reikia specialios priežiūros. Viršutiniame šios indaplovės krepšyje yra minkšti guminiai smaigai, skirti prilaikyti ir apsaugoti taures. „SoftSpikes“ veiksmingai stabilizuoja taures ir puodelius, neleisdami jiems nuvirsti ir sudužti.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Patikrinkite vos pažvelgę\" src=\"data/processed/flix_media/30218/Electrolux-277185228-PSABDW18BIE00004.webp\"/></figure><div class=\"flixf-body\"><h3>Patikrinkite vos pažvelgę</h3><p>Ši pilnai įmontuojama indaplovė gali išmaniai ir visapusiškai informuoti jus apie tai, kas vyksta su jūsų indais. Vykdant ciklą, ant grindų projektuojamas specialus raudonas šviesos spindulys. Kai indai jau švarūs ir paruošti iškrauti, spindulys tampa žalias. Paprasta ir efektyvu.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543975037",
+                "price": {
+                  "@gross": "311.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-16"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "FSE72517P",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "AEG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "FSE72517P"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Vanduo purškiamas iki 3 kartų efektyviau jo naudojant tiek pat\" src=\"data/processed/flix_media/18703/Electrolux-275456500-PSAADW17MPE00005.webp\"/></figure><div class=\"flixf-body\"><h3>Vanduo purškiamas iki 3 kartų efektyviau jo naudojant tiek pat</h3><p>Indaplovėje „6000 SatelliteClean®“ kruopščiai išvalomi net ir arti vienas kito sudėti arba didesni indai. Naujoviškas purkštukas purškia iki 3 kartų efektyviau taip užtikrindamas, kad visi indų kampeliai būtų švarūs.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„SatelliteClean®“ - galingas indų plovimas\" src=\"data/processed/flix_media/18703/Electrolux-275739767-PSAADW17BIE00008.webp\"/></figure><div class=\"flixf-body\"><h3>„SatelliteClean®“ - galingas indų plovimas</h3><p>Nepriekaištingas indų plovimas indaplove su „SatelliteClean®“. Šis purkštuvas triskart geriau indus aprūpina vandeniu nei įprastas. Dvigubas besisukantis purkštuvas nuolat keičia purškimo kampą. Vanduo pasiekia kiekvieną kampelį. Ypač kruopščiam plovimui.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Pritaikyta erdvė ir patogus plovimas naudojant „MaxiFlex“\" src=\"data/processed/flix_media/18703/Electrolux-275740637-PSAADW20BIA00002.webp\"/></figure><div class=\"flixf-body\"><h3>Pritaikyta erdvė ir patogus plovimas naudojant „MaxiFlex“</h3><p>„MaxiFlex“ stalčius yra sukurtas taip, kad tilptų įvairaus dydžio stalo įrankiai ir reikmenys – tiek dideli, tiek neįprastų formų. Universalios pertvaros ir padidintas gylis, kad būtų galima pritaikyti kiekvienam įrankiui. Beveik visi įrankiai sklandžiai įdedami ir išplaunami vienu kartu.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Nesudėtingas atsakingo indų plovimo būdas\" src=\"data/processed/flix_media/18703/Electrolux-275739686-PSAADW210KE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Nesudėtingas atsakingo indų plovimo būdas</h3><p>Atsakingus žingsnius žengti lengva. „QuickSelect“ slankikliu jutikliniame ekrane pasirinkite norimą ciklo trukmę ir „Ecometer“ ryškiais žaliais stulpeliais nurodys tvariausią programą energijai bei vandeniui taupyti.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Speciali jūsų trapių taurių apsauga\" src=\"data/processed/flix_media/18703/Electrolux-275533308-PSABDW17BIE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Speciali jūsų trapių taurių apsauga</h3><p>Taurės visuomet yra trapiausi gaminiai indaplovėje, o tai reiškia, kad joms reikia specialios priežiūros. Viršutiniame šios indaplovės krepšyje yra minkšti guminiai smaigai, skirti prilaikyti ir apsaugoti taures. „SoftSpikes“ veiksmingai stabilizuoja taures ir puodelius, neleisdami jiems nuvirsti ir sudužti.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Patikrinkite vos pažvelgę\" src=\"data/processed/flix_media/18703/Electrolux-277185228-PSABDW18BIE00004.webp\"/></figure><div class=\"flixf-body\"><h3>Patikrinkite vos pažvelgę</h3><p>Ši pilnai įmontuojama indaplovė gali išmaniai ir visapusiškai informuoti jus apie tai, kas vyksta su jūsų indais. Vykdant ciklą, ant grindų projektuojamas specialus raudonas šviesos spindulys. Kai indai jau švarūs ir paruošti iškrauti, spindulys tampa žalias. Paprasta ir efektyvu.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543738700",
+                "price": {
+                  "@gross": "330.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "3",
+                  "@forecast_date": "2025-12-02"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "LNS5LE18S",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "LNS5LE18S"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Quick temperature recovery, for full food protection\" src=\"data/processed/flix_media/30769/Electrolux-275366188-PSEERF22MPE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Quick temperature recovery, for full food protection</h3><p>The 500 ColdSense Fridge Freezer quickly returns to the correct temperature after door opening and closing, thanks to precise electronic sensors. This helps prevent temperature shocks and food spoilage for total food protection.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"ColdSense protects food by quickly restabilising the temperature\" src=\"data/processed/flix_media/30769/Electrolux-275366188-PSEERF22MPE00001_1.webp\"/></figure><div class=\"flixf-body\"><h3>ColdSense protects food by quickly restabilising the temperature</h3><p>ColdSense uses precise temperature sensors to quickly return the Fridge Freezer to the right temperature after door opening and closing. This helps prevent temperature shocks and food spoilage for total food protection.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Less freezer maintenance, with LowFrost\" src=\"data/processed/flix_media/30769/Electrolux-275366225-PSEEVL18SPE0000H.webp\"/></figure><div class=\"flixf-body\"><h3>Less freezer maintenance, with LowFrost</h3><p>The integrated LowFrost system maintains your freezer's temperature to help prevent the build-up of frost. For better performance and less maintenance.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Compressor ten-year warranty\" src=\"data/processed/flix_media/30769/Electrolux-275367506-PSEEVL20BIE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Compressor ten-year warranty</h3><p>Enjoy total peace of mind knowing the compressor itself has a ten-year warranty. The warranty covers damages which could be incurred during labour, transportation, gas removal and refilling, or general maintenance.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Precise food storage with Internal Electronic Control</h3><p>Take command of the storage conditions of your food with Internal Electronic Control. The LED indicators conveniently show you the temperature, and the settings remove any guesswork.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Balanced humidity creates ideal conditions for your food\" src=\"data/processed/flix_media/30769/Electrolux-275848497-PSEERE23BIA00004.webp\"/></figure><div class=\"flixf-body\"><h3>Balanced humidity creates ideal conditions for your food</h3><p>Humidity control technology keeps humidity in balance. This helps keep food from drying out and condensation from building up.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543973743",
+                "price": {
+                  "@gross": "357.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-12-02"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "FSE74527P",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "AEG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "FSE74527P"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<br><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"64\" style=\"width: 48pt;\"></table>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7333394041469",
+                "price": {
+                  "@gross": "375.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-12-02"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "LND5FE18S",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "LND5FE18S"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Greitas temperatūros atkūrimas – visiška maisto apsauga\" src=\"data/processed/flix_media/30770/Electrolux-275366188-PSEERF22MPE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Greitas temperatūros atkūrimas – visiška maisto apsauga</h3><p>500 serijos „ColdSense“ šaldytuvas su tiksliais elektroniniais jutikliais greitai sugrąžina reikiamą temperatūrą atidarius dureles. Taip išvengiama staigių temperatūros šuolių, todėl apsaugotas maistas ilgiau išlieka šviežias.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„ColdSense“ – spartesnis vėsinimas apsaugo maisto produktus\" src=\"data/processed/flix_media/30770/Electrolux-275366188-PSEERF22MPE00001_1.webp\"/></figure><div class=\"flixf-body\"><h3>„ColdSense“ – spartesnis vėsinimas apsaugo maisto produktus</h3><p>„ColdSense“ naudoja tikslius temperatūros jutiklius, kad šaldytuve ar šaldiklyje greitai sugrąžintų reikiamą temperatūrą atidarius dureles. Taip išvengiama staigių temperatūros šuolių, todėl maistas ilgiau išlieka šviežias.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Stabilus vėsinimas dėl „DynamicAir“\" src=\"data/processed/flix_media/30770/Electrolux-366011456-250416ZH5Q.webp\"/></figure><div class=\"flixf-body\"><h3>Stabilus vėsinimas dėl „DynamicAir“</h3><p>Technologija „DynamicAir“ skirta užtikrinti, kad šaldytuve būtų palaikoma stabili temperatūra. Vėsus oras cirkuliuojamas šaldytuve, todėl netgi atidarius dureles maisto produktai apsaugomi nuo sušilimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"10 metų garantija kompresoriui\" src=\"data/processed/flix_media/30770/Electrolux-275367506-PSEEVL20BIE00001.webp\"/></figure><div class=\"flixf-body\"><h3>10 metų garantija kompresoriui</h3><p>Būkite ramūs žinodami, kad garantinis aptarnavimas taikomas visiems darbams, dalims bei transportavimui, kurie susiję su kompresoriaus gedimu net 10 metų!</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Tikslus maisto laikymas naudojantis vidiniu elektroniniu valdikliu</h3><p>Vidiniu elektroniniu valdikliu kontroliuokite maisto laikymo sąlygas. Šviesos diodų indikatoriai patogiai rodo temperatūrą, o nuostatos pašalina bet kokias abejones.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Išlaikykite tobulą tekstūrą, naudodami „FastFreeze“\" src=\"data/processed/flix_media/30770/Electrolux-275367677-PSEEVL19BIE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Išlaikykite tobulą tekstūrą, naudodami „FastFreeze“</h3><p>Sistema „FastFreeze“ greičiau užšaldo šviežius produktus, todėl išsaugoma daugiau vitaminų, tekstūros, skonio ir visų sveikų savybių.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543978625",
+                "price": {
+                  "@gross": "380.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-26"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "FSE73727P",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "AEG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "FSE73727P"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Su šia indaplove net ir trapiausi stikliniai indai yra gerose rankose\" src=\"data/processed/flix_media/20418/Electrolux-305045522-PSAADW16SP363002.webp\"/></figure><div class=\"flixf-body\"><h3>Su šia indaplove net ir trapiausi stikliniai indai yra gerose rankose</h3><p>Netgi galingoms indaplovėms reikia švelniai elgtis su stikliniais indais. Laimei, viršutiniame šios indaplovės krepšelyje yra „SoftGrips“ ir „SoftSpikes“ specialūs laikikliai, kurie tvirtai laiko Jūsų stiklines ir užtikrina, kad jos nesusibraižytų ir nesudužtų.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Aukščiausios kokybės plovimas ir geriausia stiklo priežiūra\" src=\"data/processed/flix_media/20418/Electrolux-275457019-PSAADW17BIE00006.webp\"/></figure><div class=\"flixf-body\"><h3>Aukščiausios kokybės plovimas ir geriausia stiklo priežiūra</h3><p>Dar niekada nebuvo taip saugu plauti trapių taurių – AEG „SoftGrip“ ir „SoftSpikes“ puikiai bei tvirtai jas laiko ir apsaugo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Pritaikoma erdvė ir patogus plovimas naudojant „MaxiFlex“\" src=\"data/processed/flix_media/20418/Electrolux-275739694-PSAADW20BIA00007.webp\"/></figure><div class=\"flixf-body\"><h3>Pritaikoma erdvė ir patogus plovimas naudojant „MaxiFlex“</h3><p>„MaxiFlex“ stalčius yra sukurtas taip, kad tilptų įvairaus dydžio stalo įrankiai ir reikmenys – tiek dideli, tiek neįprastų formų. Universalios pertvaros ir padidinamas gylis, kad būtų galima pritaikyti bet kokiai įkrovai. Visi reikmenys sklandžiai sudedami ir išplaunami vienu kartu.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Nesudėtingas atsakingo indų plovimo būdas\" src=\"data/processed/flix_media/20418/Electrolux-275739686-PSAADW210KE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Nesudėtingas atsakingo indų plovimo būdas</h3><p>Atsakingus žingsnius žengti lengva. „QuickSelect“ slankikliu jutikliniame ekrane pasirinkite norimą ciklo trukmę ir „Ecometer“ ryškiais žaliais stulpeliais nurodys tvariausią programą energijai bei vandeniui taupyti.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„SatelliteClean®“ - galingas indų plovimas\" src=\"data/processed/flix_media/20418/Electrolux-275739767-PSAADW17BIE00008.webp\"/></figure><div class=\"flixf-body\"><h3>„SatelliteClean®“ - galingas indų plovimas</h3><p>Nepriekaištingas indų plovimas indaplove su „SatelliteClean®“. Šis purkštuvas triskart geriau indus aprūpina vandeniu nei įprastas. Dvigubas besisukantis purkštuvas nuolat keičia purškimo kampą. Vanduo pasiekia kiekvieną kampelį. Ypač kruopščiam plovimui.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Patikrinkite vos pažvelgę\" src=\"data/processed/flix_media/20418/Electrolux-277185228-PSABDW18BIE00004.webp\"/></figure><div class=\"flixf-body\"><h3>Patikrinkite vos pažvelgę</h3><p>Ši pilnai įmontuojama indaplovė gali išmaniai ir visapusiškai informuoti jus apie tai, kas vyksta su jūsų indais. Vykdant ciklą, ant grindų projektuojamas specialus raudonas šviesos spindulys. Kai indai jau švarūs ir paruošti iškrauti, spindulys tampa žalias. Paprasta ir efektyvu.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543761128",
+                "price": {
+                  "@gross": "415.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "EEM69410W",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "EEM69410W"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Montuojama Indaplovė 60 cm 700 serija „GlassCare“</h3><p>700 Montuojama indaplovė (60cm) 15 komplkt.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543761494",
+                "price": {
+                  "@gross": "390.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "3",
+                  "@forecast_date": "2025-11-23"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "EEG69420W",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "EEG69420W"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Trapios taurės patikimose rankose</h3><p>Su taurėmis būtina elgtis atsargiau, ypač jas plaunant. Indaplovės „700 GlassCare“ viršutiniame krepšyje yra minkšti laikikliai „SoftGrips“, kurie tvirtai, tačiau švelniai, laiko sudėtas taures. Tuo tarpu „SoftSpikes“ guminiai padėklai užtikrinta, kad taurės nesusibraižytų ir nesudužtų.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Jūsų taurės apsaugotos naudojant „SoftGrips“ ir „SoftSpikes“\" src=\"data/processed/flix_media/30386/Electrolux-275367221-PSEEDW18MPA00004.webp\"/></figure><div class=\"flixf-body\"><h3>Jūsų taurės apsaugotos naudojant „SoftGrips“ ir „SoftSpikes“</h3><p>Daugiau nereikės taurių plauti rankomis – jomis pasirūpins „SoftGrips“ ir „SoftSpikes“. Minkšta medžiaga tvirtai, bet švelniai laiko taures vietoje ir apsaugo jas nuo skilimų ir dužimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Geresnis matomumas, veiksmingesnis indų sudėjimas\" src=\"data/processed/flix_media/30386/Electrolux-281465950-PSEEDW130F000036.webp\"/></figure><div class=\"flixf-body\"><h3>Geresnis matomumas, veiksmingesnis indų sudėjimas</h3><p>Vidinis apšvietimas pagerina indaplovės vidaus matomumą. Aiškiai matysite geriausias vietas jūsų indams ir įrankiams sudėti.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Visada informuoti su „TimeBeam®“\" src=\"data/processed/flix_media/30386/Electrolux-275389250-PSEEDW24BIA00002.webp\"/></figure><div class=\"flixf-body\"><h3>Visada informuoti su „TimeBeam®“</h3><p>Funkcija „TimeBeam®“ nuolatos praneša apie indaplovės ciklo būseną. Pagrindinė informacija rodoma ant grindų, ties prietaisu, todėl visada matosi laikas, likęs iki ciklo pabaigos. Nuo šiol visada žinosite, kada indai bus švarūs.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„QuickSelect“ - Indus plaukite tvariai ir taupykite\" src=\"data/processed/flix_media/30386/Electrolux-275366452-PSEEDW18BIE0000C.webp\"/></figure><div class=\"flixf-body\"><h3>„QuickSelect“ - Indus plaukite tvariai ir taupykite</h3><p>Indus plaukite tvariai ir taupykite energiją. Naudokite jutiklinio ekrano slankiklį, kad pasirinktumėte pageidaujamą ciklo laiką, o „Ecometer“ intuityviomis žaliomis juostomis parodys tvariausią energijos ir vandens taupymo programą.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„QuickSelect“ su „Wi-Fi“ Interaktyvus indaplovės valdymas per išmanųjį įrenginį\" src=\"data/processed/flix_media/30386/Electrolux-275367190-PSEEDL24BIA00002.webp\"/></figure><div class=\"flixf-body\"><h3>„QuickSelect“ su „Wi-Fi“ Interaktyvus indaplovės valdymas per išmanųjį įrenginį</h3><p>Mūsų interaktyviosios indaplovės „QuickSelect“ indus plauna išmaniai ir tvariai. Gaukite patarimų dėl tinkamos esamiems indams programos ir pasirinkite, kada indaplovei veikti, kad būtų pigiau. Programėlė apibendrina naudojimo duomenis ir pateikia atsiliepimus apie tvarumą.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543988921",
+                "price": {
+                  "@gross": "425.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-12-02"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "ENS6TE19S",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "ENS6TE19S"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Palaiko maistą sultingą ir drėgną\" src=\"data/processed/flix_media/19122/Electrolux-277917342-241220AJAU.webp\"/></figure><div class=\"flixf-body\"><h3>Palaiko maistą sultingą ir drėgną</h3><p>Bešerkšnis šaldytuvas-šaldiklis „600 TwinTech® No Frost“ išlaiko maistą 60 % sultingesnį nei šaldytuvai su vienu garintuvu. Jo dviguba vėsinimo sistema palaiko idealų drėgnumą ir neleidžia maistui išdžiūti. Ji taip pat užtikrina, kad niekada nebereikės atšildyti šaldiklio.*</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„TwinTech® No Frost“ apsaugo nuo išdžiūvimo\" src=\"data/processed/flix_media/19122/Electrolux-277917342-241220AJAU_1.webp\"/></figure><div class=\"flixf-body\"><h3>„TwinTech® No Frost“ apsaugo nuo išdžiūvimo</h3><p>„TwinTech® No Frost“ turi pažangiąją dvigubą šaldytuvo ir šaldiklio vėsinimo sistemą. Ši technologija apsaugo šaldiklį nuo apledėjimų, o šaldytuve užtikrina optimalią drėgmę bei apsaugo maisto produktus nuo džiūvimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Visapusiškas laikymo erdvės pritaikymas naudojant „MultiSpace“\" src=\"data/processed/flix_media/19122/Electrolux-357113625-250623YFON.webp\"/></figure><div class=\"flixf-body\"><h3>Visapusiškas laikymo erdvės pritaikymas naudojant „MultiSpace“</h3><p>Šaldytuvas „MultiSpace“ yra aukštesnis, nei įprasto dizaino, todėl turite daugiau vietos produktams laikyti. Daugybė laikymo sprendimų leidžia pritaikyti erdvę pagal jūsų poreikius – daugiau lankstumo ir tvarkos.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Stabilus vėsinimas dėl „DynamicAir“\" src=\"data/processed/flix_media/19122/Electrolux-366011456-250416ZH5Q.webp\"/></figure><div class=\"flixf-body\"><h3>Stabilus vėsinimas dėl „DynamicAir“</h3><p>Technologija „DynamicAir“ skirta užtikrinti, kad šaldytuve būtų palaikoma stabili temperatūra. Vėsus oras cirkuliuojamas šaldytuve, todėl netgi atidarius dureles maisto produktai apsaugomi nuo sušilimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"10 metų garantija kompresoriui\" src=\"data/processed/flix_media/19122/Electrolux-275367506-PSEEVL20BIE00001.webp\"/></figure><div class=\"flixf-body\"><h3>10 metų garantija kompresoriui</h3><p>Būkite ramūs žinodami, kad garantinis aptarnavimas taikomas visiems darbams, dalims bei transportavimui, kurie susiję su kompresoriaus gedimu net 10 metų!</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Jutikliniai elektroniniai valdikliai – valdymas be jokių pastangų\" src=\"data/processed/flix_media/19122/Electrolux-275370005-PSEERF19BIA00002.webp\"/></figure><div class=\"flixf-body\"><h3>Jutikliniai elektroniniai valdikliai – valdymas be jokių pastangų</h3><p>Jutikliniais elektroniniais valdikliais šaldytuvo nuostatos ir funkcijos pasiekiamos ranka, todėl galėsite pakeisti temperatūrą pagal savo poreikius. Visiškas valdymas piršto palietimu.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543811915",
+                "price": {
+                  "@gross": "520.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-30"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "SMP4ECC71S",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "BOSCH"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "SMP4ECC71S"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<p><a href=\"/web/content/512983?unique=651c595b876ec33bd403720f699cabc0afd0c145&amp;download=true\" class=\"o_image\" title=\"SMP4ECC71S.pdf\"></a><br></p>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "4242005452712",
+                "price": {
+                  "@gross": "477.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "2"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "FSE74707P",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "AEG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "FSE74707P"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Su šia indaplove net ir trapiausi stikliniai indai yra gerose rankose\" src=\"data/processed/flix_media/30668/Electrolux-305045522-PSAADW16SP363002.webp\"/></figure><div class=\"flixf-body\"><h3>Su šia indaplove net ir trapiausi stikliniai indai yra gerose rankose</h3><p>Netgi galingoms indaplovėms reikia švelniai elgtis su stikliniais indais. Laimei, viršutiniame šios indaplovės krepšelyje yra „SoftGrips“ ir „SoftSpikes“ specialūs laikikliai, kurie tvirtai laiko Jūsų stiklines ir užtikrina, kad jos nesusibraižytų ir nesudužtų.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Aukščiausios kokybės plovimas ir geriausia stiklo priežiūra\" src=\"data/processed/flix_media/30668/Electrolux-275457019-PSAADW17BIE00006.webp\"/></figure><div class=\"flixf-body\"><h3>Aukščiausios kokybės plovimas ir geriausia stiklo priežiūra</h3><p>Dar niekada nebuvo taip saugu plauti trapių taurių – AEG „SoftGrip“ ir „SoftSpikes“ puikiai bei tvirtai jas laiko ir apsaugo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Pritaikoma erdvė ir patogus plovimas naudojant „MaxiFlex“\" src=\"data/processed/flix_media/30668/Electrolux-275739694-PSAADW20BIA00007.webp\"/></figure><div class=\"flixf-body\"><h3>Pritaikoma erdvė ir patogus plovimas naudojant „MaxiFlex“</h3><p>„MaxiFlex“ stalčius yra sukurtas taip, kad tilptų įvairaus dydžio stalo įrankiai ir reikmenys – tiek dideli, tiek neįprastų formų. Universalios pertvaros ir padidinamas gylis, kad būtų galima pritaikyti bet kokiai įkrovai. Visi reikmenys sklandžiai sudedami ir išplaunami vienu kartu.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Nesudėtingas atsakingo indų plovimo būdas\" src=\"data/processed/flix_media/30668/Electrolux-275739686-PSAADW210KE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Nesudėtingas atsakingo indų plovimo būdas</h3><p>Atsakingus žingsnius žengti lengva. „QuickSelect“ slankikliu jutikliniame ekrane pasirinkite norimą ciklo trukmę ir „Ecometer“ ryškiais žaliais stulpeliais nurodys tvariausią programą energijai bei vandeniui taupyti.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„SatelliteClean®“ - galingas indų plovimas\" src=\"data/processed/flix_media/30668/Electrolux-275739767-PSAADW17BIE00008.webp\"/></figure><div class=\"flixf-body\"><h3>„SatelliteClean®“ - galingas indų plovimas</h3><p>Nepriekaištingas indų plovimas indaplove su „SatelliteClean®“. Šis purkštuvas triskart geriau indus aprūpina vandeniu nei įprastas. Dvigubas besisukantis purkštuvas nuolat keičia purškimo kampą. Vanduo pasiekia kiekvieną kampelį. Ypač kruopščiam plovimui.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Patikrinkite vos pažvelgę\" src=\"data/processed/flix_media/30668/Electrolux-277185228-PSABDW18BIE00004.webp\"/></figure><div class=\"flixf-body\"><h3>Patikrinkite vos pažvelgę</h3><p>Ši pilnai įmontuojama indaplovė gali išmaniai ir visapusiškai informuoti jus apie tai, kas vyksta su jūsų indais. Vykdant ciklą, ant grindų projektuojamas specialus raudonas šviesos spindulys. Kai indai jau švarūs ir paruošti iškrauti, spindulys tampa žalias. Paprasta ir efektyvu.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543809790",
+                "price": {
+                  "@gross": "447.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "ENT6NE18S",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "ENT6NE18S"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Palaiko maistą sultingą ir drėgną\" src=\"data/processed/flix_media/31058/Electrolux-277917342-241220AJAU.webp\"/></figure><div class=\"flixf-body\"><h3>Palaiko maistą sultingą ir drėgną</h3><p>Bešerkšnis šaldytuvas-šaldiklis „600 TwinTech® No Frost“ išlaiko maistą 60 % sultingesnį nei šaldytuvai su vienu garintuvu. Jo dviguba vėsinimo sistema palaiko idealų drėgnumą ir neleidžia maistui išdžiūti. Ji taip pat užtikrina, kad niekada nebereikės atšildyti šaldiklio.*</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„TwinTech® No Frost“ apsaugo nuo išdžiūvimo\" src=\"data/processed/flix_media/31058/Electrolux-277917342-241220AJAU_1.webp\"/></figure><div class=\"flixf-body\"><h3>„TwinTech® No Frost“ apsaugo nuo išdžiūvimo</h3><p>„TwinTech® No Frost“ turi pažangiąją dvigubą šaldytuvo ir šaldiklio vėsinimo sistemą. Ši technologija apsaugo šaldiklį nuo apledėjimų, o šaldytuve užtikrina optimalią drėgmę bei apsaugo maisto produktus nuo džiūvimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"10 metų garantija kompresoriui\" src=\"data/processed/flix_media/31058/Electrolux-275367506-PSEEVL20BIE00001.webp\"/></figure><div class=\"flixf-body\"><h3>10 metų garantija kompresoriui</h3><p>Būkite ramūs žinodami, kad garantinis aptarnavimas taikomas visiems darbams, dalims bei transportavimui, kurie susiję su kompresoriaus gedimu net 10 metų!</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Tikslus maisto laikymas naudojantis vidiniu elektroniniu valdikliu</h3><p>Vidiniu elektroniniu valdikliu kontroliuokite maisto laikymo sąlygas. Šviesos diodų indikatoriai patogiai rodo temperatūrą, o nuostatos pašalina bet kokias abejones.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Išlaikykite tobulą tekstūrą, naudodami „FastFreeze“\" src=\"data/processed/flix_media/31058/Electrolux-275367677-PSEEVL19BIE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Išlaikykite tobulą tekstūrą, naudodami „FastFreeze“</h3><p>Sistema „FastFreeze“ greičiau užšaldo šviežius produktus, todėl išsaugoma daugiau vitaminų, tekstūros, skonio ir visų sveikų savybių.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Aukščiausios kokybės šviesdiodinis šaldytuvo apšvietimas</h3><p>Puikus matomumas dėl šaldytuve integruoto šviesdiodinio apšvietimo. Nepastebimos, energiją taupančios lemputės ryškiai apšviečia visą erdvę. Suvartojama 10 kartų mažiau energijos nei esant standartiniam apšvietimui.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543848126",
+                "price": {
+                  "@gross": "456.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-12-02"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "FSE76738P",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "AEG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "FSE76738P"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Su šia indaplove net ir trapiausi stikliniai indai yra gerose rankose\" src=\"data/processed/flix_media/30703/Electrolux-305045522-PSAADW16SP363002.webp\"/></figure><div class=\"flixf-body\"><h3>Su šia indaplove net ir trapiausi stikliniai indai yra gerose rankose</h3><p>Netgi galingoms indaplovėms reikia švelniai elgtis su stikliniais indais. Laimei, viršutiniame šios indaplovės krepšelyje yra „SoftGrips“ ir „SoftSpikes“ specialūs laikikliai, kurie tvirtai laiko Jūsų stiklines ir užtikrina, kad jos nesusibraižytų ir nesudužtų.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Pritaikoma erdvė ir patogus plovimas naudojant „MaxiFlex“\" src=\"data/processed/flix_media/30703/Electrolux-275739694-PSAADW20BIA00007.webp\"/></figure><div class=\"flixf-body\"><h3>Pritaikoma erdvė ir patogus plovimas naudojant „MaxiFlex“</h3><p>„MaxiFlex“ stalčius yra sukurtas taip, kad tilptų įvairaus dydžio stalo įrankiai ir reikmenys – tiek dideli, tiek neįprastų formų. Universalios pertvaros ir padidinamas gylis, kad būtų galima pritaikyti bet kokiai įkrovai. Visi reikmenys sklandžiai sudedami ir išplaunami vienu kartu.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Nesudėtingas atsakingo indų plovimo būdas\" src=\"data/processed/flix_media/30703/Electrolux-275739686-PSAADW210KE00001.webp\"/></figure><div class=\"flixf-body\"><h3>Nesudėtingas atsakingo indų plovimo būdas</h3><p>Atsakingus žingsnius žengti lengva. „QuickSelect“ slankikliu jutikliniame ekrane pasirinkite norimą ciklo trukmę ir „Ecometer“ ryškiais žaliais stulpeliais nurodys tvariausią programą energijai bei vandeniui taupyti.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„QuickSelect“ su „Wi-Fi“ Išmanus nuotolinis indų plovimas\" src=\"data/processed/flix_media/30703/Electrolux-275455729-PSAADL24BIA00001.webp\"/></figure><div class=\"flixf-body\"><h3>„QuickSelect“ su „Wi-Fi“ Išmanus nuotolinis indų plovimas</h3><p>Mūsų indaplovės „QuickSelect“ indus plauna išmaniai ir atsakingai. Gaukite patarimų, kokią programą naudoti priklausomai nuo indų, jų užterštumo lygio ir laiko. Suplanuokite plovimą, kad sutaupytumėte. Programėlė apibendrina naudojimą ir pateikia „ECO“ ataskaitas.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„SatelliteClean®“ - galingas indų plovimas\" src=\"data/processed/flix_media/30703/Electrolux-275739767-PSAADW17BIE00008.webp\"/></figure><div class=\"flixf-body\"><h3>„SatelliteClean®“ - galingas indų plovimas</h3><p>Nepriekaištingas indų plovimas indaplove su „SatelliteClean®“. Šis purkštuvas triskart geriau indus aprūpina vandeniu nei įprastas. Dvigubas besisukantis purkštuvas nuolat keičia purškimo kampą. Vanduo pasiekia kiekvieną kampelį. Ypač kruopščiam plovimui.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543986743",
+                "price": {
+                  "@gross": "479.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-23"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "TSC7G181ES",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "AEG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "TSC7G181ES"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Preserves nutrients longer, keeps every bite healthy\" src=\"data/processed/flix_media/30382/Electrolux-114773506-PSAARF210KA00001.webp\"/></figure><div class=\"flixf-body\"><h3>Preserves nutrients longer, keeps every bite healthy</h3><p>The 7000 GreenZone Fridge Freezer has a dedicated sealed drawer that maintains humidity at an ideal level, which manages excess condensation and helps protect food from spoiling. This preserves up to 95% of vitamins by protecting produce with the right amount of humidity.* Up to 95% of vitamins preserved with GreenZone technology.* *Vitamin preservation rate based on external test on vitamin C retention in blueberries after 11 days in GreenZone compartment.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"GreenZone helps fruits and veggies stay nutritious\" src=\"data/processed/flix_media/30382/Electrolux-180227921-PSAARF23BIA00004.webp\"/></figure><div class=\"flixf-body\"><h3>GreenZone helps fruits and veggies stay nutritious</h3><p>The GreenZone drawer eliminates excess humidity while preserving the right amount of moisture for your veggies. This preserves up to 95% of vitamins after 11 days, by protecting produce with the right amount of humidity.* Up to 95% vitamins preserved with GreenZone technology.* *Vitamin preservation rate based on external test on vitamin C retention in blueberries after 11 days in GreenZone compartment.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"TwinTech® No Frost - keeps food juicy and hydrated\" src=\"data/processed/flix_media/30382/Electrolux-118560972-PSAAVL20MPA00001.webp\"/></figure><div class=\"flixf-body\"><h3>TwinTech® No Frost - keeps food juicy and hydrated</h3><p>With TwinTech® No Frost you never have to defrost the freezer. Its dual cooling system keeps food 60% more hydrated than fridges with one evaporator.* By not using dry freezer air, it maintains ideal humidity and keeps food from drying out. Food kept up to 60% juicier and more hydrated.with TwinTech technology.* *Internal test on TwinTech technology using an internal test method measuring hydration level after 9 days storage compared to own product with one evaporator.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Every shelf evenly chilled. With DynamicAir</h3><p>DynamicAir maintains a constant airflow to guarantee a stable temperature throughout the refrigerator. Every shelf evenly chilled to preventing warm zones. Prohibiting bacteria growth. Preserving fresh ingredients.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Peace Of Mind Included\" src=\"data/processed/flix_media/30382/Electrolux-118713246-PSAAPL210KE00005.webp\"/></figure><div class=\"flixf-body\"><h3>Peace Of Mind Included</h3><p>AEG produce quality home appliances that are built to last, all our appliances come with a 2 year manufacturer's warranty as standard to protect against manufacturing faults and defects that occur during this warranty period. See the terms and conditions for your manufacturer's warranty.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Save energy. Touch Control with Ecometer\" src=\"data/processed/flix_media/30382/Electrolux-180244053-PSAARE23BIA00001.webp\"/></figure><div class=\"flixf-body\"><h3>Save energy. Touch Control with Ecometer</h3><p>Get easy guidance on selecting more energy efficient settings for your fridge, while keeping optimal cooling with Touch Control with Ecometer.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543978564",
+                "price": {
+                  "@gross": "580.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-25"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "ERD6DE18S1",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "ERD6DE18S1"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Stabili visuomet žema temperatūra</h3><p>„DynamicAir“ šaldytuve sukuria vėsaus oro srauto cirkuliaciją, kad temperatūra kiekviename šaldytuvo kampelyje būtų stabili. Apsaugo maisto produktus, kad neprarastų formos ir neišdžiūtų.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Stabilus vėsinimas dėl „DynamicAir“\" src=\"data/processed/flix_media/36852/Electrolux-275364659-PSEERF19BIE00003.webp\"/></figure><div class=\"flixf-body\"><h3>Stabilus vėsinimas dėl „DynamicAir“</h3><p>Technologija „DynamicAir“ skirta užtikrinti, kad šaldytuve būtų palaikoma stabili temperatūra. Šaldytuve cirkuliuojamas vėsus oras, todėl netgi atidarius dureles maisto produktai apsaugomi nuo sušilimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Visiška naujovė – unikalus šaldytuvas, pagamintas naudojant perdirbtą plastiką\" src=\"data/processed/flix_media/36852/Electrolux-281464055-PSEERF230KA00003.webp\"/></figure><div class=\"flixf-body\"><h3>Visiška naujovė – unikalus šaldytuvas, pagamintas naudojant perdirbtą plastiką</h3><p>Didžiuodamiesi pristatome savo unikalų šaldytuvą, kurio 70 % vidinės dangos pagaminta iš perdirbto plastiko. Utilizuojamo šaldytuvo plastiką galima panaudoti naujų šaldytuvų gamyboje ir taip sumažinti į aplinką išmetamų atliekų kiekį.  * Vidaus dangos plastikas rHIPS yra pagamintas panaudojant iki 70 % perdirbto plastiko, o tai sudaro 13 % viso šaldytuve esančio plastiko.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Dar didesnė tvarka. Dėl „ExtraZone“</h3><p>„ExtraZone“ stalčiuje maisto produktus galima laikyti atskirai pagal grupes. Visi maisto produktai išdėstyti tvarkingai ir patogiai.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Garsinis durelių signalas</h3><p>Garsinis durelių signalas perspėja, jei per ilgai palikote šaldiklio dureles atviras, ir taip padeda išvengti maisto švaistymo bei taupo energiją.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Didelis ištraukiamas stalčius – lengva patogiai susidėti ir pasiekti produktus</h3><p>Didelis stalčius visiškai išsitraukia, todėl jame patogu laikyti produktus, lengva juos pasiekti ir aiškiai matyti, kas jame sudėta. Stalčius pakankamai erdvus, tad idealiai tinka dideliems buteliams atšaldyti.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7333394020150",
+                "price": {
+                  "@gross": "536.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-11-16"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "KUN7NE18S",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Freezer"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "KUN7NE18S"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<br><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"102\" style=\"width: 77pt;\"></table>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7333394034935",
+                "price": {
+                  "@gross": "690.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "3",
+                  "@forecast_date": "2025-11-16"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "EEC87400W",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Dishwasher"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "EEC87400W"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Aukštesnis standartas – pirmoji pasaulyje indaplovė, į kurią indus galima sudėti be jokių pastangų\" src=\"data/processed/flix_media/31057/Electrolux-275362229-PSEEDW180KA00002.webp\"/></figure><div class=\"flixf-body\"><h3>Aukštesnis standartas – pirmoji pasaulyje indaplovė, į kurią indus galima sudėti be jokių pastangų</h3><p>Pirmoji pasaulyje indaplovė „900 ComfortLift®“, kurią išties labai paprasta pakrauti ir iškrauti. Naudojant mūsų unikalią technologiją, vos spustelint rankeną, krepšys vienu nesudėtingu judesiu pakeliamas iki liemens lygio. Tai taip patogu, kad nustebsite, kaip iki šiol be to galėjote gyventi.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„ComfortLift“ – pirmasis pakeliamas krepšys\" src=\"data/processed/flix_media/31057/Electrolux-275362410-PSEEDW18BIA0000C.webp\"/></figure><div class=\"flixf-body\"><h3>„ComfortLift“ – pirmasis pakeliamas krepšys</h3><p>Dėka unikalios funkcijos „ComfortLift“ Jums daugiau nebereikės lenkti nugaros pakraunant ir iškraunant indaplovę. Vos spustelėjus rankeną, apatinis krepšys švelniai pakeliamas. Tai pirmoji indaplovė pasaulyje, skirta visapusiškam Jūsų patogumui.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„QuickSelect“ - Indus plaukite tvariai ir taupykite\" src=\"data/processed/flix_media/31057/Electrolux-275366452-PSEEDW18BIE0000C.webp\"/></figure><div class=\"flixf-body\"><h3>„QuickSelect“ - Indus plaukite tvariai ir taupykite</h3><p>Indus plaukite tvariai ir taupykite energiją. Naudokite jutiklinio ekrano slankiklį, kad pasirinktumėte pageidaujamą ciklo laiką, o „Ecometer“ intuityviomis žaliomis juostomis parodys tvariausią energijos ir vandens taupymo programą.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„QuickSelect“ su „Wi-Fi“ Interaktyvus indaplovės valdymas per išmanųjį įrenginį\" src=\"data/processed/flix_media/31057/Electrolux-275367190-PSEEDL24BIA00002.webp\"/></figure><div class=\"flixf-body\"><h3>„QuickSelect“ su „Wi-Fi“ Interaktyvus indaplovės valdymas per išmanųjį įrenginį</h3><p>Mūsų interaktyviosios indaplovės „QuickSelect“ indus plauna išmaniai ir tvariai. Gaukite patarimų dėl tinkamos esamiems indams programos ir pasirinkite, kada indaplovei veikti, kad būtų pigiau. Programėlė apibendrina naudojimo duomenis ir pateikia atsiliepimus apie tvarumą.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Visada informuoti su „TimeBeam®“\" src=\"data/processed/flix_media/31057/Electrolux-275389250-PSEEDW24BIA00002.webp\"/></figure><div class=\"flixf-body\"><h3>Visada informuoti su „TimeBeam®“</h3><p>Funkcija „TimeBeam®“ nuolatos praneša apie indaplovės ciklo būseną. Pagrindinė informacija rodoma ant grindų, ties prietaisu, todėl visada matosi laikas, likęs iki ciklo pabaigos. Nuo šiol visada žinosite, kada indai bus švarūs.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Geresnis matomumas, veiksmingesnis indų sudėjimas\" src=\"data/processed/flix_media/31057/Electrolux-281465950-PSEEDW130F000036.webp\"/></figure><div class=\"flixf-body\"><h3>Geresnis matomumas, veiksmingesnis indų sudėjimas</h3><p>Vidinis apšvietimas pagerina indaplovės vidaus matomumą. Aiškiai matysite geriausias vietas jūsų indams ir įrankiams sudėti.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543987153",
+                "price": {
+                  "@gross": "650.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-12-02"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "TB7NA181EC",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Freezer"
+            },
+            "producer": {
+              "@name": "AEG"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "TB7NA181EC"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Daugiau jokio ledo ar šerkšno\" src=\"data/processed/flix_media/37412/Electrolux-305047672-A_No_Frost_Refrigeration_Sep21.webp\"/></figure><div class=\"flixf-body\"><h3>Daugiau jokio ledo ar šerkšno</h3><p>7000 serijos šaldiklis su „No Frost“ neleidžia ledui kauptis šaldiklyje. Prietaisas visuomet veiks nepriekaištingai ir saugos maisto produktus geriau nei bet kada anksčiau.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Dėl technologijos „No Frost“ - išlaikysite šaldiklį neapledėjusį\" src=\"data/processed/flix_media/37412/Electrolux-275461594-PSAAVL20MPA00003.webp\"/></figure><div class=\"flixf-body\"><h3>Dėl technologijos „No Frost“ - išlaikysite šaldiklį neapledėjusį</h3><p>„NoFrost“ – pamirškite atitirpinimą. Ši technologija palaiko šaldiklį neapledėjusį, todėl visada galite būti tikri dėl jo maksimaliai našaus veikimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Naujos eros inovacija. Unikalus šaldiklis iš perdirbto plastiko\" src=\"data/processed/flix_media/37412/Electrolux-305046067-AEG_IM_Recycled_Inner_liner_BI_Refrigeration_Nov23.webp\"/></figure><div class=\"flixf-body\"><h3>Naujos eros inovacija. Unikalus šaldiklis iš perdirbto plastiko</h3><p>Naujoji šaldymo era jau čia. Pristatome šaldiklį, kurio vidiniai paviršiai pagaminti iš 70 % perdirbto plastiko. Iš nebenaudojamų šaldymo prietaisų pagamintas plastikas naudojamas naujiems šaldytuvams gaminti, taip padedant mažinti atliekų kiekį žiediniu principu.  * Vidaus dangos plastikas rHIPS yra pagamintas panaudojant iki 70 % perdirbto plastiko, o tai sudaro 13 % viso šaldytuve esančio plastiko.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Garsinis durelių signalas</h3><p>Garsinis durelių signalas perspėja, jei palikote dureles atviras tam tikrą laiką, kad jas uždarytumėte laiku.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Išlaikykite tobulą tekstūrą naudodami „Extra Freeze“.</h3><p>Sistema „Extra Freeze“ greičiau užšaldo šviežius produktus, todėl išsaugoma daugiau vitaminų, tekstūros, skonio ir visų sveikų savybių.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Švelniai užsidarančios durys – kaskart sklandžiai ir tyliai užsidaro\" src=\"data/processed/flix_media/37412/Electrolux-277144354-PSAAFZ18BIE00003.webp\"/></figure><div class=\"flixf-body\"><h3>Švelniai užsidarančios durys – kaskart sklandžiai ir tyliai užsidaro</h3><p>Kruopščiai pagaminti švelniai užsidarančių durų lankstai apsaugo nuo netyčinio durų atidarymo, dėl ko gali būti eikvojama energija ir gadinami maisto produktai, ir užtikrina glaudų, saugų bei tylų durų uždarymą.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7333394072883",
+                "price": {
+                  "@gross": "720.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "ENC8MD19S",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "ENC8MD19S"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Išsaugota tekstūra. Kiekviename kampelyje\" src=\"data/processed/flix_media/30384/Electrolux-275391465-PSEEVL210KA00002.webp\"/></figure><div class=\"flixf-body\"><h3>Išsaugota tekstūra. Kiekviename kampelyje</h3><p>Šaldytuvas-šaldiklis „800 Cooling 360°“ pasižymi pažangia oro cirkuliacija. Specialiai sukurta sistema per gerai išdėstytas oro angas paskirsto šaltą orą į kiekvieną aparato kampelį, kad maistas būtų išsaugotas tobulai.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Aušinimas kiekviename kampelyje. Puikus skonis kiekviename kąsnyje\" src=\"data/processed/flix_media/30384/Electrolux-275399734-PSEEVL20BIA00005.webp\"/></figure><div class=\"flixf-body\"><h3>Aušinimas kiekviename kampelyje. Puikus skonis kiekviename kąsnyje</h3><p>Dėka „Cooling 360°“ oro cirkuliacijos šaltas oras per efektyvias oro angas paskirstomas į kiekvieną prietaiso kampelį. Dėl naujoviškos tikro nerūdijančiojo plieno galinės sienelės temperatūra viduje greitai atkuriama po durų atidarymo. Su meile atrinktus vaisius ir daržoves išlaikysite labai skanius.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Visiška naujovė – unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*\" src=\"data/processed/flix_media/30384/Electrolux-275390787-PSEERF23BIA00003.webp\"/></figure><div class=\"flixf-body\"><h3>Visiška naujovė – unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*</h3><p>Didžiuodamiesi pristatome savo unikalų šaldytuvą-šaldiklį, kurio 70 % vidinės dangos pagaminta iš perdirbto plastiko. Nebenaudojamų šaldytuvų plastiką galima panaudoti naujų šaldytuvų gamyboje ir taip sumažinti aplinką išmetamų atliekų kiekį.  * Vidaus dangos plastikas rHIPS yra pagamintas panaudojant iki 70 % perdirbto plastiko, o tai sudaro 13 % viso šaldytuve esančio plastiko.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„GreenZone“ padeda išsaugoti vaisių ir daržovių maistinę vertę\" src=\"data/processed/flix_media/30384/Electrolux-275391701-PSEERE23BIA0000A.webp\"/></figure><div class=\"flixf-body\"><h3>„GreenZone“ padeda išsaugoti vaisių ir daržovių maistinę vertę</h3><p>„GreenZone+“ technologija su automatine drėgmės plėvele išlaiko vaisių ir daržovių šviežumą ilgesnį laiką. Aukšto našumo stalčiuje sukuriama puiki aplinka išsaugoti produktų maistinę vertę ir skonį, tuo pačiu užkertant kelią per didelei drėgmei ir maisto džiūvimui.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Daugiau lankstumo su kaitomuoju šaldikliu\" src=\"data/processed/flix_media/30384/Electrolux-275390860-PSEERE23BIA00002.webp\"/></figure><div class=\"flixf-body\"><h3>Daugiau lankstumo su kaitomuoju šaldikliu</h3><p>Mėgaukitės didesnėmis šaldytuvo-šaldiklio galimybėmis – naudokite šaldiklį kaip jums patinka. Dabar šaldiklyje galite nustatyti +4 °C temperatūrą ir naudoti jį kaip šaldytuvą arba tiesiog nustatyti įprastą nuo –15 °C iki –24 °C šaldiklio temperatūrą.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„TwinTech® No Frost“ apsaugo nuo išdžiūvimo\" src=\"data/processed/flix_media/30384/Electrolux-277917342-241220AJAU.webp\"/></figure><div class=\"flixf-body\"><h3>„TwinTech® No Frost“ apsaugo nuo išdžiūvimo</h3><p>„TwinTech® No Frost“ turi pažangiąją dvigubą šaldytuvo ir šaldiklio vėsinimo sistemą. Ši technologija apsaugo šaldiklį nuo apledėjimų, o šaldytuve užtikrina optimalią drėgmę bei apsaugo maisto produktus nuo džiūvimo.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543973613",
+                "price": {
+                  "@gross": "677.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "IRBd 5120",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "LIEBHERR"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "IRBd 5120"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"4016803113577\"></script>\n    </div>\n"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "4016803113577",
+                "price": {
+                  "@gross": "980.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "2"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "ENP7TD75S",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "ENP7TD75S"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Sveikos mitybos centras.\" src=\"data/processed/flix_media/30964/Electrolux-281472074-PSEERF230FE00007.webp\"/></figure><div class=\"flixf-body\"><h3>Sveikos mitybos centras.</h3><p>Šaldytuvas su šaldikliu „700 GreenZone+“ turi sandarų stalčių, kuriame kontroliuojamas perteklinis kondensato kiekis ir atitinkamai drėgmės lygis, kad maistas ilgiau išliktų šviežias. Palaikant reikiamą drėgmės lygį produktuose išlieka iki 95 % vitaminų.* Naudojant technologiją „GreenZone+“ išsaugoma iki 95 % vitaminų. * Rezultatai paremti išoriniais tyrimais, atliktais tikrinant „GreenZone+“ stalčiuje laikomų mėlynių vitamino C kiekį po 11 dienų</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„GreenZone“ padeda išsaugoti vaisių ir daržovių maistinę vertę\" src=\"data/processed/flix_media/30964/Electrolux-275391701-PSEERE23BIA0000A.webp\"/></figure><div class=\"flixf-body\"><h3>„GreenZone“ padeda išsaugoti vaisių ir daržovių maistinę vertę</h3><p>„GreenZone+“ technologija su automatine drėgmės plėvele išlaiko vaisių ir daržovių šviežumą ilgesnį laiką. Aukšto našumo stalčiuje sukuriama puiki aplinka išsaugoti produktų maistinę vertę ir skonį, tuo pačiu užkertant kelią per didelei drėgmei ir maisto džiūvimui.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Visiška naujovė – unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*\" src=\"data/processed/flix_media/30964/Electrolux-275390787-PSEERF23BIA00003.webp\"/></figure><div class=\"flixf-body\"><h3>Visiška naujovė – unikalus šaldytuvas-šaldiklis iš perdirbto plastiko*</h3><p>Didžiuodamiesi pristatome savo unikalų šaldytuvą-šaldiklį, kurio 70 % vidinės dangos pagaminta iš perdirbto plastiko. Nebenaudojamų šaldytuvų plastiką galima panaudoti naujų šaldytuvų gamyboje ir taip sumažinti aplinką išmetamų atliekų kiekį.  * Vidaus dangos plastikas rHIPS yra pagamintas panaudojant iki 70 % perdirbto plastiko, o tai sudaro 13 % viso šaldytuve esančio plastiko.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„TwinTech® No Frost“ apsaugo nuo išdžiūvimo\" src=\"data/processed/flix_media/30964/Electrolux-277917342-241220AJAU.webp\"/></figure><div class=\"flixf-body\"><h3>„TwinTech® No Frost“ apsaugo nuo išdžiūvimo</h3><p>„TwinTech® No Frost“ turi pažangiąją dvigubą šaldytuvo ir šaldiklio vėsinimo sistemą. Ši technologija apsaugo šaldiklį nuo apledėjimų, o šaldytuve užtikrina optimalią drėgmę bei apsaugo maisto produktus nuo džiūvimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Nepraraskite kontrolės. Naudokite „Electrolux“ programėlę.\" src=\"data/processed/flix_media/30964/Electrolux-275391109-PSEERE23BIA00003.webp\"/></figure><div class=\"flixf-body\"><h3>Nepraraskite kontrolės. Naudokite „Electrolux“ programėlę.</h3><p>Šaldytuvą valdykite savo išmaniajame prietaise. Gaukite pranešimus apie paliktas atviras duris ar patarimų, kaip užtikrinti oprtimalų veikimą. Sužinokite, kur ir kaip laikyti maisto produktus, kad galėtumėte ilgiau išsaugoti jų maistines savybes.</p></div></article></section>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7333394008219",
+                "price": {
+                  "@gross": "817.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "5",
+                  "@forecast_date": "2025-12-02"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "ENV9MC18S",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "ELECTROLUX"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "ENV9MC18S"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "<br><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"99\" style=\"width: 74pt;\"></table>"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "7332543994748",
+                "price": {
+                  "@gross": "930.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "3"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "ICBNci 5153",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "LIEBHERR"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "ICBNci 5153"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"4016803115113\"></script>\n    </div>\n"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "4016803115113",
+                "price": {
+                  "@gross": "1505.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "2"
+                }
+              }
+            }
+          },
+          {
+            "@code_on_card": "ICBNci 5663",
+            "category": {
+              "@name": "All/Saleable/Home appliances/Built in/Fridge"
+            },
+            "producer": {
+              "@name": "LIEBHERR"
+            },
+            "description": {
+              "name": {
+                "@xml:lang": "eng",
+                "#text": "ICBNci 5663"
+              },
+              "long_desc": {
+                "@xml:lang": "eng",
+                "#text": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"4016803137450\"></script>\n    </div>\n"
+              }
+            },
+            "sizes": {
+              "size": {
+                "@iaiext:code_external": "4016803137450",
+                "price": {
+                  "@gross": "1835.00"
+                },
+                "stock": {
+                  "@available_stock_quantity": "2"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

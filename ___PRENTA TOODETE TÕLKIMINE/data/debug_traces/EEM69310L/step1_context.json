@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543761500 7332543761500 Dishwasher ELECTROLUX EEM69310L",
+  "search_queries": {
+    "main_query": "Electrolux EEM69310L integreeritav nõudepesumasin 60 cm 15 komplekti",
+    "additional_queries": [
+      "kuidas pesta õrnu veiniklaase nõudepesumasinas Electrolux EEM69310L GlassCare ja SoftGrips abil",
+      "integreeritav nõudepesumasin 60 cm 44 dB AirDry 15 nõudekomplekti avatud kööki",
+      "Electrolux EEM69310L võrdlus teiste Electrolux 700 seeria integreeritavate nõudepesumasinatega",
+      "kuidas paigaldada ja hooldada Electrolux EEM69310L nõudepesumasinat (MaxiFlex sahtel, Machine Care programm)"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EEM69310L sobib minu olemasolevasse 60 cm integreeritavasse kööki?",
+      "answer": "See mudel on täislaiuses (u 60 cm) integreeritav nõudepesumasin, mis on mõeldud paigaldamiseks köögimööbli ukse taha. Korpuse mõõdud on ligikaudu 59,6 × 55 × 81,8–89,8 cm (laius × sügavus × reguleeritav kõrgus), seega sobib ta standardse 60 cm laiuse ja umbes 82–90 cm kõrguse integreeritava kapiosa sisse. Niche’i sügavus peaks olema u 57 cm. Enne ostu tasub üle mõõta olemasolev avaus, eriti kõrgus tööpinna all. Mööbliesipaneeli kohta ei ole sisendmaterjalis eraldi infot – tavaliselt müüakse integreeritavad masinad ilma uksepaneelita, seega vajadusel küsi müüjalt või mööblitootjalt üle, kas paneel tuleb eraldi tellida.\n"
+    },
+    {
+      "question": "Kui lihtne on Electrolux EEM69310L kasutada ja hooldada?",
+      "answer": "Kasutamine on tehtud võimalikult intuitiivseks: masinal on puutejuhtimine ja selge ekraan ning kokku 8 programmi, sh Auto/AUTO Sense, Eco, 60 ja 90 min pesutsüklid, kiirprogramm (Quick 30), õrn klaasiprogramm, loputus ning eraldi Machine Care hooldusprogramm. Tänu QuickSelect-liugurile ja Ecometeri visuaalsele juhendusele on säästvama programmi valimine lihtne. 3-tasandiline korvisüsteem koos MaxiFlex söögiriistasahtliga aitab ruumi paindlikult ära kasutada, eraldi GlassCare lahendused (SoftGrips ja SoftSpikes) hoiavad õrnu klaase kindlalt paigal. AirDry ja automaatne ukse avamine kuivatuse lõpus vähendavad niiskust ja parandavad kuivamist. Hoolduseks soovitatakse regulaarselt puhastada filtreid, lisada soola ja loputusvahendit vastavalt indikaatoritele ning käivitada aeg-ajalt Machine Care hooldusprogramm – nii püsib masin töökorras ja lõhnab värskelt.\n"
+    },
+    {
+      "question": "Kui töökindel ja ökonoomne on Electrolux EEM69310L ning milline on garantii ja hinna-väärtuse suhe?",
+      "answer": "Masinal on uus energiamärgis D, elektrikulu on umbes 86 kWh 100 tsükli kohta ja veekulu ligikaudu 11 liitrit ühe standardtsükli kohta, mis on 15 nõudekomplekti mahutava täismõõdus masina kohta mõistlik tase. Inverter-tüüpi mootor, roostevabast terasest sisekorpus ning lekkekaitse (AquaStop / kaitse üleujutuse eest) lisavad vastupidavust ja turvalisust. AirDry loomulik kuivatamine ja automaatne väljalülitus aitavad vähendada energiakulu. Konkreetsed garantiitingimused sõltuvad müüjast ja riigist – tavaliselt kehtib tootjagarantii vähemalt seadusest tuleneva miinimumi ulatuses, kuid täpse garantii pikkuse ja lisateenuste (pikendatud garantii, paigaldus) kohta küsi palun infot e-poe klienditeenindusest. Arvestades funktsioone nagu GlassCare, MaxiFlex sahtel, vaikne 44 dB müratase ja AirDry kuivatamine, pakub see mudel väga head mugavuse ja hinna suhet peredele, kes otsivad kvaliteetset 60 cm integreeritavat nõudepesumasinat."
+    }
+  ]
+}

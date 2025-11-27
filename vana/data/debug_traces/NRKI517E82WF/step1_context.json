@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:3838782838446 3838782838446 NRKI517E82WF",
+  "search_queries": {
+    "main_query": "Gorenje NRKI517E82WF integreeritav NoFrost külmik-sügavkülmik",
+    "additional_queries": [
+      "NRKI517E82WF sisseehitatav külmik AdaptTech ja Wi‑Fi",
+      "Integreeritav külmik 177.2 x 54 x 54.5 cm ukse-peal-uks hinged",
+      "Gorenje NoFrost külmik 176 l + 76 l, 35 dB, E klass",
+      "Põhjaga sügavkülmaga integreeritav külmik kiire jahutus ja kiirkülmutus"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas see mudel on integreeritav ja millised on peamised paigaldusandmed?",
+      "answer": "Jah. Tegu on sisseehitatava (built-in) külmik-sügavkülmikuga ukse-peal-uks (door-on-door) hingedega. Mõõdud: kõrgus 177.2 cm, laius 54.0 cm, sügavus 54.5 cm. Standardlaius 60 cm ja standardkõrgus 180 cm. Uksed on ümbertõstetavad. Enne paigaldust kontrollige oma köögimööbli niši mõõte."
+    },
+    {
+      "question": "Kuidas see hoiab toidu värskena ja kas vajab sulatamist?",
+      "answer": "AdaptTech õpib kasutusharjumusi ning jahutab ukse avamisi ette aimates sisetemperatuuri 1–2 °C võrra, vähendades kõikumisi. NoFrost jahutustehnoloogia hoiab külmiku ja sügavkülma härmatisvabana, seega käsitsi sulatamist ei ole vaja. Lisaks on 0 °C lähedane sahtel ja niiskuskontrolliga puu‑ ja köögiviljasahtel ning kiire jahutus ja kiirkülmutus."
+    },
+    {
+      "question": "Kui energiatõhus ja vaikne see on?",
+      "answer": "Energiaklass E, aastane energiakulu u 235 kWh. Müratase 35 dB (müra klass B). Inverterkompressor tagab stabiilse töö ja madalama mürataseme. Wi‑Fi on olemas."
+    }
+  ]
+}

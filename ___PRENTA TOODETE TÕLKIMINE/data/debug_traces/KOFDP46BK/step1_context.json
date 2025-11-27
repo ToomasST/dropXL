@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543987122 7332543987122 Oven ELECTROLUX KOFDP46BK",
+  "search_queries": {
+    "main_query": "integreeritav ahi Electrolux KOFDP46BK pöördõhuga ja pürolüütilise puhastusega",
+    "additional_queries": [
+      "kuidas hoida integreeritav ahi puhtana pürolüütilise puhastusega Electrolux KOFDP46BK abil",
+      "integreeritav ahi 65 l pöördõhuga küpsetamiseks mitmel tasandil",
+      "Electrolux KOFDP46BK võrdlus teiste A+ energiaklassi integreeritavate ahjudega",
+      "kuidas kasutada Electrolux KOFDP46BK kiirkuumutust ja automaatseid küpsetusprogramme"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux KOFDP46BK ahi sobib minu kööki ja olemasolevasse mööblikappi?",
+      "answer": "Electrolux KOFDP46BK on integreeritav elektriahi standardmõõdus 60 × 60 cm (laius u 59,4 cm, kõrgus 59 cm, sügavus 56 cm), seega sobib see tüüpilisse 60 cm laiusesse ahjukappi. Ahju maht on 65 l, mis on mugav nii igapäevaseks kasutamiseks kui ka suuremate koguste küpsetamiseks. Toode kirjeldus ei täpsusta elektriühenduse täpseid nõudeid, seega tuleks paigalduse ja ühenduse osas lähtuda paigaldusjuhendist ning vajadusel kasutada kvalifitseeritud elektriku abi."
+    },
+    {
+      "question": "Kui lihtne on Electrolux KOFDP46BK ahju kasutada ja puhastada?",
+      "answer": "Ahju juhtimine on tehtud lihtsaks LED EXPlore ekraani ja viie puutenupu abil, lisaks on pöördnupud, mis saab sisse- ja väljapainutada (PIPO). Saad mugavalt seada aega ja temperatuuri, kasutada 7 standardset küttefunktsiooni ning 25 automaatset küpsetusprogrammi. Pöördõhu (convection/SurroundCook/Even Cooking) tehnoloogia tagab ühtlase küpsemise ka mitmel tasandil. Puhastamine on lihtne tänu pürolüütilisele (Pyroluxe) puhastusele: ahi kuumutab mustuse väga kõrgel temperatuuril tuhkjas massiks, mille saab pärast jahtumist lihtsalt niiske lapiga välja pühkida. Sisendinfo ei täpsusta lisahoolduse erisoovitusi, kuid üldjuhul piisab regulaarse pürolüüsi kasutamisest ja klaaspindade õrnast puhastamisest."
+    },
+    {
+      "question": "Kui töökindel ja energiasäästlik on Electrolux KOFDP46BK ning milline on garantii?",
+      "answer": "Electrolux KOFDP46BK on A+ energiaklassiga integreeritav elektriahi, mis aitab vähendada energiakulu võrreldes madalama klassi seadmetega. Pöördõhu tehnoloogia kiirendab kuumenemist ja küpsetamist, mis lühendab küpsetusaega ning aitab samuti säästa energiat. Ahjul on 4-kordse klaasiga uks ja lapselukk, mis suurendavad kasutusohutust. Toote kirjeldus ei täpsusta garantiiaega ega konkreetseid järelteeninduse tingimusi – need sõltuvad tavaliselt müüjast ja kohaliku turu reeglitest, seega soovitame garantiitingimused üle vaadata ostukohas. Hinna ja väärtuse suhtes pakub see mudel lisaks standardfunktsioonidele ka pürolüütilist puhastust, pöördõhuga küpsetamist mitmel tasandil, kiirkuumutust ja automaatprogramme, mis teevad igapäevase kasutuse mugavamaks ja ajasäästlikumaks."
+    }
+  ]
+}

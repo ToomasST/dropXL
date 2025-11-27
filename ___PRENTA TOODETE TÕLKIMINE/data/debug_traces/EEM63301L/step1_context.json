@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543781294 7332543781294 Dishwasher ELECTROLUX EEM63301L",
+  "search_queries": {
+    "main_query": "integreeritav 45 cm nõudepesumasin Electrolux EEM63301L AirDry",
+    "additional_queries": [
+      "kuidas valida väiksesse kööki vaikne 45 cm integreeritav nõudepesumasin nagu Electrolux EEM63301L",
+      "45 cm integreeritav nõudepesumasin 10 nõudekomplekti AirDry ja MaxiFlex sahtliga väikesele perele",
+      "Electrolux EEM63301L võrdlus teiste 45 cm täisintegreeritavate nõudepesumasinatega",
+      "kuidas paigaldada, seadistada ja hooldada Electrolux EEM63301L integreeritavat nõudepesumasinat"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EEM63301L sobib minu kööki ja kui suur on selle maht?",
+      "answer": "See mudel on 45 cm lai täisintegreeritav nõudepesumasin, mis on mõeldud kitsamatesse köökidesse. Seadme laius on u 44,6 cm, sügavus 55 cm ja kõrgus seadistatav vahemikus u 81,8–87,8 cm, seega sobib standardsele 45 cm integreeritavale köögikapile (kontrolli kindlasti oma köögimööbli ava mõõte). Mahutavus on 10 nõudekomplekti, mis sobib hästi 2–4‑liikmelisele leibkonnale. Eesmine mööpaneel ei kuulu komplekti ja tuleb tellida vastavalt sinu köögimööblile."
+    },
+    {
+      "question": "Kui lihtne on seda nõudepesumasinat kasutada ja hooldada?",
+      "answer": "Masinal on puutetundlik QuickSelect juhtimine – valid lihtsalt pesu kestuse ja soovi korral lisafunktsioonid (nt ExtraPower, ExtraHygiene, GlassCare), ülejäänu teeb masin ise. Saad kasutada automaatprogrammi, Eco‑režiimi ning 30/60/90/160‑minutilisi programme vastavalt mustusastmele ja ajavarule. AirDry funktsioon avab programmi lõpus ukse automaatselt, et nõud loomulikult ja tõhusalt kuivaksid, TimeBeam projektsioon näitab ülejäänud aega põrandal ja sisevalgustus teeb täitmise/tühjendamise mugavaks. Hooldus piirdub peamiselt filtri ja pihustite regulaarse puhastamisega ning soola ja loputusvahendi lisamisega; masina sees on ka spetsiaalne hooldusprogramm, mida on soovitatav aeg‑ajalt käivitada."
+    },
+    {
+      "question": "Kui töökindel on Electrolux EEM63301L ja kas see on oma hinda väärt?",
+      "answer": "Mudelis kasutatakse inverter‑mootorit ja roostevabast terasest sisekesta, mis on tavaliselt vaiksemad ja vastupidavamad lahendused. Veekulu Eco programmis on u 9,9 l ja energiaklass D 67 kWh / 100 tsükli kohta – ehkki mitte kõige kõrgem klass, on arvestades 45 cm laiust, 44 dB mürataset ja lisafunktsioone (AirDry automaatne ukse avanemine, MaxiFlex söögiriistade ja väiksemate nõude sahtel, SatelliteClean/FlexiSpray tõhusam pritsesüsteem, ExtraHygiene kõrge temperatuuri loputus) hinna ja mugavuse suhe tugev, eriti väiksemate köökide ja kvaliteetset klaasi kasutajate jaoks. Garantii täpsed tingimused (aastate arv ja laiendatud garantiid) sõltuvad müüjast ja riigist, seega tasub need enne ostu üle kontrollida."
+    }
+  ]
+}

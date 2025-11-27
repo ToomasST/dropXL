@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:3838782890079 3838782890079 GV563E11",
+  "search_queries": {
+    "main_query": "Gorenje GV563E11 integreeritav nõudepesumasin 45 cm (10 komplekti, 47 dB, energiaklass E)",
+    "additional_queries": [
+      "GV563E11 mõõdud ja paigaldusava – 44,8 × 55 × 81,5 cm, niši miinimum 45 × 58 × 82 cm",
+      "Gorenje GV563E11 veekulu 9 l/tsükkel ja energiatarve 70 kWh/100 tsüklit",
+      "kitsasse kööki sobiv 45 cm nõudepesumasin 10 nõudekomplekti ja 3 korvi",
+      "45 cm nõudepesumasin ExtraDry, ExtraHygiene ja 1 h kiirprogramm"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Mis probleemi GV563E11 lahendab ja mis on selle suurim kasutegur?",
+      "answer": "See 45 cm lai täisintegreeritav nõudepesumasin aitab lahendada ruumipuuduse väiksemates köökides, pakkudes ometi kuni 10 nõudekomplekti mahutavust ja 3 korvi paindlikku jaotust. Igapäevaelus säästab see aega tänu 1 h programmile ja 15-min kiirpesule, tagab parema hügieeni ExtraHygiene funktsiooniga ning kuivema tulemuse ExtraDry lisaga. Vee- ja energiakulu on tagasihoidlik: umbes 9 l tsüklis ja 70 kWh 100 tsükli kohta. Lisaks on müratase 47 dB, mis sobib avatud köök-elutoa jaoks. citeturn0search0turn0search4"
+    },
+    {
+      "question": "Kas see mahub minu kappi ja mis on paigaldusnõuded?",
+      "answer": "Jah, GV563E11 on 45 cm standardlaiusega integreeritav mudel. Seadme mõõdud on u 44,8 × 55 × 81,5 cm (L × S × K), reguleeritav kõrgus ~50 mm. Miinimum paigaldusava: laius 45 cm, kõrgus 82 cm, sügavus 58 cm. Planeeri ukse/esispoileri paksus ja soklilõige vastavalt köögimööblile. citeturn0search0turn0search4"
+    },
+    {
+      "question": "Kui vaikne ja säästlik see on ning millised programmid on olemas?",
+      "answer": "Müratase on 47 dB (klass C), veekulu u 9 l/tsükkel ning energiatarve 70 kWh/100 tsüklit (klass E). Olemas on 5 programmi: Intensiivne, Eko, Õrn klaasile, Igapäevane ja 1 h, lisaks kiirpesu ~15 min, ExtraDry paremaks kuivuseks ja ExtraHygiene kõrgema hügieeni jaoks. Masin toetab kuuma vee sisselaske kuni ~60 °C. citeturn0search0turn0search4"
+    }
+  ]
+}

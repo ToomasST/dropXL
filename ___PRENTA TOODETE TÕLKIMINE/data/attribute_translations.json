@@ -1,0 +1,1756 @@
+{
+  "Product line": {
+    "name_et": "Tooteseeria",
+    "values": {
+      "Electrolux Open": "Electrolux Open",
+      "Gorenje Exclusive": "Gorenje Exclusive",
+      "AEG Exclusive": "AEG Exclusive",
+      "SAMSUNG Semi Exclusive": "SAMSUNG Semi Exclusive",
+      "Electrolux Exclusive": "Electrolux Exclusive",
+      "AEG Semi Exclusive": "AEG Semi Exclusive",
+      "Liebherr Open": "Liebherr Open",
+      "AEG Open": "AEG Open",
+      "Gorenje Semi Exclusive": "Gorenje Semi Exclusive",
+      "ELECTROLUX Semi Exclusive": "ELECTROLUX Semi Exclusive",
+      "BOSCH Semi Exclusive": "BOSCH Semi Exclusive",
+      "Bosch Open": "Bosch Open",
+      "Elica Exclusive": "Elica Exclusive",
+      "Elica Open": "Elica Open",
+      "FABER Exclusive": "FABER Exclusive",
+      "ESISTYLE Exclusive": "ESISTYLE Exclusive",
+      "FABER Semi Exclusive": "FABER Semi Exclusive",
+      "WHIRLPOOL Semi Exclusive": "WHIRLPOOL Semi Exclusive",
+      "Elica Promo": "Elica Promo",
+      "Gorenje Open": "Gorenje Open"
+    }
+  },
+  "Producer": {
+    "name_et": "Tootja",
+    "values": {
+      "Electrolux": "Electrolux",
+      "Gorenje": "Gorenje",
+      "AEG": "AEG",
+      "Samsung": "Samsung",
+      "Liebherr": "Liebherr",
+      "Bosch": "Bosch",
+      "Elica": "Elica",
+      "Faber": "Faber",
+      "Esistyle": "Esistyle",
+      "Whirlpool": "Whirlpool"
+    }
+  },
+  "Type of installation": {
+    "name_et": "Paigaldusviis",
+    "values": {
+      "Built in": "Integreeritav",
+      "Built-in": "Integreeritav",
+      "Wall-mounted": "Seinale paigaldatav",
+      "Surface mounting": "Pinnapealne paigaldus",
+      "Surface or flush mounting": "Pealne või tasapaigaldus",
+      "Island": "Saare kohale"
+    }
+  },
+  "Type": {
+    "name_et": "Tüüp",
+    "values": {
+      "Fridge with bottom freezer": "Külmik alumise sügavkülmaga",
+      "Fridge with freezer inside": "Külmik sisseehitatud sügavkülmaga",
+      "Fridge without freezer": "Külmik ilma sügavkülmata",
+      "Freezer": "Sügavkülmik"
+    }
+  },
+  "Type of refrigeration technology": {
+    "name_et": "Jahutustehnoloogia tüüp",
+    "values": {
+      "No frost": "No Frost",
+      "Less frost": "Vähese härmatisega",
+      "Full no frost": "täielik No Frost",
+      "Static": "Staatiline"
+    }
+  },
+  "Color": {
+    "name_et": "Värvus",
+    "values": {
+      "White": "Valge",
+      "Grey": "Hall",
+      "Black": "Must",
+      "Silver": "Hõbedane",
+      "Stainless steel": "roostevaba teras",
+      "Stainless steel / Black": "roostevaba teras / must",
+      "Black Matt": "matt must",
+      "White/Silver": "valge/hõbe",
+      "Black/Silver": "must/hõbedane",
+      "Dark stainless steel / Black": "Tume roostevaba teras / must",
+      "Creamy": "kreemikas",
+      "White (Glass)": "Valge (klaas)"
+    }
+  },
+  "Freezer to fridge": {
+    "name_et": "Sügavkülma ümberlülitamine külmikuks",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Control": {
+    "name_et": "Juhtimine",
+    "values": {
+      "Internal touch control LCD": "Sisemine puuteekraani LCD",
+      "Internal electronic control": "Sisemine elektrooniline juhtimine",
+      "Electronical": "Elektrooniline",
+      "Touch control": "Puutetundlik juhtimine",
+      "External electronic control": "väline elektrooniline juhtimine",
+      "Touch control with LCD": "Puutetundlik juhtimine LCD-ekraaniga",
+      "Mechanical": "Mehaaniline",
+      "Electronical with LCD": "Elektrooniline juhtimine LCD-ekraaniga",
+      "Electronic without LCD": "Elektrooniline, ilma LCD-ekraanita",
+      "Touch control without LCD": "Puutetundlik juhtimine, ilma LCD-ekraanita",
+      "Electronic with LCD": "Elektrooniline LCD-ekraaniga",
+      "Touch control with text display": "Puutetundlik juhtimine tekstitablooga",
+      "Mechanical slider": "Mehaaniline liugur",
+      "Knobs": "Nupud",
+      "Rotary": "Pöördnupp",
+      "Touch control (Slider)": "Puutetundlik liugjuhtimine",
+      "Push in push out knobs (PIPO)": "sisse-välja vajutatavad nupud (PIPO)",
+      "Electronical + remote control": "Elektrooniline juhtimine + kaugjuhtimispult",
+      "Knobs on the side": "Nupud küljel",
+      "Touch control / knobs": "Puutetundlik juhtimine / nupud",
+      "Push in push out knobs (PIPO) / Touch control": "Sissevajutatavad pöördnupud (PIPO) / puutetundlik juhtimine",
+      "Non-pushable knobs / Touch control": "Pööratavad nupud / puutejuhtimine",
+      "Non-pushable knobs": "mitte-sissevajutatavad nupud"
+    }
+  },
+  "Annual energy consumption (kWh)": {
+    "name_et": "Aastane energiatarbimine (kWh)",
+    "values": {
+      "138": "138",
+      "235": "235",
+      "219": "219",
+      "231": "231",
+      "229": "229",
+      "173": "173",
+      "215": "215",
+      "213": "213",
+      "172": "172",
+      "216": "216",
+      "185": "185",
+      "183": "183",
+      "247": "247",
+      "143": "143",
+      "100": "100",
+      "208": "208",
+      "92": "92",
+      "148": "148",
+      "101": "101",
+      "221": "221",
+      "114": "114",
+      "125": "125",
+      "197": "197",
+      "154": "154",
+      "166": "166",
+      "162": "162",
+      "176": "176",
+      "236": "236",
+      "50": "50",
+      "62": "62",
+      "59": "59",
+      "57": "57",
+      "71": "71",
+      "56": "56",
+      "55": "55",
+      "75": "75",
+      "96": "96",
+      "49": "49",
+      "65": "65",
+      "61": "61",
+      "46": "46",
+      "69": "69",
+      "45": "45",
+      "52": "52",
+      "32": "32",
+      "29": "29",
+      "68": "68",
+      "73": "73",
+      "82": "82",
+      "70": "70",
+      "54": "54",
+      "77": "77",
+      "60": "60",
+      "76": "76",
+      "47": "47",
+      "104": "104",
+      "48": "48",
+      "87": "87",
+      "207": "207",
+      "140": "140",
+      "233": "233"
+    }
+  },
+  "Net capacity of refrigerator (l)": {
+    "name_et": "Külmiku netomaht (l)",
+    "values": {
+      "207": "207",
+      "176": "176",
+      "196": "196",
+      "231": "231",
+      "193": "193",
+      "224": "224",
+      "192": "192",
+      "213": "213",
+      "195": "195",
+      "190": "190",
+      "216": "216",
+      "287": "287",
+      "109": "109",
+      "296": "296",
+      "183": "183",
+      "175": "175",
+      "127": "127",
+      "94": "94",
+      "208": "208",
+      "198": "198",
+      "194": "194",
+      "310": "310",
+      "294": "294",
+      "165": "165",
+      "205": "205",
+      "174": "174",
+      "217": "217"
+    }
+  },
+  "Cold drawer": {
+    "name_et": "Külmsahtel",
+    "values": {
+      "No": "Ei",
+      "Close to 0 ° C zone": "0 °C lähedane tsoon",
+      "Real 0°C zone": "Tõeline 0 °C tsoon"
+    }
+  },
+  "Net capacity of freezer (l)": {
+    "name_et": "Sügavkülma netomaht (l)",
+    "values": {
+      "62": "62",
+      "76": "76",
+      "73": "73",
+      "74": "74",
+      "61": "61",
+      "60": "60",
+      "89": "89",
+      "14": "14",
+      "71": "71",
+      "16": "16",
+      "70": "70",
+      "95": "95",
+      "204": "204",
+      "212": "212",
+      "57": "57"
+    }
+  },
+  "Type of hinges": {
+    "name_et": "Uksehingede tüüp",
+    "values": {
+      "Sliding": "Liughinged",
+      "Door on door": "Uks-uksele"
+    }
+  },
+  "Soft door closing": {
+    "name_et": "Ukse pehme sulgumine",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Metallized rear wall": {
+    "name_et": "Metalliseeritud tagasein",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Door handle": {
+    "name_et": "Ukse käepide",
+    "values": {
+      "No": "Ei"
+    }
+  },
+  "Humidity controlled drawer for fruits/vegetables": {
+    "name_et": "Niiskuskontrolliga sahtel puu- ja köögiviljadele",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Ice maker": {
+    "name_et": "Jäätegija",
+    "values": {
+      "No": "Ei",
+      "Water tank": "Veepaak",
+      "Water connection": "Veeühendus"
+    }
+  },
+  "Type of compressor": {
+    "name_et": "Kompressori tüüp",
+    "values": {
+      "Inverter": "Inverter",
+      "On-Off": "On/Off"
+    }
+  },
+  "Fan": {
+    "name_et": "Ventilaator",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Air cleaning filter": {
+    "name_et": "Õhupuhastusfilter",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Bottle shelf": {
+    "name_et": "Pudeliriiul",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Divisible glass shelf": {
+    "name_et": "Jagatav klaasriiul",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Door lock": {
+    "name_et": "Ukse lukk",
+    "values": {
+      "No": "Ei"
+    }
+  },
+  "Open door signal": {
+    "name_et": "Lahtise ukse signaal",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Rising temperature indicator": {
+    "name_et": "Temperatuuri tõusu indikaator",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Eco mode": {
+    "name_et": "Ökorežiim",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Lightning": {
+    "name_et": "Valgustus",
+    "values": {
+      "LED": "LED",
+      "No": "Ei"
+    }
+  },
+  "Holiday function": {
+    "name_et": "Puhkuserežiim",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Individually adjustable door shelves": {
+    "name_et": "Individuaalselt reguleeritavad ukseriiulid",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Rapid cooling in refrigerator": {
+    "name_et": "Kiire jahutus külmikus",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Reversible doors": {
+    "name_et": "Ümberpööratavad uksed",
+    "values": {
+      "Yes": "Jah"
+    }
+  },
+  "Freezing capacity in 24 hours (kg/24 hours)": {
+    "name_et": "Külmutusvõimsus 24 tunni jooksul (kg/24 h)",
+    "values": {
+      "5.0": "5.0",
+      "6.0": "6.0",
+      "3.3": "3.3",
+      "7.0": "7.0",
+      "9.0": "9.0",
+      "4.5": "4.5",
+      "10.0": "10.0",
+      "10.5": "10.5",
+      "2.5": "2.5",
+      "7.5": "7.5",
+      "3.0": "3.0",
+      "11.5": "11.5",
+      "15.7": "15.7",
+      "17.5": "17.5"
+    }
+  },
+  "Lighting": {
+    "name_et": "Valgustus",
+    "values": {
+      "LED": "LED",
+      "No": "Ei"
+    }
+  },
+  "Maximum freezer storage time in power failure (hours)": {
+    "name_et": "Maksimaalne säilitusaeg elektrikatkestuse korral (tundi)",
+    "values": {
+      "9": "9",
+      "10": "10",
+      "6": "6",
+      "11": "11",
+      "21": "21",
+      "4": "4",
+      "12": "12",
+      "18": "18",
+      "7": "7"
+    }
+  },
+  "Number of freezer boxes/shelfs": {
+    "name_et": "Sügavkülma sahtlite/riiulite arv",
+    "values": {
+      "3": "3",
+      "2": "2",
+      "1": "1",
+      "4": "4",
+      "6": "6",
+      "5": "5"
+    }
+  },
+  "Fully removable drawers and intermediate glass shelves in freezer": {
+    "name_et": "Täielikult eemaldatavad sahtlid ja klaasriiulid sügavkülmas",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Freezer freezing temperature": {
+    "name_et": "Sügavkülma temperatuurivahemik",
+    "values": {
+      "-15°C - -24°C": "-15°C - -24°C",
+      "-14°C - -24°C": "-14°C - -24°C",
+      "-15°C - -26°C": "-15°C - -26°C",
+      "-15°C - - 23°C": "-15°C - - 23°C",
+      "2°C -23°C": "2 °C kuni -23 °C",
+      "-18°C": "-18°C",
+      "Above -18°C": "Üle −18 °C"
+    }
+  },
+  "Fast freeze function in freezer": {
+    "name_et": "Kiirkülmutusfunktsioon sügavkülmas",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Noise level (dB)": {
+    "name_et": "Müratase (dB)",
+    "values": {
+      "35": "35",
+      "34": "34",
+      "37": "37",
+      "36": "36",
+      "32": "32",
+      "38": "38",
+      "33": "33",
+      "47": "47",
+      "46": "46",
+      "44": "44",
+      "42": "42",
+      "45": "45",
+      "49": "49",
+      "39": "39",
+      "43": "43"
+    }
+  },
+  "Noise level class": {
+    "name_et": "Mürataseme klass",
+    "values": {
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    }
+  },
+  "Standardized height (cm)": {
+    "name_et": "Standardkõrgus (cm)",
+    "values": {
+      "190": "190",
+      "180": "180",
+      "195": "195",
+      "90": "90",
+      "85": "85",
+      "125": "125",
+      "60": "60",
+      "Compact": "Kompaktne",
+      "150": "150"
+    }
+  },
+  "Standardized width (cm)": {
+    "name_et": "Standardlaius (cm)",
+    "values": {
+      "55": "55",
+      "60": "60",
+      "70": "70",
+      "45": "45",
+      "50": "50",
+      "30": "30",
+      "35": "35",
+      "80": "80",
+      "90": "90",
+      "40": "40",
+      "72": "72"
+    }
+  },
+  "Wi-Fi": {
+    "name_et": "Wi‑Fi",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Energy efficiency class": {
+    "name_et": "Energiatõhususe klass",
+    "values": {
+      "C": "C",
+      "E": "E",
+      "D": "D",
+      "B": "B",
+      "A": "A",
+      "A+": "A+",
+      "A++": "A++"
+    }
+  },
+  "New Energy efficiency class": {
+    "name_et": "Uus energiatõhususe klass",
+    "values": {
+      "C": "C",
+      "E": "E",
+      "D": "D",
+      "F": "F",
+      "A": "A",
+      "B": "B"
+    }
+  },
+  "Antibacterial technology": {
+    "name_et": "Antibakteriaalne tehnoloogia",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Telescopic rails of cold drawer": {
+    "name_et": "Külmsahtli teleskoopsiinid",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Lowest operational temperature (°C)": {
+    "name_et": "Madalaim töötemperatuur (°C)",
+    "values": {
+      "10.0": "10.0"
+    }
+  },
+  "Net capacity of cold drawer (l)": {
+    "name_et": "Külmsahtli netomaht (l)",
+    "values": {
+      "98": "98",
+      "71": "71"
+    }
+  },
+  "Moisture retention technology": {
+    "name_et": "Niiskuse säilitamise tehnoloogia",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Climate class": {
+    "name_et": "Kliimaklass",
+    "values": {
+      "SN-T": "SN-T",
+      "SN-ST": "SN-ST"
+    }
+  },
+  "Number of wire baskets in chest freezer": {
+    "name_et": "Traatkorvide arv sügavkülmkirstus",
+    "values": {
+      "0": "0"
+    }
+  },
+  "Control panel location": {
+    "name_et": "Juhtpaneeli asukoht",
+    "values": {
+      "Internal": "Sisemine"
+    }
+  },
+  "Energy consumption for 100 cycles (kWh)": {
+    "name_et": "Energiakulu 100 pesutsükli kohta (kWh)",
+    "values": {
+      "81": "81",
+      "70": "70",
+      "78": "78",
+      "94": "94",
+      "84": "84",
+      "67": "67",
+      "75": "75",
+      "85": "85",
+      "76": "76",
+      "72": "72",
+      "59": "59",
+      "54": "54",
+      "64": "64",
+      "95": "95",
+      "63": "63",
+      "86": "86",
+      "49": "49",
+      "61": "61"
+    }
+  },
+  "Water consumption for 1 cycle (l)": {
+    "name_et": "Veekulu ühe pesutsükli kohta (l)",
+    "values": {
+      "9.5": "9.5",
+      "8.9": "8.9",
+      "9.9": "9.9",
+      "10.5": "10.5",
+      "11": "11",
+      "10.9": "10.9",
+      "6.5": "6.5"
+    }
+  },
+  "Duration for 1 cycle (min.)": {
+    "name_et": "Ühe pesutsükli kestus (min)",
+    "values": {
+      "250": "250",
+      "235": "235",
+      "240": "240",
+      "160": "160",
+      "215": "215",
+      "275": "275",
+      "175": "175",
+      "295": "295",
+      "227": "227",
+      "4": "4",
+      "270": "270",
+      "230": "230"
+    }
+  },
+  "Number of programs": {
+    "name_et": "Programmide arv",
+    "values": {
+      "5": "5",
+      "6": "6",
+      "8": "8",
+      "7": "7",
+      "15": "15",
+      "9": "9"
+    }
+  },
+  "Number of temperatures": {
+    "name_et": "Temperatuuride arv",
+    "values": {
+      "3": "3",
+      "5": "5",
+      "4": "4",
+      "7": "7",
+      "6": "6"
+    }
+  },
+  "Glass programme": {
+    "name_et": "Klaasiprogramm",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Automatic programme": {
+    "name_et": "Automaatprogramm",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Time saving": {
+    "name_et": "Aja kokkuhoid",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Delay start programme": {
+    "name_et": "Viitkäivitusprogramm",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Auto shut off": {
+    "name_et": "Automaatne väljalülitus",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Hot water inlet": {
+    "name_et": "Kuumavee ühendus",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Type of motor": {
+    "name_et": "Mootori tüüp",
+    "values": {
+      "Inverter": "Invertermootor",
+      "Universal": "Universaalne mootor"
+    }
+  },
+  "Number of baskets": {
+    "name_et": "Korvide arv",
+    "values": {
+      "3": "3",
+      "2": "2",
+      "1": "1"
+    }
+  },
+  "Automatic door opening at the end of the cycle": {
+    "name_et": "Ukse automaatne avanemine tsükli lõpus",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Higher efficiency sprays": {
+    "name_et": "Tõhusamad pihustid",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Upper spray": {
+    "name_et": "Ülemine pihusti",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei",
+      "Spinning": "Pöörlev"
+    }
+  },
+  "Tub material": {
+    "name_et": "Vanni materjal",
+    "values": {
+      "Full stainless steel": "Täielikult roostevabast terasest",
+      "Stainless steel / plastic": "Roostevaba teras / plastik"
+    }
+  },
+  "Interior light": {
+    "name_et": "Sisemine valgustus",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Floor beam": {
+    "name_et": "Põrandale suunatud valguskiir",
+    "values": {
+      "No": "Ei",
+      "Light signal on the floor": "Valguskiir põrandal",
+      "Time projection on the floor": "Aja projektsioon põrandale"
+    }
+  },
+  "Sliding hinges": {
+    "name_et": "Libisevad hinged",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Protection of water spill": {
+    "name_et": "Kaitse veelekke eest",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Installation in height": {
+    "name_et": "Kõrgemale paigaldatav",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Lift for the lower basket": {
+    "name_et": "Alumise korvi tõstemehhanism",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Settings, Pcs": {
+    "name_et": "Nõudekomplektide arv",
+    "values": {
+      "11": "11",
+      "10": "10",
+      "9": "9",
+      "13": "13",
+      "14": "14",
+      "15": "15",
+      "16": "16",
+      "6": "6"
+    }
+  },
+  "Minimal height, cm": {
+    "name_et": "Minimaalne kõrgus (cm)",
+    "values": {
+      "81.5": "81.5",
+      "82.0": "82.0",
+      "81.8": "81.8",
+      "43.8": "43.8"
+    }
+  },
+  "Maximum height, cm": {
+    "name_et": "Maksimaalne kõrgus (cm)",
+    "values": {
+      "86.5": "86.5",
+      "88.0": "88.0",
+      "87.8": "87.8",
+      "89.8": "89.8",
+      "87.5": "87.5",
+      "43.8": "43.8"
+    }
+  },
+  "Automatic dosing technology": {
+    "name_et": "Automaatne doseerimistehnoloogia",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Delay function": {
+    "name_et": "Viitfunktsioon",
+    "values": {
+      "Pradžios": "Algus",
+      "Pradžios ir pabaigos": "Alguse ja lõpu",
+      "Nėra": "Puudub",
+      "Pabaigos": "Lõpuaja seadmine"
+    }
+  },
+  "Type of hood": {
+    "name_et": "Õhupuhasti tüüp",
+    "values": {
+      "Not retractable": "Mitte väljatõmmatav",
+      "Retractable": "teleskoopne",
+      "Chimney": "Korstnatüüpi",
+      "T-shape": "T-kujuline",
+      "Round": "Ümmargune",
+      "Square": "ruudukujuline",
+      "Suspended": "Rippuv",
+      "Vertical": "Vertikaalne"
+    }
+  },
+  "Hood version": {
+    "name_et": "Õhupuhasti versioon",
+    "values": {
+      "Duct out": "Väljatõmme",
+      "Recirculation / Duct out": "Ringlus / väljatõmme",
+      "Recirculation": "Retsirkulatsioon"
+    }
+  },
+  "Filter type": {
+    "name_et": "Filtri tüüp",
+    "values": {
+      "No": "Puudub",
+      "Charcoal": "Aktiivsöefilter",
+      "Ceramic": "keraamiline"
+    }
+  },
+  "Butterfly valve": {
+    "name_et": "Tagasilöögiklapp",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Perimeter aspiration": {
+    "name_et": "Perimeetriline õhu sissevõtt",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Finish": {
+    "name_et": "Viimistlus",
+    "values": {
+      "Plastic": "Plastik",
+      "Painted steel": "värvitud teras",
+      "Stainless steel": "Roostevaba teras",
+      "Stainless steel/Glass": "roostevaba teras/klaas",
+      "Glass": "Klaas"
+    }
+  },
+  "Option to connect a dimmer": {
+    "name_et": "Dimmeri ühendamise võimalus",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Tune White": {
+    "name_et": "Tune White",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Duct size, mm": {
+    "name_et": "Toru läbimõõt, mm",
+    "values": {
+      "120": "120",
+      "150": "150",
+      "125": "125"
+    }
+  },
+  "Wireless integration with hob": {
+    "name_et": "Juhtmevaba ühendus pliidiplaadiga",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Autonomous sensor technology": {
+    "name_et": "Autonoomne anduritehnoloogia",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Back aspiration": {
+    "name_et": "Tagant väljatõmme",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Minimal Airflow (m3/h, IEC 61591)": {
+    "name_et": "Minimaalne õhuvool (m³/h, IEC 61591)",
+    "values": {
+      "125": "125",
+      "160": "160",
+      "165": "165",
+      "290": "290",
+      "200": "200",
+      "272": "272",
+      "225": "225",
+      "285": "285",
+      "255": "255",
+      "300": "300",
+      "240": "240",
+      "230": "230",
+      "250": "250",
+      "325": "325",
+      "270": "270",
+      "283": "283",
+      "305": "305",
+      "180": "180",
+      "220": "220",
+      "135": "135",
+      "210": "210",
+      "185": "185",
+      "130": "130",
+      "280": "280",
+      "260": "260",
+      "195": "195",
+      "236": "236",
+      "275": "275",
+      "190": "190",
+      "145": "145",
+      "310": "310",
+      "215": "215"
+    }
+  },
+  "Maximum Airflow (m3/h, IEC 61591)": {
+    "name_et": "Maksimaalne õhuvool (m³/h, IEC 61591)",
+    "values": {
+      "224": "224",
+      "304": "304",
+      "336": "336",
+      "395": "395",
+      "368": "368",
+      "370": "370",
+      "380": "380",
+      "400": "400",
+      "580": "580",
+      "450": "450",
+      "425": "425",
+      "600": "600",
+      "480": "480",
+      "430": "430",
+      "620": "620",
+      "550": "550",
+      "535": "535",
+      "603": "603",
+      "630": "630",
+      "559": "559",
+      "510": "510",
+      "560": "560",
+      "415": "415",
+      "405": "405",
+      "520": "520",
+      "500": "500",
+      "570": "570",
+      "526": "526",
+      "590": "590",
+      "610": "610",
+      "540": "540",
+      "428": "428",
+      "495": "495",
+      "505": "505",
+      "225": "225",
+      "330": "330",
+      "581": "581",
+      "385": "385",
+      "475": "475",
+      "525": "525"
+    }
+  },
+  "Fluid dynamic efficiency class": {
+    "name_et": "Vedelikudünaamiline tõhususklass",
+    "values": {
+      "E": "E",
+      "D": "D",
+      "C": "C",
+      "A": "A",
+      "B": "B"
+    }
+  },
+  "Lighting efficiency class": {
+    "name_et": "Valgustuse tõhususklass",
+    "values": {
+      "D": "D",
+      "C": "C",
+      "A": "A",
+      "E": "E",
+      "B": "B"
+    }
+  },
+  "Grease filtering efficiency class": {
+    "name_et": "Rasvafiltreerimise tõhususklass",
+    "values": {
+      "E": "E",
+      "D": "D",
+      "C": "C",
+      "B": "B",
+      "A": "A"
+    }
+  },
+  "Minimal Noise level, dB": {
+    "name_et": "Minimaalne müratase, dB",
+    "values": {
+      "45": "45",
+      "46": "46",
+      "54": "54",
+      "49": "49",
+      "62": "62",
+      "52": "52",
+      "60": "60",
+      "50": "50",
+      "57": "57",
+      "53": "53",
+      "44": "44",
+      "55": "55",
+      "51": "51",
+      "43": "43",
+      "35": "35",
+      "34": "34",
+      "47": "47",
+      "48": "48",
+      "38": "38",
+      "56": "56",
+      "33": "33",
+      "42": "42"
+    }
+  },
+  "Maximum Noise level, dB": {
+    "name_et": "Maksimaalne müratase, dB",
+    "values": {
+      "54": "54",
+      "62": "62",
+      "66": "66",
+      "68": "68",
+      "67": "67",
+      "64": "64",
+      "70": "70",
+      "65": "65",
+      "60": "60",
+      "69": "69",
+      "61": "61",
+      "63": "63",
+      "59": "59",
+      "58": "58",
+      "57": "57",
+      "55": "55"
+    }
+  },
+  "Max Height (mm)": {
+    "name_et": "Maksimaalne kõrgus (mm)",
+    "values": {
+      "207.8": "207.8",
+      "140.0": "140.0",
+      "1061.0": "1061.0",
+      "885.0": "885.0",
+      "180.0": "180.0",
+      "251.0": "251.0",
+      "331.0": "331.0",
+      "237.0": "237.0",
+      "301.0": "301.0",
+      "1000.0": "1000.0",
+      "338.8": "338.8",
+      "322.0": "322.0",
+      "436.0": "436.0",
+      "1079.0": "1079.0",
+      "367.0": "367.0",
+      "303.0": "303.0",
+      "1150.0": "1150.0",
+      "1075.0": "1075.0",
+      "1300.0": "1300.0",
+      "288.0": "288.0",
+      "313.8": "313.8",
+      "338.0": "338.0",
+      "339.0": "339.0",
+      "337.5": "337.5",
+      "1060.0": "1060.0",
+      "340.0": "340.0",
+      "317.6": "317.6",
+      "324.7": "324.7",
+      "890.0": "890.0",
+      "341.0": "341.0",
+      "1215.0": "1215.0",
+      "177.0": "177.0",
+      "1145.0": "1145.0",
+      "1045.0": "1045.0",
+      "361.3": "361.3",
+      "886.0": "886.0",
+      "165.1": "165.1",
+      "39.5": "39.5",
+      "1270.0": "1270.0"
+    }
+  },
+  "Chimney": {
+    "name_et": "Korsten",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Min Height (mm)": {
+    "name_et": "Minimaalne kõrgus (mm)",
+    "values": {
+      "739.0": "739.0",
+      "620.0": "620.0",
+      "396.0": "396.0",
+      "356.0": "356.0",
+      "558.0": "558.0",
+      "303.0": "303.0",
+      "720.0": "720.0",
+      "755.0": "755.0",
+      "365.5": "365.5",
+      "313.8": "313.8",
+      "338.0": "338.0",
+      "339.0": "339.0",
+      "337.5": "337.5",
+      "790.0": "790.0",
+      "340.0": "340.0",
+      "317.6": "317.6",
+      "324.7": "324.7",
+      "890.0": "890.0",
+      "331.0": "331.0",
+      "770.0": "770.0",
+      "690.0": "690.0",
+      "367.5": "367.5",
+      "680.0": "680.0",
+      "180.0": "180.0"
+    }
+  },
+  "Booster Airflow (m3/h, IEC 61591)": {
+    "name_et": "Intensiivrežiimi õhuvool (m3/h, IEC 61591)",
+    "values": {
+      "600": "600",
+      "710": "710",
+      "581": "581",
+      "650": "650",
+      "640": "640",
+      "700": "700",
+      "770": "770",
+      "690": "690",
+      "580": "580",
+      "740": "740",
+      "684": "684",
+      "660": "660",
+      "620": "620",
+      "630": "630",
+      "610": "610",
+      "670": "670",
+      "550": "550",
+      "570": "570",
+      "595": "595"
+    }
+  },
+  "Booster Noise level, dB": {
+    "name_et": "Intensiivrežiimi müratase, dB",
+    "values": {
+      "66": "66",
+      "70": "70",
+      "65": "65",
+      "68": "68",
+      "67": "67",
+      "74": "74",
+      "61": "61",
+      "64": "64",
+      "73": "73",
+      "71": "71",
+      "72": "72",
+      "69": "69"
+    }
+  },
+  "Type of hob": {
+    "name_et": "Pliidiplaadi tüüp",
+    "values": {
+      "Gas": "Gaas",
+      "Induction": "Induktsioon",
+      "Electric": "Elektriline",
+      "Gas / Induction": "Gaas / induktsioon"
+    }
+  },
+  "Type of surface": {
+    "name_et": "Pinna tüüp",
+    "values": {
+      "Tempered glass": "Karastatud klaas",
+      "Vitroceramic": "Vitrokeramika",
+      "Steel": "teras"
+    }
+  },
+  "Ignition": {
+    "name_et": "Süüde",
+    "values": {
+      "Push knob": "Nupusüüde",
+      "No": "Ei"
+    }
+  },
+  "Number of heating elements in hob": {
+    "name_et": "Keedualade arv pliidiplaadil",
+    "values": {
+      "4": "4",
+      "2": "2",
+      "3": "3"
+    }
+  },
+  "Standardized depth (cm)": {
+    "name_et": "Standardne sügavus (cm)",
+    "values": {
+      "55": "55",
+      "50": "50"
+    }
+  },
+  "Extension zones": {
+    "name_et": "Laiendatavad keedualad",
+    "values": {
+      "No": "Ei",
+      "1xBridge": "1x Bridge-tsoon",
+      "2xBridge": "2xBridge",
+      "Yes": "Jah"
+    }
+  },
+  "Frame": {
+    "name_et": "Raam",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Timer": {
+    "name_et": "Taimer",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Pan support type": {
+    "name_et": "Panniresti tüüp",
+    "values": {
+      "Cast iron": "Malm",
+      "No": "Ei"
+    }
+  },
+  ",,WOK'' burner": {
+    "name_et": "WOK-põleti",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Flame failure device": {
+    "name_et": "Leekvalve",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Liquefied petroleum gas jets": {
+    "name_et": "Vedelgaasi düüsid",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Child lock": {
+    "name_et": "Lapselukk",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Residual heat indicator": {
+    "name_et": "Järelejäänud soojuse indikaator",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Wireless integration with hood": {
+    "name_et": "Juhtmevaba ühendus õhupuhastiga",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Power (W)": {
+    "name_et": "Võimsus (W)",
+    "values": {
+      "7650": "7650",
+      "7200": "7200",
+      "3700": "3700",
+      "8150": "8150",
+      "7350": "7350",
+      "7400": "7400",
+      "6500": "6500",
+      "3600": "3600",
+      "8500": "8500",
+      "7000": "7000",
+      "3900": "3900",
+      "8800": "8800",
+      "7800": "7800",
+      "2900": "2900",
+      "6400": "6400",
+      "3650": "3650",
+      "2800": "2800",
+      "6300": "6300",
+      "5700": "5700",
+      "8900": "8900",
+      "8000": "8000",
+      "7100": "7100",
+      "6900": "6900",
+      "8180": "8180",
+      "8600": "8600"
+    }
+  },
+  "Voltage (V)": {
+    "name_et": "Pinge (V)",
+    "values": {
+      "220-240": "220–240",
+      "220-240/400V2N": "220-240/400V2N",
+      "400V3N": "400V3N"
+    }
+  },
+  "Max. depth (cm)": {
+    "name_et": "Maksimaalne sügavus (cm)",
+    "values": {
+      "33.0": "33.0",
+      "34.0": "34.0",
+      "35.0": "35.0"
+    }
+  },
+  "Cooking sensor": {
+    "name_et": "Küpsetusandur",
+    "values": {
+      "No": "Ei",
+      "Boiling water": "Keeduveeandur",
+      "Temperature adjustment": "Temperatuuri reguleerimine"
+    }
+  },
+  "Meat probe": {
+    "name_et": "Lihatermomeeter",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Pause function": {
+    "name_et": "Pausifunktsioon",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Power booster function": {
+    "name_et": "PowerBoost funktsioon",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Automatic heating-up": {
+    "name_et": "Automaatne üleskuumutamine",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Power limitation": {
+    "name_et": "Võimsuse piiramine",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Standarditud sügavus (cm)": {
+    "name_et": null,
+    "values": {
+      "50": "50"
+    }
+  },
+  "Võimsus (W)": {
+    "name_et": null,
+    "values": {
+      "6900": "6900"
+    }
+  },
+  "Pinge (V)": {
+    "name_et": null,
+    "values": {
+      "220-240/400V2N": "220-240/400V2N"
+    }
+  },
+  "Standardlaius (cm)": {
+    "name_et": null,
+    "values": {
+      "90": "90"
+    }
+  },
+  "Sensor": {
+    "name_et": "Andur",
+    "values": {
+      "No": "Ei"
+    }
+  },
+  "Integrated weighing scales": {
+    "name_et": "Integreeritud kaalud",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Power management": {
+    "name_et": "Võimsuse juhtimine",
+    "values": {
+      "Yes": "Jah"
+    }
+  },
+  "Cavity capacity (l)": {
+    "name_et": "Mahutavus (l)",
+    "values": {
+      "25": "25",
+      "20": "20",
+      "23": "23",
+      "17": "17",
+      "26": "26",
+      "44": "44"
+    }
+  },
+  "Type of microwave oven": {
+    "name_et": "Mikrolaineahju tüüp",
+    "values": {
+      "With grill": "Grilliga",
+      "Without grill": "Ilma grillita"
+    }
+  },
+  "Cavity material": {
+    "name_et": "Sisemuse materjal",
+    "values": {
+      "Stainless steel": "Roostevaba teras",
+      "Enamel": "Email"
+    }
+  },
+  "Convection": {
+    "name_et": "Pöördõhk",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Gentle close of microwave doors": {
+    "name_et": "Mikrolaineahju ukse pehme sulgumine",
+    "values": {
+      "No": "Ei"
+    }
+  },
+  "Automatic cooking programs": {
+    "name_et": "Automaatküpsetusprogrammid",
+    "values": {
+      "Yes": "Jah",
+      "8": "8",
+      "17": "17",
+      "No": "Ei",
+      "32": "32",
+      "92": "92",
+      "25": "25",
+      "45": "45",
+      "9": "9",
+      "99": "99",
+      "22": "22",
+      "171": "171",
+      "167": "167",
+      "75": "75",
+      "34": "34",
+      "100": "100",
+      "33": "33",
+      "160": "160",
+      "172": "172",
+      "85": "85",
+      "225": "225",
+      "236": "236",
+      "139": "139"
+    }
+  },
+  "Cleaning function": {
+    "name_et": "Puhastusfunktsioon",
+    "values": {
+      "Aqua clean": "AquaClean",
+      "No": "Ei"
+    }
+  },
+  "Levels of microwave oven power": {
+    "name_et": "Mikrolaineahju võimsustasemed",
+    "values": {
+      "5": "5",
+      "8": "8",
+      "10": "10"
+    }
+  },
+  "Microwave inverter technology": {
+    "name_et": "Mikrolaineahju invertertehnoloogia",
+    "values": {
+      "Yes": "Jah",
+      "No": "Ei"
+    }
+  },
+  "Push in push out knobs": {
+    "name_et": "Sissevajutatavad pöördnupud",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Telescopic rails": {
+    "name_et": "Teleskoopsiinid",
+    "values": {
+      "No": "Ei",
+      "1 level": "1 tase",
+      "2 levels": "2 taset"
+    }
+  },
+  "Power of grill (W)": {
+    "name_et": "Grilli võimsus (W)",
+    "values": {
+      "1200": "1200",
+      "1000.0": "1000 W",
+      "2300": "2300"
+    }
+  },
+  "Power of microwave oven (W)": {
+    "name_et": "Mikrolaineahju võimsus (W)",
+    "values": {
+      "900.0": "900.0",
+      "700.0": "700.0",
+      "800.0": "800 W",
+      "1000.0": "1000.0"
+    }
+  },
+  "Installation height (cm)": {
+    "name_et": "Paigalduskõrgus (cm)",
+    "values": {
+      "38.0": "38.0",
+      "36.5": "36.5",
+      "36.0": "36.0",
+      "45.0": "45.0"
+    }
+  },
+  "Installation width (cm)": {
+    "name_et": "Paigalduslaius (cm)",
+    "values": {
+      "56.0": "56.0",
+      "56.2": "56.2"
+    }
+  },
+  "Installation depth (cm)": {
+    "name_et": "Paigaldussügavus (cm)",
+    "values": {
+      "55.0": "55.0",
+      "35.0": "35.0",
+      "30.0": "30 cm",
+      "50.0": "50.0"
+    }
+  },
+  "Steam function": {
+    "name_et": "Aurutamisfunktsioon",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Control panel material": {
+    "name_et": "Juhtpaneeli materjal",
+    "values": {
+      "Metal / Glass": "Metall / klaas",
+      "Glass": "Klaas",
+      "Metal": "Metall"
+    }
+  },
+  "Number of standard heating functions": {
+    "name_et": "Standardsete kuumutusfunktsioonide arv",
+    "values": {
+      "7": "7",
+      "8": "8",
+      "22": "22",
+      "9": "9",
+      "10": "10",
+      "16": "16",
+      "12": "12",
+      "18": "18",
+      "15": "15",
+      "17": "17",
+      "21": "21",
+      "14": "14",
+      "30": "30",
+      "20": "20",
+      "19": "19",
+      "23": "23",
+      "25": "25",
+      "28": "28"
+    }
+  },
+  "Additional information": {
+    "name_et": "Lisainfo",
+    "values": {
+      "Supex": "Supex",
+      "No": "Puudub",
+      "Full black glass door": "Täismust klaasuks",
+      "Wi-Fi": "Wi‑Fi",
+      "Supex + Wi-Fi + Matt color": "Supex + Wi‑Fi + matt värv"
+    }
+  },
+  "Power source": {
+    "name_et": "Toiteallikas",
+    "values": {
+      "Electric": "Elektriline"
+    }
+  },
+  "Type of oven": {
+    "name_et": "Ahju tüüp",
+    "values": {
+      "Independent": "Iseseisev",
+      "Electric": "Elektriline"
+    }
+  },
+  "Oven cleaning function": {
+    "name_et": "Ahju puhastusfunktsioon",
+    "values": {
+      "Aqua clean": "AquaClean",
+      "Aqua clean + catalytic liners": "Aqua Clean + katalüütilised seinad",
+      "Pyroluxe": "Pyroluxe pürolüütiline puhastus",
+      "Catalytic liners": "katalüütilised paneelid",
+      "Steam clean": "Aurupuhastus"
+    }
+  },
+  "Steam type": {
+    "name_et": "Aurutüüp",
+    "values": {
+      "No": "Puudub",
+      "Added steam (without steam generator)": "Lisaur (ilma aurugeneraatorita)",
+      "Partial steam (50%)": "Osaline aur (50%)",
+      "Full steam (100%)": "Täisaur (100%)",
+      "Full steam (100%) with ,,Sous Vide''": "Täisaur (100%) koos Sous Vide'ga"
+    }
+  },
+  "Microwave function": {
+    "name_et": "Mikrolainefunktsioon",
+    "values": {
+      "No": "Ei"
+    }
+  },
+  "Direction of door opening": {
+    "name_et": "Ukse avanemissuund",
+    "values": {
+      "Regular": "Tavaline"
+    }
+  },
+  "Number of oven door glasses": {
+    "name_et": "Ahju ukseklaaside arv",
+    "values": {
+      "2": "2",
+      "3": "3",
+      "4": "4"
+    }
+  },
+  "Fast preheat function": {
+    "name_et": "Kiire eelkuumutuse funktsioon",
+    "values": {
+      "No": "Ei",
+      "Yes": "Jah"
+    }
+  },
+  "Capacity (l)": {
+    "name_et": "Ahju maht (l)",
+    "values": {
+      "65": "65",
+      "77": "77",
+      "72": "72",
+      "71": "71",
+      "73": "73",
+      "70": "70"
+    }
+  },
+  "Camera": {
+    "name_et": "Kaamera",
+    "values": {
+      "No": "Ei"
+    }
+  },
+  "Water tank capacity (ml)": {
+    "name_et": "Veepaagi maht (ml)",
+    "values": {
+      "130.0": "130.0",
+      "900.0": "900.0",
+      "950.0": "950.0",
+      "850.0": "850.0"
+    }
+  }
+}

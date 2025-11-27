@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543776528 7332543776528 Fridge ELECTROLUX LNS6TE19S",
+  "search_queries": {
+    "main_query": "Electrolux LNS6TE19S integreeritav no frost külmik sügavkülmaga",
+    "additional_queries": [
+      "kuidas hoida toitu kauem värskena ja vältida kuivamist integreeritava külmikuga Electrolux LNS6TE19S TwinTech No Frost",
+      "integreeritav külmik Electrolux LNS6TE19S 190 cm no frost perele",
+      "mille poolest erineb Electrolux LNS6TE19S TwinTech No Frost teistest integreeritavatest külmik- sügavkülmadest",
+      "Electrolux LNS6TE19S paigaldus ja igapäevane kasutamine integreeritava külmikuna"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LNS6TE19S integreeritav külmik sobib minu kööki ja olemasolevasse mööblisse?",
+      "answer": "See on täisintegreeritav külmik sügavkülmaga, mis on mõeldud köögimööbli sisse paigaldamiseks. Tootel on liughinged (sliding hinges) ja vahetatava avamissuunaga uksed, mis annavad paigalduse osas paindlikkust. Standardiseeritud mõõdud on u 190 cm kõrgus ja 60 cm laius, korpuse tegelikud mõõdud on ligikaudu 188,4 × 54 × 54,9 cm (K×L×S). Enne ostu tuleks üle mõõta olemasolev nišš ja veenduda, et see sobib nii mõõtude kui hingede lahenduse poolest. Sisend ei täpsusta konkreetsete köögisüsteemide (nt eri mööblibrändide) ühilduvust."
+    },
+    {
+      "question": "Kui lihtne on Electrolux LNS6TE19S kasutamine ja hooldus? Kas pean sügavkülma käsitsi sulatama?",
+      "answer": "Külmik kasutab TwinTech® No Frost tehnoloogiat, mis tähendab, et sügavkülm ei jäätu ja seda ei ole vaja käsitsi sulatada. Kahe eraldi jahutussüsteemi tõttu püsib külmikus õige niiskustase ja toit ei kuiva nii kiiresti. DynamicAir tagab ühtlase temperatuuri, levitades jahedat õhku ventilaatoriga. Seadmel on sisemine puutetundlik LCD juhtpaneel ülaosas, kust saab täpselt reguleerida temperatuuri ja funktsioone (kiirjahutus, kiirkülmutus, pühaderežiim). Sügavkülma sahtlid ja klaasvahekihid on täielikult eemaldatavad, mis teeb puhastamise lihtsamaks. Täpseid puhastus- ja hooldusjuhiseid sisend ei kirjelda, need tuleb võtta seadme ametlikust kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel on Electrolux LNS6TE19S ja milline on garantii ning hinna-väärtuse suhe?",
+      "answer": "Külmikul on inverterkompressor ja tootja pakub kompressorile 10-aastast garantiid, mis sisendi järgi hõlmab töid, varuosi ja transporti kompressoririkke korral. Lisaks suurendavad töökindlust No Frost süsteem (vähem jääd ja stabiilsem töö), temperatuuri tõusu indikaator, ukse lahtijäämise signaal ja kuni 21-tunnine toidu säilivus elektrikatkestuse korral. Müra tase on 36 dB (klass C). Üldise kogu-toote garantii kestust sisend ei täpsusta. Hinna-väärtuse mõttes pakub see mudel lisaks tavalisele integreeritavale külmikule näiteks TwinTech® No Frost, DynamicAir’i, MultiSpace’i suurema mahuga ja inverterkompressori, seega võib olla hea valik, kui hindate toidu paremat säilivust ja mugavust, kuid lõplik hinnang sõltub teie eelarvest ja vajadustest."
+    }
+  ]
+}

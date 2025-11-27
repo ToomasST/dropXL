@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543983155 7332543983155 Fridge AEG TSC8M191CS",
+  "search_queries": {
+    "main_query": "AEG integreeritav külmik-sügavkülmik TSC8M191CS NoFrost C energiaklass",
+    "additional_queries": [
+      "kuidas vähendada toidu raiskamist külmikus AEG Cooling 360° integreeritava külmikuga",
+      "integreeritav külmik sügavkülmaga 190 cm 35 dB vaikne AEG kööki",
+      "AEG TSC8M191CS võrdlus teiste integreeritavate NoFrost külmik-sügavkülmikutega",
+      "kuidas paigaldada ja seadistada AEG TSC8M191CS liughingedega integreeritavat külmik-sügavkülmikut"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG TSC8M191CS integreeritav külmik-sügavkülmik sobib minu kööki ja ruumi?",
+      "answer": "See on integreeritav külmik sügavkülmaga allosas, mõeldud köögimööbli sisse ehitamiseks. Seadme mõõdud on u 189,4 × 56,2 × 55 cm (K×L×S) ja standardiseeritud kõrgus 190 cm ning laius 60 cm. Uksed on ümber tõstetavad ja kasutab liughingi süsteemi, seega sobivuse hindamiseks tuleks üle mõõta olemasolev mööblinišš ja veenduda, et mõõdud vastavad sinu köögi lahendusele."
+    },
+    {
+      "question": "Kui lihtne on külmikut kasutada ja kas sügavkülma peab sulatama?",
+      "answer": "Külmikul on puutetundlik LCD juhtpaneel, millega saab hõlpsalt temperatuuri ja režiime valida (Eco, Holiday, kiire jahutus, kiire külmutus). TwinTech® NoFrost tehnoloogia tähendab, et sügavkülma käsitsi sulatama ei pea. Puuviljade ja köögiviljade jaoks on eraldi GreenZone+ niiskuskontrolliga sahtel ning seadmel on õhupuhastusfilter. Täpsemad puhastus- ja hooldusjuhised leiab tootja kasutusjuhendist, mida sisendmaterjal ei täpsusta."
+    },
+    {
+      "question": "Kui töökindel on see mudel ja kas see on oma hinda väärt?",
+      "answer": "Sisend ei ava garantiitingimusi, need sõltuvad müüjast ja tootja ametlikest tingimustest. Töökindluse kasuks räägivad inverterkompressor (stabiilsem töö ja väiksem energiakulu), TwinTech® NoFrost (vähem hooldust ja parem niiskustase), Cooling 360° õhuringlus (ühtlasem temperatuur) ja C energiaklass aastase tarbimisega 138 kWh. Kui otsid vaikset (35 dB), energiatõhusat ja toitu paremini säilitavat integreeritavat külmik-sügavkülmikut, pakub see mudel tugevat funktsionaalsust oma hinnaklassis."
+    }
+  ]
+}

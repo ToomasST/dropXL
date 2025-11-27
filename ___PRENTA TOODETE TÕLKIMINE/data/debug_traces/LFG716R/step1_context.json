@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543793938 7332543793938 Hood ELECTROLUX LFG716R",
+  "search_queries": {
+    "main_query": "integreeritav õhupuhasti Electrolux LFG716R Hob2Hood 60 cm",
+    "additional_queries": [
+      "kuidas vähendada toidulõhnu ja auru köögis Electrolux LFG716R Hob2Hood automaatse õhupuhastiga",
+      "60 cm integreeritav õhupuhasti 700 m3/h võimsusega avatud kööki",
+      "Electrolux LFG716R vs teised integreeritavad köögikubud – mille poolest erineb",
+      "kuidas kasutada Hob2Hood funktsiooni ja puhastada rasvafiltrit Electrolux LFG716R õhupuhastil"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LFG716R sobib minu köögikappi ja ventilatsioonisüsteemiga?",
+      "answer": "Electrolux LFG716R on integreeritav (sisseehitatav) õhupuhasti, mis on mõeldud paigaldamiseks köögikappi. Mudel kuulub 60 cm laiuse standardklassi, seega sobib enamiku 60 cm laiade kubukappidega, kui kapi sisemõõdud vastavad tootja paigaldusjuhendile. Õhupuhasti on „duct out“ versioon ehk mõeldud ühendamiseks ventilatsioonitoruga, väljatõmbeks ruumist. Väljalaskeava läbimõõt on 150 mm ja seadmel on ka tagumine väljatõmme (back aspiration). Täpne sobivus teie olemasoleva ventilatsioonisüsteemiga sõltub torustiku läbimõõdust ja paigutusest – soovitame võrrelda neid andmeid paigaldusjoonisega või konsulteerida paigaldajaga. Sisendinfo ei täpsusta, kas seadet saab kasutada ka siseõhu ringluse režiimis."
+    },
+    {
+      "question": "Kuidas Electrolux LFG716R õhupuhastit kasutada ja hooldada?",
+      "answer": "Electrolux LFG716R töötab elektroonilise juhtimisega ja toetab Hob2Hood® funktsiooni, mis tähendab, et sobiva pliidiplaadiga saab kubu töötada automaatrežiimis – pliidiplaat saadab kubule juhtsignaale ning õhupuhasti reguleerib võimsust vastavalt kuumusele ja kasutatavate keedualade arvule. Seadmel on LED-valgustus, mis pakub ereda ja energiasäästliku tööpinna valgustuse.\n\nHooldus: mudelil on standardne rasvafilter, mida saab vastavalt tootja kirjeldusele pesta või vajadusel välja vahetada. Regulaarne rasvafiltri puhastus tagab parema tõmbetõhususe ja pikema eluea. Söefiltrid ei ole komplektis; kirjelduses on toodud sobivad lõhnastandardfiltrid (ECFB01ST, ECFBPL02) ja Silentium kit’i mudelid (M8CKSL28, M8CKSL07), mis tuleb vajadusel eraldi soetada. Täpne paigaldus- ja puhastusjuhend on toodud tootega kaasas olevas kasutusjuhendis."
+    },
+    {
+      "question": "Kui töökindel ja energiatõhus on Electrolux LFG716R ning milline on garantiitingimus?",
+      "answer": "Sisendinfo järgi on Electrolux LFG716R A energiaklassiga õhupuhasti, mille aastane energiatarve on umbes 55 kWh. Õhuvoog on 300–580 m³/h ning võimendusrežiimil kuni 700 m³/h, mis tagab kiire ja tõhusa auru ning lõhnade eemaldamise. Müra tase on 54 dB (min), 67 dB (max) ja kuni 70 dB võimendusrežiimil. LED-valgustus on pikaealine ja energiasäästlik, mis toetab seadme madalaid kasutuskulusid.\n\nGarantiitingimusi ja täpset garantiiperioodi sisendmaterjal ei kirjelda – need sõltuvad müüjast ja/tootja garantiipoliitikast. Hinna ja omaduste suhte poolest pakub mudel tugevat mootori võimsust, automaatset Hob2Hood® ühenduvust pliidiplaadiga, A energiaklassi ja integreeritavat lahendust, mis on heaks valikuks, kui soovite efektiivset ja kaasaegset õhupuhastit oma kööki."
+    }
+  ]
+}

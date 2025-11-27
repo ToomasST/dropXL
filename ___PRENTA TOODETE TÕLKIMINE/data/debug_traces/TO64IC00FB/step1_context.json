@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394066790 7333394066790 Hob AEG TO64IC00FB",
+  "search_queries": {
+    "main_query": "AEG TO64IC00FB induktsioonpliidiplaat Hob2Hood ja PowerBoost funktsiooniga",
+    "additional_queries": [
+      "kuidas teha kiiremini süüa AEG TO64IC00FB PowerBoost induktsioonpliidiplaadiga",
+      "60 cm 7200 W AEG TO64IC00FB induktsioonpliidiplaat avatud köögi jaoks",
+      "mille poolest erineb AEG TO64IC00FB teistest 60 cm induktsioonpliidiplaatidest Hob2Hood funktsiooniga",
+      "kuidas paigaldada ja kasutada AEG TO64IC00FB induktsioonpliidiplaati ning ühendada see Hob2Hood õhupuhastiga"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG TO64IC00FB induktsioonpliidiplaat sobib minu kööki ja olemasoleva tehnikaga?",
+      "answer": "AEG TO64IC00FB on integreeritav, pealtpaigaldatav induktsioonpliidiplaat, mis sobib standardsesse 60 cm laiusesse köögimööblisse (laius u 59 cm, sügavus 52 cm, kõrgus 4,4 cm; standardlaius 60 cm, standard­sügavus 50 cm). Enne ostu kontrollige lõikeava mõõte oma tööpinnas.\nPliidiplaadil on 4 keeduvälja ja koguvõimsus 7200 W. Tööpinge on 220–240/400V2N, seega tuleks koos elektrikuga veenduda, et teie elektrisüsteem vastab nendele tingimustele.\nMudelit saab juhtmevabalt siduda Hob2Hood funktsiooniga õhupuhastiga, mis reguleerib automaatselt ventilaatori kiirust vastavalt kuumusele. Wi-Fi ühendust pliidiplaadil ei ole, nii et nutirakendusega seda otse juhtida ei saa."
+    },
+    {
+      "question": "Kui lihtne on AEG TO64IC00FB kasutamine ja kuidas seda hooldada?",
+      "answer": "AEG TO64IC00FB kasutamine on tehtud võimalikult lihtsaks tänu eraldi puutetundlikele slider-juhtnuppudele, kus võimsustasemed on 1–9 – soovitud kuumuse saab valida ühe liigutusega. Pliidiplaadil on taimer (kuni 1 tund), mis saab küpsetusaja lõpus tsooni automaatselt välja lülitada, samuti pausifunktsioon ja lapselukk.\nPind on vitrokeramiik (sile klaaspind), mis on mõeldud puhastamiseks tavapäraste pliidiplaadipuhastusvahenditega; täpsemad puhastus- ja hooldusjuhised on toodud tootja kasutusjuhendis. Sisendinfo ei täpsusta, millised tarvikud on komplektis, seega kontrollige enne paigaldust müüja või juhendi järgi, kas on vaja lisajuhtmeid või tarvikuid."
+    },
+    {
+      "question": "Kui töökindel on AEG TO64IC00FB ja milline on hinna-väärtuse suhe?",
+      "answer": "Tootekirjeldus ei anna eraldi infot töökindluse statistikast ega garantiitingimustest, seega palume täpse garantiiaja ja -tingimused üle vaadata müüja lehelt või arvel. \nMudeli väärtus seisneb funktsioonides, mis toetavad mugavat ja turvalist igapäevast kasutust: Hob2Hood juhtmevaba ühendus õhupuhastiga, PowerBoost kiiremaks kuumutamiseks, automaatne eelkuumutamine, taimer automaatse väljalülitusega, jääkkuumuse näidik, võimsuspiiraja, pausifunktsioon ja lapselukk. Need funktsioonid aitavad saada täpseid tulemusi ja vähendada kasutaja vajadust pliidiplaati pidevalt käsitsi jälgida, mis muudab mudeli oma klassis funktsiooniderikkaks valikuks."
+    }
+  ]
+}

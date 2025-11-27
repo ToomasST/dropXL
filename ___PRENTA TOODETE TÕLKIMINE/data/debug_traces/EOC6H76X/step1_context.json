@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543974610 7332543974610 Oven ELECTROLUX EOC6H76X",
+  "search_queries": {
+    "main_query": "Electrolux EOC6H76X integreeritav aurufunktsiooniga ahi SteamCrisp",
+    "additional_queries": [
+      "kuidas küpsetada liha ja pirukaid nii, et need ei kuivaks – Electrolux EOC6H76X SteamCrisp auruga ahi",
+      "integreeritav 72 l elektriahi auruga suures pereköögis – Electrolux EOC6H76X",
+      "Electrolux EOC6H76X SteamCrisp erinevus tavalisest elektriahjust",
+      "kuidas kasutada Electrolux EOC6H76X AquaClean aurupuhastust ja lihatermomeetrit"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EOC6H76X ahi sobib minu kööki ja olemasolevasse kappi?",
+      "answer": "Electrolux EOC6H76X on integreeritav iseseisev elektriahi, mille standardkõrgus ja -laius on 60 cm ning sügavus umbes 56,9 cm. See tähendab, et ahi on mõeldud paigaldamiseks standardsesse 60 cm laiusesse köögikappi. Enne ostu tasub siiski üle mõõta olemasolev nišš (laius, kõrgus, sügavus) ja võrrelda neid ahju mõõtudega. Ahjul on 72-liitrine ahi, seega sobib see hästi suuremale perele või neile, kes küpsetavad tihti. Värvitoon roostevaba teras / must sobib enamikesse kaasaegsetesse köökidesse."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EOC6H76X ahju kasutada ja puhastada?",
+      "answer": "Seda ahju on lihtne kasutada, sest sellel on LED „EXPlore“ juhtpaneel tundlike puutenupuga ning kuni 45 automaatset küpsetusprogrammi ja 8 standardset kuumutamisrežiimi. Lihatermomeeter aitab saavutada täpse sisetemperatuuri, ilma et peaks pidevalt ahju ust avama. Puhastamist lihtsustab AquaClean-funktsioon: ahju põhja valatud vesi aurustub ning niisutab mustuse ja rasva, mistõttu neid on lihtsam lapiga eemaldada. Täpne kasutus- ja puhastusjuhend on toodud toote kasutusjuhendis, mida sisendinfo aga detailselt ei kirjelda."
+    },
+    {
+      "question": "Kui töökindel on Electrolux EOC6H76X ja milline on hinna ja funktsioonide suhe?",
+      "answer": "Sisendinfo põhjal on EOC6H76X A+ energiatõhususega elektriahi, millel on konvektsioon („Even Cooking“ ühtlase soojusjaotusega), kiire eelkuumutuse funktsioon, pehme sulgumisega uks, 3-kordne klaas, lapselukk ja lihatermomeeter. Need lahendused on suunatud mugavusele ja ohutusele ning viitavad läbimõeldud konstruktsioonile. Garantiitingimusi (nt pikkust) sisendmaterjal ei täpsusta, seega tuleb see üle vaadata müüja või maaletooja tingimustest. Hinna ja väärtuse mõttes pakub ahi kombineeritud auruga küpsetamist (SteamCrisp, osaline aur kuni 50%), suurt 72 l mahtu, automaatprogramme ja lihtsat AquaClean-puhastust, mis võib olla heaks valikuks kasutajale, kes soovib tavalisest elektriahjust rohkem funktsionaalsust."
+    }
+  ]
+}

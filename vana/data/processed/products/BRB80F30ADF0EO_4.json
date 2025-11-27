@@ -1,0 +1,631 @@
+{
+  "name": "BRB80F30ADF0EO",
+  "type": "simple",
+  "status": "publish",
+  "catalog_visibility": "visible",
+  "description": "<p></p>",
+  "description_flix": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Ypač šviežias maistas, dar daugiau vietos\" src=\"data/processed/flix_media/37424/Samsung-361299338-lt-feature-extra-fresh-food--extra-storage-space-547017854--FB_TYPE_A_JPG-.webp\"/></figure><div class=\"flixf-body\"><h3>Ypač šviežias maistas, dar daugiau vietos</h3></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Iki 10 % energijos taupymo</h3><p>Sumažinkite energijos suvartojimą iki 10 %* naudodami AI energijos režimą**. Jeigu numatoma sąskaita už elektrą viršija iš anksto nustatytą lygį, sistema pasiūlys taupymo režimą.***. Ji optimizuoja kompresoriaus greitį ir atitirpinimo ciklus pagal naudojimo įpročius ir aplinkos sąlygas.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"_feature_2\" src=\"data/processed/flix_media/37424/Samsung-361299404-lt-feature--547017890--ORIGIN_IMG-.webp\"/></figure></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Lankstus maisto laikymas vienu paspaudimu\" src=\"data/processed/flix_media/37424/Samsung-361299509-lt-feature-flexible-food-storage-with-one-touch-547017864.webp\"/></figure><div class=\"flixf-body\"><h3>Lankstus maisto laikymas vienu paspaudimu</h3><p>Mėgaukitės lanksčia maisto laikymo galimybe naudodami Cool Select Plus zoną. Vienu paspaudimu šaldytuve arba per SmartThings programėlę telefone* galima pasirinkti skirtingus režimus skirtingiems maisto produktams laikyti tinkamiausioje temperatūroje, kad jie ilgiau išliktų švieži. Paprasčiausiai pasirinkite: vėsinimą (2 °C), šaldymą (-1 °C), dalinį šaldymą (-5 °C) arba šaldymą (-15–23 °C), pagal savo poreikius.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>SmartThings</h3></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Kaip matuoti\" src=\"data/processed/flix_media/37424/Samsung-361304914-lt-feature-how-to-measure-547017884--ORIGIN_IMG-.webp\"/></figure><div class=\"flixf-body\"><h3>Kaip matuoti</h3></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Gallery image 1 of 17\" src=\"data/processed/flix_media/37424/Samsung-361306221-lt-brb80f-twc-550893-brb80f30adf0eo-547018033--Download-Source--zoom.webp\"/></figure><div class=\"flixf-body\"><h3>FOTOGRAFIJOS</h3></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"\" src=\"data/processed/flix_media/37424/Samsung-361299283-lt-feature-moist-freshness-with-independent-cooling-547017874.svg\"/></figure><div class=\"flixf-body\"><p>Twin Cooling™</p></div></article></section>",
+  "short_description": "",
+  "sku": "BRB80F30ADF0EO",
+  "regular_price": "750.20",
+  "sale_price": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": true,
+  "stock_quantity": 5,
+  "backorders": "no",
+  "backorders_allowed": false,
+  "backordered": false,
+  "supplier_sku_prefix": "RP-",
+  "weight": "80.00",
+  "dimensions": {
+    "length": "55",
+    "width": "54",
+    "height": "193.5"
+  },
+  "shipping_required": true,
+  "shipping_taxable": true,
+  "shipping_class": "prenta",
+  "reviews_allowed": true,
+  "categories": [
+    {
+      "name": "Kodutehnika > Integreeritav kodutehnika > Integreeritavad külmikud",
+      "slug": "kodutehnika-integreeritav-kodutehnika-integreeritavad-klmikud"
+    }
+  ],
+  "brands": [
+    {
+      "name": "SAMSUNG",
+      "slug": "samsung"
+    }
+  ],
+  "tags": [],
+  "images": [
+    {
+      "src": "data/processed/product_images/37424/image_1.webp",
+      "position": 0,
+      "alt": "BRB80F30ADF0EO",
+      "origin": "prenta",
+      "source_url": "https://e.prenta.lt/web/image/product.product/37424/image?unique=61fb606"
+    },
+    {
+      "src": "data/processed/product_images/37424/flix_gallery_1.webp",
+      "position": 1,
+      "alt": "Gallery image 1 of 17",
+      "origin": "flix_gallery",
+      "source_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361306221-lt-brb80f-twc-550893-brb80f30adf0eo-547018033--Download-Source--zoom.png"
+    },
+    {
+      "src": "data/processed/product_images/37424/flix_gallery_2.webp",
+      "position": 2,
+      "alt": "Gallery image 2 of 17",
+      "origin": "flix_gallery",
+      "source_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361306303-lt-brb80f-twc-550893-brb80f30adf0eo-547018000--Download-Source--zoom.png"
+    },
+    {
+      "src": "data/processed/product_images/37424/flix_gallery_3.webp",
+      "position": 3,
+      "alt": "Gallery image 3 of 17",
+      "origin": "flix_gallery",
+      "source_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361306367-lt-brb80f-twc-550893-brb80f30adf0eo-547018001--Download-Source--zoom.png"
+    },
+    {
+      "src": "data/processed/product_images/37424/flix_gallery_4.webp",
+      "position": 4,
+      "alt": "Gallery image 4 of 17",
+      "origin": "flix_gallery",
+      "source_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361306409-lt-brb80f-twc-550893-brb80f30adf0eo-547018002--Download-Source--zoom.png"
+    },
+    {
+      "src": "data/processed/product_images/37424/flix_gallery_5.webp",
+      "position": 5,
+      "alt": "Gallery image 5 of 17",
+      "origin": "flix_gallery",
+      "source_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361306455-lt-brb80f-twc-550893-brb80f30adf0eo-547018003--Download-Source--zoom.png"
+    },
+    {
+      "src": "data/processed/product_images/37424/flix_gallery_6.webp",
+      "position": 6,
+      "alt": "Gallery image 6 of 17",
+      "origin": "flix_gallery",
+      "source_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361306525-lt-brb80f-twc-550893-brb80f30adf0eo-547018004--Download-Source--zoom.png"
+    },
+    {
+      "src": "data/processed/product_images/37424/flix_gallery_7.webp",
+      "position": 7,
+      "alt": "Gallery image 7 of 17",
+      "origin": "flix_gallery",
+      "source_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361306613-lt-brb80f-twc-550893-brb80f30adf0eo-547018005--Download-Source--zoom.png"
+    },
+    {
+      "src": "data/processed/product_images/37424/flix_gallery_8.webp",
+      "position": 8,
+      "alt": "Gallery image 8 of 17",
+      "origin": "flix_gallery",
+      "source_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361306726-lt-brb80f-twc-550893-brb80f30adf0eo-547018006--Download-Source--zoom.png"
+    },
+    {
+      "src": "data/processed/product_images/37424/flix_gallery_9.webp",
+      "position": 9,
+      "alt": "Gallery image 9 of 17",
+      "origin": "flix_gallery",
+      "source_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361306845-lt-brb80f-twc-550893-brb80f30adf0eo-547018007--Download-Source--zoom.png"
+    },
+    {
+      "src": "data/processed/product_images/37424/flix_gallery_10.webp",
+      "position": 10,
+      "alt": "Gallery image 10 of 17",
+      "origin": "flix_gallery",
+      "source_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361306923-lt-brb80f-twc-550893-brb80f30adf0eo-547018008--Download-Source--zoom.png"
+    },
+    {
+      "src": "data/processed/product_images/37424/flix_gallery_11.webp",
+      "position": 11,
+      "alt": "Gallery image 11 of 17",
+      "origin": "flix_gallery",
+      "source_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361307052-lt-brb80f-twc-550893-brb80f30adf0eo-547018009--Download-Source--zoom.png"
+    },
+    {
+      "src": "data/processed/product_images/37424/flix_gallery_12.webp",
+      "position": 12,
+      "alt": "Gallery image 12 of 17",
+      "origin": "flix_gallery",
+      "source_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361307183-lt-brb80f-twc-550893-brb80f30adf0eo-547018010--Download-Source--zoom.png"
+    },
+    {
+      "src": "data/processed/product_images/37424/flix_gallery_13.webp",
+      "position": 13,
+      "alt": "Gallery image 13 of 17",
+      "origin": "flix_gallery",
+      "source_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361307335-lt-brb80f-twc-550893-brb80f30adf0eo-547018011--Download-Source--zoom.png"
+    },
+    {
+      "src": "data/processed/product_images/37424/flix_gallery_14.webp",
+      "position": 14,
+      "alt": "Gallery image 14 of 17",
+      "origin": "flix_gallery",
+      "source_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361307439-lt-brb80f-twc-550893-brb80f30adf0eo-547018012--Download-Source--zoom.png"
+    },
+    {
+      "src": "data/processed/product_images/37424/flix_gallery_15.webp",
+      "position": 15,
+      "alt": "Gallery image 15 of 17",
+      "origin": "flix_gallery",
+      "source_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361307541-lt-brb80f-twc-550893-brb80f30adf0eo-547018013--Download-Source--zoom.png"
+    },
+    {
+      "src": "data/processed/product_images/37424/flix_gallery_16.webp",
+      "position": 16,
+      "alt": "Gallery image 16 of 17",
+      "origin": "flix_gallery",
+      "source_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361307613-lt-brb80f-twc-550893-brb80f30adf0eo-547018014--Download-Source--zoom.png"
+    },
+    {
+      "src": "data/processed/product_images/37424/flix_gallery_17.webp",
+      "position": 17,
+      "alt": "Gallery image 17 of 17",
+      "origin": "flix_gallery",
+      "source_url": "https://media.flixcar.com/webp/synd-asset/Samsung-361307665-lt-brb80f-twc-550893-brb80f30adf0eo-547018015--Download-Source--zoom.png"
+    }
+  ],
+  "meta_data": [
+    {
+      "key": "_bp_gtin13",
+      "value": "8806097061502"
+    },
+    {
+      "key": "_bp_supplier",
+      "value": "Prenta"
+    },
+    {
+      "key": "_bp_brand",
+      "value": "SAMSUNG"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Producer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Samsung"
+      ]
+    },
+    {
+      "name": "Type of installation",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Built in"
+      ]
+    },
+    {
+      "name": "Type of hinges",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Door on door"
+      ]
+    },
+    {
+      "name": "Type",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Fridge with bottom freezer"
+      ]
+    },
+    {
+      "name": "Type of refrigeration technology",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No frost"
+      ]
+    },
+    {
+      "name": "Height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "193.5"
+      ]
+    },
+    {
+      "name": "Width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "54.0"
+      ]
+    },
+    {
+      "name": "Depth",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "55.0"
+      ]
+    },
+    {
+      "name": "Standardized width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "60.0"
+      ]
+    },
+    {
+      "name": "Standardized height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "195"
+      ]
+    },
+    {
+      "name": " Color",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "White"
+      ]
+    },
+    {
+      "name": "Noise level class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "B"
+      ]
+    },
+    {
+      "name": "Noise level",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "35"
+      ]
+    },
+    {
+      "name": "Cold drawer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Close to 0 ° C zone"
+      ]
+    },
+    {
+      "name": "Freezer to fridge",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Control",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "External electronic control"
+      ]
+    },
+    {
+      "name": "Annual energy consumption",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "183"
+      ]
+    },
+    {
+      "name": "Net capacity of refrigerator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "224"
+      ]
+    },
+    {
+      "name": "Net capacity of freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "74"
+      ]
+    },
+    {
+      "name": "Soft door closing",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Metallized rear wall",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Ice maker",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Fan",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Rapid cooling in refrigerator",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Reversible doors",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Lighting",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "LED"
+      ]
+    },
+    {
+      "name": "Wi-Fi",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Number of freezer boxes/shelfs",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "3"
+      ]
+    },
+    {
+      "name": "Freezer freezing temperature",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "2°C -23°C"
+      ]
+    },
+    {
+      "name": "Fast freeze function in freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Freezing capacity in 24 hours",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "6.0"
+      ]
+    },
+    {
+      "name": "Maximum freezer storage time in power failure",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "6"
+      ]
+    },
+    {
+      "name": "Lowest operational temperature",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "10.0"
+      ]
+    },
+    {
+      "name": "New Energy efficiency class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "D"
+      ]
+    }
+  ],
+  "source": {
+    "prenta_product_id": 37424,
+    "prenta_category_path": "All > Saleable > Home appliances > Built in > Fridge",
+    "prenta_category_id": 27,
+    "price": {
+      "gross_price": 577.69,
+      "price": 550.0,
+      "product_id": 37424
+    },
+    "detail": {
+      "attribute_line_ids": [
+        {
+          "attribute_id": 486,
+          "value_id": 7491
+        },
+        {
+          "attribute_id": 517,
+          "value_id": 5214
+        },
+        {
+          "attribute_id": 546,
+          "value_id": 5249
+        },
+        {
+          "attribute_id": 536,
+          "value_id": 5216
+        },
+        {
+          "attribute_id": 538,
+          "value_id": 5239
+        },
+        {
+          "attribute_id": 512,
+          "value_id": 9325
+        },
+        {
+          "attribute_id": 513,
+          "value_id": 5919
+        },
+        {
+          "attribute_id": 514,
+          "value_id": 5481
+        },
+        {
+          "attribute_id": 509,
+          "value_id": 4980
+        },
+        {
+          "attribute_id": 508,
+          "value_id": 5277
+        },
+        {
+          "attribute_id": 491,
+          "value_id": 4917
+        },
+        {
+          "attribute_id": 776,
+          "value_id": 8224
+        },
+        {
+          "attribute_id": 547,
+          "value_id": 5910
+        },
+        {
+          "attribute_id": 543,
+          "value_id": 5244
+        },
+        {
+          "attribute_id": 835,
+          "value_id": 9975
+        },
+        {
+          "attribute_id": 492,
+          "value_id": 5256
+        },
+        {
+          "attribute_id": 537,
+          "value_id": 5350
+        },
+        {
+          "attribute_id": 540,
+          "value_id": 7556
+        },
+        {
+          "attribute_id": 541,
+          "value_id": 5760
+        },
+        {
+          "attribute_id": 499,
+          "value_id": 4953
+        },
+        {
+          "attribute_id": 571,
+          "value_id": 5320
+        },
+        {
+          "attribute_id": 568,
+          "value_id": 8810
+        },
+        {
+          "attribute_id": 556,
+          "value_id": 5287
+        },
+        {
+          "attribute_id": 560,
+          "value_id": 5295
+        },
+        {
+          "attribute_id": 552,
+          "value_id": 5283
+        },
+        {
+          "attribute_id": 608,
+          "value_id": 6147
+        },
+        {
+          "attribute_id": 510,
+          "value_id": 4982
+        },
+        {
+          "attribute_id": 554,
+          "value_id": 5372
+        },
+        {
+          "attribute_id": 569,
+          "value_id": 10245
+        },
+        {
+          "attribute_id": 561,
+          "value_id": 5297
+        },
+        {
+          "attribute_id": 548,
+          "value_id": 5761
+        },
+        {
+          "attribute_id": 549,
+          "value_id": 9847
+        },
+        {
+          "attribute_id": 574,
+          "value_id": 5349
+        },
+        {
+          "attribute_id": 773,
+          "value_id": 8201
+        }
+      ],
+      "barcode": "8806097061502",
+      "category_id": 27,
+      "compound_name": "Fridge SAMSUNG BRB80F30ADF0EO",
+      "country_of_origin_id": 180,
+      "date_edited": "2025-11-07T12:20:36+00:00",
+      "delivery_lead_time": 0,
+      "description": "<p></p>",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"8806097061502\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 37424,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/37424/image?unique=61fb606"
+      ],
+      "internal_reference": "BRB80F30ADF0EO",
+      "manufacturer_id": 675,
+      "name": "BRB80F30ADF0EO",
+      "price_rrp": 699.0,
+      "product_line": "SAMSUNG Semi Exclusive",
+      "units_per_package": 1,
+      "volume": 0.74,
+      "weight": 78.0,
+      "weight_bruto": 80.0
+    }
+  }
+}

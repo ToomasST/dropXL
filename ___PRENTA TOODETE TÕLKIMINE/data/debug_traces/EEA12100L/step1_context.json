@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543738427 7332543738427 Dishwasher ELECTROLUX EEA12100L",
+  "search_queries": {
+    "main_query": "Electrolux EEA12100L 45 cm integreeritav nõudepesumasin AirDry",
+    "additional_queries": [
+      "kuidas saada nõud täiesti kuivaks nõudepesumasinas Electrolux EEA12100L AirDry ukse automaatse avamisega",
+      "45 cm integreeritav nõudepesumasin 9 nõudekomplektile väikese köögi jaoks",
+      "millega erineb Electrolux EEA12100L teistest 45 cm integreeritavatest nõudepesumasinatest",
+      "kuidas paigaldada ja kasutada Electrolux EEA12100L PerfectFit libisevate hingede ja AirDry funktsiooniga nõudepesumasinat"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EEA12100L sobib minu kööki ja olemasolevasse kappi?",
+      "answer": "See on 45 cm laiune integreeritav nõudepesumasin, mis sobib standardse kitsama nišiga köökidesse. Tootja andmetel on minimaalne kõrgus 81,8 cm ja maksimaalne 87,8 cm, seega tuleks mõõta oma kapiava, et need mõõdud klapiks. PerfectFit liughinged lihtsustavad paigaldust ja tavaliselt ei ole vaja põrandaliistu lõigata. Masin mahutab 9 nõudekomplekti, mistõttu sobib hästi väiksemale leibkonnale. Ühilduvuse kohta konkreetsete köögimööbli süsteemidega sisendinfo täpsemaid detaile ei anna."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EEA12100L kasutamine ja hooldus?",
+      "answer": "Masinat on igapäevaselt lihtne kasutada – juhtimine on elektrooniline, 5 pesuprogrammi hulgas on 30-minutiline kiirprogramm väiksema koguse nõude jaoks ning „Rinse and Hold” eelloputus, mis aitab vältida ebameeldivaid lõhnu, kui masinat täidetakse mitme päeva jooksul. AirDry funktsioon avab programmi lõpus ukse automaatselt umbes 10 cm, et nõud saaksid loomuliku õhuringlusega kuivada. Hoolduse ja puhastamise täpsed juhised sisendinfo järgi ei selgu, seega soovitame järgida tootja kasutusjuhendit, mis tuleb seadmega kaasa."
+    },
+    {
+      "question": "Kui töökindel on Electrolux EEA12100L ja milline on selle hinna-väärtuse suhe?",
+      "answer": "Sisendinfo järgi on nõudepesumasinal inverter-mootor, täis roostevabast terasest sisekorpus, lekkevastane kaitse ja automaatne väljalülitus, mis viitavad töökindlusele ja vastupidavusele. AirDry automaatne ukse avamine tagab oluliselt parema kuivamistulemuse ning topeltpihustitega pesusüsteem aitab veejugadel jõuda igasse nurka. Energiaklass on F, energiakulu 78 kWh 100 tsükli kohta ja veekulu 9,9 l tsükli kohta. Garantii tingimusi sisendinfo ei täpsusta – täpse info leiate müüja või tootja garantiitingimustest. Arvestades integreeritavust, AirDry kuivamist ja inverter-mootorit, pakub seade asjalikku funktsionaalsust kompaktse 45 cm masina klassis."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8806097060871 8806097060871 BRB80F26CES0EO",
+  "search_queries": {
+    "main_query": "Samsung BRB80F26CES0EO integreeritav külmik-sügavkülmik",
+    "additional_queries": [
+      "Samsung integreeritav No Frost külmik 177,5 cm liughinged Wi‑Fi",
+      "BRB80F26CES0EO mõõdud 177,5 × 54 × 55 cm",
+      "Samsung külmik Optimal Fresh+ 0 °C sahtel SmartThings",
+      "Samsung 35 dB E-klassi integreeritav külmik 231 + 74 l"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas see mudel sobib 60 cm laiusesse integreerimisnišši ja mis uksekinnitus tal on?",
+      "answer": "Jah. Tegemist on integreeritava alumise sügavkülmaga külmikuga, mille standardlaius on 60 cm ja standardkõrgus 180 cm. Seadme mõõdud (K×L×S) on 177,5 × 54 × 55 cm. Uksekinnitus: liughinged (sliding). Uksed on ümbertõstetavad. Paigaldusel tuleb jätta ventilatsioonivaru ja järgida tootja juhiseid."
+    },
+    {
+      "question": "Kas külmik on No Frost ja kas seda tuleb käsitsi sulatada?",
+      "answer": "Jah, külmikul on Full No Frost jahutustehnoloogia ja All-Around Cooling (ühtlane jahutus igas nurgas). Käsitsi sulatamine ei ole vajalik."
+    },
+    {
+      "question": "Kas külmik toetab Wi‑Fi/SmartThingsi ja kas on energiasäästurežiim?",
+      "answer": "Jah, külmikul on Wi‑Fi ja ühilduvus SmartThingsiga. AI energiarežiim võib vähendada energiatarvet kuni 10%: süsteem jälgib kasutusharjumusi ja optimeerib kompressori kiirust ning atitirpimistsükleid; kui prognoositav elektriarve ületab seatud taseme, pakutakse säästurežiimi. Kasutamiseks on vaja toimivat Wi‑Fi-ühendust ja SmartThingsi rakendust."
+    }
+  ]
+}

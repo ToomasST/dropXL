@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543811915 7332543811915 Fridge ELECTROLUX ENS6TE19S",
+  "search_queries": {
+    "main_query": "Electrolux ENS6TE19S integreeritav no frost külmik sügavkülmaga",
+    "additional_queries": [
+      "kuidas vältida toidu kuivamist ja käsitsi sulatamist integreeritavas külmikus Electrolux ENS6TE19S TwinTech No Frost abil",
+      "integreeritav külmik sügavkülmaga 188 cm Electrolux ENS6TE19S pere kööki",
+      "mille poolest erineb Electrolux ENS6TE19S tavalistest integreeritavatest külmikutest TwinTech ja MultiSpace lahenduste poolest",
+      "kuidas paigaldada ja igapäevaselt kasutada Electrolux ENS6TE19S integreeritavat no frost külmikut"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux ENS6TE19S sobib minu kööki ja olemasolevasse mööblikappi?",
+      "answer": "Electrolux ENS6TE19S on integreeritav külmik alumise sügavkülmaga. Toote mõõdud on ligikaudu kõrgus 188,4 cm, laius 54 cm ja sügavus 54,9 cm ning standardkõrgus on 190 cm ja standardlaius 60 cm. Ukse kinnituseks on kasutatud liughingesid (sliding). Sobivuse kontrollimiseks võrdle neid mõõte oma köögimööbli kapiava mõõtudega ja veendu, et kapp on mõeldud integreeritava külmiku paigaldamiseks."
+    },
+    {
+      "question": "Kas seda külmikut tuleb käsitsi sulatada ja kui keeruline on seda hooldada?",
+      "answer": "See mudel kasutab TwinTech® No Frost kahekordset jahutussüsteemi, mis hoiab sügavkülmikus ära apledised ja tähendab, et sügavkülmikut ei ole vaja käsitsi sulatada. Külmikus hoitakse tänu eraldi jahutusele optimaalset niiskust, et toit ei kuivaks. Täpse kasutamise ja puhastamise juhised ei ole sisendis detailselt kirjeldatud, seega on soovitatav järgida seadmega kaasa tulevas kasutusjuhendit."
+    },
+    {
+      "question": "Kui töökindel on Electrolux ENS6TE19S ja milline on garantii ning hinna-väärtuse suhe?",
+      "answer": "Külmikul on inverterkompressor, TwinTech® No Frost tehnoloogia ja DynamicAir jahutus, mis aitab hoida ühtlast temperatuuri ja kaitsta toitu soojenemise eest. Tootel on 10-aastane garantii kompressorile, mis hõlmab kompressori rikke korral tööd, varuosi ja transporti. Sisend ei täpsusta üldist garantiiaega ülejäänud seadmele. Hinna-väärtuse mõttes pakub see mudel integreeritava külmikuna suurt külmikuosa (213 l) ja sügavkülma (60 l), madalat mürataset (35 dB) ning automaatset No Frost sulatust, mis vähendab igapäevast hooldusvajadust ja aitab toitu kauem värskena hoida."
+    }
+  ]
+}

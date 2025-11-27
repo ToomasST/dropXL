@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543738700 7332543738700 FSE72517P",
+  "search_queries": {
+    "main_query": "AEG FSE72517P täisintegreeritav 45 cm nõudepesumasin",
+    "additional_queries": [
+      "AEG 45 cm nõudepesumasin SatelliteClean MaxiFlex",
+      "AEG FSE72517P 10 komplekti 46 dB energiatõhusus E",
+      "Täisintegreeritav nõudepesumasin AEG QuickSelect Ecometer",
+      "AEG nõudepesumasin automaatne ukseava ja põrandale kuvatav valgus"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas see on 45 cm täisintegreeritav mudel ja millised on paigaldusmõõdud?",
+      "answer": "Jah, AEG FSE72517P on 45 cm täisintegreeritav nõudepesumasin. Paigaldusmõõdud: kõrgus 81.8–87.8 cm, laius 44.6 cm, sügavus 55 cm. Mudelil on liughinged (sliding hinges) ja sisemine juhtpaneel."
+    },
+    {
+      "question": "Kui suur on mahutavus ja mis on peamised funktsioonid?",
+      "answer": "Mahutavus 10 nõudekomplekti, 3 korvi (sh MaxiFlex söögiriistasahtel). Tugev ja ühtlane pesu SatelliteClean pihustiga, õrnadele klaasidele SoftSpikes, 7 programmi ja 4 temperatuuri, inverter-mootor. Tsükli lõpus avaneb uks automaatselt, põrandale kuvatakse olekuvalgus. Müratase 46 dB (klass C), vee kulu ~9.9 l/tsükkel, energiakulu 75 kWh/100 tsüklit (klass E). Kuuma vee sisselaske võimalus olemas."
+    },
+    {
+      "question": "Kas mööbliesipaneel ja käepide on komplektis?",
+      "answer": "Ei, kui täisintegreeritav mudel, tarnitakse see ilma mööbliesipaneeli ja käepidemeta. Need tuleb sobitada olemasoleva köögimööbliga eraldi. Seadmel on liughinged, mis lihtsustavad paneeli sobitamist."
+    }
+  ]
+}

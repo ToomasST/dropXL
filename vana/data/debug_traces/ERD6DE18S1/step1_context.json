@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394020150 7333394020150 ERD6DE18S1",
+  "search_queries": {
+    "main_query": "Electrolux ERD6DE18S1 integreeritav külmik ilma sügavkülmikuta",
+    "additional_queries": [
+      "ERD6DE18S1 mõõdud 177,2 x 54 x 54,9 cm",
+      "Electrolux DynamicAir integreeritav külmkapp 310 l",
+      "liughingedega integreeritav külmik 60 cm nišile 32 dB",
+      "E energiaklass 114 kWh aastas inverter külmik Electrolux"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas see mudel on sügavkülmikuta ja kui suur on maht?",
+      "answer": "Jah. ERD6DE18S1 on integreeritav külmik ilma sügavkülmikuta. Külmiku netomaht on 310 liitrit."
+    },
+    {
+      "question": "Millised on mõõdud ja ukse kinnitus? Kas uksi saab ümber tõsta?",
+      "answer": "Välismõõdud (K × L × S): 177,2 × 54,0 × 54,9 cm. Tootja järgi standardiseeritud mõõdud: kõrgus 180 cm ja laius 60 cm. Ukse kinnitus on liughingedel (slider), uksed on ümberpööratavad."
+    },
+    {
+      "question": "Kui energiatõhus ja vaikne see on?",
+      "answer": "Energiaklass E, aastane energiatarve 114 kWh. Müratase 32 dB (müraklass B). Seadmel on inverterkompressor."
+    }
+  ]
+}

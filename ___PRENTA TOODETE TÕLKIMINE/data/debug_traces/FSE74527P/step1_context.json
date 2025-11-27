@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394041469 7333394041469 Dishwasher AEG FSE74527P",
+  "search_queries": {
+    "main_query": "AEG FSE74527P 45 cm integreeritav nõudepesumasin",
+    "additional_queries": [
+      "kuidas pesta õrnu klaase nõudepesumasinas nii et need ei puruneks AEG SoftGrip ja SoftSpikes lahendusega",
+      "45 cm integreeritav nõudepesumasin 10 nõudekomplekti jaoks AEG FSE74527P väikesele köögile",
+      "AEG FSE74527P võrreldes teiste 45 cm integreeritavate nõudepesumasinatega",
+      "kuidas paigaldada ja igapäevaselt kasutada AEG FSE74527P integreeritavat nõudepesumasinat"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG FSE74527P sobib minu kööki ja olemasolevasse kappi?",
+      "answer": "AEG FSE74527P on 45 cm laiune integreeritav nõudepesumasin, mis on mõeldud köögimööbli sisse paigaldamiseks. Standardlaius on 45 cm, minimaalne kõrgus 81,8 cm ja maksimaalne 89,8 cm. Seadmel on sisemine juhtpaneel, seega jääb see peidetud köögikapi ukse taha. Sobivuse hindamiseks mõõtke oma kapi ava (laius, kõrgus ja sügavus) ning võrrelge neid siin toodud mõõtudega; täpseid paigaldusjooniseid sisendinfo ei sisalda ja need tuleks võtta paigaldusjuhendist. Masina maht on 10 nõudekomplekti, mistõttu sobib see hästi väiksemasse või kitsama kapiga kööki."
+    },
+    {
+      "question": "Kui lihtne on AEG FSE74527P kasutada ja milliseid programme see pakub?",
+      "answer": "Masinat juhitakse tekstitulega puutetundliku paneeli abil, mis teeb kasutamise lihtsaks ja loogiliseks. QuickSelect liugur võimaldab valida tsükli kestuse ning Ecometer näitab roheliste tulpadena energiat ja vett säästvamat programmi. Nõudepesumasinal on 7 programmi ja 3 temperatuuri, sealhulgas automaatprogramm ja eraldi klaasiprogramm õrnade klaaside jaoks. SoftGrip ja SoftSpikes hoidikud hoiavad klaase kindlalt, MaxiFlex söögiriistade sahtel mahutab eri suuruse ja kujuga tarvikuid ning SatelliteClean ja topeltpritsvarred tagavad, et vesi jõuab igasse nurka. Sisendinfo ei kirjelda üksikasjalikku puhastamist ja hooldust (filtrid, katlakivi jms), seega tasub täpseid hooldusjuhiseid vaadata kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel ja säästlik on AEG FSE74527P ning milline on garantii?",
+      "answer": "Sisendinfo garantiitingimusi ega -kestust ei täpsusta, seega sõltub garantiiaeg konkreetse müüja ja tootja tingimustest. Töökindluse mõttes on masinal inverter-tüüp mootor, roostevabast terasest sisekorpus, veekaitse (kaitse veeavarii eest), automaatne väljalülitus ning uue märgistuse järgi energiaklass C. Energiakulu on 59 kWh 100 tsükli kohta ja vee kulu 9,9 l ühe tsükli kohta, müratase 45 dB (müraklass C). Automaatne ukse avanemine tsükli lõpus aitab parandada kuivatustulemust. Nende omaduste kombinatsioon annab hea hinna ja funktsionaalsuse suhte, eriti kui otsite kitsast, 45 cm laiust integreeritavat nõudepesumasinat õrnade klaaside ja erikujuliste nõude turvaliseks pesuks."
+    }
+  ]
+}

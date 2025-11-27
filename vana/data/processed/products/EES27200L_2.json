@@ -1,0 +1,572 @@
+{
+  "name": "EES27200L",
+  "type": "simple",
+  "status": "publish",
+  "catalog_visibility": "visible",
+  "description": "<p> <br></p>",
+  "description_flix": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Vanduo purškiamas iki 3 kartų racionaliau jo naudojant tiek pat\" src=\"data/processed/flix_media/33776/Electrolux-281467450-PSEEDW19BIE00004.webp\"/></figure><div class=\"flixf-body\"><h3>Vanduo purškiamas iki 3 kartų racionaliau jo naudojant tiek pat</h3><p>Indaplovė „600 SatelliteClean®“ turi naujovišką purkštuvą, kuris purškia 3 kartus racionaliau už standartinę sistemą. Užtikrinamas toks nuodugnus išplovimas, kad net glaudžiai sudėti reikmenys bus visiškai švarūs.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„SatelliteClean®“. Tobulas išplovimas. Nenaudojant papildomo vandens\" src=\"data/processed/flix_media/33776/Electrolux-281467450-PSEEDW19BIE00004_1.webp\"/></figure><div class=\"flixf-body\"><h3>„SatelliteClean®“. Tobulas išplovimas. Nenaudojant papildomo vandens</h3><p>Su „SatelliteClean®“ indai bus išplauti nepriekaištingai – iki 3 kartų geriau nei standartinėje indaplovėje. Dvigubas besisukantis purkštuvas, kuris nuolat keičia purškimo kampą, kruopščiai išplauna netgi didelius daiktus.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Triskart efektyvesnis džiovinimas su „AirDry“\" src=\"data/processed/flix_media/33776/Electrolux-275366473-PSEEDW18MPA00003.webp\"/></figure><div class=\"flixf-body\"><h3>Triskart efektyvesnis džiovinimas su „AirDry“</h3><p>Naujoji „AirDry“ technologija užbaigia džiovinimą natūraliu oro srautu, todėl džiovinimas triskart efektyvesnis nei uždarų durelių sistemose. Baigiantis ciklui durelės atidaromos 10 cm ir oras gali cirkuliuoti, kad indai išdžiūtų nepriekaištingai.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"„QuickLift“ krepšio aukštį galite keisti, net kai jis visiškai prikrautas\" src=\"data/processed/flix_media/33776/Electrolux-275371531-PSEEDW21BIE00007.webp\"/></figure><div class=\"flixf-body\"><h3>„QuickLift“ krepšio aukštį galite keisti, net kai jis visiškai prikrautas</h3><p>Naudojant krepšį „QuickLift“, indus patogu sudėti arba išimti. Net jeigu viršutinis krepšys visiškai prikrautas, sistema „QuickLift“ suteikia galimybę greitai pakelti ir nuleisti lentynėlę, kad galėtumėte sudėti įvairios formos ir dydžio indus bei virtuvės įrankius.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Paprasta įrengti su „PerfectFit“\" src=\"data/processed/flix_media/33776/Electrolux-275368141-PSEEDW19BIE00002.webp\"/></figure><div class=\"flixf-body\"><h3>Paprasta įrengti su „PerfectFit“</h3><p>Naudojant slankiojančius lankstus „PerfectFit“, įrengti naują indaplovę ypač paprasta. Lankstai prisitaiko prie visų nišoje įrengiamų prietaisų aukščių ir netgi nereikia pjauti grindjuostės. Galite būti tikri, kad prietaisas puikiai tilps Jūsų virtuvėje.</p></div></article></section>",
+  "short_description": "",
+  "sku": "EES27200L",
+  "regular_price": "480.62",
+  "sale_price": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": true,
+  "stock_quantity": 4,
+  "backorders": "no",
+  "backorders_allowed": false,
+  "backordered": false,
+  "supplier_sku_prefix": "RP-",
+  "weight": "34.00",
+  "dimensions": {
+    "length": "55",
+    "width": "59.6",
+    "height": "85"
+  },
+  "shipping_required": true,
+  "shipping_taxable": true,
+  "shipping_class": "prenta",
+  "reviews_allowed": true,
+  "categories": [
+    {
+      "name": "Kodutehnika > Integreeritav kodutehnika > Integreeritavad nõudepesumasinad",
+      "slug": "kodutehnika-integreeritav-kodutehnika-integreeritavad-nudepesumasinad"
+    }
+  ],
+  "brands": [
+    {
+      "name": "ELECTROLUX",
+      "slug": "electrolux"
+    }
+  ],
+  "tags": [],
+  "images": [
+    {
+      "src": "data/processed/product_images/33776/image_1.webp",
+      "position": 0,
+      "alt": "EES27200L",
+      "origin": "prenta",
+      "source_url": "https://e.prenta.lt/web/image/product.product/33776/image?unique=21733c6"
+    }
+  ],
+  "meta_data": [
+    {
+      "key": "_bp_gtin13",
+      "value": "7333394052038"
+    },
+    {
+      "key": "_bp_supplier",
+      "value": "Prenta"
+    },
+    {
+      "key": "_bp_brand",
+      "value": "ELECTROLUX"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Producer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Electrolux"
+      ]
+    },
+    {
+      "name": "Type of installation",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Built in"
+      ]
+    },
+    {
+      "name": "Standardized width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "60.0"
+      ]
+    },
+    {
+      "name": "Standardized height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "85"
+      ]
+    },
+    {
+      "name": "New Energy efficiency class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "E"
+      ]
+    },
+    {
+      "name": "Control",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Touch control with LCD"
+      ]
+    },
+    {
+      "name": "Control panel location",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Internal"
+      ]
+    },
+    {
+      "name": "Energy consumption for 100 cycles",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "94"
+      ]
+    },
+    {
+      "name": "Water consumption for 1 cycle",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "9.9"
+      ]
+    },
+    {
+      "name": "Noise level class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "C"
+      ]
+    },
+    {
+      "name": "Noise level",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "46"
+      ]
+    },
+    {
+      "name": "Duration for 1 cycle",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "227"
+      ]
+    },
+    {
+      "name": "Automatic dosing technology",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Number of programs",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "6"
+      ]
+    },
+    {
+      "name": "Number of temperatures",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "3"
+      ]
+    },
+    {
+      "name": "Glass programme",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Automatic programme",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Time saving",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Delay start programme",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Auto shut off",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Hot water inlet",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Type of motor",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Inverter"
+      ]
+    },
+    {
+      "name": "Number of baskets",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "3"
+      ]
+    },
+    {
+      "name": "Automatic door opening at the end of the cycle",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Higher efficiency sprays",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Upper spray",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Tub material",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Full stainless steel"
+      ]
+    },
+    {
+      "name": "Interior light",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Floor beam",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Protection of water spill",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Delay function",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Pradžios"
+      ]
+    },
+    {
+      "name": "Installation in height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Lift for the lower basket",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Settings, Pcs",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "13"
+      ]
+    },
+    {
+      "name": "Minimal height, cm",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "81.8"
+      ]
+    },
+    {
+      "name": "Maximum height, cm",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "87.8"
+      ]
+    },
+    {
+      "name": "Width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "59.6"
+      ]
+    },
+    {
+      "name": "Depth",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "55.0"
+      ]
+    },
+    {
+      "name": "Wi-Fi",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    }
+  ],
+  "source": {
+    "prenta_product_id": 33776,
+    "prenta_category_path": "All > Saleable > Home appliances > Built in > Dishwasher",
+    "prenta_category_id": 26,
+    "price": {
+      "gross_price": 387.6,
+      "price": 275.0,
+      "product_id": 33776
+    },
+    "detail": {
+      "attribute_line_ids": [
+        {
+          "attribute_id": 486,
+          "value_id": 5022
+        },
+        {
+          "attribute_id": 517,
+          "value_id": 5214
+        },
+        {
+          "attribute_id": 509,
+          "value_id": 4980
+        },
+        {
+          "attribute_id": 508,
+          "value_id": 5261
+        },
+        {
+          "attribute_id": 773,
+          "value_id": 8202
+        },
+        {
+          "attribute_id": 492,
+          "value_id": 5987
+        },
+        {
+          "attribute_id": 575,
+          "value_id": 5991
+        },
+        {
+          "attribute_id": 778,
+          "value_id": 8465
+        },
+        {
+          "attribute_id": 779,
+          "value_id": 8458
+        },
+        {
+          "attribute_id": 776,
+          "value_id": 8225
+        },
+        {
+          "attribute_id": 547,
+          "value_id": 6053
+        },
+        {
+          "attribute_id": 780,
+          "value_id": 8469
+        },
+        {
+          "attribute_id": 688,
+          "value_id": 6781
+        },
+        {
+          "attribute_id": 577,
+          "value_id": 6041
+        },
+        {
+          "attribute_id": 578,
+          "value_id": 6066
+        },
+        {
+          "attribute_id": 579,
+          "value_id": 5993
+        },
+        {
+          "attribute_id": 580,
+          "value_id": 5994
+        },
+        {
+          "attribute_id": 581,
+          "value_id": 5996
+        },
+        {
+          "attribute_id": 582,
+          "value_id": 5998
+        },
+        {
+          "attribute_id": 583,
+          "value_id": 6000
+        },
+        {
+          "attribute_id": 584,
+          "value_id": 6002
+        },
+        {
+          "attribute_id": 585,
+          "value_id": 6005
+        },
+        {
+          "attribute_id": 586,
+          "value_id": 6008
+        },
+        {
+          "attribute_id": 587,
+          "value_id": 6010
+        },
+        {
+          "attribute_id": 588,
+          "value_id": 6013
+        },
+        {
+          "attribute_id": 589,
+          "value_id": 6014
+        },
+        {
+          "attribute_id": 590,
+          "value_id": 6017
+        },
+        {
+          "attribute_id": 591,
+          "value_id": 6020
+        },
+        {
+          "attribute_id": 592,
+          "value_id": 6021
+        },
+        {
+          "attribute_id": 594,
+          "value_id": 6026
+        },
+        {
+          "attribute_id": 830,
+          "value_id": 9787
+        },
+        {
+          "attribute_id": 595,
+          "value_id": 6029
+        },
+        {
+          "attribute_id": 596,
+          "value_id": 6031
+        },
+        {
+          "attribute_id": 597,
+          "value_id": 6057
+        },
+        {
+          "attribute_id": 598,
+          "value_id": 6063
+        },
+        {
+          "attribute_id": 599,
+          "value_id": 6064
+        },
+        {
+          "attribute_id": 513,
+          "value_id": 6071
+        },
+        {
+          "attribute_id": 514,
+          "value_id": 5481
+        },
+        {
+          "attribute_id": 510,
+          "value_id": 4983
+        }
+      ],
+      "barcode": "7333394052038",
+      "category_id": 26,
+      "compound_name": "Dishwasher ELECTROLUX EES27200L",
+      "country_of_origin_id": 180,
+      "date_edited": "2025-10-24T12:44:45+00:00",
+      "delivery_lead_time": 0,
+      "description": "<p> <br></p>",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"7333394052038\"></script>\n    </div>\n",
+      "exclusive": false,
+      "id": 33776,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/33776/image?unique=21733c6"
+      ],
+      "internal_reference": "EES27200L",
+      "manufacturer_id": 19,
+      "name": "EES27200L",
+      "price_rrp": 469.0,
+      "product_line": "Electrolux Open",
+      "units_per_package": 1,
+      "volume": 0.37,
+      "weight": 32.7,
+      "weight_bruto": 34.0
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8806097061502 8806097061502 Fridge SAMSUNG BRB80F30ADF0EO",
+  "search_queries": {
+    "main_query": "integreeritav külmik Samsung BRB80F30ADF0EO Twin Cooling No Frost",
+    "additional_queries": [
+      "kuidas hoida toit kauem värskena integreeritava külmikuga Samsung BRB80F30ADF0EO Twin Cooling",
+      "integreeritav No Frost külmik 60 cm alumise sügavkülmaga ja Wi-Fi Samsung SmartThings jaoks",
+      "millega erineb Samsung BRB80F30ADF0EO teistest integreeritavatest külmikutest Twin Cooling ja Cool Select+ tsooniga",
+      "kuidas seadistada ja kasutada SmartThings AI energiarežiimi külmikul Samsung BRB80F30ADF0EO"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas see integreeritav külmik sobib minu kööki ja vajadustele?",
+      "answer": "SAMSUNG BRB80F30ADF0EO on integreeritav külmik alumise sügavkülmaga, mõeldud köögimööbli sisse paigaldamiseks (uks uksele hingede süsteem). Toote mõõdud on u 193,5 × 54 × 55 cm (K×L×S) ning standardlaius 60 cm ja standardkõrgus 195 cm, seega sobib enamiku integreeritavate lahenduste niššidesse – enne ostu tasub siiski oma kapi avamõõdud üle mõõta.\n\nKülmiku netomaht on 224 l ja sügavkülmal 74 l, mis sobib hästi keskmise pere igapäevaseks kasutuseks. Twin Cooling™ eraldi jahutussüsteemid hoiavad toidu kauem värskena ja takistavad lõhnade segunemist, Cool Select+ tsoon ning võimalus sügavkülma osa külmikuks muuta lisavad paindlikkust. Tänu Wi‑Fi-le ja SmartThings toele sobib see hästi ka nutikodu kasutajale."
+    },
+    {
+      "question": "Kui lihtne on seda külmikut kasutada ja hooldada?",
+      "answer": "Külmik on varustatud elektroonilise juhtpaneeliga ning Wi‑Fi ühendusega, nii et põhisätteid saab muuta nii seadmelt kui ka SmartThings rakenduse kaudu (vajalik on sobiv nutitelefon ja kodune Wi‑Fi võrk; täpsemad detailid pole sisendis täpsustatud).\n\nCool Select+ tsoon võimaldab ühe ala temperatuuri ühe nupuvajutusega muuta vastavalt vajadusele: +2 °C (jahutamine), –1 °C (külm hoidmine), –5 °C (poolkülmutamine) või –15…–23 °C (sügavkülm). Nii saate sama ruumi kasutada kas külmiku või sügavkülmana.\n\nSeadmel on No Frost külmutustehnoloogia ja ventilaator, mis hoiab ära jää ja härmatise tekke, seega ei ole vaja sügavkülma ja külmikut käsitsi sulatada. Tavapärane sisepindade puhastamine ja tihendite ülevaatamine jääb kasutaja tavahoolduseks; detailne hooldusjuhend tuleb tootjapoolsest kasutusjuhendist (pole sisendis välja toodud)."
+    },
+    {
+      "question": "Kui töökindel see külmik on, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Sisendi põhjal kasutab SAMSUNG BRB80F30ADF0EO Twin Cooling™ eraldi jahutussüsteeme, No Frost tehnoloogiat ja metalliseeritud tagaseina, mis aitab hoida stabiilset temperatuuri ning kaitsta seadet. Müraisuklass on B ja müratase 35 dB, seega töötab külmik vaikselt. Aastane energiakulu on 183 kWh ning SmartThings AI energiarežiim võib aidata tarbimist kuni umbes 10% vähendada (täpsemad tingimused pole sisendis lahti kirjutatud).\n\nGarantii täpseid tingimusi sisend ei kirjelda – need sõltuvad müüjast ja tootjast ning tuleks üle vaadata ostukohas. Hinna-väärtuse mõttes pakub seade lisaks tavapärasele integreeritavale külmikule nutikat energiakulu optimeerimist, paindlikku Cool Select+ tsooni ja eraldi jahutussüsteeme, mis aitavad vähendada toidukadu ja parandada kasutusmugavust."
+    }
+  ]
+}

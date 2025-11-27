@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:3838782702372 3838782702372 Hob GORENJE GI6401WSC",
+  "search_queries": {
+    "main_query": "Gorenje GI6401WSC valge 60 cm induktsioonpliit",
+    "additional_queries": [
+      "kuidas lahendada suurte pottide ja pannide kuumutamine valgel 60 cm induktsioonpliidil Gorenje GI6401WSC BigZone keedualaga",
+      "integreeritav valge induktsioonpliit 60 cm 7200W BigZone suur keeduala perele",
+      "Gorenje GI6401WSC vs teised Gorenje 60 cm induktsioonpliidid – mis vahe on BigZone’l ja tavalistel keedualadel",
+      "kuidas paigaldada ja ühendada Gorenje GI6401WSC induktsioonpliit 2N 400V elektrivõrku ja kuidas seda puhastada"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Gorenje GI6401WSC sobib minu olemasolevasse 60 cm tööpinna avasse ja elektrisüsteemi?",
+      "answer": "See mudel on 60 cm lai integreeritav induktsioonpliit, mille välismõõdud on u 595 × 520 × 54 mm. Soovituslik niši laius on 560–562 mm, minimaalne sügavus 490 mm ja kõrgus vähemalt 70 mm, seega sobib see enamiku standardsete 60 cm tööpinna avadega – oluline on enne üle mõõta oma olemasolev lõige.citeturn0search0 Pliidi kogu võimsus on u 7,2 kW ning see on mõeldud 220–240 V toitele, ühendustüüp 2N 220–240 V / 380–415 V, mistõttu tuleb ühendamine usaldada kvalifitseeritud elektrikule ja veenduda, et elektrikilbis on vastav kaitse ja kaabeldus olemas.citeturn0search0turn0search1"
+    },
+    {
+      "question": "Kui lihtne on Gorenje GI6401WSC igapäevane kasutamine ja puhastamine?",
+      "answer": "Pliidiplaadil on neli induktsioonkeeduala, millest üks on suur 23 cm BigZone tsoon suurtele pottidele ja pannidele; see asub esiservas, et oleks mugav jälgida toiduvalmistamist.citeturn0search1turn0search5turn0search6 Juhtimine toimub puutenupuga iga tsooni juures eraldi (SimpleControl/TouchControl), mis teeb võimsuse reguleerimise ja taimeri seadistamise intuitiivseks.citeturn0search0turn0search6 PowerBoost-funktsioon kiirendab vee ja toidu kuumutamist, taimer aitab tsooni automaatselt välja lülitada, jääksoojuse indikaator ja lapselukk lisavad ohutust.citeturn0search0turn0search6 Klaaskeraamiline (vitrokeramika) raamita valge pind on täiesti sile, nii et jahtunud plaati saab puhastada niiske lapi ja sobiva klaaskeraamilistele pindadele mõeldud vahendiga; vältida tuleks kriimustavaid käsnasid ja pulbreid. Kasutada tohib ainult induktsioonile sobiva põhja (magnetit tõmbava) potte ja panne, et tagada korrektne töö ja kiire kuumenemine."
+    },
+    {
+      "question": "Kui töökindel on Gorenje GI6401WSC, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Gorenje on tuntud Euroopa kodutehnikabränd, kelle induktsioonpliidid on mõeldud igapäevaseks kasutamiseks ning neil on vähe mehaanilisi osi, mis vähendab rikete ohtu. GI6401WSC pakub 7,2 kW koguvõimsust, PowerBoost-kiirkuumutust, suurt 23 cm BigZone keeduala, eraldi puutetundlikku juhtimist igale tsoonile, taimerit, jääksoojuse indikaatoreid ja lapselukku – need funktsioonid annavad arvestatava mugavuse ja turvalisuse kombinatsiooni oma hinnaklassis.citeturn0search0turn0search1turn0search6 Toodet katab tootjagarantii vastavalt müüja ja Gorenje garantiitingimustele (tihti vähemalt paar aastat), kuid täpne kestus ja võimalikud laiendatud garantiid sõltuvad konkreetsest müügikohast – seega tasub detailid üle vaadata ostuinfost või garantiikaardilt."
+    }
+  ]
+}

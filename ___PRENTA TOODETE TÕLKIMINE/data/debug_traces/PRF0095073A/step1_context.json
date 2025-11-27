@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:2083476044028 2083476044028 Hood ELICA HIDDEN 2.0 IX/A/72",
+  "search_queries": {
+    "main_query": "integreeritav õhupuhasti Elica Hidden 2.0 IX/A/72 roostevaba A-klassi",
+    "additional_queries": [
+      "kuidas eemaldada köögist toidulõhnad integreeritava õhupuhastiga Elica Hidden 2.0",
+      "integreeritav õhupuhasti 72 cm Elica Hidden 2.0 A energiaklass avatud kööki",
+      "Elica Hidden 2.0 IX/A/72 võrdlus teiste integreeritavate õhupuhastitega",
+      "kuidas paigaldada ja kasutada integreeritavat õhupuhastit Elica Hidden 2.0 ning süsinikfiltrit CFC0038668"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica Hidden 2.0 IX/A/72 sobib minu kööki ja olemasolevasse kappi?",
+      "answer": "See mudel on integreeritav õhupuhasti (sisseehitatav kappi). Toote mõõdud on ligikaudu laius 71,4 cm ja sügavus 28,2 cm, maksimaalne kõrgus kuni 367 mm. Standardiseeritud laiuseks on märgitud 90 cm, mis viitab sobivusele 90 cm laiusesse kapimoodulisse. Õhupuhasti versioon on \"duct out\", st see on ette nähtud ühendamiseks ventilatsioonitoruga (väljatõmme), toru läbimõõduga 150 mm. Minimaalne kaugus pliidiplaadist peab olema 60 cm gaasipliidi ja 50 cm elektripliidi korral. Täpne sobivus sõltub Teie köögimööbli mõõtudest, mida sisend ei täpsusta, seega soovitame mõõdud enne ostu oma kapiga üle kontrollida."
+    },
+    {
+      "question": "Kuidas Elica Hidden 2.0 IX/A/72 õhupuhastit kasutada ja hooldada?",
+      "answer": "Õhupuhastil on elektrooniline juhtimine ja LED-valgustus (7 W). Perimeeter-tüüpi väljatõmme tõmbab auru ja lõhnad sisse ümber ääre asuvate avade kaudu. Kasutamiseks lülitage seade sisse sobivale võimsusrežiimile, vajadusel kasutage maksimaalset või \"booster\" režiimi, kui aurusid on palju. Sisend ei kirjelda täpselt rasvafiltri tüüpi ega puhastamise viisi, kuid üldjuhul tuleb integreeritavatel õhupuhastitel rasvafiltreid regulaarselt puhastada või pesta vastavalt kasutusjuhendile. Angliinis (süsinik)filtras CFC0038668 on tellitav eraldi, kuid sisend ei täpsusta selle paigaldus- ega vahetussagedust, seega soovitame täpse juhise saamiseks tugineda toote kasutus- või paigaldusjuhendile."
+    },
+    {
+      "question": "Kui töökindel on Elica Hidden 2.0 IX/A/72 ja kas see on oma hinda väärt?",
+      "answer": "Toote sisendandmete järgi on tegemist A energiaklassi integreeritava õhupuhastiga, mille aastane energiatarve on 49 kWh. Maksimaalne õhuvool on 600 m³/h ja \"booster\" režiimil kuni 690 m³/h, müratase jääb vahemikku 51–70 dB. Õhupuhastil on roostevabast terasest viimistlus, LED-valgustus ning perimeeter-tüüpi väljatõmme, mis on tavaliselt efektiivsem ja visuaalselt diskreetsem lahendus. Need omadused viitavad tänapäevasele ja tõhusaid tulemusi pakkuvale seadmele. Garantiitingimusi ja täpset tööea hinnangut sisend ei sisalda, seega tuleb garantii pikkus ja järelteenindus üle täpsustada müüja juures. Hinna-väärtuse suhte peamine tugevus on energiatõhusus, kõrge õhuvool ja peidetav integreeritav lahendus."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "model": "gpt-5.1",
+  "instructions": "\n                Sa tegutsed tooteanalüüsi spetsialisti ja uuriva copywriter'ina. See on \"STEP 1: Kontekst\", mille tulemusi kasutavad kõik järgnevad sammud.\n\n                Töötle olemasolevat toote alginfot (ilma veebiotsinguta) ja koonda sellest kontekst, mis aitab hilisemates sammudes luua AI-ajastule vastava müügikirjelduse.\n\n                Läbi antud materjal ja veendu, et suudad vastata järgmistele küsimustele:\n                1. Millist probleemi toode lahendab ja kuidas see ostja elu lihtsamaks teeb?\n                2. Kas see sobib sihtkasutaja vajadustele (kellele, millistes olukordades)?\n                3. Mis on toote põhiline funktsioon ja eesmärk (kuidas see töötab, millist tulemust annab)?\n                4. Kuidas see erineb alternatiividest/mudelitest ning millised on unikaalsed eelised?\n                6. Millised on peamised omadused ja tehnilised võtmenäitajad, mida peaks bullet'ites esile tooma?\n                7. Kas see mahub kliendi ruumi/ökosüsteemi (mõõdud, maht, kontekstuaalne sobivus)?\n                8. Millega see on ühilduv ja mis võib olla lisaks vajalik (platvormid, tarkvara, tarvikud, ökosüsteemid)?\n                9. Kui lihtne on seda kasutada ja hooldada (kasutusloogika, hooldus-/uuendusvajadused, „plug & play“ aspektid)?\n                10. Kui töökindel ja vastupidav see on ning milline on garantii või järelteenindus?\n                11. Mis on tootega kaasas ja mida tuleks vajadusel eraldi soetada?\n                12. Kas see on oma hinda väärt – milline on väärtuspakkumine ja pikaajaline kasu?\n\n                Nende järelduste põhjal loo väljundid, mida kasutame otse e-poes, SEO-s ja Q&A plokis:\n\n                - 5 otsingufraasi (1 peamine, 4 lisa), kõik loomulikus eestikeelses vormis ja tuginedes ainult olemasolevale infole.\n                  • main_query: fraas, mida inimene reaalselt kirjutaks otsingusse, kui ta otsib just seda konkreetset toodet (toote tüüp + 1–2 võtmeomadust + bränd/mudel).\n                  • additional_queries: 4 long-tail päringut, mis jagunevad nii:\n                    1) probleemipõhine: kuidas lahendada tüüpilist probleemi selle tootega;\n                    2) omaduspõhine: toote tüüp + võtmenäitaja (võimsus/mõõt/maht vms) + kasutusolukord;\n                    3) võrdlev: mille poolest see erineb teistest sarnastest mudelitest;\n                    4) kasutus/hooldus: kuidas paigaldada, hooldada või igapäevaselt kasutada.\n\n                  Väljendid võivad sisaldada tehnilisi tähiseid ja mudeleid, kuid väldi ingliskeelseid täislauseid.\n\n                - 3 Q&A küsimust ja vastust eesti keeles Q&A sektsiooni jaoks, mis aitavad kliendil ostuotsust teha. Kasuta järgmisi telgi:\n                  1) sobivus ja valik (kas see sobib minu ruumi, vajadustele, olemasoleva süsteemiga);\n                  2) kasutamine ja hooldus (kuidas seda kasutada, puhastada, paigaldada, hooldada);\n                  3) töökindlus, garantii ja hinna-väärtuse suhe (kui vastupidav see on, milline on garantii, mis on peamine kasutegur hinna suhtes).\n\n                Ära leiuta uusi fakte. Kui mõne info (nt konkreetne ühilduvus, garantiitingimus, täpne kasutusviis) kohta sisendmaterjal midagi ei ütle, ära seda välja mõtle – jäta vastus neutraalseks või ütle, et sisend seda ei täpsusta.\n\n                Tagasta (kõik väärtused eesti keeles):\n                - search_queries: objekt väljadega main_query (string) ja additional_queries (array 4 stringi)\n                - qa: massiiv 3 elemendiga, igas objektis question ja answer väljad\n                ",
+  "input": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "input_text",
+          "text": "Toote alginfo (JSON): {\"sku\": \"DGE5861HM\", \"global_unique_id\": \"7332543791644\", \"source\": {\"source_system\": \"prenta\", \"source_product_id\": 22102, \"source_category_ids\": [25], \"rrp_price\": 439.0, \"purchase_price\": 247.0}, \"name\": \"Hood AEG DGE5861HM\", \"short_description\": \"\", \"description\": \"<p style=\\\"color: rgb(76, 76, 76);\\\">ECFB01ST OdourClean STANDARD Carbon filter model</p><p style=\\\"color: rgb(76, 76, 76);\\\">ECFBPL02 OdourClean PLUS Carbon filter model</p><p style=\\\"color: rgb(76, 76, 76);\\\">M8CKSL28 SILENTIUM KIT COMPATIBLE</p><p style=\\\"color: rgb(76, 76, 76);\\\">M8CKSL07 <span style=\\\"font-family: inherit; font-style: initial; font-variant-ligatures: initial; font-variant-caps: initial; font-weight: initial;\\\">SILENTIUM KIT COMPATIBLE</span></p>\\n\\n<h3>The perfect partner when you cook</h3>\\n<p>The perfect partner when you cook The 6000 Hob2Hood® Cooker Hood wirelessly connects to the hob. The lights activate when you turn on the hob, and the fan speed is regulated based on the heat setting on the hob. Experience an odour-free kitchen every time you cook.</p>\\n<img src=\\\"product_images/22102/flix_feature_1.webp\\\" alt=\\\"Hob2Hood®. The perfect partner when you cook.\\\">\\n<h3>Hob2Hood®. The perfect partner when you cook.</h3>\\n<p>Hob2Hood®. The perfect partner when you cook. The Hob2Hood® function wirelessly activates the hood lights when you turn on the hob. When you start cooking, the fan speed is regulated based on the heat settings on the hob. Cook delicious meals without worrying about odours and vapours.</p>\\n<img src=\\\"product_images/22102/flix_feature_2.webp\\\" alt=\\\"ExtractionTech Pro cooker hood: High power, exceptional freshness\\\">\\n<h3>ExtractionTech Pro cooker hood: High power, exceptional freshness</h3>\\n<p>ExtractionTech Pro cooker hood: High power, exceptional freshness Experience superior kitchen air quality with the ExtractionTech Pro cooker hood. Equipped with our most powerful motor and intensive speed option, it efficiently extracts cooking vapours ensuring an exceptionally fresh cooking environment.</p>\\n<img src=\\\"product_images/22102/flix_feature_3.webp\\\" alt=\\\"Spotlight the details with the Pure Illumination\\\">\\n<h3>Spotlight the details with the Pure Illumination</h3>\\n<p>Spotlight the details with the Pure Illumination Energy-efficient Pure Illumination provides full visibility while cooking. The LED lights illuminate the entire cooking surface, making it easy to see every detail of your meal preparation.</p>\\n<img src=\\\"product_images/22102/flix_feature_4.webp\\\" alt=\\\"Reliable, easy-to-clean grease filter keeps kitchen fresh\\\">\\n<h3>Reliable, easy-to-clean grease filter keeps kitchen fresh</h3>\\n<p>Reliable, easy-to-clean grease filter keeps kitchen fresh Convenient, reliable grease filter ensures your kitchen stays fresh and hood performs at its best. Wash by hand or in dishwasher.</p>\\n<img src=\\\"product_images/22102/flix_feature_5.webp\\\" alt=\\\"Filter cleaning notification system\\\">\\n<h3>Filter cleaning notification system</h3>\\n<p>Filter cleaning notification system The hood has a convenient filter cleaning notification system. An indicator on the hood alerts you when the grease filter and carbon filter need cleaning – there’s no need to keep track of it yourself.</p>\", \"type\": \"simple\", \"status\": \"publish\", \"featured\": false, \"catalog_visibility\": \"visible\", \"regular_price\": \"439.0\", \"sale_price\": \"\", \"purchasable\": true, \"virtual\": false, \"tax_status\": \"taxable\", \"tax_class\": \"\", \"manage_stock\": true, \"stock_status\": \"instock\", \"stock_quantity\": 5, \"backorders\": \"no\", \"backorders_allowed\": false, \"backordered\": false, \"low_stock_amount\": null, \"sold_individually\": false, \"weight\": \"10.0\", \"dimensions\": {\"length\": \"30\", \"width\": \"77\", \"height\": \"\"}, \"shipping_required\": true, \"shipping_taxable\": true, \"shipping_class\": \"prenta\", \"reviews_allowed\": true, \"average_rating\": \"0.00\", \"rating_count\": 0, \"upsell_ids\": [], \"cross_sell_ids\": [], \"category\": {\"source_id\": 25, \"path\": \"All > Saleable > Home appliances > Built in > Hood\", \"translated_path\": \"Kodutehnika > Integreeritav kodutehnika > Integreeritavad õhupuhastid/kubud\", \"leaf_name\": \"Integreeritavad õhupuhastid/kubud\"}, \"categories\": [{\"name\": \"Integreeritavad õhupuhastid/kubud\"}], \"brands\": [{\"name\": \"AEG\"}], \"tags\": [], \"images\": [{\"src\": \"product_images/22102/image_1.webp\", \"alt\": \"Hood AEG DGE5861HM\"}, {\"src\": \"product_images/22102/flix_gallery_1.webp\", \"alt\": \"Hood AEG DGE5861HM\"}, {\"src\": \"product_images/22102/flix_gallery_2.webp\", \"alt\": \"Hood AEG DGE5861HM\"}, {\"src\": \"product_images/22102/flix_gallery_3.webp\", \"alt\": \"Hood AEG DGE5861HM\"}, {\"src\": \"product_images/22102/flix_gallery_4.webp\", \"alt\": \"Hood AEG DGE5861HM\"}, {\"src\": \"product_images/22102/flix_gallery_5.webp\", \"alt\": \"Hood AEG DGE5861HM\"}, {\"src\": \"product_images/22102/flix_gallery_6.webp\", \"alt\": \"Hood AEG DGE5861HM\"}, {\"src\": \"product_images/22102/flix_gallery_7.webp\", \"alt\": \"Hood AEG DGE5861HM\"}, {\"src\": \"product_images/22102/flix_gallery_8.webp\", \"alt\": \"Hood AEG DGE5861HM\"}, {\"src\": \"product_images/22102/flix_gallery_9.webp\", \"alt\": \"Hood AEG DGE5861HM\"}, {\"src\": \"product_images/22102/flix_gallery_10.webp\", \"alt\": \"Hood AEG DGE5861HM\"}, {\"src\": \"product_images/22102/flix_gallery_11.webp\", \"alt\": \"Hood AEG DGE5861HM\"}, {\"src\": \"product_images/22102/flix_gallery_12.webp\", \"alt\": \"Hood AEG DGE5861HM\"}, {\"src\": \"product_images/22102/flix_gallery_13.webp\", \"alt\": \"Hood AEG DGE5861HM\"}, {\"src\": \"product_images/22102/flix_gallery_14.webp\", \"alt\": \"Hood AEG DGE5861HM\"}, {\"src\": \"product_images/22102/flix_gallery_15.webp\", \"alt\": \"Hood AEG DGE5861HM\"}, {\"src\": \"product_images/22102/flix_gallery_16.webp\", \"alt\": \"Hood AEG DGE5861HM\"}], \"attributes\": [{\"name\": \"Product line\", \"values\": [\"AEG Open\"]}, {\"name\": \"Producer\", \"values\": [\"AEG\"]}, {\"name\": \"Type of installation\", \"values\": [\"Built-in\"]}, {\"name\": \"Type of hood\", \"values\": [\"Not retractable\"]}, {\"name\": \"Hood version\", \"values\": [\"Recirculation / Duct out\"]}, {\"name\": \"Standardized width (cm)\", \"values\": [80]}, {\"name\": \"Wireless integration with hob\", \"values\": [\"Yes\"]}, {\"name\": \"Chimney\", \"values\": [\"No\"]}, {\"name\": \"Filter type\", \"values\": [\"Charcoal\"]}, {\"name\": \"Butterfly valve\", \"values\": [\"Yes\"]}, {\"name\": \"Perimeter aspiration\", \"values\": [\"Yes\"]}, {\"name\": \"Finish\", \"values\": [\"Stainless steel\"]}, {\"name\": \"Color\", \"values\": [\"Grey\"]}, {\"name\": \"Control\", \"values\": [\"Electronical\"]}, {\"name\": \"Lighting\", \"values\": [\"LED\"]}, {\"name\": \"Option to connect a dimmer\", \"values\": [\"No\"]}, {\"name\": \"Tune White\", \"values\": [\"No\"]}, {\"name\": \"Duct size, mm\", \"values\": [\"150\"]}, {\"name\": \"Autonomous sensor technology\", \"values\": [\"No\"]}, {\"name\": \"Back aspiration\", \"values\": [\"Yes\"]}, {\"name\": \"Wi-Fi\", \"values\": [\"No\"]}, {\"name\": \"Minimal Airflow (m3/h, IEC 61591)\", \"values\": [\"300\"]}, {\"name\": \"Maximum Airflow (m3/h, IEC 61591)\", \"values\": [\"580\"]}, {\"name\": \"Booster Airflow (m3/h, IEC 61591)\", \"values\": [\"700\"]}, {\"name\": \"Annual energy consumption (kWh)\", \"values\": [\"55\"]}, {\"name\": \"Energy efficiency class\", \"values\": [\"A\"]}, {\"name\": \"Fluid dynamic efficiency class\", \"values\": [\"A\"]}, {\"name\": \"Lighting efficiency class\", \"values\": [\"A\"]}, {\"name\": \"Grease filtering efficiency class\", \"values\": [\"D\"]}, {\"name\": \"Minimal Noise level, dB\", \"values\": [\"54\"]}, {\"name\": \"Maximum Noise level, dB\", \"values\": [\"67\"]}, {\"name\": \"Booster Noise level, dB\", \"values\": [\"70\"]}, {\"name\": \"Max Height (mm)\", \"values\": [\"331.0\"]}], \"default_attributes\": [], \"variations\": [], \"grouped_products\": [], \"menu_order\": 0, \"related_ids\": [], \"meta_data\": [{\"key\": \"_bp_gtin13\", \"value\": \"7332543791644\"}, {\"key\": \"_bp_supplier\", \"value\": \"Prenta\"}, {\"key\": \"_bp_brand\", \"value\": \"AEG\"}]}"
+        }
+      ]
+    }
+  ],
+  "tools": [],
+  "text": {
+    "verbosity": "medium",
+    "format": {
+      "type": "json_schema",
+      "name": "context_and_research_schema",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "search_queries": {
+            "type": "object",
+            "properties": {
+              "main_query": {
+                "type": "string"
+              },
+              "additional_queries": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                },
+                "minItems": 4,
+                "maxItems": 4
+              }
+            },
+            "required": [
+              "main_query",
+              "additional_queries"
+            ],
+            "additionalProperties": false
+          },
+          "qa": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": 3,
+            "items": {
+              "type": "object",
+              "properties": {
+                "question": {
+                  "type": "string"
+                },
+                "answer": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "question",
+                "answer"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "search_queries",
+          "qa"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "reasoning": {
+    "effort": "medium"
+  },
+  "previous_response_id": null,
+  "service_tier": "default"
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7612985911306 7612985911306 Hood FABER INKA PLUS HCS BK A52/2",
+  "search_queries": {
+    "main_query": "integreeritav õhupuhasti Faber Inka Plus HCS BK A52/2 52 cm must",
+    "additional_queries": [
+      "kuidas eemaldada toidulõhnad väikeses köögis integreeritava õhupuhastiga Faber Inka Plus HCS BK A52/2",
+      "52 cm integreeritav õhupuhasti 590 m3/h võimsusega keskmise köögi jaoks",
+      "Faber Inka Plus HCS BK A52/2 vs teised 60 cm integreeritavad õhupuhastid",
+      "kuidas paigaldada ja hooldada Faber Inka Plus HCS BK A52/2 õhupuhasti filtreid"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Faber Inka Plus HCS BK A52/2 sobib minu kööki ja kui laia kapi sisse see on mõeldud?",
+      "answer": "See mudel on integreeritav õhupuhasti, mis on mõeldud paigaldamiseks ülemisse köögikappi pliidi või keedupinna kohale. Standardlaius on 60 cm, seadme tegelik laius on u 52 cm, seega sobib see tüüpilise 60 cm laiuse kapi sisse. Väljatõmbe toru läbimõõt on 150 mm, seega peab olemasolev ventilatsioonilõõr või toru sellega sobima (vajadusel saab kasutada üleminekuadapterit, mis ei kuulu komplekti). Õhuvõimsus 230–590 m³/h teeb selle sobivaks enamiku korteri ja väiksema maja köökide jaoks; väga suurte või avatud köökide puhul tasub hinnata, kas sellest võimsusest piisab."
+    },
+    {
+      "question": "Kui lihtne on Faber Inka Plus HCS BK A52/2 õhupuhastit kasutada ja kuidas seda hooldada?",
+      "answer": "Õhupuhasti kasutamine on lihtne: esipaneelil olevate sisse-välja vajutatavate nuppudega saad valida töörežiimi ja lülitada sisse LED-valgustuse, mis valgustab keedupinda. Hoolduse seisukohalt on oluline puhastada regulaarselt rasvafiltreid vastavalt kasutusjuhendile – neid tuleb aeg-ajalt kapist eemaldada ja kas käsitsi pesuvahendiga pesta või panna nõudepesumasinasse, kui tootja juhend seda lubab. Kui kasutad seadet ilma lõõrita recirkulatsiooni režiimis, on vaja lisaks süsifiltrit (nt F8, High Performance FHP8 KIT või Long Lasting FLL8 KIT); need ei ole komplektis ja tuleb teatud aja tagant uute vastu välja vahetada vastavalt tootja soovitusele."
+    },
+    {
+      "question": "Kui töökindel on Faber Inka Plus HCS BK A52/2 ja milline on selle hinna ja kvaliteedi suhe?",
+      "answer": "Faber on spetsialiseerunud köögi õhupuhastitele ja Inka Plus HCS BK A52/2 on nende integreeritav mudel, millel on metallkorpus, LED-valgustus ja mehaaniline nupptüüpi juhtimine – need lahendused on üldjuhul töökindlad ja vastupidavad. Energiatõhususe klass on B ning aastane energiatarve umbes 56 kWh, mis tähendab mõistlikku elektrikulu igapäevase kasutuse juures. Õhupuhasti õhuvool 230–590 m³/h ja müratase 47–63 dB pakuvad hea tasakaalu võimsuse ja mugavuse vahel. Konkreetne garantiiaeg ja järelteeninduse tingimused sõltuvad müüjast ja kehtivatest kohaliku turu reeglitest; täpse info leiad meie poe garantiitingimustest ja vajadusel Faber ametlikest hoolduspartneritest."
+    }
+  ]
+}

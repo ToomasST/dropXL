@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543854462 7332543854462 Hob AEG HDB64623NB",
+  "search_queries": {
+    "main_query": "AEG HDB64623NB gaasi ja induktsiooniga integreeritav pliidiplaat",
+    "additional_queries": [
+      "kuidas lahendada valik gaasipliidi ja induktsioonpliidi vahel AEG HDB64623NB hübriidpliidiplaadiga",
+      "gaasi ja induktsiooniga 60 cm must klaaskeraamiline integreeritav pliidiplaat peene temperatuuri juhtimisega",
+      "millega erineb AEG HDB64623NB gaasi ja induktsiooniga pliidiplaat tavalisest gaasipliidiplaadist",
+      "kuidas kasutada ja puhastada AEG HDB64623NB pliidiplaati, malmist pannitoed ja eemaldatavaid põletiosasid"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG HDB64623NB sobib minu kööki ja olemasoleva gaasisüsteemiga?",
+      "answer": "AEG HDB64623NB on integreeritav gaasi ja induktsiooniga pliidiplaat, mis on mõeldud pinnapealseks paigalduseks töötasapinda. Standardlaius on 60 cm (laius u 59 cm, sügavus u 52 cm, kõrgus u 5 cm), mistõttu sobib see enamiku 60 cm laiuste köögimööbli lahendustega. Pliidiplaadil on komplektis vedelgaasi (LPG) düüsid, mis võimaldavad seda kasutada balloonigaasiga. Teiste gaasitüüpide ja konkreetse gaasiühenduse sobivuse ning paigalduse peab üle kontrollima ja teostama vastav spetsialist, sest sisendinfo täpsemaid paigaldusnõudeid ei kirjelda."
+    },
+    {
+      "question": "Kui lihtne on AEG HDB64623NB pliidiplaati kasutada ja hooldada?",
+      "answer": "Pliidiplaat ühendab induktsiooni ja gaasi, pakkudes mugavat juhtimist: induktsioonitsoone juhitakse puutetundlike nuppudega, gaasipõleteid mehaaniliste nuppudega (süüde nupuvajutusega). StepPower-funktsioon võimaldab gaasil soojust täpselt doseerida astmetes 1–9, induktsioonil on saadaval taimer, pausifunktsioon, võimendus (Power booster) ja automaatne kuumutuse käivitus. Hoolduse teeb lihtsaks sile klaaskeraamiline (vitrokeramika) pind ja eraldi malmist pannitoed, mis on jagatud osadeks, et neid oleks lihtne tõsta ja puhastada. Tootja kirjelduse järgi saab gaasipõleti detaile puhastamiseks panna ka nõudepesumasinasse. Üksikasjalikke puhastusvahendite või -meetodite soovitusi sisendinfo ei täpsusta, seega tasub järgida tootja ametlikke juhiseid."
+    },
+    {
+      "question": "Kui töökindel ja turvaline on AEG HDB64623NB ning kas see on oma hinda väärt?",
+      "answer": "AEG HDB64623NB pakub mitmeid turva- ja mugavusfunktsioone, mis toetavad töökindlust: gaasipõletitel on leekekaitse (flame failure device), mis katkestab gaasi, kui leek kustub, induktsiooni osal on jääksoojuse näidik, laste lukk, pausifunktsioon ja toitepiirang. Vertikaalse leegiga gaasipõletid on energiatõhusad ja tootja sõnul aitavad säästa kuni 20% gaasi. Malmist pannitoed on vastupidavad ja hoiavad nõud stabiilselt. Pliidiplaat ühendab gaasi ja induktsiooni eelised ühes seadmes, mis lisab paindlikkust ja vähendab vajadust teha valik ainult ühe tehnoloogia kasuks – see on selle mudeli peamine väärtuspakkumine. Garantii pikkust ja täpseid tingimusi sisendinfo ei kirjelda; need sõltuvad tootja ja müüja tingimustest ning tuleks ostuhetkel üle täpsustada."
+    }
+  ]
+}

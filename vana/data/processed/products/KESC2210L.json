@@ -1,0 +1,572 @@
+{
+  "name": "KESC2210L",
+  "type": "simple",
+  "status": "publish",
+  "catalog_visibility": "visible",
+  "description": "",
+  "description_flix": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Montuojama Indaplovė 45 cm 600 serija \"SatelliteClean\"</h3><p>Electrolux 911 074 061</p></div></article></section>",
+  "short_description": "Montuojama Indaplovė 45 cm 600 serija \"SatelliteClean\" Electrolux 911 074 061",
+  "sku": "KESC2210L",
+  "regular_price": "490.88",
+  "sale_price": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": true,
+  "stock_quantity": 5,
+  "backorders": "no",
+  "backorders_allowed": false,
+  "backordered": false,
+  "supplier_sku_prefix": "RP-",
+  "weight": "38.61",
+  "dimensions": {
+    "length": "55",
+    "width": "44.6",
+    "height": "85"
+  },
+  "shipping_required": true,
+  "shipping_taxable": true,
+  "shipping_class": "prenta",
+  "reviews_allowed": true,
+  "categories": [
+    {
+      "name": "Kodutehnika > Integreeritav kodutehnika > Integreeritavad nõudepesumasinad",
+      "slug": "kodutehnika-integreeritav-kodutehnika-integreeritavad-nudepesumasinad"
+    }
+  ],
+  "brands": [
+    {
+      "name": "ELECTROLUX",
+      "slug": "electrolux"
+    }
+  ],
+  "tags": [],
+  "images": [
+    {
+      "src": "data/processed/product_images/18698/image_1.webp",
+      "position": 0,
+      "alt": "KESC2210L",
+      "origin": "prenta",
+      "source_url": "https://e.prenta.lt/web/image/product.product/18698/image?unique=ed2a883"
+    }
+  ],
+  "meta_data": [
+    {
+      "key": "_bp_gtin13",
+      "value": "7332543738359"
+    },
+    {
+      "key": "_bp_supplier",
+      "value": "Prenta"
+    },
+    {
+      "key": "_bp_brand",
+      "value": "ELECTROLUX"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Producer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Electrolux"
+      ]
+    },
+    {
+      "name": "Type of installation",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Built-in"
+      ]
+    },
+    {
+      "name": "Standardized width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "45.0"
+      ]
+    },
+    {
+      "name": "Standardized height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "85"
+      ]
+    },
+    {
+      "name": "New Energy efficiency class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "E"
+      ]
+    },
+    {
+      "name": "Control",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Touch control with LCD"
+      ]
+    },
+    {
+      "name": "Control panel location",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Internal"
+      ]
+    },
+    {
+      "name": "Energy consumption for 100 cycles",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "70"
+      ]
+    },
+    {
+      "name": "Number of programs",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "8"
+      ]
+    },
+    {
+      "name": "Water consumption for 1 cycle",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "9.9"
+      ]
+    },
+    {
+      "name": "Number of temperatures",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "4"
+      ]
+    },
+    {
+      "name": "Noise level class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "B"
+      ]
+    },
+    {
+      "name": "Glass programme",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Automatic programme",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Duration for 1 cycle",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "240"
+      ]
+    },
+    {
+      "name": "Time saving",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Delay start programme",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Auto shut off",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Hot water inlet",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Type of motor",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Inverter"
+      ]
+    },
+    {
+      "name": "Number of baskets",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "2"
+      ]
+    },
+    {
+      "name": "Automatic door opening at the end of the cycle",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Higher efficiency sprays",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Upper spray",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Tub material",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Full stainless steel"
+      ]
+    },
+    {
+      "name": "Interior light",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Floor beam",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Light signal on the floor"
+      ]
+    },
+    {
+      "name": "Sliding hinges",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Protection of water spill",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Installation in height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Lift for the lower basket",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Settings, Pcs",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "9"
+      ]
+    },
+    {
+      "name": "Minimal height, cm",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "81.8"
+      ]
+    },
+    {
+      "name": "Maximum height, cm",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "87.8"
+      ]
+    },
+    {
+      "name": "Width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "44.6"
+      ]
+    },
+    {
+      "name": "Depth",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "55.0"
+      ]
+    },
+    {
+      "name": "Noise level",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "44"
+      ]
+    },
+    {
+      "name": " Color",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "White"
+      ]
+    },
+    {
+      "name": "Wi-Fi",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    }
+  ],
+  "source": {
+    "prenta_product_id": 18698,
+    "prenta_category_path": "All > Saleable > Home appliances > Built in > Dishwasher",
+    "prenta_category_id": 26,
+    "price": {
+      "gross_price": 395.87,
+      "price": 329.6,
+      "product_id": 18698
+    },
+    "detail": {
+      "attribute_line_ids": [
+        {
+          "attribute_id": 486,
+          "value_id": 5022
+        },
+        {
+          "attribute_id": 517,
+          "value_id": 5982
+        },
+        {
+          "attribute_id": 509,
+          "value_id": 5075
+        },
+        {
+          "attribute_id": 508,
+          "value_id": 5261
+        },
+        {
+          "attribute_id": 773,
+          "value_id": 8202
+        },
+        {
+          "attribute_id": 492,
+          "value_id": 5987
+        },
+        {
+          "attribute_id": 575,
+          "value_id": 5991
+        },
+        {
+          "attribute_id": 778,
+          "value_id": 8460
+        },
+        {
+          "attribute_id": 577,
+          "value_id": 6055
+        },
+        {
+          "attribute_id": 779,
+          "value_id": 8458
+        },
+        {
+          "attribute_id": 578,
+          "value_id": 6042
+        },
+        {
+          "attribute_id": 776,
+          "value_id": 8224
+        },
+        {
+          "attribute_id": 579,
+          "value_id": 5992
+        },
+        {
+          "attribute_id": 580,
+          "value_id": 5994
+        },
+        {
+          "attribute_id": 780,
+          "value_id": 8422
+        },
+        {
+          "attribute_id": 581,
+          "value_id": 5996
+        },
+        {
+          "attribute_id": 582,
+          "value_id": 5998
+        },
+        {
+          "attribute_id": 583,
+          "value_id": 6000
+        },
+        {
+          "attribute_id": 584,
+          "value_id": 6002
+        },
+        {
+          "attribute_id": 585,
+          "value_id": 6005
+        },
+        {
+          "attribute_id": 586,
+          "value_id": 6007
+        },
+        {
+          "attribute_id": 587,
+          "value_id": 6010
+        },
+        {
+          "attribute_id": 588,
+          "value_id": 6012
+        },
+        {
+          "attribute_id": 589,
+          "value_id": 6014
+        },
+        {
+          "attribute_id": 590,
+          "value_id": 6017
+        },
+        {
+          "attribute_id": 591,
+          "value_id": 6020
+        },
+        {
+          "attribute_id": 592,
+          "value_id": 6022
+        },
+        {
+          "attribute_id": 593,
+          "value_id": 6024
+        },
+        {
+          "attribute_id": 594,
+          "value_id": 6026
+        },
+        {
+          "attribute_id": 595,
+          "value_id": 6029
+        },
+        {
+          "attribute_id": 596,
+          "value_id": 6031
+        },
+        {
+          "attribute_id": 597,
+          "value_id": 6048
+        },
+        {
+          "attribute_id": 598,
+          "value_id": 6063
+        },
+        {
+          "attribute_id": 599,
+          "value_id": 6064
+        },
+        {
+          "attribute_id": 513,
+          "value_id": 6050
+        },
+        {
+          "attribute_id": 514,
+          "value_id": 5481
+        },
+        {
+          "attribute_id": 547,
+          "value_id": 5438
+        },
+        {
+          "attribute_id": 491,
+          "value_id": 4917
+        },
+        {
+          "attribute_id": 510,
+          "value_id": 4983
+        }
+      ],
+      "barcode": "7332543738359",
+      "category_id": 26,
+      "compound_name": "Dishwasher ELECTROLUX KESC2210L",
+      "country_of_origin_id": 180,
+      "date_edited": "2025-10-20T13:19:24+00:00",
+      "delivery_lead_time": 1,
+      "description": "",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"7332543738359\"></script>\n    </div>\n",
+      "exclusive": true,
+      "id": 18698,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/18698/image?unique=ed2a883"
+      ],
+      "internal_reference": "KESC2210L",
+      "manufacturer_id": 19,
+      "name": "KESC2210L",
+      "price_rrp": 479.0,
+      "product_line": "Electrolux Exclusive",
+      "units_per_package": 1,
+      "volume": 0.29,
+      "weight": 37.13,
+      "weight_bruto": 38.61
+    }
+  }
+}

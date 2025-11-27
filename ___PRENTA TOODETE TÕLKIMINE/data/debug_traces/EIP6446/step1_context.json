@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543661657 7332543661657 Hob ELECTROLUX EIP6446",
+  "search_queries": {
+    "main_query": "induktsioonpliidiplaat Electrolux EIP6446 60 cm Hob2Hood",
+    "additional_queries": [
+      "kuidas kasutada Electrolux EIP6446 Bridge ja DoubleBridge funktsiooni suure grillpanni jaoks",
+      "integreeritav induktsioonpliidiplaat 60 cm 4 keedualaga Hob2Hood Electrolux EIP6446",
+      "Electrolux EIP6446 võrdlus tavalise 4 tsooniga induktsioonpliidiplaadiga",
+      "kuidas paigaldada ja kasutada Electrolux EIP6446 induktsioonpliidiplaati ActiveTouch ja taimeri funktsioonidega"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EIP6446 induktsioonpliidiplaat sobib minu kööki ja 60 cm tööpinda?",
+      "answer": "Electrolux EIP6446 on integreeritav (pealtpaigaldatav) induktsioonpliidiplaat. Toote mõõdud on ligikaudu laius 59 cm, sügavus 52 cm ja kõrgus 4,4 cm, standardiseeritud laiuseks on märgitud 60 cm ja sügavuseks 50 cm. See tähendab, et pliit on mõeldud tüüpilisse 60 cm laiusesse köögimööbli moodulisse, kuid täpse sobivuse tagamiseks tuleks võrrelda mõõte oma tööpinna lõikeavaga. Pliidiplaat on musta värvi, raamita klaaskeraamilise pinnaga ning ühildub juhtmevabalt õhupuhastiga (Hob2Hood funktsiooniga ühilduva kubuga)."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EIP6446 pliidiplaati kasutada ja hooldada?",
+      "answer": "Pliidiplaadil on puutejuhtimine liuguriga (Touch control Slider) ning ActiveTouch funktsioon – kui asetate poti või panni keedualale, süttib automaatselt vastava tsooni juhtliugur, mistõttu on kohe selge, millist juhtnuppu kasutada. Igal neljal keedualal on oma taimer, lisaks on olemas pausifunktsioon, võimendusrežiim (Power booster), automaatne kuumaks ajamine, laste lukk ja jääksoojuse näidik. Sile must klaaskeraamiline (vitrokeramika) raamita pind teeb puhastamise lihtsaks, kuid sisend ei kirjelda täpseid puhastusjuhiseid – soovitatav on järgida tootja kasutusjuhendit."
+    },
+    {
+      "question": "Kui töökindel on Electrolux EIP6446 ja milline on selle hinna-väärtuse suhe?",
+      "answer": "Sisendinfo järgi on tegu Electroluxi 600 seeria integreeritava induktsioonpliidiplaadiga, mille võimsus on kuni 7350 W. Toote töökindlust toetavad turva- ja mugavusfunktsioonid nagu laste lukk, jääksoojuse näidik, pausifunktsioon ja automaatne kuumaks ajamine. Garantii kestust ja täpseid järelteeninduse tingimusi sisend ei kirjelda, seega palume need üle vaadata konkreetse müüja või tootja tingimustest. Hinna-väärtuse mõttes pakub see mudel lisaks tavapärastele induktsioonfunktsioonidele ka kahekordset Bridge/DoubleBridge tsoonide ühendamist, Hob2Hood juhtmevaba ühendust õhupuhastiga, ActiveTouchi ja individuaalseid taimerid igale keedualale, mis teeb igapäevase toiduvalmistamise paindlikumaks ja mugavamaks."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283060562 8020283060562 Hood ELICA CT17 C BL/A/52",
+  "search_queries": {
+    "main_query": "integreeritav õhupuhasti Elica CT17 C BL/A/52 must LED",
+    "additional_queries": [
+      "kuidas vähendada toidulõhnu väikeses köögis integreeritava õhupuhastiga Elica CT17 C BL/A/52",
+      "integreeritav õhupuhasti 370 m3/h väikese korteri köögile",
+      "Elica CT17 C BL/A/52 võrreldes teiste 60 cm integreeritavate õhupuhastitega",
+      "kuidas puhastada ja millal vahetada Elica CT17 C BL/A/52 õhupuhasti rasva- ja söefiltreid"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica CT17 C BL/A/52 sobib minu kööki ja olemasolevasse kapimööblisse?",
+      "answer": "See mudel on mõeldud paigaldamiseks 60 cm laiusesse seinakappi; korpuse laius on u 53,5 cm, sügavus u 30 cm ja kõrgus u 20 cm, seega sobib standardsesse ülemkappi, kui selle sees on piisavalt ruumi ja tagaseinas/üleval on ava ventilatsioonitorule.citeturn2search6turn2search5 Väljatõmbeava läbimõõt on 120 mm, seega peab olemasolev ventilatsioonitoru või -ava olema selle mõõduga või kasutama sobivat üleminekut.citeturn2search6 Tõmbevõimsus on vahemikus umbes 290–370 m³/h, mis sobib hästi väikesele ja keskmise suurusega eraldiseisvale köögile; väga suure või avatud köögiga kodus tasub kaaluda võimsamat seadet.citeturn2search6 Paigaldusel tuleb jälgida miinimumkõrgusi pliidist: vähemalt ~50 cm elektriplaadist ja ~65 cm gaasipliidist."
+    },
+    {
+      "question": "Kui keeruline on Elica CT17 C BL/A/52 kasutamine ja hooldus?",
+      "answer": "Õhupuhastil on lihtne 3-astmeline mehhaaniline/eletrooniline juhtimine esipaneeli nuppudega – valid lihtsalt sobiva kiiruse vastavalt aurule ja lõhnale ning saad vajadusel sisse lülitada LED-töövalguse.citeturn2search6turn1search11 Rasvafilter on eemaldatav alumiiniumvõrk, mida võib regulaarselt (nt kord kuus või vastavalt kasutuskoormusele) pesta sooja vee ja nõudepesuvahendiga või nõudepesumasinas õrna programmiga.citeturn2search6 Kui ventilatsioonišahti ei ole, saab lisavarustusena lisada söefiltri CFC0141571 ja kasutada seadet recirkulatsiooni režiimis; söefilter ei kuulu komplekti ning see tuleks aeg-ajalt tootja soovituste järgi uue vastu vahetada.citeturn2search6turn1search0 Igapäevaselt on hooldus piirdubki filtrite puhastamise/vahetamisega ning korpuse ja juhtpindade pühkimisega niiske, aga mitte liiga märja lapiga."
+    },
+    {
+      "question": "Kui töökindel on Elica CT17 C BL/A/52 ja milline on garantii ning hinna-väärtuse suhe?",
+      "answer": "Mudelil on metallkorpus, alumiiniumrasvafilter, LED-valgustus ja lihtne mehaaniline mootor, mille maksimaalne õhuvool on umbes 370 m³/h ja müratase 62–67 dB – tehniliselt on tegu pigem lihtsa, kuid töökindla lahendusega igapäevaseks kasutuseks.citeturn2search6turn2search4 Energiaklass on D, mis on selle suuruse ja võimsusega täisintegreeritavate kubude puhul üsna tavaline; elektrikulu jääb mõõdukaks, arvestades, et seadet kasutatakse lühikeste perioodidena.citeturn2search6 Tootja annab sellele mudelile tavaliselt 2-aastase garantii, kuid täpsed tingimused (garantii pikkus ja ulatus) sõltuvad konkreetsest müüjast ja riigist, kus toode ostetakse.citeturn2search4turn2search5 Hinna ja väärtuse suhtelt saab klient kompaktse, täielikult kappi peitu jääva õhupuhasti, mis hoiab köögi disaini puhta, kaitseb kappe rasva ja niiskuse eest ning pakub oma klassis korralikku tõmbejõudu ja valgustust."
+    }
+  ]
+}

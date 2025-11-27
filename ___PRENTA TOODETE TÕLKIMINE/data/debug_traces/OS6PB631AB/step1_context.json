@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394110769 7333394110769 Oven AEG OS6PB631AB",
+  "search_queries": {
+    "main_query": "AEG OS6PB631AB pürolüütiline integreeritav ahi WiFi ja lihatermomeetriga",
+    "additional_queries": [
+      "kuidas lihtsustada ahju puhastamist pürolüütilise AEG OS6PB631AB ahjuga",
+      "71 l integreeritav AEG ahi pürolüüsi ja A++ energiaklassiga pere kööki",
+      "millega erineb AEG OS6PB631AB teistest pürolüütilistest WiFi-ühendusega ahjudest",
+      "kuidas kasutada AEG OS6PB631AB MealAssist funktsiooni ja pirolüütilist puhastust"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG OS6PB631AB ahi sobib minu kööki ja olemasolevasse kappi?",
+      "answer": "AEG OS6PB631AB on integreeritav iseseisev elektriahi, mis on mõeldud standardse 60 cm kõrguse ja 60 cm laiuse köögikapi jaoks. Ahju mõõdud on ligikaudu 59,5 × 59,4 × 56,7 cm (laius × kõrgus × sügavus) ning sisemaht 71 liitrit, seega sobib see hästi nii väiksemale kui ka suuremale perele. Enne ostu tasub üle mõõta oma köögikapi nišš ja võrrelda seda ahju mõõtudega. Ahi töötab elektritoitel, gaasiühendust ei ole vaja. Sisendinfo ei täpsusta, milline toitejuhe või pistikuga lahendus on komplektis, seega küsi see vajadusel müüjalt või paigaldajalt eraldi üle."
+    },
+    {
+      "question": "Kui lihtne on AEG OS6PB631AB ahju kasutada ja puhastada?",
+      "answer": "See ahi on loodud mugavaks igapäevaseks kasutamiseks. Puutetundlik TFT „EXCite“ ekraan annab tekstipõhised juhised ja kiire juurdepääsu 16 küttefunktsioonile ning kuni 172 automaatsele küpsetusprogrammile. „MealAssist“ ja sisseehitatud lihatermomeeter aitavad valida sobivad seadistused ja jälgida, millal toit on seest parajalt valmis. Ahjul on 1 tase teleskoopsiine, mis teeb raskete vormide välja tõmbamise turvalisemaks.\n\nPuhastamine on lihtsustatud tänu pürolüütilisele puhastusele (Pyroluxe): ahi kuumutab end väga kõrgele temperatuurile ja põleb rasva ning toidujäägid peeneks tuhaks, mille saab pärast jahtumist niiske lapiga välja pühkida. Igapäevaseks hoolduseks piisab sisepindade ja tarvikute regulaarset pühkimisest ning vajadusel küpsetusplaatide pesemisest. Täpsemad kasutus- ja hooldusjuhised leiad ahjuga kaasasolevast kasutusjuhendist, mida sisendinfo detailsemalt ei kirjelda."
+    },
+    {
+      "question": "Kui töökindel on AEG OS6PB631AB ahi ja kas see on oma hinda väärt?",
+      "answer": "Sisendinfo põhjal on tegu AEG 7000 seeria kvaliteetse integreeritava ahjuga, millel on A++ energiatõhususe klass, 4-kordse klaasiga uks, pehme sulgumisega uks, lapselukk ja liha sisetemperatuuri sond – need lahendused viitavad turvalisusele ja vastupidavusele igapäevases kasutuses. WiFi-ühendus ja rakendusega juhtimine pakuvad lisamugavust, võimaldades ahju eemalt jälgida ja saada toiduvalmistamise soovitusi.\n\nPikaajalise väärtuse annavad energiasäästlikkus, pürolüütiline isepuhastus (vähem puhastuskeemiat ja aega), automaatsed programmid ning suur 71 l küpsetusmaht, mis sobib perele või sagedasele küpsetajale. Garantii kestust ja täpseid tingimusi antud sisend ei täpsusta, seega kontrolli seda kindlasti müüjalt või tootja ametlikust infost. Hinna ja funktsioonide suhe on suunatud kasutajale, kes soovib kõrgema klassi mugavus- ja nutifunktsioone, mitte pelgalt baastaset."
+    }
+  ]
+}

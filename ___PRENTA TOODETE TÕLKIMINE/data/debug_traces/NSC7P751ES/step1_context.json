@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543832095 7332543832095 Fridge AEG NSC7P751ES",
+  "search_queries": {
+    "main_query": "integreeritav külmik-sügavkülmik AEG NSC7P751ES NoFrost MaxiSpace",
+    "additional_queries": [
+      "kuidas hoida puu- ja köögivilju kauem värskena GreenZone+ sahtliga AEG NSC7P751ES külmikus",
+      "integreeritav NoFrost külmik-sügavkülmik 70 cm laiusega ja 376 l mahuga perele",
+      "millega erineb AEG NSC7P751ES teistest integreeritavatest NoFrost külmik-sügavkülmikutest",
+      "kuidas kasutada ja juhtida AEG NSC7P751ES külmikut Wi-Fi ja AEG rakenduse kaudu"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG NSC7P751ES sobib minu kööki ja vajadustele?",
+      "answer": "AEG NSC7P751ES on integreeritav külmik-sügavkülmik alumise sügavkülmaga, mõeldud köögimööbli sisse paigaldamiseks (libisevad hinged). Külmiku netomaht on 287 l ja sügavkülmal 89 l, seega sobib hästi perele või neile, kes hoiavad palju värsket toitu. Välismõõdud on u 188,4 × 69,6 × 54,9 cm (kõrgus × laius × sügavus) ning standardiseeritud laius 70 cm, seega tuleb enne ostu kontrollida, et köögimööbli nišš oleks sobivate mõõtudega. Energiamärgis on E-klassis, müratase 35 dB ning olemas on Wi‑Fi ja AEG rakenduse tugi mugavaks juhtimiseks."
+    },
+    {
+      "question": "Kui lihtne on AEG NSC7P751ES kasutamine ja kas sügavkülma tuleb käsitsi sulatada?",
+      "answer": "Külmikul on sisemine puutetundlik LCD juhtimine, millelt saab reguleerida temperatuuri ja funktsioone (nt kiirjahutus, kiirkülmutus, Eco-režiim). TwinTech® NoFrost süsteem tähendab, et sügavkülma ei ole vaja käsitsi sulatada – automaatne sulatus hoiab jää tekkimist ära. GreenZone+ niiskuskontrolliga sahtel aitab puu- ja köögivilju kauem värskena hoida, vajades tavapärast puhastust (sahtli ja klaasriiulite väljavõtmine ja pesu). Avatud ukse signaal ja temperatuuri tõusu näidik aitavad vältida valest kasutusest tulenevaid probleeme. Üksikasjalikke paigaldus- ja hooldusjuhiseid kirjeldus ei ava, need leiab seadme kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel on AEG NSC7P751ES, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "AEG NSC7P751ES kasutab inverterkompressorit, mis töötab tavaliselt ühtlasemalt ja energiasäästlikumalt ning peaks vähendama kulumist. TwinTech® NoFrost hoiab ära jäätumise ja aitab säilitada sobiva niiskuse, mis vähendab nii hooldusvajadust kui ka toidukadu. Külmiku sisemine vooderdis on osaliselt valmistatud taaskasutatud plastist, mis on keskkonnasõbralikum lahendus. Tootekirjeldus ei täpsusta garantiitingimusi ega -pikkust, seega tuleb need üle vaadata konkreetse müüja juurest. Hinna ja väärtuse mõttes pakub seade suurt mahtu (MaxiSpace), Wi‑Fi ja äpi tuge, vaikset tööd (35 dB) ning arenenud niiskuse ja temperatuuri juhtimist, mis aitab toitu kauem värskena hoida."
+    }
+  ]
+}

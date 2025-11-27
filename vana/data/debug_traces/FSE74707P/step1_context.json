@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543809790 7332543809790 FSE74707P",
+  "search_queries": {
+    "main_query": "AEG FSE74707P integreeritav nõudepesumasin 60 cm",
+    "additional_queries": [
+      "AEG FSE74707P 15 komplekti 42 dB nõudepesumasin",
+      "AEG nõudepesumasin SoftGrips SoftSpikes MaxiFlex",
+      "AEG integreeritav nõudepesumasin C energiaklass 76 kWh/100 tsüklit",
+      "AEG nõudepesumasin automaatne ukse avamine põrandale kuvatav valgus"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG FSE74707P on täielikult integreeritav ja millised on paigaldusmõõdud?",
+      "answer": "Jah, tegu on integreeritava (täielikult integreeritava) 60 cm laiuse nõudepesumasinaga. Reguleeritav kõrgus on ca 81,8–89,8 cm, sügavus 55 cm. Juhtpaneel asub ukse siseküljel ja põrandale kuvatakse tööolekut näitav valguskiir. Mudelil on libisevad hinged, mis lihtsustavad mööbliesipaneeli sobitamist."
+    },
+    {
+      "question": "Kui energiasäästlik ja vaikne see mudel on?",
+      "answer": "Uue energiamärgise järgi on klass C. Energiakulu on 76 kWh / 100 tsüklit (Eco), vee kulu 11 l tsükli kohta. Müratase on 42 dB (müraklass B) ja kasutusel on invertermootor."
+    },
+    {
+      "question": "Kuidas see kaitseb õrnu klaase ja kui palju nõusid mahub?",
+      "answer": "Õrnade klaaside jaoks on ülemises korvis SoftGrips ja SoftSpikes hoidikud ning eraldi klaasipesu programm. Masin mahutab kuni 15 nõudekomplekti; olemas on 3 korvi, sh MaxiFlex söögiriistade sahtel. Paremaks pesutulemuseks on SatelliteClean pöörlev pihusti ning tsükli lõpus avaneb uks automaatselt, et kuivatust parandada."
+    }
+  ]
+}

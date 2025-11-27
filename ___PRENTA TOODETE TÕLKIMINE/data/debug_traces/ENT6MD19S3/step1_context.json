@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394082738 7333394082738 Fridge ELECTROLUX ENT6MD19S3",
+  "search_queries": {
+    "main_query": "integreeritav külmik Electrolux ENT6MD19S3 TwinTech No Frost",
+    "additional_queries": [
+      "kuidas vältida külmiku jäätumist ja hoida toitu kauem värskena Electrolux ENT6MD19S3 integreeritava külmikuga",
+      "integreeritav külmik sügavkülmaga 188 cm 207+62 l Electrolux ENT6MD19S3 vaikne 34 dB perele",
+      "millega erineb Electrolux ENT6MD19S3 teistest integreeritavatest No Frost külmikuidest",
+      "kuidas paigaldada ja kasutada Electrolux ENT6MD19S3 integreeritavat TwinTech No Frost külmikut ja sügavkülma"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux ENT6MD19S3 integreeritav külmik sobib minu kööki ja olemasolevasse köögimööblisse?",
+      "answer": "See mudel on integreeritav, mõeldud köögimööbli kappi paigaldamiseks. Standardlaius on 60 cm ja standardkõrgus 190 cm, tegelikud mõõdud on ligikaudu 188,4 × 54,6 × 54,9 cm (kõrgus × laius × sügavus). Hinged on liughingedega (sliding), uks on ümberpööratav, seega saab avamissuunda muuta vastavalt köögiplaanile. Sobivuse tagamiseks mõõtke oma kapiniši ava ja võrrelge neid toote mõõtudega; täpsema paigaldusjuhise annab tootja paigaldusjuhend, mida sisendinfo ei ava."
+    },
+    {
+      "question": "Kui lihtne on Electrolux ENT6MD19S3 külmikut kasutada ja hooldada? Kas pean sügavkülma käsitsi sulatama?",
+      "answer": "Külmik on varustatud elektroonilise juhtimisega, LED-valgustusega ja mitme mugavusfunktsiooniga (kiirjahutus, kiirkülmutus, Eco režiim, puhkusefunktsioon, ukse lahtioleku signaal). No Frost külmutustehnoloogia ja TwinTech kahekordne jahutussüsteem hoiavad sügavkülma jäätumiseta, seega ei ole sisendi järgi vaja seda käsitsi sulatada. MultiFlow tehnoloogia tagab ühtlase temperatuuri kogu külmikus, „Extra Chill“ sahtel sobib paremini liha ja juustu hoidmiseks ning CustomFlex® uksel saab riiuleid ise ümber paigutada. Sügavkülma sahtlid ja vahekapid on täielikult väljatõmmatavad, mis lihtsustab puhastamist. Täpne hooldusjuhis on kirjas kasutusjuhendis, mida sisend ei täpsusta."
+    },
+    {
+      "question": "Kui töökindel ja tasakaalus hinna-väärtuse suhtes on Electrolux ENT6MD19S3? Milline on garantii?",
+      "answer": "Sisendinfo järgi on tegemist Electroluxi integreeritava külmikuga, millel on inverterkompressor, No Frost tehnoloogia, MultiFlow õhuringlus, Extra Chill külmsahtel, CustomFlex® ukseriiulid ning madal müratase 34 dB (müraklass B). Aastane energiakulu on umbes 172 kWh ja energiatõhususklass D, mis annab mõistliku tasakaalu energiakulu ja jõudluse vahel. Kõik see teeb mudelist funktsiooniderikka ja mugava valiku, eriti kui hindate toidu värskuse säilitamist ja vaikset tööd. Garantii kestust ja täpseid tingimusi sisend ei ava – see sõltub müüjast ja kehtivast seadusest, seega soovitame need enne ostu müüja juurest üle küsida."
+    }
+  ]
+}

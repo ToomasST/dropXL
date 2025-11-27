@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8806097060772 8806097060772 Fridge SAMSUNG BRB80F26ADS0EO",
+  "search_queries": {
+    "main_query": "integreeritav külmik Samsung BRB80F26ADS0EO Twin Cooling ja No Frost",
+    "additional_queries": [
+      "kuidas hoida toitu kauem värskena Samsung BRB80F26ADS0EO Twin Cooling integreeritava külmikuga",
+      "integreeritav no frost külmik sügavkülmaga 190+74 l Samsung BRB80F26ADS0EO väikesele köögile",
+      "Samsung BRB80F26ADS0EO vs teised integreeritavad Samsung Twin Cooling külmikud",
+      "kuidas paigaldada ja kasutada Samsung BRB80F26ADS0EO integreeritavat külmik-sügavkülmikut ja SmartThings AI energiarežiimi"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Samsung BRB80F26ADS0EO integreeritav külmik sobib minu kööki ja olemasolevasse mööbli kappi?",
+      "answer": "Tegemist on integreeritava külmikuga alumise sügavkülmaga, millel on liughinged. Standardlaius on 60 cm ja standardkõrgus 180 cm, seadme enda mõõdud on ligikaudu 177,5 × 54 × 55 cm (k × l × s). See on mõeldud paigaldamiseks köögimööbli kappi vastava nišimõõduga. Enne ostu mõõtke oma kapi ava (kõrgus, laius, sügavus) ja võrrelge neid nende näitajatega ning veenduge, et paigaldusviis (liughinged) sobib teie köögimööbliga. Tootekirjeldus ei täpsusta muid süsteeme, millega see ühilduks, peale Wi‑Fi ja SmartThings kasutamise."
+    },
+    {
+      "question": "Kui lihtne on Samsung BRB80F26ADS0EO külmikut kasutada ja hooldada? Kas seda peab käsitsi sulatama?",
+      "answer": "Sellel mudelil on No Frost tehnoloogia, mis vähendab jää ja härmatise teket ning välistab vajaduse sügavkülmikut käsitsi sulatada. Twin Cooling™ eraldi aurustid ja ventilaatorid hoiavad sobivat temperatuuri ja niiskust ning aitavad vältida lõhnade segunemist. Külmikus on niiskuskontrolliga sahtel puu- ja köögiviljadele ning 0 °C lähedane tsoon tundlikule toidule. Cool Select+ ala võimaldab ühe tsooni temperatuuri muuta külmikust sügavkülmaks või vastupidi (vahemikus 2 °C kuni –23 °C), juhtides seda kas paneelilt või SmartThings rakenduse kaudu, nagu tootetekst kirjeldab. Sahtlid ja klaasriiulid on eemaldatavad, mis teeb puhastamise lihtsamaks. Tootekirjeldus ei kirjelda üksikasjalikke puhastamis- või hooldusjuhiseid, need leiate kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel on Samsung BRB80F26ADS0EO ja milline on garantii ning hinna ja väärtuse suhe?",
+      "answer": "Mudelis kasutatakse inverterkompressorit, mis tagab sujuvama töö ja aitab hoida stabiilset temperatuuri väiksema müratasemega (35 dB, müraklass B). Twin Cooling™ süsteem ja No Frost tehnoloogia parandavad töökindlust, hoides eraldi külmiku ja sügavkülmiku niiskust ning vältides jää teket. Nutikas AI energiarežiim SmartThings rakenduses aitab vähendada energiatarbimist kuni 10% ulatuses (tootja kirjeldus), aastane energiakulu on 185 kWh (energiaklass D uuel skaalal). Garantii täpset pikkust ja tingimusi tootekirjeldus ei sisalda – need sõltuvad müüjast ja tootjast ning tuleks üle vaadata ostukohas. Hinna ja väärtuse mõttes pakub see mudel lisaks tavalistele funktsioonidele ka eraldi 0 °C tsooni, paindlikku Cool Select+ ala, Wi‑Fi ühendust ja energiasäästurežiime."
+    }
+  ]
+}

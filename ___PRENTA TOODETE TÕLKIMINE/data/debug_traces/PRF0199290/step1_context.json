@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283060210 8020283060210 Hood ELICA BOXIN ADV PLUS @ BLMAT/A/60",
+  "search_queries": {
+    "main_query": "integreeritav õhupuhasti Elica Boxin Adv Plus 60 cm must Wi-Fi",
+    "additional_queries": [
+      "kuidas eemaldada toidu lõhnad avatud köögist integreeritava Elica Boxin Adv Plus õhupuhastiga",
+      "60 cm sisseehitatav õhupuhasti perimeertõmbe ja airmatic sensoriga avatud kööki",
+      "Elica Boxin Adv Plus 60 cm vs tavaline sisseehitatav õhupuhasti võrdlus",
+      "kuidas paigaldada ja puhastada Elica BOXIN ADV PLUS @ BLMAT/A/60 õhupuhastit"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica BOXIN ADV PLUS @ BLMAT/A/60 sobib minu kööki ja ülemisse kappi?",
+      "answer": "See mudel on 60 cm lai (korpuse laius u 59,4 cm), mõeldud täielikult ülemisse kappi integreerimiseks. Sobib standardsele 60 cm seinakapile, vajalik on 150 mm läbimõõduga õhukanal või sobiv üleminek. Tänu perimeertõmbele ja kuni 640 m³/h tõmbejõule sobib see hästi ka avatud köök-elutuppa, kui ventilatsioonitorustik on õigesti projekteeritud. Enne ostu tasub üle mõõta kapi sisemõõdud, toru liitumiskoht ja arvestada tootja soovitatud minimaalse kaugusega pliidipinnast."
+    },
+    {
+      "question": "Kuidas seda õhupuhastit kasutada ja hooldada, kas filtrid on pestavad?",
+      "answer": "Õhupuhastil on elektroonilised nupud 3 kiirusega + intensiivrežiim; sisseehitatud Airmatic-andur saab vajadusel tõmbe automaatselt sisse lülitada ja võimsust vastavalt aurudele reguleerida. Komplektis on pestav alumiiniumist rasvafilter, mida võib tavaliselt pesta käsitsi või nõudepesumasinas vastavalt juhendile. Söefilter lõhnade eemaldamiseks ei kuulu komplekti – kui soovite töötada recirkulatsioonirežiimis (ilma väljatõmbeta), tuleb sobiv söefilter eraldi juurde osta. Filtrite hooldus- ja vahetusintervallid on toodud kasutusjuhendis ning seadmel on filtrihoolduse meeldetuletus."
+    },
+    {
+      "question": "Kui vaikne ja töökindel Elica BOXIN ADV PLUS on ning milline on garantii ja hinna-väärtuse suhe?",
+      "answer": "Mudel kasutab energiatõhusat ja vaikset brushless-mootorit: müratase on tavarežiimidel umbes 45–57 dB ja intensiivrežiimil kuni 67 dB, mis on tugeva tõmbega sisseehitatava õhupuhasti kohta hea tulemus. Energiaklass on A ja aastane energiakulu ligikaudu 29 kWh, seega on igapäevane elektrikulu madal. Wi-Fi ühendus, pliidiplaadiga sidumine ja automaatne õhukvaliteedi andur lisavad mugavust ja vähendavad tarbetut töötamist. Garantii pikkus sõltub konkreetsest müüjast ja riigist, kuid tavaliselt kehtib vähemalt seadusjärgne tootjagarantii; täpsed tingimused tasub üle vaadata müügiportaalist või garantiikaardilt. Arvestades võimsust, vaikust ja nutifunktsioone, on tegemist pigem kõrgema klassi, kuid hea hinna-kvaliteedi suhtega integreeritava mudeliga."
+    }
+  ]
+}

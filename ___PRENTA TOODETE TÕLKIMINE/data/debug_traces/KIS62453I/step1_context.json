@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394043296 7333394043296 Hob ELECTROLUX KIS62453I",
+  "search_queries": {
+    "main_query": "Electrolux KIS62453I induktsioonpliidiplaat SenseBoil 60 cm",
+    "additional_queries": [
+      "kuidas vältida vee ülekeemist pliidil Electrolux KIS62453I SenseBoil keeduvee anduriga",
+      "60 cm integreeritav induktsioonpliidiplaat 7200 W 4 tsooniga ja Hob2Hood funktsiooniga",
+      "millega erineb Electrolux KIS62453I teistest 60 cm induktsioonpliitidest PowerBoost ja Bridge tsooniga",
+      "kuidas paigaldada ja kasutada Electrolux KIS62453I induktsioonpliidiplaati Hob2Hood ja taimeri funktsioonidega"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux KIS62453I induktsioonpliidiplaat sobib minu kööki ja olemasoleva kubuga?",
+      "answer": "Electrolux KIS62453I on integreeritav induktsioonpliidiplaat standardlaiusega 60 cm (toote mõõdud u 59 × 52 × 4,4 cm), seega sobib see enamiku 60 cm sisseehitatavate tööpinna avadega köökidesse. Paigaldus võib olla nii pealispinnaline kui tasapinnaga tasa (surface või flush mounting). Pliidiplaat toetab Hob2Hood® funktsiooni – see tähendab, et see saab juhtida ühilduvat kubu juhtmevabalt. Sisend ei täpsusta, milliste konkreetsete kubumudelitega see töötab, seega enne ostu tasub ühilduvus oma kubuga üle kontrollida või valida Hob2Hood märgistusega kubu."
+    },
+    {
+      "question": "Kui lihtne on Electrolux KIS62453I kasutamine ja kuidas seda hooldada?",
+      "answer": "Pliidiplaadil on puutetundlik liugjuhtimine (Touch control Slider) ja 4 induktsioonkaitseplaati, sh üks Bridge-tsooniga laiendatav ala. Igal tsoonil on oma taimer ning olemas on pausifunktsioon, lapse lukk, automaatne kuumaksajamine ja PowerBoost kiireks kuumutamiseks. Keeduvee andur (Boiling water sensor / SenseBoil®) aitab vältida ülekeemist, reguleerides keemise hetkest kuumust ise. Sisendmaterjal ei kirjelda täpseid puhastus- ja hooldusjuhiseid; nende jaoks tuleks lähtuda tootja kasutus- ja paigaldusjuhendist ning kasutada pliidiplaatidele sobivaid puhastusvahendeid."
+    },
+    {
+      "question": "Kui töökindel on Electrolux KIS62453I ja milline on hinna ning väärtuse suhe?",
+      "answer": "KIS62453I on Electroluxi 700 seeria induktsioonpliidiplaat, millel on mitu ohutus- ja mugavusfunktsiooni: lapse lukk, jääksoojuse näidik, toitepiirangu võimalus, pausifunktsioon ja automaatne väljalülitus taimeri kaudu. Lisaks annab lisaväärtust keeduvee andur SenseBoil®, Hob2Hood® juhtmevaba ühendus kubuga, PowerBoost ning eraldi taimer igale tsoonile – need funktsioonid säästavad aega ja aitavad vähendada ülekeemise ning kõrbemise riski. Sisend ei täpsusta garantiitingimusi; üldjuhul kehtib seadmele müüja või tootja standardgarantii vastavalt osturiigi ja edasimüüja tingimustele, seega on soovitatav need enne ostu üle vaadata."
+    }
+  ]
+}

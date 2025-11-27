@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8806097061601 8806097061601 BRB80F30BES0EO",
+  "search_queries": {
+    "main_query": "Samsung BRB80F30BES0EO integreeritav külmik-sügavkülm, 193,5 cm, Twin Cooling, 298 l",
+    "additional_queries": [
+      "Integreeritav külmik Wi‑Fi ja SmartThings AI Energy Mode – 54 cm lai, 193,5 cm kõrge",
+      "Samsung Cool Select+ tsoon – kuidas muuta sügavkülm külmikuks (2 °C / −1 °C / −5 °C / −15…−23 °C)",
+      "Vaikne No Frost integreeritav liughingedega külmik 35 dB (klass B)",
+      "BRB80F30BES0EO mõõdud ja nišivajadus: 540 × 550 × 1935 mm, 224+74 l"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Mis on Cool Select+ ja miks see mulle kasulik on?",
+      "answer": "Cool Select+ on paindlik tsoon, mille töörežiimi saad ühe nupuvajutusega (või SmartThings äpist) muuta vastavalt toidule: Cool 2 °C, Cold −1 °C, Soft Freeze −5 °C või Freeze −15…−23 °C. See lahendab igapäevase „ruumi ja sobiva temperatuuri“ probleemi – vajadusel teed sügavkülma osast lisakülmiku, kiire jahutuse või pehme külmutuse sahtli, et toit püsiks kauem värske ja maitsenüansid ei kaoks. citeturn11view0"
+    },
+    {
+      "question": "Kas see mudel sobib minu köögimööblisse?",
+      "answer": "Jah, tegu on integreeritava mudeliga liughingedega. Seadme netomõõdud on u 540 (laius) × 550 (sügavus) × 1935 mm (kõrgus), kogumaht 298 l (külmik 224 l + sügavkülm 74 l). Kontrolli köögikapi nišimõõte ja ventilatsioonivabade alade nõudeid paigaldusjuhendist. citeturn8search1"
+    },
+    {
+      "question": "Kas saan seda äpiga juhtida ja energiat kokku hoida?",
+      "answer": "Jah. Mudelil on Wi‑Fi ja tugi SmartThings rakendusele. AI Energy Mode saab kasutusmustrist ja oludest lähtuvalt optimeerida kompressori tööd ning automaatset sulatust; Samsungi andmetel võib see anda kuni ~10% energiavõidu. Funktsioon toimib Androidi ja iOS‑i seadmetes; vajalik on Wi‑Fi ja Samsungi konto. (Päriselus sõltub sääst harjumustest ja seadistustest.) citeturn8search1turn8search4"
+    }
+  ]
+}

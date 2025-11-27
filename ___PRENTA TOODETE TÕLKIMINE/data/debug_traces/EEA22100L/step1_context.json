@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543732098 7332543732098 Dishwasher ELECTROLUX EEA22100L",
+  "search_queries": {
+    "main_query": "Electrolux EEA22100L 45 cm integreeritav nõudepesumasin AirDry",
+    "additional_queries": [
+      "kuidas vältida niiskeid nõusid nõudepesumasinas Electrolux EEA22100L AirDry funktsiooniga",
+      "45 cm integreeritav nõudepesumasin 9 nõudekomplektile väikese köögi jaoks Electrolux EEA22100L",
+      "millega erineb Electrolux EEA22100L teistest 45 cm integreeritavatest nõudepesumasinatest AirDry ja invertermootoriga",
+      "kuidas paigaldada Electrolux EEA22100L nõudepesumasin PerfectFit liughingedega ja kasutada 30-min kiirprogrammi"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EEA22100L sobib minu kööki ja 45 cm integreeritavasse kappi?",
+      "answer": "See mudel on integreeritav nõudepesumasin standardlaiusega 45 cm ning mõeldud köögimööbli sisse paigaldamiseks. Tootel on PerfectFit liughinged, mis lihtsustavad paigaldust ja sobivad erineva kõrgusega niššidesse – minimaalne kõrgus on 81,8 cm ja maksimaalne 87,8 cm. Enne ostu soovitame üle mõõta oma kapiaugu (laius, kõrgus, sügavus) ja võrrelda neid tehniliste andmetega. Masin ei ole Wi-Fi-toega, kuid sellel on kuuma vee sissevoolu võimalus. Täpse paigalduslahenduse (eespaneel, sokkel jms) osas tuleks lähtuda köögimööbli lahendusest ja tootja paigaldusjuhendist."
+    },
+    {
+      "question": "Kuidas seda nõudepesumasinat igapäevaselt kasutada ja hooldada?",
+      "answer": "Electrolux EEA22100L pakub 6 pesuprogrammi, sh automaatprogramm, 30-minutiline kiirprogramm kergelt määrdunud nõudele ja „rinse & hold“ loputusprogramm ebameeldivate lõhnade vältimiseks, kui masinat ei täideta korraga. Masinal on 2 korvi ja kuni 9 nõudekomplekti mahutavus, sisemine puutetundlik juhtpaneel ning viitstardi võimalus. Tsükli lõpus avaneb uks automaatselt (AirDry), et nõud loomuliku õhuringlusega paremini kuivaksid. Hoolduse kohta (nt filtrite puhastus, katlakivi eemaldamine) konkreetseid juhiseid sisend ei kirjelda, seega tuleks kasutada Electroluxi ametlikku kasutusjuhendit. Roostevabast terasest sisekuup aitab lihtsamini puhtust hoida."
+    },
+    {
+      "question": "Kui töökindel ja energiasäästlik on Electrolux EEA22100L ning milline on hinna ja väärtuse suhe?",
+      "answer": "Sisendinfo põhjal on masinal invertermootor, täis roostevabast terasest sisekorpus ja veekaitsesüsteem ning automaatne väljalülitus, mis kõik viitavad kaasaegsele ja vastupidavale lahendusele. Energiaklass on uusklassi järgi F, energiakulu 78 kWh 100 pesutsükli kohta ja veekulu umbes 9,9 l tsükli kohta. Müra tase on 47 dB (klass C). Garantii kestuse ja täpsete tingimuste kohta sisend ei anna infot, seega tuleks need üle kontrollida müüja või teenindusega. Arvestades, et tegu on kitsa 45 cm integreeritava mudeliga, pakub see palju mugavusfunktsioone (AirDry automaatne ukse avanemine, kiirpesu, automaatprogramm, PerfectFit liughinged), mis teevad igapäevase kasutuse lihtsamaks ja võivad paljudele ostjatele hinda õigustada."
+    }
+  ]
+}

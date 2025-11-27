@@ -1,0 +1,30 @@
+{
+  "successful": [
+    {
+      "success": true,
+      "action": "created",
+      "product_id": 302152,
+      "name": "Integreeritav No Frost külmik-sügavkülmik Wi-Fi ja AdaptTechiga Gorenje NRKI517E82WF, 60 cm, 177 cm, inverterkompressor, 176/76 L, LED-valgustus, 35 dB, uks-uksele paigaldus",
+      "sku": "NRKI517E82WF",
+      "permalink": "https://ruumistruumi.ee/pood/integreeritav-no-frost-kulmik-sugavkulmik-wi-fi-ja-adapttechiga-gorenje-nrki517e82wf-60-cm-177-cm-inverterkompressor-176-76-l-led-valgustus-35-db-uks-uksele-paigaldus/"
+    },
+    {
+      "success": true,
+      "action": "created",
+      "product_id": 302159,
+      "name": "Integreeritav külmik alumise sügavkülmaga NoFrostiga Gorenje NRKI517E62WF, 60 cm, 176/76 L, E-kl, inverterkompressor, 35 dB, Wi-Fi, LED-valgustus",
+      "sku": "NRKI517E62WF",
+      "permalink": "https://ruumistruumi.ee/pood/integreeritav-kulmik-alumise-sugavkulmaga-nofrostiga-gorenje-nrki517e62wf-60-cm-176-76-l-e-kl-inverterkompressor-35-db-wi-fi-led-valgustus/"
+    },
+    {
+      "success": true,
+      "action": "skipped",
+      "product_id": 302151,
+      "sku": "NRKI517E42",
+      "permalink": "https://ruumistruumi.ee/pood/integreeritav-nofrost-kulmik-sugavkulmaga-all-gorenje-nrki517e42-inverterkompressor-e-energiaklass-252-l-177-2-cm-led-valgustus-ukse-uksele-paigaldus-valge/"
+    }
+  ],
+  "failed": [],
+  "created": 2,
+  "updated": 0
+}

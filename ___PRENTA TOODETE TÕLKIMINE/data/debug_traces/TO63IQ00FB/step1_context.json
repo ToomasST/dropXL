@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394069913 7333394069913 Hob AEG TO63IQ00FB",
+  "search_queries": {
+    "main_query": "AEG TO63IQ00FB 60 cm induktsioonpliidiplaat Hob2Hood ja Bridge-funktsiooniga",
+    "additional_queries": [
+      "kuidas kasutada Bridge-funktsiooni kaht keeduvälja ühendamiseks AEG TO63IQ00FB induktsioonpliidiplaadil",
+      "induktsioonpliidiplaat 60 cm 7350 W Hob2Hood ja 3 keedualaga sisseehitatavasse kööki",
+      "millega erineb AEG TO63IQ00FB teistest 60 cm induktsioonpliidiplaatidest Bridge ja Hob2Hood funktsioonide poolest",
+      "kuidas seadistada taimerit ja Hob2Hood funktsiooni AEG TO63IQ00FB induktsioonpliidiplaadil igapäevaseks kasutamiseks"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG TO63IQ00FB induktsioonpliidiplaat sobib minu kööki ja olemasoleva tööpinnaga?",
+      "answer": "AEG TO63IQ00FB on integreeritav 60 cm laiune induktsioonpliidiplaat, mille paigaldusviis on pinnapealne (surface mounting). Pliidiplaadi mõõdud on ligikaudu 59 × 52 × 4,4 cm ja värv must, pind on klaaskeraamiline (vitrokeramika). Standardiseeritud laiuseks on märgitud 60 cm ja sügavuseks 55 cm, mistõttu sobib see enamiku 60 cm integreeritavate köögimööbli lahendustega. Täpseid väljalõikemõõte ja elektriühenduse nõudeid (220–240/400V2N) ei ole sisendis detailselt kirjeldatud, seega tuleks need üle vaadata paigaldusjuhendist ja vajadusel konsulteerida elektrikuga, et veenduda sobivuses sinu köögiga."
+    },
+    {
+      "question": "Kui lihtne on AEG TO63IQ00FB pliidiplaati kasutada ja millised on peamised kasutusfunktsioonid?",
+      "answer": "AEG TO63IQ00FB on kasutamiseks lihtne tänu puutetundlikele liugjuhtnuppudele, kus võimsusastmed on selgelt märgitud vahemikus 1–14 – saad kohe valida soovitud kuumuse, ilma pidevalt „+/-” vajutamata. Pliidiplaadil on 3 keeduala, millest kaks saab Bridge-funktsiooniga omavahel ühendada üheks suureks tsooniks, et kasutada pikemat või suuremat potti. Hob2Hood® funktsioon võimaldab pliidiplaadil juhtida ühilduvat kubu – ventilaatori kiirus muutub automaatselt vastavalt kuumusele. Kiireks keetmiseks on PowerBoost, taimer kuni 1 tunnini koos automaatse väljalülitusega, pausifunktsioon, lapselukk, jääkkuumuse näidik, automaatne eelkuumus (Automatic heating-up) ja võimsuse piiramine. Sisendinfo ei kirjelda täpseid puhastus- ega hooldusjuhiseid, seega tuleks nende osas lähtuda tootja kasutusjuhendist."
+    },
+    {
+      "question": "Kui töökindel ja turvaline on AEG TO63IQ00FB ning kas see on oma hinda väärt?",
+      "answer": "Sisendinfo ei anna otsest infot konkreetse garantiiperioodi või testitud tööea kohta, kuid AEG on tuntud tootja ning selle mudeli juures on mitmeid ohutus- ja mugavusfunktsioone, mis suurendavad kasutusmugavust ja turvalisust. Pliidiplaadil on lapselukk, jääkkuumuse näidik, võimsuse piiramine, pausifunktsioon ja taimer automaatse väljalülitusega, mis aitavad vähendada ülekuumenemise ja unustamise riski. Induktsioontehnoloogia soojeneb kiiresti (7350 W koguvõimsus) ja PowerBoost kiirendab keetmist, mis säästab aega ja energiat. Hob2Hood® automaatne ühendus sobiva kubuga lisab mugavust, eriti avatud köögis. Garantiitingimusi (kestus, ulatus) sisendmaterjal ei täpsusta, seega tuleks need üle vaadata müüja või tootja ametlikest tingimustest. Hinna-väärtuse mõttes pakub see mudel palju lisafunktsioone võrreldes lihtsamate induktsioonpliidiplaatidega, eriti kui hindad automaatikat, täpset juhtimist ja Bridge-tsooni kasutamisvõimalust."
+    }
+  ]
+}

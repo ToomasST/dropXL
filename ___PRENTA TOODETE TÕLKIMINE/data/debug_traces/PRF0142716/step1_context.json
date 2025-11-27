@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283045422 8020283045422 Hood ELICA ERA C WH/A/52",
+  "search_queries": {
+    "main_query": "integreeritav õhupuhasti Elica ERA C WH/A/52 valge 50 cm",
+    "additional_queries": [
+      "kuidas vähendada toidulõhnu väikses köögis integreeritava õhupuhastiga Elica ERA C WH/A/52",
+      "integreeritav köögikubu 50 cm 120 mm toruga väikesele ja keskmisele köögile",
+      "Elica ERA C WH/A/52 võrdlus teiste integreeritavate 50 cm õhupuhastitega",
+      "kuidas paigaldada ja hooldada Elica ERA C WH/A/52 õhupuhastit ning vahetada CFC0038000/CFC0141571 söefiltrit"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica ERA C WH/A/52 sobib minu kööki ja olemasoleva ventilatsiooniga?",
+      "answer": "Elica ERA C WH/A/52 on ülemkappi integreeritav kubu, mis sobib standardse 50–60 cm laiuse pliidi kohale ja ühendamiseks 120 mm läbimõõduga ventilatsioonitoruga.citeturn0search0turn0search5 Tootja järgi on õhuvõimsus u 290–368 m³/h ja müratase 62–67 dB, mis teeb sellest hea valiku väikesele ja keskmise suurusega (u 6–12 m²) köögile.citeturn0search0turn0search5 Vaikimisi on see mõeldud väljapoole väljatõmbeks (duct out), kuid kui majas puudub ventilatsioonitoru, saab seda kasutada ka ringlusrežiimis, lisades eraldi ostetavad söefiltrid CFC0038000 või CFC0141571.citeturn0search6turn0search9turn0search11"
+    },
+    {
+      "question": "Kui lihtne on Elica ERA C WH/A/52 kasutamine ja hooldus?",
+      "answer": "Kubu juhitakse lihtsa 3-astmelise nupplülitiga, lisaks saab samast paneelist sisse lülitada LED-valgustuse (2 × 3 W).citeturn0search0turn0search5 Integreeritud metallrasvafiltrid on eemaldatavad ja pestavad (soovitavalt käsitsi või nõudepesumasina õrnal programmil), mis teeb igapäevase hoolduse lihtsaks.citeturn0search5 Kui kasutate kubu ringlusrežiimis, tuleb söefilter CFC0038000 või CFC0141571 regulaarselt välja vahetada – Elica soovitab originaalseid söefiltreid vahetada umbes iga 3–4 kuu järel, sõltuvalt kasutussagedusest.citeturn0search6turn0search9"
+    },
+    {
+      "question": "Kui töökindel on Elica ERA C WH/A/52 ja milline on garantii ning hinna-väärtuse suhe?",
+      "answer": "ERA C WH/A/52 korpus on valmistatud valgest värvitud terasest, kasutusel on energiasäästlikud LED-tuled ja lihtne mehhaaniline juhtplokk – see tähendab vähem keerulist elektroonikat ja tavaliselt ka väiksemat rikkenõrkust.citeturn0search0turn0search5 Elica on rahvusvaheline õhupuhastite tootja, kes pakub oma mudelitele originaaltarvikuid (nt CFC0038000/CFC0141571 söefiltrid), mis toetab pikaajalist kasutust ja lihtsat järelhooldust.citeturn0search6turn0search9turn0search11 Garantii täpsed tingimused (nt kestus ja katvus) sõltuvad müüjast ja maaletoojast, seega tasub need üle vaadata konkreetse e-poe või arve tingimustest. Arvestades integreeritava lahenduse, korraliku õhuvõimsuse ja tuntud brändi, pakub see mudel tugevate põhiomadustega kubu mõistliku hinnaga neile, kes ei vaja kõige vaiksemat ega energiatõhusaimat tippklassi mudelit."
+    }
+  ]
+}

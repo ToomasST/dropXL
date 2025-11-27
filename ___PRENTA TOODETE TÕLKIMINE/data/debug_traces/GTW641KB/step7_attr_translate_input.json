@@ -1,0 +1,55 @@
+{
+  "model": "gpt-5.1",
+  "instructions": "\n                            Tõlgi järgmised atribuudinimed ja -väärtused eesti keelde.\n\n                            Oluline:\n                            - Arvesta toote iseloomu ja kogu läbitöödeldud konteksti (pealkiri, kirjeldus, SEO päringud, KKK), et tõlge vastaks toote tegelikele omadustele.\n                            - Säilita mõõtühikud õigel kujul (cm, mm, L, W, V jne) ja arvväärtused; kasuta korrektselt eestikeelseid käändeid ja idiomaatilist sõnajärge.\n                            - Ära lisa uusi tähendusi ega väärtusi; tõlgi ainult antud nimesid ja väärtusi.\n                            - Iga translation-objekt PEAB sisaldama ka \"attr_name\" välja. Kui kind == \"name\", siis kasuta attr_name = source.\n\n                            Tagasta täpselt skeemiga { translations: [ { kind: 'name'|'value', source: string, translated: string, attr_name?: string } ] }.\n                        ",
+  "input": "{\"items\": [{\"kind\": \"value\", \"attr_name\": \"Power (W)\", \"source\": \"8800\"}]}",
+  "tools": null,
+  "text": {
+    "verbosity": "low",
+    "format": {
+      "type": "json_schema",
+      "name": "attr_translations_schema",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "translations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "kind": {
+                  "type": "string"
+                },
+                "source": {
+                  "type": "string"
+                },
+                "translated": {
+                  "type": "string"
+                },
+                "attr_name": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "kind",
+                "source",
+                "translated",
+                "attr_name"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "translations"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "reasoning": {
+    "effort": "medium"
+  },
+  "previous_response_id": "resp_0f4fcb153cb664fe00691ce53a8c348190af509bf591f544ad",
+  "service_tier": "default"
+}

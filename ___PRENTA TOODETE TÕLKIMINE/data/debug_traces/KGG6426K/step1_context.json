@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543566617 7332543566617 Hob ELECTROLUX KGG6426K",
+  "search_queries": {
+    "main_query": "Electrolux KGG6426K klaaspinnaga gaasipliidiplaat 60 cm",
+    "additional_queries": [
+      "kuidas valida kergesti puhastatav klaaspinnaga gaasipliidiplaat nagu Electrolux KGG6426K",
+      "gaasipliidiplaat 60 cm 4 põletiga klaaspinnaga integreeritav must",
+      "Electrolux KGG6426K võrdlus teiste 60 cm gaasipliidiplaatidega klaaspinnal",
+      "kuidas kasutada ja puhastada Electrolux KGG6426K klaaspinnaga gaasipliidiplaati"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux KGG6426K sobib minu kööki ja olemasolevasse töötasapinda?",
+      "answer": "Electrolux KGG6426K on integreeritav gaasipliidiplaat klaaspinnaga, mille standardlaius on 60 cm. Toote välismõõdud on ligikaudu 59 × 52 × 4,5 cm, seega sobib see enamiku 60 cm laiuste tööpindade väljalõigetesse. Paigaldustüübiks on pealtpaigaldus (surface mounting). Enne ostu tasub võrrelda mõõte oma töötasapinna lõikega ja gaasiühendus tuleks lasta teha kvalifitseeritud spetsialistil. Sisend ei täpsusta täpselt, milliste gaasitüüpidega (nt maagaas, LPG) on seade tehaseseades ühilduv, kuid infos on märgitud, et komplektis on vedelgaasi düüsid."
+    },
+    {
+      "question": "Kui lihtne on seda pliidiplaati kasutada ja puhastada?",
+      "answer": "KGG6426K on gaasipliidiplaat nelja keedualaga, mida juhitakse nuppudega. Süüde toimub vajutus-süütenupuga (push knob), liegi tugevust saab täpselt reguleerida tundlike gaasikraanidega. Temperdatud klaaspinda on lihtne sileda pinna tõttu puhastada ning malmist potitoed tagavad stabiilsuse toidunõudele. Pärast täielikku jahtumist saab klaaspinna niiske lapi ja sobiva puhastusvahendiga üle käia; täpsem puhastus- ja hooldusjuhend on kirjas seadmega kaasas olevas kasutusjuhendis (sisendmaterjal seda detailsemalt ei kirjelda)."
+    },
+    {
+      "question": "Kui töökindel ja turvaline on Electrolux KGG6426K ning milline on hinna ja väärtuse suhe?",
+      "answer": "Pliidiplaat on valmistatud karastatud klaasist ning varustatud malmist potitugedega, mis on vastupidavad ning hoiavad nõud kindlalt paigal. Mudelil on leegikaitse (flame failure device) – kui leek peaks ootamatult kustuma, katkestab süsteem automaatselt gaasi juurdevoolu, mis tõstab oluliselt ohutust. Sisendi põhjal on koguvõimsus kuni 8000 W. Garantiimäära ja täpseid järelteeninduse tingimusi sisend ei täpsusta – need sõltuvad müüjast ja kehtivast garantiipoliitikast. Arvestades, et tegu on tunnustatud brändi Electrolux integreeritava gaasiplaadiga klaaspinnal, hea puhastatavuse ja ohutusfunktsiooniga, pakub see tüüpilisele kodukasutajale tugeva hinna-kvaliteedi suhet."
+    }
+  ]
+}

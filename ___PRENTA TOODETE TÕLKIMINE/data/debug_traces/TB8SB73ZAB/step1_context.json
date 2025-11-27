@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394073422 7333394073422 Oven AEG TB8SB73ZAB",
+  "search_queries": {
+    "main_query": "AEG TB8SB73ZAB integreeritav auruga ahi WiFi ja AI funktsiooniga",
+    "additional_queries": [
+      "kuidas teha tervislikumat ja vitamiine säilitavat toitu auruga AEG TB8SB73ZAB ahjus",
+      "integreeritav 70 l AEG auruga ahi SteamPro funktsiooniga pere kööki",
+      "millega erineb AEG TB8SB73ZAB tavalistest ahjudest (aurufunktsioon, AI TasteAssist, automaatprogrammid)",
+      "kuidas kasutada aurupuhastust ja igapäevaselt hooldada AEG TB8SB73ZAB ahju"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG TB8SB73ZAB ahi sobib minu kööki ja olemasolevasse kappi?",
+      "answer": "AEG TB8SB73ZAB on integreeritav elektriahi standardmõõtudega u 60 × 60 cm (toote andmetes: standardiseeritud kõrgus 60 cm, laius 60 cm; sügavus ligikaudu 56,7 cm). See sobib enamiku tavapäraste täiskõrguses integreeritavate ahjukappide jaoks, kuid enne ostu tasub üle mõõta olemasolev nišš ning võrrelda seda toote pikkuse, laiuse ja kõrgusega. Sisendandmed ei täpsusta elektriühenduse nõudeid, seega soovitame vajadusel konsulteerida paigaldajaga või müüjaga."
+    },
+    {
+      "question": "Kui lihtne on seda ahju kasutada ja kuidas toimub puhastamine?",
+      "answer": "Ahi on varustatud „CookSmart Touch“ puuteekraaniga, mis juhendab küpsetamisel, võimaldab salvestada lemmikretsepte ja valida sobivaid funktsioone. SteamPro aurusüsteem ja Steamify aitavad automaatselt valida õige aurukoguse, et toit jääks mahlane ja vitamiinirikas. Saad kasutada tavalist küpsetamist, röstimist, hautamist ja 100% auruga valmistamist, kokku kuni 25 küpsetusfunktsiooni ning 139 automaatset programmi. Komplektis on ka lihatermomeeter täpseks küpsusastme jälgimiseks.\n\nPuhastamine käib aurupuhastuse kaudu: ahi annab märku, kui on aeg puhastada, ning seejärel on mustus lihtne niiske lapiga eemaldada. Tootja andmetel kasutab aurupuhastus kuni 95% vähem energiat kui pirolüütiline puhastus. Sisend ei kirjelda muid erihoolduse nõudeid, seega piisab üldjuhul regulaarsest pühkimisest ja tootja juhendist kinni pidamisest."
+    },
+    {
+      "question": "Kui töökindel ja energiasäästlik see ahi on ning milline on garantiiaeg?",
+      "answer": "Sisendi järgi on AEG TB8SB73ZAB A++ energiaklassiga integreeritav ahi, mis võimaldab küpsetada madalamatel temperatuuridel ja auruga, säästes kuni 20% energiat võrreldes tavapärase kuumutamisega (tootja väitel). Auruga valmistamine aitab säilitada kuni 90% C-vitamiinist, mistõttu on toit tervislikum. Aurupuhastus kasutab kuni 95% vähem energiat kui pirolüütiline puhastus. Mugavust ja ohutust lisavad pehme sulgumisega uks, laste lukk, kolmekordne ukseklaas ning Wi-Fi ühendus ja AI TasteAssist funktsioon retseptide optimeerimiseks.\n\nGarantiitingimusi (kestus, täpsed tingimused) sisendandmed ei kirjelda. Täpse info saamiseks garantiiaja ja järelteeninduse kohta palume vaadata müüja või tootja ametlikku infot. Hinna ja väärtuse suhtes pakub see ahi lisaks tavapärastele küpsetusrežiimidele ka täisauru, nutika puuteekraani, suure hulga automaatprogramme ja rakendusega juhitavaid AI-funktsioone, mis muudavad toiduvalmistamise mugavamaks, tervislikumaks ja energiasäästlikumaks."
+    }
+  ]
+}

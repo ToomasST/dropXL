@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8806097060741 8806097060741 Fridge SAMSUNG BRB80F26ADF0EO",
+  "search_queries": {
+    "main_query": "integreeritav no frost külmik Samsung BRB80F26ADF0EO Twin Cooling",
+    "additional_queries": [
+      "kuidas hoida toit kauem värske Twin Cooling integreeritava Samsung külmikuga",
+      "integreeritav Samsung külmik sügavkülmaga 193+74 l 60 cm kapile",
+      "Samsung BRB80F26ADF0EO võrreldes teiste integreeritavate Samsung külmikutega",
+      "kuidas seadistada Samsung BRB80F26ADF0EO Cool Select+ tsooni ja AI energiarežiimi"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Samsung BRB80F26ADF0EO külmik sobib minu kööki ja vajadustele?",
+      "answer": "See mudel on integreeritav külmik alumise sügavkülmaga, mõeldud paigaldamiseks köögimööbli kappi. Standardlaius on 60 cm ja standardkõrgus 180 cm, tegelikud mõõdud on u 54 × 55 × 177,5 cm (laius × sügavus × kõrgus), seega sobib tüüpilisse 60 cm integreeritavasse nišši. Ukse kinnitus on „door on door“ ja uksed on ümbertõstetavad, mis lihtsustab sobitamist erinevatesse köökidesse.\n\nNetomaht on 193 l külmikul ja 74 l sügavkülmal – see sobib hästi 2–4-liikmelisele perele või neile, kes soovivad integreeritavat, kuid ruumikat lahendust. No Frost tehnoloogia, inverterkompressor, niiskust reguleeritav köögiviljasahtel, 0 °C lähedane külmsahtel ning Twin Cooling™ sõltumatu jahutus hoiavad toidu kauem värskena. Wi‑Fi ja SmartThings tugi ning Cool Select+ tsoon võimaldavad paindlikku kasutamist ja energiakasutuse jälgimist."
+    },
+    {
+      "question": "Kui lihtne on Samsung BRB80F26ADF0EO külmikut kasutada ja hooldada?",
+      "answer": "Külmikul on väline elektrooniline juhtimine, mis võimaldab temperatuuri ja funktsioone mugavalt seadistada. Cool Select+ tsooni saab ühe nupuvajutusega või läbi SmartThings rakenduse seadistada erinevatele temperatuuridele (jahutus, pehme külmutus, sügavkülm), et sobitada see parasjagu kasutusel oleva toiduga.\n\nNo Frost jahutustehnoloogia tähendab, et sügavkülm ei vaja käsitsi ülesulatusi – see vähendab hooldusvajadust. LED-valgustus, täielikult väljatõmmatavad sahtlid ja klaasriiulid teevad toidu paigutamise ja puhastamise lihtsamaks. Spetsiifilisi puhastus- ja hooldusjuhiseid sisend ei kirjelda – nende jaoks tuleks järgida tootja kasutusjuhendit."
+    },
+    {
+      "question": "Kui töökindel on see mudel ja milline on hinna ja kvaliteedi suhe?",
+      "answer": "Sisendinfo põhjal kasutab külmik inverterkompressorit, mis töötab sujuvamalt ja tavaliselt säästlikumalt kui tavalised kompressorid, lisaks on olemas metalliseeritud tagasein, antibakteriaalne tehnoloogia ja ventilaator ühtlaseks jahutuseks. Müra tase on 35 dB (müraklass B), mis on vaikne igapäevase kasutuse jaoks. Aastane energiakulu on 185 kWh ning SmartThings AI energiarežiim võib sisendi järgi aidata energiat kokku hoida kuni 10% optimeerides kompressori tööd ja sulatusi.\n\nKonkreetsed garantiitingimused (sh kestus) ei ole sisendis välja toodud, seega tuleks need üle vaadata müüja või tootja garantiikirjeldusest. Arvestades integreeritavat lahendust, Twin Cooling™ süsteemi, No Frost tehnoloogiat, nutifunktsioone (Wi‑Fi, SmartThings, AI energiarežiim) ja paindlikku Cool Select+ tsooni, pakub mudel tugevat funktsionaalsust oma hinnaklassis, eriti neile, kes hindavad toidu värskust ja energiatõhusust."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394118147 7333394118147 Oven ELECTROLUX EOE8P38X",
+  "search_queries": {
+    "main_query": "Electrolux EOE8P38X pürolüüsiga integreeritav ahi 72 l",
+    "additional_queries": [
+      "kuidas lihtsustada ahju puhastamist pürolüütilise ahjuga Electrolux EOE8P38X",
+      "integreeritav ahi 72 l pöördõhu ja kiire eelkuumutusega perele Electrolux EOE8P38X",
+      "mille poolest erineb Electrolux EOE8P38X teistest Electrolux pürolüütilistest ahjudest",
+      "kuidas kasutada Electrolux EOE8P38X MealAssist küpsetusjuhendit ja pürolüütilist puhastust igapäevaselt"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EOE8P38X ahi sobib minu köögimööbli nišši ja olemasolevasse süsteemi?",
+      "answer": "Electrolux EOE8P38X on integreeritav, iseseisev elektriahi, mis on mõeldud standardsesse 60 cm ahju nišši. Toote välismõõdud on ligikaudu 59,4 × 59,4 × 56,7 cm (laius × kõrgus × sügavus) ning atribuutides on märgitud standardkõrgus ja -laius 60 cm. See tähendab, et ahi sobib enamiku 60 cm köögimööbli lahendustega, kuid enne ostu tasub mõõta oma nišš, eriti sügavus, ja võrrelda need mõõdud paigaldusjuhendiga. \"Iseseisev\" (independent) tähendab, et ahi ei vaja juhtimiseks eraldi pliidiplaati – seda juhitakse otse oma puutetundliku juhtpaneeli kaudu."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EOE8P38X ahju kasutada ja puhastada igapäevaselt?",
+      "answer": "Seda ahju on tehtud võimalikult lihtsaks kasutada. Puutetundlik EXCite TFT-ekraan annab selge info ja võimaldab valida kuni 15 standardse kütterežiimi vahel ning kasutada kuni 99 automaatset küpsetusprogrammi (MealAssist/Küpsetusjuhend), mis seab ise sobivad seadistused erinevatele toitudele. Kiire eelkuumutuse funktsioon aitab kiiremini soovitud temperatuurini jõuda ning pöördõhk tagab ühtlasema küpsemise, ka mitmel tasandil korraga.\n\nPuhastamist lihtsustab pürolüütiline puhastus: ahi kuumutab end väga kõrgele temperatuurile, muudab rasva ja toidujäägid tuhkjas kihiks ning pärast jahtumist tuleb pind lihtsalt niiske lapiga üle pühkida. Täpsemat puhastus- ja kasutusjuhendit (sh kui tihti pürolüüsi kasutada) sisendmaterjal ei kirjelda, seega tuleb selleks tugineda tootega kaasas olevale kasutusjuhendile."
+    },
+    {
+      "question": "Kui töökindel ja energiasäästlik on Electrolux EOE8P38X ahi ning kas see on oma hinda väärt?",
+      "answer": "Tooteinfo järgi on Electrolux EOE8P38X energiatõhususklassiga A+, mis tähendab säästlikumat energiakasutust võrreldes madalama klassi ahjudega. Suur 72-liitrine küpsetusmaht, pöördõhu funktsioon ning võimalus küpsetada mitmel tasandil korraga aitavad tõhusamalt süüa valmistada – ühe ahjutäiega saab teha rohkem. Pürolüütiline puhastus vähendab keemiliste puhastusvahendite vajadust ja säästab aega.\n\nTöökindlusele viitavad ka sellised lahendused nagu kolmekordne ahjuukse klaas, pehme sulgumisega uks ning laste lukk. Konkreetseid garantiitingimusi (kestus, laiendatud garantii jms) sisend ei täpsusta – need sõltuvad müüjast ja tootjast, kuid vähemalt seadusest tulenev miinimumgarantii kehtib tavapäraselt. Hinna-väärtuse suhe tuleneb eelkõige funktsioonirohkusest (99 automaatset programmi, 15 küttefunktsiooni, pürolüüs, teleskoopsiinid, A+ energiaklass), mis teeb sellest hea valiku kasutajale, kes soovib mugavat ja kaasaegset integreeritavat ahju pikaks ajaks."
+    }
+  ]
+}

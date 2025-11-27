@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7612986372700 7612986372700 Hob and Hood (2in1) FABER GALILEO SLIM F600",
+  "search_queries": {
+    "main_query": "integreeritav pliidiplaat koos õhupuhastiga FABER GALILEO SLIM F600",
+    "additional_queries": [
+      "lahendus köögilõhnadele ilma seinakubuta FABER GALILEO SLIM F600 pliidiplaat koos õhupuhastiga",
+      "induktsioonpliit õhupuhastiga 60 cm 7400W A+ avatud kööki",
+      "FABER GALILEO SLIM F600 võrdlus teiste integreeritud pliidiplaatidega koos õhupuhastiga",
+      "kuidas kasutada ja hooldada FABER GALILEO SLIM F600 recirculation induktsioonpliiti ja süsifiltrit"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas FABER GALILEO SLIM F600 sobib minu kööki ja 60 cm laiusesse tööpinda?",
+      "answer": "Toote andmetel on FABER GALILEO SLIM F600 60 cm standardlaiusega integreeritav induktsioonpliit koos sisseehitatud õhupuhastiga. Paigaldusviisiks on kas pealtpaigaldus või tasapinnaga tasa paigaldus, seega sobib see enamiku 60 cm laiuste integreeritavate pliidiplaatide jaoks mõeldud tööpindadega. Õhupuhuti töötab ringlusrežiimil (recirculation) koos aktiivsöefiltriga, seega ei ole tootekirjelduse järgi vaja eraldi väljatõmbe kanalit. Täpsed väljalõike mõõdud ja kapi/sokli nõuded sõltuvad tootja paigaldusjuhendist, mis ei ole siin kirjelduses detailselt välja toodud."
+    },
+    {
+      "question": "Kuidas kasutada ja hooldada FABER GALILEO SLIM F600 pliidiplaati ja õhupuhastit?",
+      "answer": "FABER GALILEO SLIM F600 on klaaskeraamilise (vitroceramic) pinnaga induktsioonpliit, millel on puutetundlik slider-juhtimine, taimer, pausifunktsioon, järelejäänud soojuse indikaator, lapselukk ja Power Booster kiiremaks kuumutamiseks. Pliidiplaadil on 4 keeduala ja 2x Bridge-funktsioon ala ühendamiseks suurematele nõudele. Õhupuhuti töötab ringlusrežiimil ja kasutab süsinikfiltrit (charcoal filter). Toote kirjelduse järgi on saadaval eraldi täitefilter „Refill long lasting filter GALILEO Stripes / Slim“ (112.0716.092). Filtri puhastamise ja vahetamise täpne sagedus ning pliidiplaadi puhastamise juhised on kirjas tootja kasutusjuhendis; üldiselt tuleb järgida seal toodud soovitusi ega tootekirjeldus neid siin ei täpsusta."
+    },
+    {
+      "question": "Kui töökindel on FABER GALILEO SLIM F600 ja kas see on oma hinda väärt?",
+      "answer": "Tootekirjeldus ei sisalda konkreetseid garantiitingimusi ega tööea kestuse lubadusi – garantiiaeg sõltub tavaliselt müüjast ja kehtivast seadusandlusest. Küll aga on tegemist Faber kaubamärgi „FABER Exclusive“ tooteseeria integreeritava induktsioonpliidiga, millel on sisseehitatud õhupuhasti, A+ energiatõhususklass, võimsus kuni 7400 W, õhuvool kuni 630 m³/h (booster) ja müratase 49–73 dB. 2-ühes lahendus võimaldab säästa ruumi ja loob puhtama köögidisaini, kuna eraldi seina- või saarekubu ei pruugi olla vaja. Nende omaduste põhjal pakub seade tugevat funktsionaalsust ühes kompaktses lahenduses, kuid hinna-väärtuse lõplik hindamine sõltub ostja konkreetsetest vajadustest ja eelarvest."
+    }
+  ]
+}

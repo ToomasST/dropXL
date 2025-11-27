@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394032092 7333394032092 Hob ELECTROLUX EIS62453",
+  "search_queries": {
+    "main_query": "Electrolux EIS62453 60 cm induktsioonpliidiplaat SenseBoil ja Hob2Hood",
+    "additional_queries": [
+      "kuidas vältida vee ülekeemist induktsioonpliidil Electrolux EIS62453 SenseBoil keedusensoriga",
+      "integreeritav induktsioonpliidiplaat 7200 W 60 cm kööki nelja tsooniga ja PowerBoostiga",
+      "mille poolest erineb Electrolux EIS62453 teistest 60 cm induktsioonpliidiplaatidest Hob2Hood ja keedusensoriga",
+      "kuidas kasutada ja seadistada Electrolux EIS62453 induktsioonpliidiplaati (SenseBoil, Hob2Hood, taimerid, lapselukk)"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EIS62453 induktsioonpliidiplaat sobib minu kööki ja olemasoleva süsteemiga?",
+      "answer": "Electrolux EIS62453 on integreeritav (pealtpaigaldatav) induktsioonpliidiplaat, mis kuulub 60 cm laiuse standardklassi. Tootekirjelduses on välja toodud mõõdud: laius 59 cm, sügavus 52 cm, kõrgus 4,4 cm ning standardne laius 60 cm ja sügavus 50 cm. See tähendab, et see sobib enamasti 60 cm laiustesse tööpindadesse, kui tööpinna lõikeava vastab tootja juhistele (täpseid lõikeava mõõte siin ei ole toodud). Pliidiplaadi koguvõimsus on 7200 W ning toitepinge 220–240/400V2N, seega peab elektriühenduse tegema kvalifitseeritud elektrik. Hob2Hood juhtmevaba ühendus võimaldab pliidiplaadil suhelda ühilduva kubuga, kuid täpseid ühilduvaid kubumudeleid kirjeldus ei täpsusta."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EIS62453 induktsioonpliidiplaati kasutada ja hooldada?",
+      "answer": "Pliidiplaadil on neli induktsioonkaitseala, mida juhitakse puutetundlike liuguritega (Touch control Slider). Igal tsoonil on eraldi taimer ning olemas on ka pausifunktsioon ja automaatne kiire kuumutamine. PowerBoost võimaldab lühiajaliselt väga intensiivset kuumust, näiteks kiireks vee keetmiseks. SenseBoil keedusensor tuvastab, kui vesi keema hakkab, ja alandab võimsust automaatselt vaikse keemiseni, vähendades ülekeemise ohtu. Lapselukk, jääkkuumuse indikaator ja võimsuspiirang lisavad kasutusmugavust ja ohutust. Pind on klaaskeraamiline (vitrokeramika); tootekirjeldus täpset puhastusviisi ei kirjelda, seega tuleks hooldamisel järgida tootja ametlikke juhiseid ja kasutada sobivaid puhastusvahendeid."
+    },
+    {
+      "question": "Kui töökindel on Electrolux EIS62453 ja kas see on oma hinda väärt?",
+      "answer": "Tootekirjeldus ei anna konkreetseid andmeid garantii pikkuse või testitud tööea kohta, kuid tegu on tuntud tootja Electrolux integreeritava induktsioonpliidiplaadiga. Mudel EIS62453 pakub mitmeid kõrgklassi funktsioone: SenseBoil keedusensor vee ülekeemise vältimiseks, Hob2Hood juhtmevaba koostöö ühilduva kubuga, PowerBoost kiireks kuumutamiseks, nelja tsooni individuaalsed taimerid, Bridge-tsoon suurematele nõudele, lapselukk, jääkkuumuse indikaator, pausifunktsioon ja võimsuspiirang. Selline varustus teeb igapäevase toiduvalmistamise kiiremaks, turvalisemaks ja mugavamaks. Garantiitingimusi ja täpset kestvust kirjeldus ei täpsusta, seega lähtuda tuleks müüja ja tootja üldistest garantiitingimustest. Arvestades funktsioone ja nutikaid abisüsteeme, on mudel suunatud kasutajale, kes otsib keskmisest parema varustusega, funktsioonirohket induktsioonpliidiplaati."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "model": "gpt-5.1",
+  "instructions": "\n                Sa tegutsed tooteanalüüsi spetsialisti ja uuriva copywriter'ina, kelle ülesanne on enne sisuloomet koguda tooteinfo, mis võimaldavad luua AI-ajastule vastava müügikirjelduse e-poodi. See on \"STEP 1: Kontekst ja veebiotsing\", mille tulemusi kasutavad kõik järgnevad sammud.\n\n                Alusta koondades olemasoleva tooteinfo ja tee vajadusel sihitud veebiotsinguid (ametlikud allikad, manuaalid, usaldusväärsed partnerid), mis aitavad luua põhjaliku tooteinfo ja detailse kirjelduse ning positsioneerida toote AI-otsingutes.\n\n                Veebiotsingut kasuta eelkõige selleks, et mõista:\n                - milliseid probleeme see toode päriselt lahendab,\n                - millistes olukordades ja kellele seda tüüpi toodet enim kasutatakse,\n                - millised on tüüpilised kasutajate küsimused enne ostu (sobivus, paigaldus, hooldus, garantii, mis on kaasas).\n\n                Pärast materjali läbitöötamist pead suutma vastata järgmistele „Kliendi põhiküsimustele, millele kirjeldus peab vastama“:\n                1. Millist probleemi toode lahendab ja kuidas see ostja elu lihtsamaks teeb?\n                2. Kas see sobib sihtkasutaja vajadustele (kellele, millistes olukordades)?\n                3. Mis on toote põhiline funktsioon ja eesmärk (kuidas see töötab, millist tulemust annab)?\n                4. Kuidas see erineb alternatiividest/mudelitest ning millised on unikaalsed eelised?\n                6. Millised on peamised omadused ja tehnilised võtmenäitajad, mida peaks bullet'ites esile tooma?\n                7. Kas see mahub kliendi ruumi/ökosüsteemi (mõõdud, maht, kontekstuaalne sobivus)?\n                8. Millega see on ühilduv ja mis võib olla lisaks vajalik (platvormid, tarkvara, tarvikud, ökosüsteemid)?\n                9. Kui lihtne on seda kasutada ja hooldada (kasutusloogika, hooldus-/uuendusvajadused, „plug & play“ aspektid)?\n                10. Kui töökindel ja vastupidav see on ning milline on garantii või järelteenindus?\n                11. Mis on tootega kaasas ja mida tuleks vajadusel eraldi soetada?\n                12. Kas see on oma hinda väärt – milline on väärtuspakkumine ja pikaajaline kasu?\n\n                Nende järelduste põhjal loo väljundid, mida kasutame otse e-poes, SEO-s ja Q&A plokis:\n\n                - 5 otsingufraasi (1 peamine, 4 lisa), kõik loomulikus eestikeelses vormis. \n                  • main_query: fraas, mida inimene reaalselt kirjutaks otsingusse, kui ta otsib just seda konkreetset toodet (toote tüüp + 1–2 võtmeomadust + bränd/mudel). \n                  • additional_queries: 4 long-tail päringut, mis jagunevad nii:\n                    1) probleemipõhine: kuidas lahendada tüüpilist probleemi selle tootega;\n                    2) omaduspõhine: toote tüüp + võtmenäitaja (võimsus/mõõt/maht vms) + kasutusolukord;\n                    3) võrdlev: mille poolest see erineb teistest sarnastest mudelitest;\n                    4) kasutus/hooldus: kuidas paigaldada, hooldada või igapäevaselt kasutada.\n\n                  Väljendid võivad sisaldada tehnilisi tähiseid ja mudeleid, kuid väldi ingliskeelseid täislauseid.\n\n                - 3 Q&A küsimust ja vastust eesti keeles Q&A sektsiooni jaoks, mis aitavad kliendil ostuotsust teha. Kasuta järgmisi telgi:\n                  1) sobivus ja valik (kas see sobib minu ruumi, vajadustele, olemasoleva süsteemiga);\n                  2) kasutamine ja hooldus (kuidas seda kasutada, puhastada, paigaldada, hooldada);\n                  3) töökindlus, garantii ja hinna-väärtuse suhe (kui vastupidav see on, milline on garantii, mis on peamine kasutegur hinna suhtes).\n\n                Ära kopeeri teksti veebist sõna-sõnalt. Kui mõne fakti (nt konkreetne ühilduvus, garantiitingimus) kohta ei ole usaldusväärset infot, ära seda välja mõtle – jäta vastus neutraalseks või ütle, et seda infot sisendmaterjal ei täpsusta.\n\n                Tagasta JSON skeemi alusel:\n                - search_queries: objekt väljadega main_query (string) ja additional_queries (array 4 stringi)\n                - qa: massiiv 3 elemendiga, igas objektis question ja answer väljad\n                ",
+  "input": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "input_text",
+          "text": "Toote alginfo (JSON): {\"sku\": \"PRF0201276\", \"global_unique_id\": \"8020283060364\", \"source\": {\"source_system\": \"prenta\", \"source_product_id\": 33652, \"source_category_ids\": [25], \"rrp_price\": 119.0, \"purchase_price\": 78.68}, \"name\": \"Hood ELICA TT14 LUX BL/A/60\", \"short_description\": \"\", \"description\": \"<p><br></p>\", \"type\": \"simple\", \"status\": \"publish\", \"featured\": false, \"catalog_visibility\": \"visible\", \"regular_price\": \"119.0\", \"sale_price\": \"\", \"purchasable\": true, \"virtual\": false, \"tax_status\": \"taxable\", \"tax_class\": \"\", \"manage_stock\": true, \"stock_status\": \"instock\", \"stock_quantity\": 5, \"backorders\": \"no\", \"backorders_allowed\": false, \"backordered\": false, \"low_stock_amount\": null, \"sold_individually\": false, \"weight\": \"5.0\", \"dimensions\": {\"length\": \"28\", \"width\": \"59.8\", \"height\": \"\"}, \"shipping_required\": true, \"shipping_taxable\": true, \"shipping_class\": \"prenta\", \"reviews_allowed\": true, \"average_rating\": \"0.00\", \"rating_count\": 0, \"upsell_ids\": [], \"cross_sell_ids\": [], \"category\": {\"source_id\": 25, \"path\": \"All > Saleable > Home appliances > Built in > Hood\", \"translated_path\": \"Kodutehnika > Integreeritav kodutehnika > Integreeritavad õhupuhastid/kubud\", \"leaf_name\": \"Integreeritavad õhupuhastid/kubud\"}, \"categories\": [{\"name\": \"Integreeritavad õhupuhastid/kubud\"}], \"brands\": [{\"name\": \"ELICA\"}], \"tags\": [], \"images\": [{\"src\": \"product_images/33652/image_1.webp\", \"alt\": \"Hood ELICA TT14 LUX BL/A/60\"}, {\"src\": \"product_images/33652/image_2.webp\", \"alt\": \"Hood ELICA TT14 LUX BL/A/60\"}], \"attributes\": [{\"name\": \"Product line\", \"values\": [\"Elica Exclusive\"]}, {\"name\": \"Producer\", \"values\": [\"Elica\"]}, {\"name\": \"Type of installation\", \"values\": [\"Built-in\"]}, {\"name\": \"Type of hood\", \"values\": [\"Retractable\"]}, {\"name\": \"Hood version\", \"values\": [\"Duct out\"]}, {\"name\": \"Standardized width (cm)\", \"values\": [60]}, {\"name\": \"Filter type\", \"values\": [\"No\"]}, {\"name\": \"Butterfly valve\", \"values\": [\"Yes\"]}, {\"name\": \"Perimeter aspiration\", \"values\": [\"No\"]}, {\"name\": \"Finish\", \"values\": [\"Painted steel\"]}, {\"name\": \"Color\", \"values\": [\"Black\"]}, {\"name\": \"Control\", \"values\": [\"Mechanical\"]}, {\"name\": \"Lighting\", \"values\": [\"LED\"]}, {\"name\": \"Option to connect a dimmer\", \"values\": [\"No\"]}, {\"name\": \"Tune White\", \"values\": [\"No\"]}, {\"name\": \"Duct size, mm\", \"values\": [\"120\"]}, {\"name\": \"Wireless integration with hob\", \"values\": [\"No\"]}, {\"name\": \"Autonomous sensor technology\", \"values\": [\"No\"]}, {\"name\": \"Back aspiration\", \"values\": [\"No\"]}, {\"name\": \"Wi-Fi\", \"values\": [\"No\"]}, {\"name\": \"Minimal Airflow (m3/h, IEC 61591)\", \"values\": [\"125\"]}, {\"name\": \"Maximum Airflow (m3/h, IEC 61591)\", \"values\": [\"304\"]}, {\"name\": \"Annual energy consumption (kWh)\", \"values\": [\"62\"]}, {\"name\": \"Energy efficiency class\", \"values\": [\"D\"]}, {\"name\": \"Fluid dynamic efficiency class\", \"values\": [\"E\"]}, {\"name\": \"Lighting efficiency class\", \"values\": [\"D\"]}, {\"name\": \"Grease filtering efficiency class\", \"values\": [\"D\"]}, {\"name\": \"Minimal Noise level, dB\", \"values\": [\"46\"]}, {\"name\": \"Maximum Noise level, dB\", \"values\": [\"62\"]}, {\"name\": \"Max Height (mm)\", \"values\": [\"140.0\"]}], \"default_attributes\": [], \"variations\": [], \"grouped_products\": [], \"menu_order\": 0, \"related_ids\": [], \"meta_data\": [{\"key\": \"_bp_gtin13\", \"value\": \"8020283060364\"}, {\"key\": \"_bp_supplier\", \"value\": \"Prenta\"}, {\"key\": \"_bp_brand\", \"value\": \"ELICA\"}]}"
+        }
+      ]
+    }
+  ],
+  "tools": [
+    {
+      "type": "web_search_preview"
+    }
+  ],
+  "text": {
+    "verbosity": "medium",
+    "format": {
+      "type": "json_schema",
+      "name": "context_and_research_schema",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "search_queries": {
+            "type": "object",
+            "properties": {
+              "main_query": {
+                "type": "string"
+              },
+              "additional_queries": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                },
+                "minItems": 4,
+                "maxItems": 4
+              }
+            },
+            "required": [
+              "main_query",
+              "additional_queries"
+            ],
+            "additionalProperties": false
+          },
+          "qa": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": 3,
+            "items": {
+              "type": "object",
+              "properties": {
+                "question": {
+                  "type": "string"
+                },
+                "answer": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "question",
+                "answer"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "search_queries",
+          "qa"
+        ],
+        "additionalProperties": false
+      },
+      "strict": true
+    }
+  },
+  "reasoning": {
+    "effort": "medium"
+  },
+  "previous_response_id": null,
+  "service_tier": "default"
+}

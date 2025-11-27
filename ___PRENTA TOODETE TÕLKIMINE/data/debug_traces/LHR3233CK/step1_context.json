@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543982851 7332543982851 Hob ELECTROLUX LHR3233CK",
+  "search_queries": {
+    "main_query": "Electrolux LHR3233CK 2-keedualaga klaaskeraamiline integreeritav pliidiplaat",
+    "additional_queries": [
+      "kuidas lahendada kitsas köögis lisakeedualade vajadus Electrolux LHR3233CK modulaarsest pliidiplaadist",
+      "2-keedualaga 30 cm lai elektriline klaaskeraamiline pliidiplaat väikesesse kööki Electrolux LHR3233CK",
+      "millega erineb Electrolux LHR3233CK teistest 2-keedualaga klaaskeraamilistest integreeritavatest pliidiplaatidest",
+      "kuidas kasutada ja puhastada Electrolux LHR3233CK klaaskeraamilist puutetundliku juhtimisega pliidiplaati"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LHR3233CK sobib minu kööki ja kas seda saab kombineerida teiste pliidiplaatidega?",
+      "answer": "Electrolux LHR3233CK on modulaarne, kahekeedualaga integreeritav elektriline klaaskeraamiline pliidiplaat, mis on mõeldud tööpinda paigaldamiseks. Standardlaius on 30 cm ja sügavus 50 cm, seega sobib see hästi väiksematesse köökidesse või lisaplaadina juba olemasoleva pliidi kõrvale. Tootekirjeldus ütleb, et seda saab kombineerida teiste Electroluxi modulaarsete pliidiplaatidega (gaas-, induktsioon- või elektriplaadid), et luua just endale sobiv lahendus. Täpsete paigaldusmõõtude ja elektriühenduse osas tuleks järgida tootja paigaldusjuhendit, sest sisendinfo neid ei täpsusta."
+    },
+    {
+      "question": "Kui lihtne on Electrolux LHR3233CK kasutamine ja puhastamine?",
+      "answer": "Sellel pliidiplaadil on sile klaaskeraamiline (vitrokeramika) pind, mida on lihtne puhastada – pind on sile ja ilma restideta, nii et mustuse saab eemaldada ühe tõmbega. Juhtimine toimub puutetundlike nuppude kaudu. Plaadil on taimer, mis võib küpsetusaja lõppedes keeduala automaatselt välja lülitada ja annab märku helisignaaliga. Lapselukk aitab vältida laste juhuslikku sisselülitamist ning jääkkuumuse indikaatorid näitavad, millised keedualad on pärast väljalülitamist veel kuumad. Täpsemad kasutus- ja puhastusjuhised on toodud tootja kasutusjuhendis, mida sisend siin ei sisalda."
+    },
+    {
+      "question": "Kui töökindel on Electrolux LHR3233CK ja kas see on oma hinda väärt?",
+      "answer": "Sisendinfo ei anna otseseid andmeid garantii pikkuse või testitud tööea kohta, kuid toode on tuntud tootja Electrolux integreeritav klaaskeraamiline pliidiplaat, mis on mõeldud igapäevaseks kasutamiseks. Klaaskeraamiline pind, puutetundlik juhtimine, taimer automaatse väljalülitusega, jääkkuumuse indikaatorid ja lapselukk pakuvad mugavust ja ohutust, mis suurendavad kasutusmugavust võrreldes lihtsamate mudelitega. Garantii täpset kestust ja tingimusi sisend ei täpsusta – need tuleks üle vaadata e-poe või tootja garantiitingimustest. Hinna-väärtuse mõttes on tegu kompaktse, modulaarse lahendusega, mis sobib eriti hästi väikestesse köökidesse või olemasoleva pliidiplaadi täiendamiseks."
+    }
+  ]
+}

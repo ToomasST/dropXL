@@ -1,0 +1,28 @@
+{
+  "generated_at": "2025-11-15T16:40:22",
+  "input": "data\\processed\\products_grouped.json",
+  "output_dir": "data\\processed\\products",
+  "counts": {
+    "groups_total": 3,
+    "products_seen": 77,
+    "written": 77,
+    "skipped_runlist": 0,
+    "skipped_target_prefix": 0,
+    "skipped_unmapped": 0,
+    "skipped_stock": 0,
+    "skipped_sku": 0
+  },
+  "filters": {
+    "only_target_prefix": "",
+    "only_mapped": false,
+    "only_sku": [],
+    "skip_translation_check": false
+  },
+  "runlist_prefixes": [
+    "All/Saleable/Home appliances/Built in/Fridge/",
+    "All/Saleable/Home appliances/Built in/Coffee machine/",
+    "All/Saleable/Home appliances/Built in/Dishwasher/",
+    "All/Saleable/Home appliances/Built in/Freezer/"
+  ],
+  "missing_translations": []
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7333394063461 7333394063461 Oven ELECTROLUX EOD5C70BZ",
+  "search_queries": {
+    "main_query": "Electrolux EOD5C70BZ integreeritav aurufunktsiooniga ahi must",
+    "additional_queries": [
+      "kuidas saada seest mahlased ja väljast krõbedad küpsetised Electrolux SteamBake ahjuga EOD5C70BZ",
+      "integreeritav ahi 65 l pöördõhuga ja aurufunktsiooniga küpsetamiseks mitmel tasandil",
+      "millega erineb Electrolux EOD5C70BZ SteamBake ahi tavalisest elektriahjust ilma auruta",
+      "kuidas kasutada ja puhastada Electrolux EOD5C70BZ ahju aqua clean ja katalüütilise puhastusega"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EOD5C70BZ ahi sobib minu kööki ja olemasolevasse mööblisse?",
+      "answer": "See on integreeritav, iseseisev elektriahi standardmõõdus (tootja järgi kõrgus ja laius 60 cm klass, tegelikud mõõdud u 59,4 × 58,9 × 56,9 cm). See tähendab, et ahi on mõeldud paigaldamiseks köögimööbli kappi 60 cm laiusesse nišši. Enne ostu tasub siiski üle mõõta olemasolev kapp ja võrrelda seda toote mõõtudega. Ahju maht on 65 liitrit, mis sobib hästi tavalise pere igapäevaseks kasutuseks ja küpsetamiseks mitmel tasandil. Ahi töötab elektriga, ei vaja gaasi ning ei oma Wi-Fi ühendust, seega sobib klassikalisse kööki ilma nutikodu lahenduseta."
+    },
+    {
+      "question": "Kui lihtne on seda ahju kasutada ja kuidas toimub puhastus?",
+      "answer": "Electrolux EOD5C70BZ on 8 küpsetusrežiimiga elektriahi pöördõhuga. Juhtimine toimub sisse-välja vajutatavate nuppude (PIPO) ja puutetundlike nuppude kaudu. SteamBake aurufunktsioon aitab saavutada krõbeda kooriku ja mahlase sisu, eriti saiade ja pagaritoodete puhul. Täpne kasutamine (auru lisamine, programmide valik) on kirjas ahjuga kaasas olevas kasutusjuhendis.\n\nPuhastus on lihtsustatud: tagasein on kaetud katalüütilise pinnaga, mis neelab ja lagundab rasva kõrgel temperatuuril, ülejäänud sisepind on kergesti puhastatava emailiga. Lisaks on olemas aqua clean puhastusfunktsioon – auruga pehmendatakse mustust, et see oleks lihtsam lapiga eemaldada. Detailsemad puhastus- ja hooldusjuhised leiab kasutusjuhendist, sest tootekirjeldus konkreetseid samme ei täpsusta."
+    },
+    {
+      "question": "Kui töökindel ja ökonoomne on see ahi ning milline on garantii ja hinna-väärtuse suhe?",
+      "answer": "Tootekirjeldus ei anna konkreetseid andmeid garantii kestuse kohta – see sõltub müüja ja tootja tingimustest, seega tasub enne ostu müüjalt täpsustada. Ahi kuulub energiatõhususe klassi A, mis tähendab mõistlikku energiakulu. Even Cooking / SurroundCook tehnoloogia ja pöördõhk jaotavad kuumuse ühtlaselt, nii et toitu ei pea küpsetamise ajal ümber tõstma, lisaks kuumeneb ahi kiiremini ja aitab säästa aega ja elektrit.\n\nHinna ja väärtuse suhtes pakub see mudel lisaks tavalistele küpsetusrežiimidele SteamBake aurufunktsiooni, mitmel tasandil ühtlast küpsetamist (kolmas küttekeha), lihtsustatud puhastust (aqua clean + katalüütiline tagasein) ning 65 l mahuga ruumika ahju. See teeb sellest hea valiku kasutajale, kes soovib tavapärase elektriahju hinnaklassis paremat küpsetustulemust ja mugavamat hooldust."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543673612 7332543673612 Microwave oven ELECTROLUX LMS4253TMW",
+  "search_queries": {
+    "main_query": "Electrolux LMS4253TMW integreeritav valge mikrolaineahi grilliga",
+    "additional_queries": [
+      "kuidas kiiresti toitu soojendada ja krõbedaks grillida Electrolux LMS4253TMW integreeritava mikrolaineahjuga",
+      "25 l 900 W integreeritav mikrolaineahi grilliga valges värvis väikesele köögile",
+      "mille poolest erineb Electrolux LMS4253TMW teistest integreeritavatest mikrolaineahjudest grilliga",
+      "kuidas paigaldada ja kasutada Electrolux LMS4253TMW integreeritavat mikrolaineahju ja selle grilli ning sulatusprogramme"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux LMS4253TMW sobib minu köögimööblisse ja ruumi?",
+      "answer": "Electrolux LMS4253TMW on integreeritav mikrolaineahi, mis on mõeldud sisseehitamiseks köögimööblisse. Tootel on 25 liitrine küpsetuskamber ning paigaldusmõõdud on ligikaudu kõrgus 38 cm, laius 56 cm ja sügavus 55 cm (välismõõdud on u 59,5 × 37,7 × 38,8 cm – laius × sügavus × kõrgus). Enne ostu tasub üle mõõta olemasolev kapipesa ja võrrelda seda nende paigaldusmõõtudega. Ahi sobib süsteemi, kus on ette nähtud integreeritav mikrolaine ahi ning kus on tagatud tootja nõuetele vastav ventilatsioon; täpsemaid paigaldustingimusi sisendinfo ei täpsusta."
+    },
+    {
+      "question": "Kuidas seda mikrolaineahju kasutada ja hooldada?",
+      "answer": "LMS4253TMW on puutejuhtimisega LCD-ekraaniga mikrolaineahi, millel on nii tavaline mikrolainefunktsioon kui ka grill. Saate valida 8 erineva võimsusastme vahel, kasutada automaatseid küpsetusprogramme, kiiret mikrolainekuumutust ning eraldi sulatusprogrammi, kus ahi arvestab toidu liigi ja kaaluga. Lapse ohutuse tagab laste lukustus, mis blokeerib juhtelemendid. Sisendinfo ei kirjelda eraldi isepuhastuse ega aurupuhastuse funktsioone, kuid küpsetuskamber on roostevabast terasest, mida saab puhastada tavapäraselt pehme lapi ja sobiva puhastusvahendiga, järgides tootja kasutusjuhendit (kasutusjuhend ise sisendis ei ole esitatud)."
+    },
+    {
+      "question": "Kui töökindel see mudel on, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Sisendinfo ei sisalda konkreetseid garantiitingimusi ega kestust, seega tuleb garantii täpne pikkus ja tingimused kontrollida müüjalt või tootjalt. Tegemist on tuntud kaubamärgi Electrolux integreeritava mikrolaineahjuga, millel on 900 W mikrolainevõimsus, 1000 W grill, roostevabast terasest sisemus, 8 võimsusastet, automaatsed küpsetus- ja sulatusprogrammid ning laste lukk. Kui otsite just sisseehitatavat mikrolaineahju koos grillfunktsiooniga, ilma lisafunktsioonideta nagu konvektsioon või aur, pakub see mudel funktsioonide ja mitmekülgsuse mõttes hästi läbimõeldud lahendust; hinna ja väärtuse suhe sõltub teie eelistustest ning saadaval olevatest alternatiividest, mida sisendinfo ei kirjelda."
+    }
+  ]
+}

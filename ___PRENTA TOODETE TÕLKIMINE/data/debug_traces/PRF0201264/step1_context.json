@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:8020283060326 8020283060326 Hood ELICA TT14 LUX GRIX/A/50",
+  "search_queries": {
+    "main_query": "integreeritav teleskoopne õhupuhasti Elica TT14 LUX GRIX/A/50 50 cm roostevaba",
+    "additional_queries": [
+      "kuidas vähendada toidulõhnu väikeses köögis teleskoopse õhupuhastiga Elica TT14 LUX GRIX/A/50",
+      "50 cm teleskoopne õhupuhasti 304 m3/h väikesesse korterikööki",
+      "Elica TT14 LUX GRIX/A/50 võrdlus teiste 50 cm integreeritavate kubudega",
+      "kuidas paigaldada ja hooldada Elica TT14 LUX GRIX/A/50 õhupuhasti rasvafiltreid ja õhutorustikku"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Elica TT14 LUX GRIX/A/50 sobib minu köögikappi ja kui suurele köögile see on mõeldud?",
+      "answer": "See mudel on 50 cm laiune integreeritav teleskoopne õhupuhasti, mis on mõeldud paigaldamiseks ülemisse köögikappi. Minimaalne kapi laius peaks olema 50 cm; õhupuhasti enda laius on u 49,8 cm ja sügavus 28 cm, maksimaalne kõrgus umbes 140 mm, seega sobib enamikesse standardsetesse ülemistesse kappidesse.\nMaksimaalne õhuhulk on u 304 m³/h, mis tähendab, et see on eelkõige mõeldud väikesele või keskmise suurusega köögile (ligikaudu kuni ~20–25 m², sõltuvalt lae kõrgusest ja kasutusharjumustest). Õhupuhasti ühendatakse 120 mm läbimõõduga õhuväljatõmbetoruga. Kui köök on eriti suur või kasutatakse korraga mitut pliidirõngast, tasub kaaluda võimsamat mudelit."
+    },
+    {
+      "question": "Kui lihtne on Elica TT14 LUX GRIX/A/50 kasutada ja kuidas seda hooldada?",
+      "answer": "Kasutamine on lihtne: tegemist on teleskoopse kubuga – töölepanekuks tõmbate esipaneeli ette ning valite sobiva kiiruse külje peal olevate mehaaniliste nuppudega. Mudelil on 3 töökiirust ja LED-valgustus, mis valgustab pliidipinda.\nHoolduse seisukohast on oluline rasvafiltri regulaarne puhastamine. Tootekirjeldused viitavad metallist rasvafiltrile, mis on tavaliselt eemaldatav ja pestav (kas nõudepesumasinas või käsitsi soojas seebivees). Puhastamise sagedus sõltub kasutusest, kuid tüüpiliselt soovitatakse filtrit puhastada iga 1–2 kuu järel. Õhukanal ja ühendused tuleks paigaldamisel tihendada ja aeg-ajalt visuaalselt üle vaadata. Aktiivsöefiltri kasutamise võimalus siseringlusrežiimiks võib sõltuda konkreetsest komplektist – meie sisendinfo seda üheselt ei kinnita, seega tasub lisavarustuse osas vajadusel klienditeeninduselt üle küsida."
+    },
+    {
+      "question": "Kui töökindel see õhupuhasti on, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Elica on tuntud köögiõhupuhastite tootja ning TT14 LUX GRIX/A/50 on lihtsa ehitusega teleskoopne mudel: roostevabast terasest korpus, üks mootor, mehaanilised nupud ja LED-valgustus. Vähem elektroonikat tähendab reeglina väiksemat rikete riski ning lihtsamat kasutamist. Müüjate kirjeldustes tuuakse esile hea hinna‑väärtuse suhe just integreeritava teleskoopkubu segmendis.\nEuroopa turul pakuvad paljud jaemüüjad sellele mudelile tüüpiliselt 2‑aastast garantiid, kuid garantii täpne kestus ja tingimused sõltuvad alati konkreetsest müüjast ja riigist. Meie sisendmaterjal ei täpsusta garantiid, seega soovitame enne ostu vaadata e-poe \"Garantiitingimused\" infot või vajadusel klienditeeninduselt üle küsida. Pikaajaliseks töökindluseks on oluline, et rasvafilter oleks korrapäraselt puhastatud ja õhukanal õigesti paigaldatud – nii püsib ka mootori koormus madalam ja seade kestab kauem."
+    }
+  ]
+}

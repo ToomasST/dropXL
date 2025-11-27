@@ -1,0 +1,376 @@
+{
+  "name": "TB7NA181EC",
+  "type": "simple",
+  "status": "publish",
+  "catalog_visibility": "visible",
+  "description": "",
+  "description_flix": "<!DOCTYPE html><meta charset=\"utf-8\"><section class=\"flix-features\"><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Daugiau jokio ledo ar šerkšno\" src=\"data/processed/flix_media/37412/Electrolux-305047672-A_No_Frost_Refrigeration_Sep21.webp\"/></figure><div class=\"flixf-body\"><h3>Daugiau jokio ledo ar šerkšno</h3><p>7000 serijos šaldiklis su „No Frost“ neleidžia ledui kauptis šaldiklyje. Prietaisas visuomet veiks nepriekaištingai ir saugos maisto produktus geriau nei bet kada anksčiau.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Dėl technologijos „No Frost“ - išlaikysite šaldiklį neapledėjusį\" src=\"data/processed/flix_media/37412/Electrolux-275461594-PSAAVL20MPA00003.webp\"/></figure><div class=\"flixf-body\"><h3>Dėl technologijos „No Frost“ - išlaikysite šaldiklį neapledėjusį</h3><p>„NoFrost“ – pamirškite atitirpinimą. Ši technologija palaiko šaldiklį neapledėjusį, todėl visada galite būti tikri dėl jo maksimaliai našaus veikimo.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Naujos eros inovacija. Unikalus šaldiklis iš perdirbto plastiko\" src=\"data/processed/flix_media/37412/Electrolux-305046067-AEG_IM_Recycled_Inner_liner_BI_Refrigeration_Nov23.webp\"/></figure><div class=\"flixf-body\"><h3>Naujos eros inovacija. Unikalus šaldiklis iš perdirbto plastiko</h3><p>Naujoji šaldymo era jau čia. Pristatome šaldiklį, kurio vidiniai paviršiai pagaminti iš 70 % perdirbto plastiko. Iš nebenaudojamų šaldymo prietaisų pagamintas plastikas naudojamas naujiems šaldytuvams gaminti, taip padedant mažinti atliekų kiekį žiediniu principu.  * Vidaus dangos plastikas rHIPS yra pagamintas panaudojant iki 70 % perdirbto plastiko, o tai sudaro 13 % viso šaldytuve esančio plastiko.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Garsinis durelių signalas</h3><p>Garsinis durelių signalas perspėja, jei palikote dureles atviras tam tikrą laiką, kad jas uždarytumėte laiku.</p></div></article><article class=\"flixf-item\"><div class=\"flixf-body\"><h3>Išlaikykite tobulą tekstūrą naudodami „Extra Freeze“.</h3><p>Sistema „Extra Freeze“ greičiau užšaldo šviežius produktus, todėl išsaugoma daugiau vitaminų, tekstūros, skonio ir visų sveikų savybių.</p></div></article><article class=\"flixf-item\"><figure class=\"flixf-media\"><img alt=\"Švelniai užsidarančios durys – kaskart sklandžiai ir tyliai užsidaro\" src=\"data/processed/flix_media/37412/Electrolux-277144354-PSAAFZ18BIE00003.webp\"/></figure><div class=\"flixf-body\"><h3>Švelniai užsidarančios durys – kaskart sklandžiai ir tyliai užsidaro</h3><p>Kruopščiai pagaminti švelniai užsidarančių durų lankstai apsaugo nuo netyčinio durų atidarymo, dėl ko gali būti eikvojama energija ir gadinami maisto produktai, ir užtikrina glaudų, saugų bei tylų durų uždarymą.</p></div></article></section>",
+  "short_description": "Daugiau jokio ledo ar šerkšno 7000 serijos šaldiklis su „No Frost“ neleidžia ledui kauptis šaldiklyje. Prietaisas visuomet veiks nepriekaištingai ir saugos maisto produktus geriau nei bet kada anksčiau. Dėl technologijos „No Frost“ - išlaikysite šaldiklį neapledėjusį „NoFrost“ – ",
+  "sku": "TB7NA181EC",
+  "regular_price": "1085.26",
+  "sale_price": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": true,
+  "stock_quantity": 5,
+  "backorders": "no",
+  "backorders_allowed": false,
+  "backordered": false,
+  "supplier_sku_prefix": "RP-",
+  "weight": "70.00",
+  "dimensions": {
+    "length": "54.9",
+    "width": "55.7",
+    "height": "176.9"
+  },
+  "shipping_required": true,
+  "shipping_taxable": true,
+  "shipping_class": "prenta",
+  "reviews_allowed": true,
+  "categories": [
+    {
+      "name": "Kodutehnika > Integreeritav kodutehnika > Integreeritavad sügavkülmikud",
+      "slug": "kodutehnika-integreeritav-kodutehnika-integreeritavad-sgavklmikud"
+    }
+  ],
+  "brands": [
+    {
+      "name": "AEG",
+      "slug": "aeg"
+    }
+  ],
+  "tags": [],
+  "images": [
+    {
+      "src": "data/processed/product_images/37412/image_1.webp",
+      "position": 0,
+      "alt": "TB7NA181EC",
+      "origin": "prenta",
+      "source_url": "https://e.prenta.lt/web/image/product.product/37412/image?unique=ac33a63"
+    },
+    {
+      "src": "data/processed/product_images/37412/image_2.webp",
+      "position": 1,
+      "alt": "TB7NA181EC",
+      "origin": "prenta",
+      "source_url": "https://e.prenta.lt/web/image/product.image/21616/image_big?unique=ad6e4ae"
+    }
+  ],
+  "meta_data": [
+    {
+      "key": "_bp_gtin13",
+      "value": "7333394072883"
+    },
+    {
+      "key": "_bp_supplier",
+      "value": "Prenta"
+    },
+    {
+      "key": "_bp_brand",
+      "value": "AEG"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Producer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "AEG"
+      ]
+    },
+    {
+      "name": "Type of installation",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Built in"
+      ]
+    },
+    {
+      "name": "Type of hinges",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Door on door"
+      ]
+    },
+    {
+      "name": "Type",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Freezer"
+      ]
+    },
+    {
+      "name": "Type of refrigeration technology",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No frost"
+      ]
+    },
+    {
+      "name": "Height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "176.9"
+      ]
+    },
+    {
+      "name": "Width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "55.7"
+      ]
+    },
+    {
+      "name": "Depth",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "54.9"
+      ]
+    },
+    {
+      "name": "Standardized width",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "60.0"
+      ]
+    },
+    {
+      "name": "Standardized height",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "180"
+      ]
+    },
+    {
+      "name": " Color",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "White"
+      ]
+    },
+    {
+      "name": "Noise level class",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "B"
+      ]
+    },
+    {
+      "name": "Noise level",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "35"
+      ]
+    },
+    {
+      "name": "Control",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Internal touch control LCD"
+      ]
+    },
+    {
+      "name": "Annual energy consumption",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "236"
+      ]
+    },
+    {
+      "name": "Net capacity of freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "212"
+      ]
+    },
+    {
+      "name": "Soft door closing",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Type of compressor",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Inverter"
+      ]
+    },
+    {
+      "name": "Lighting",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "No"
+      ]
+    },
+    {
+      "name": "Number of freezer boxes/shelfs",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "5"
+      ]
+    },
+    {
+      "name": "Fast freeze function in freezer",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "Yes"
+      ]
+    },
+    {
+      "name": "Freezing capacity in 24 hours",
+      "visible": true,
+      "variation": false,
+      "options": [
+        "17.5"
+      ]
+    }
+  ],
+  "source": {
+    "prenta_product_id": 37412,
+    "prenta_category_path": "All > Saleable > Home appliances > Built in > Freezer",
+    "prenta_category_id": 28,
+    "price": {
+      "gross_price": 875.21,
+      "price": 720.0,
+      "product_id": 37412
+    },
+    "detail": {
+      "attribute_line_ids": [
+        {
+          "attribute_id": 486,
+          "value_id": 4996
+        },
+        {
+          "attribute_id": 517,
+          "value_id": 5214
+        },
+        {
+          "attribute_id": 546,
+          "value_id": 5249
+        },
+        {
+          "attribute_id": 536,
+          "value_id": 5220
+        },
+        {
+          "attribute_id": 538,
+          "value_id": 5239
+        },
+        {
+          "attribute_id": 512,
+          "value_id": 8346
+        },
+        {
+          "attribute_id": 513,
+          "value_id": 7577
+        },
+        {
+          "attribute_id": 514,
+          "value_id": 5913
+        },
+        {
+          "attribute_id": 509,
+          "value_id": 4980
+        },
+        {
+          "attribute_id": 508,
+          "value_id": 5274
+        },
+        {
+          "attribute_id": 491,
+          "value_id": 4917
+        },
+        {
+          "attribute_id": 776,
+          "value_id": 8224
+        },
+        {
+          "attribute_id": 547,
+          "value_id": 5910
+        },
+        {
+          "attribute_id": 492,
+          "value_id": 5253
+        },
+        {
+          "attribute_id": 537,
+          "value_id": 5765
+        },
+        {
+          "attribute_id": 541,
+          "value_id": 5810
+        },
+        {
+          "attribute_id": 499,
+          "value_id": 4952
+        },
+        {
+          "attribute_id": 550,
+          "value_id": 5258
+        },
+        {
+          "attribute_id": 608,
+          "value_id": 6146
+        },
+        {
+          "attribute_id": 554,
+          "value_id": 5444
+        },
+        {
+          "attribute_id": 561,
+          "value_id": 5297
+        },
+        {
+          "attribute_id": 548,
+          "value_id": 8122
+        }
+      ],
+      "barcode": "7333394072883",
+      "category_id": 28,
+      "compound_name": "Freezer AEG TB7NA181EC",
+      "country_of_origin_id": 110,
+      "date_edited": "2025-11-07T12:36:19+00:00",
+      "delivery_lead_time": 0,
+      "description": "",
+      "description_flixmedia": "\n    <div>\n        <div id=\"flix-minisite\"></div>\n        <script type=\"text/javascript\" src=\"//media.flixfacts.com/js/loader.js\" data-flix-brand=\"\" data-flix-mpn=\"\" data-flix-sku=\"\" data-flix-button=\"flix-minisite\" data-flix-inpage=\"flix-inpage\" data-flix-button-image=\"\" data-flix-price=\"\" data-flix-fallback-language=\"lt\" async=\"\" data-flix-distributor=\"15151\" data-flix-language=\"en\" data-flix-ean=\"7333394072883\"></script>\n    </div>\n",
+      "exclusive": false,
+      "id": 37412,
+      "images": [
+        "https://e.prenta.lt/web/image/product.product/37412/image?unique=ac33a63",
+        "https://e.prenta.lt/web/image/product.image/21616/image_big?unique=ad6e4ae"
+      ],
+      "internal_reference": "TB7NA181EC",
+      "manufacturer_id": 56,
+      "name": "TB7NA181EC",
+      "price_rrp": 1059.0,
+      "product_line": "AEG Open",
+      "units_per_package": 1,
+      "volume": 0.55,
+      "weight": 68.0,
+      "weight_bruto": 70.0
+    }
+  }
+}

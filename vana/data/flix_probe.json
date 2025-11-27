@@ -1,0 +1,24 @@
+{
+  "input": {
+    "product_id": 9872,
+    "brand": "ELICA",
+    "sku": "BRB80F26CES0EO",
+    "ean": "8806097060871",
+    "timeout_ms": 30000,
+    "origin_domain": "e.prenta.lt"
+  },
+  "mode": "api",
+  "tjson_url": "https://media.flixcar.com/modular/web-api/en/15151/BRB80F26CES0EO8806097060871ZS5wcmVudGEubHQ/t.json?mpn=BRB80F26CES0EO&ean=8806097060871&distId=15151&iso=en&flIso=lt",
+  "tjson_status": 200,
+  "tjson_final_url": "https://media.flixcar.com/modular/web-api/en/15151/BRB80F26CES0EO8806097060871ZS5wcmVudGEubHQ/t.json?mpn=BRB80F26CES0EO&ean=8806097060871&distId=15151&iso=en&flIso=lt",
+  "error": null,
+  "json_preview": "[{\"product_meta\": {\"product_id\": \"2610807\", \"product_title\": \"BRB80F Šaldiklis apačioje su SmartThings AI energijos taupymo režimu\", \"product_heading\": 0, \"product_description\": 0, \"created_date\": 0, \"update_date\": \"2025-07-15 05:23:56\", \"product_mpn\": \"BRB80F26CES0EO\", \"product_ean\": \"8806097060871\", \"product_sku\": \"BRB80F26CES0EO\", \"inpage\": {\"inpage_id\": \"5773702\", \"language_id\": \"24\", \"product_id\": \"2610807\", \"inpage\": \"\", \"create_date\": \"2025-07-15 05:23:56\", \"update_date\": null, \"level\": \"1\", \"template\": \"samsung/t3\", \"disabled\": \"0\", \"locked\": \"0\", \"is_uni\": \"0\", \"has_mobile\": \"0\"}, \"minisite\": {\"minisite_id\": \"5606088\", \"product_id\": \"2610807\", \"language_id\": \"24\", \"create_date\": \"2025-07-15 05:23:56\", \"update_date\": \"2025-07-15 05:23:56\", \"level\": \"1\", \"template\": \"samsung/t3\", \"disabled\": \"0\", \"locked\": \"0\", \"is_uni\": \"0\", \"has_mobile\": \"0\"}, \"hotspot\": {\"hotspot_id\": \"6610952\", \"language_id\": \"24\", \"product_id\": \"2610807\", \"hotspot\": \"\", \"create_date\": \"2025-07-15 05:23:56\", \"update_date\": null, \"level\": \"1\", \"template\": \"\", \"disabled\": \"0\", \"locked\": \"0\", \"is_uni\": \"0\"}, \"comp_priority\": 0, \"manufacturer_id\": \"9\", \"asset_loading_base\": \"https://media.flixcar.com/webp/synd-asset/\", \"language_iso\": \"lt\", \"p\": \"2610807\", \"language_id\": \"24\", \"isMobile\": \"false\", \"match_data\": {\"direct_match\": {\"2610807\": {\"prodId\": \"2610807\", \"match_type\": \"1\", \"match_id\": \"295043654\"}}}, \"requested_mpn\": \"BRB80F26CES0EO\", \"requested_ean\": \"8806097060871\", \"isSmart\": \"1\"}, \"modules\": {\"specifications\": {\"module_category\": \"FC00001\", \"module_type\": \"FT00002\", \"module_id\": \"FM00010B\", \"module_mapper\": \"specifications\", \"class_name\": \"inpage_selector_specification feature_modular_map flix-samsung-new-specs \", \"product_id\": \"2610807\", \"title\": \"\", \"description\": \"\", \"footnote\": \"\", \"keywords\": \"\", \"data\": {\"specs\": {\"show_more_specs\": \"Daugiau Specifikacijų\", \"spec_list\": [{\"group_title\": \"\", \"spec_data\": [{\"spec_title\": \"Visa talpa (litrais)\", \"value\": \"267 ℓ\"}, {\"spec_title\":",
+  "extracted_counts": {
+    "images": 52,
+    "features": 0,
+    "specs": 0,
+    "documents": 1
+  },
+  "features_html_count": 0,
+  "features_html_path": null
+}

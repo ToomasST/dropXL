@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:4016803137450 4016803137450 Fridge LIEBHERR ICBNci 5663",
+  "search_queries": {
+    "main_query": "integreeritav külmik-sügavkülmik BioFresh ja NoFrost Liebherr ICBNci 5663",
+    "additional_queries": [
+      "kuidas vähendada külmiku käsitsi sulatamist – NoFrost integreeritav külmik Liebherr ICBNci 5663",
+      "integreeritav 60 cm külmik sügavkülmaga ja 0 °C tsooniga Liebherr ICBNci 5663 perele",
+      "Liebherr ICBNci 5663 võrdlus teiste BioFresh NoFrost integreeritavate külmik-sügavkülmikutega",
+      "kuidas paigaldada ja ühendada veeühendusega jäämasinaga külmik Liebherr ICBNci 5663 kööki"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Liebherr ICBNci 5663 sobib minu kööki ja olemasoleva mööbliga?",
+      "answer": "See mudel on täisintegreeritav külmik-sügavkülmik, mille nišimõõdud on u 194–195 × 56–57 × 55 cm (kõrgus × laius × sügavus) ning standardiseeritud laius 60 cm. Seadmel on door-on-door uksehinged, mis tähendab, et mööbliuks kinnitatakse otse külmiku uksele. Kui sinu köögikapp on vastavate mõõtudega ja mõeldud integreeritava külmiku jaoks, sobib see mudel hästi. Arvesta ka, et seade vajab püsivat veeühendust jäämasina jaoks ning Wi‑Fi ühendust nutifunktsioonide kasutamiseks; täpsed paigalduse nõuded leiad kasutusjuhendist."
+    },
+    {
+      "question": "Kui lihtne on Liebherr ICBNci 5663 kasutada ja hooldada?",
+      "answer": "Kasutamine on tehtud võimalikult lihtsaks: sisemine puutetundlik LCD-ekraan võimaldab temperatuure ja lisafunktsioone (nt kiire jahutus ja kiire külmutus) mugavalt seadistada, Wi‑Fi ja integreeritud SmartDeviceBox annavad võimaluse seadet rakenduse kaudu jälgida ja juhtida. NoFrost-tehnoloogia tähendab, et sügavkülma käsitsi sulatamine ei ole tavapärases kasutuses vajalik. BioFresh / tõeline 0 °C tsooni sahtel hoiab liha, piimatooted ja puu‑köögivilja värskena kauem, teleskoopsiine on lihtne puhastada. Hoolduse puhul tuleb regulaarselt puhastada siseosasid, tihendeid ja õhu-/lõhnastfiltrit ning kontrollida veeühendust jäämasinale; täpsed puhastus- ja võimalike filtrivahetuste intervallid on kirjas tootja kasutusjuhendis."
+    },
+    {
+      "question": "Kui töökindel on Liebherr ICBNci 5663 ja milline on garantii – kas see on oma hinda väärt?",
+      "answer": "Liebherr on tuntud kui kõrgema klassi külmikute tootja ja ICBNci 5663 on nende „Prime“ seeria integreeritav mudel, kus on kombineeritud BioFresh 0 °C sahtel, NoFrost sügavkülm, DuoCooling (külmiku ja sügavkülma eraldi jahutusringid), metalliseeritud tagasein, pehme ukse sulgumine ning väga vaikne töö (u 33 dB). Energia­­tõhususe klass on uus skaala C ja aastane energiakulu umbes 162 kWh, mis on integreeritava täiskõrguses mudeli kohta säästlik. See kõik teeb seadme hinnalt küll premium-klassi, kuid pikaajalise kasutuse, madala mürataseme ja mugavusfunktsioonide tõttu on hinna‑väärtuse suhe tugev. Garantii täpne kestus ja tingimused sõltuvad edasimüüjast ja riigipõhistest reeglitest – üldjuhul kehtib vähemalt seadusjärgne baastähtaeg, kuid konkreetse garantiiperioodi täpsustamiseks kontrolli infot ostukohast või kohalikust Liebherri esindusest."
+    }
+  ]
+}

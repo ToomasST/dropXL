@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543988938 7332543988938 Dishwasher ELECTROLUX KEGB9420W",
+  "search_queries": {
+    "main_query": "Electrolux KEGB9420W integreeritav nõudepesumasin 60 cm Wi-Fi ja klaasipesuga",
+    "additional_queries": [
+      "kuidas pesta õrnu veiniklaase nõudepesumasinas Electrolux KEGB9420W (SoftGrips ja SoftSpikes klaaside kaitseks)",
+      "integreeritav nõudepesumasin 60 cm 42 dB vaikne Wi-Fi ja 11 l veekulu köögi jaoks",
+      "milles erineb Electrolux KEGB9420W teistest 60 cm integreeritavatest nõudepesumasinatest",
+      "kuidas paigaldada ja igapäevaselt kasutada Electrolux KEGB9420W nõudepesumasinat ning ühendada Wi-Fi kaudu rakendusega"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux KEGB9420W sobib minu kööki ja olemasolevasse mööblisse?",
+      "answer": "See on 60 cm lai integreeritav nõudepesumasin, mis on mõeldud köögimööbli sisse ehitamiseks. Tootekirjeldus toob välja reguleeritava kõrguse vahemikus u 81,8–89,8 cm ning sügavuse 55 cm. Tänu liughingedele sobib see erineva kõrgusega tööpindade alla. Enne ostu mõõtke oma nišš (laius, kõrgus, sügavus) ja võrrelge neid toodud mõõtudega. Ühilduvust konkreetsete köögimööblisüsteemide või nutikodulahendustega tootekirjeldus täpselt ei kirjelda."
+    },
+    {
+      "question": "Kui lihtne on Electrolux KEGB9420W kasutada ja kas sellel on eriprogrammid klaaside jaoks?",
+      "answer": "Nõudepesumasinat juhitakse puutetundliku LCD-paneeli ja QuickSelect liuguriga – valid lihtsalt soovitud pesu kestuse ja masin kohandab programmi. Saadaval on 8 programmi ja 4 temperatuuri, sh automaatprogramm ja spetsiaalne klaasiprogramm. Klaaside kaitseks on ülemises korvis SoftGrips hoidikud ja SoftSpikes kummist toed, mis hoiavad õrnu pokaale kindlalt ja vähendavad kriimustuste ning purunemise ohtu. TimeBeam projitseerib põrandale allesjäänud tööaja ja tsükli oleku. Hoolduse kohta (nt filtrite puhastusintervall) tootekirjeldus täpsemat infot ei anna – järgige kasutusjuhendit."
+    },
+    {
+      "question": "Kui töökindel ja ökonoomne on Electrolux KEGB9420W ning milline on garantii?",
+      "answer": "Tootel on inverter-mootor, roostevabast terasest sisekorpus, veekaitse lekkimise vastu, automaatne väljalülitus ja ukse automaatne avanemine programmi lõpus, mis viitavad töökindlusele ja mugavale kasutusele. Energiaklass on uusel skaalal C, energiakulu 76 kWh 100 pesutsükli kohta ja vee kulu 11 l tsükli kohta, mis teeb sellest suhteliselt ökonoomse integreeritava nõudepesumasina. Müratase on 42 dB (müraklass B), seega töötab see üsna vaikselt. Garantii pikkust ja täpseid järelteeninduse tingimusi tootekirjeldus ei täpsusta – need sõltuvad müüjast ja tootja garantiireeglitest."
+    }
+  ]
+}

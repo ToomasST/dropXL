@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543819867 7332543819867 Oven ELECTROLUX EOF3H40BX",
+  "search_queries": {
+    "main_query": "Electrolux EOF3H40BX 60 cm integreeritav elektriahi SurroundCook AquaClean",
+    "additional_queries": [
+      "kuidas lihtsasti puhastada ahju aurupuhastusega Electrolux EOF3H40BX AquaClean",
+      "65 l 60 cm integreeritav elektriahi ventilatsiooniga küpsetamiseks mitmel tasandil",
+      "kas Electrolux EOF3H40BX on parem kui tavaline 60 cm integreeritav ahi ilma SurroundCook funktsioonita",
+      "kuidas kasutada Electrolux EOF3H40BX ahju ja AquaClean puhastusfunktsiooni igapäevaselt"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas Electrolux EOF3H40BX sobib minu köögimööbli kappi ja millised on mõõdud?",
+      "answer": "Electrolux EOF3H40BX on integreeritav elektriahi standardse 60 cm kõrguse ja laiusega integreerimiseks. Toote mõõdud on ligikaudu: laius 59,5 cm, kõrgus 58,9 cm, sügavus 56 cm. Ahi kuulub 60 × 60 cm standardmõõdus nišši mõeldud ahjude hulka. Enne ostu tasub üle mõõta olemasolev kapp ja võrrelda seda nende mõõtudega ning köögimööbli paigaldusjuhendiga, sest täpseid niššimõõte tootekirjeldus ei täpsusta."
+    },
+    {
+      "question": "Kui lihtne on Electrolux EOF3H40BX ahju kasutada ja puhastada?",
+      "answer": "Seda ahju on lihtne kasutada, sest juhtimiseks on sissetõmmatavad pöördnupud (Push in push out), mis teevad esipaneeli ülevaatlikuks. Ahi pakub 8 standardset kuumutamisfunktsiooni, sealhulgas pöördõhu (konvektsiooni) ja grilli, mis võimaldavad küpsetada ka mitmel tasandil. Puhastamist lihtsustab AquaClean funktsioon – ahju põhja pandud vesi aurustub, niisutab pritsmed ja rasva ning muudab mustuse pehmemaks, et saaksid selle pärast kergemini käsitsi lapiga ära pühkida. Täpne kasutusviis (nt programmi valik ja kestus) tuleks võtta ahju kasutusjuhendist, mida kirjeldus ei ava."
+    },
+    {
+      "question": "Kui töökindel on Electrolux EOF3H40BX, milline on garantii ja kas see on oma hinda väärt?",
+      "answer": "Tootekirjeldus ei anna konkreetseid andmeid garantiitingimuste või tööea kohta – need sõltuvad müüjast ja kehtivatest garantiireeglitest. Ahi on tuntud tootja Electrolux integreeritav elektriahi energiatõhususklassiga A, 65-liitrise mahuga ning metallist juhtpaneeli ja roostevabast terasest viimistlusega, mis viitab vastupidavale konstruktsioonile. SurroundCook ja Even Cooking tehnoloogia koos ventilaatori ja lisaküttekehaga tagavad ühtlase kuumuse ja kiirema kuumenemise, mis säästab aega ja energiat. AquaClean aurupuhastus muudab hoolduse lihtsamaks. Nende omaduste kombinatsioonis pakub see mudel funktsionaalsust ja kasutusmugavust, mis põhjendab hinda, kuid täpse hinna-väärtuse hinnangu teeb iga ostja vastavalt oma eelarvele ja vajadustele."
+    }
+  ]
+}

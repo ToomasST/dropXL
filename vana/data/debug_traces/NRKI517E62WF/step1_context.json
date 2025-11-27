@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:3838782838439 3838782838439 NRKI517E62WF",
+  "search_queries": {
+    "main_query": "Gorenje NRKI517E62WF integreeritav külmik-sügavkülmik NoFrost",
+    "additional_queries": [
+      "NRKI517E62WF mõõdud 177,2 x 54 x 54,5 cm",
+      "Gorenje integreeritav külmik Wi‑Fi ja AdaptTech",
+      "Gorenje NRKI517E62WF energiaklass E, müratase 35 dB",
+      "Integreeritav külmik 177 cm door-on-door, NoFrost, 176/76 l"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas NRKI517E62WF on integreeritav ja millise ukse kinnitusega?",
+      "answer": "Jah, tegu on integreeritava alumise sügavkülmaga külmikuga. Uksekinnitus on door-on-door (mööblipaneel kinnitub otse seadme uksele). Uks on pööratav, seega saab avamissuunda muuta."
+    },
+    {
+      "question": "Millised on mõõdud ja mahud – kas see sobib minu kööginišši?",
+      "answer": "Seadme mõõdud on umbes 177,2 × 54 × 54,5 cm (K × L × S). Külmiku netomaht on 176 l ja sügavkülma netomaht 76 l. Paigaldamiseks kontrolli kindlasti oma kööginiši täpseid mõõte ja tootja paigaldusjuhiseid (õhuvahed, ukse avanemisruum), et sobivus oleks tagatud."
+    },
+    {
+      "question": "Kas sellel on NoFrost ja nutikad funktsioonid? Kui vali see on?",
+      "answer": "Jah, külmutustehnoloogia on NoFrost ning olemas on kiirjahutus külmikus ja kiirkülmutus sügavkülmas (külmutusvõime kuni 6 kg/24 h, autonoomne säilivusaeg voolukatkestusel kuni 10 h). AdaptTech õpib kasutusharjumusi ning jahutab enne eeldatavaid ukseavamisi siseruumi 1–2 °C võrra, et hoida temperatuuri stabiilsemana ja säilitada toidu värskust. Lisaks on Wi‑Fi tugi. Müratase on 35 dB (müraklass B)."
+    }
+  ]
+}

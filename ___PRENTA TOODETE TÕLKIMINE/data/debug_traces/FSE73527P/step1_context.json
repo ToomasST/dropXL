@@ -1,0 +1,26 @@
+{
+  "search_query": "EAN:7332543781287 7332543781287 Dishwasher AEG FSE73527P",
+  "search_queries": {
+    "main_query": "AEG FSE73527P 45 cm integreeritav nõudepesumasin SatelliteClean ja MaxiFlexiga",
+    "additional_queries": [
+      "kuidas pesta õrnu veiniklaase nõudepesumasinas AEG FSE73527P SoftGrip ja SoftSpikes hoidikutega",
+      "45 cm integreeritav nõudepesumasin 10 nõudekomplektile väikesele köögile AEG FSE73527P",
+      "millega erineb AEG FSE73527P teistest 45 cm AEG integreeritavatest nõudepesumasinatest",
+      "kuidas kasutada QuickSelect juhtpaneeli ja SatelliteClean funktsiooni AEG FSE73527P nõudepesumasinal"
+    ]
+  },
+  "qa": [
+    {
+      "question": "Kas AEG FSE73527P integreeritav nõudepesumasin sobib minu kööki ja vajadustele?",
+      "answer": "AEG FSE73527P on 45 cm laiune integreeritav nõudepesumasin, mis on mõeldud köögimööbli sisse ehitamiseks. Seade mahutab kuni 10 nõudekomplekti, mis sobib hästi väiksemale perele või kitsama köögiga kodusse. Reguleeritav kõrgus on vahemikus umbes 81,8–87,8 cm (standardkõrgus 85 cm), seega tuleks üle mõõta olemasolev nišš ja võrrelda seda nende mõõtudega. Sügavus on u 55 cm ja laius u 44,6 cm. Masinal on 3 korvi (sh MaxiFlex söögiriistade sahtel), nii et sisu saab paindlikult ümber tõsta. Ühendus- ja paigaldusnõuded (vee- ja äravooluühendused jms) on täpselt kirjas kasutusjuhendis, mida tuleks enne ostu ja paigaldust kontrollida."
+    },
+    {
+      "question": "Kui lihtne on AEG FSE73527P nõudepesumasinat kasutada ja hooldada?",
+      "answer": "Kasutamine on tehtud võimalikult lihtsaks: masinal on sisemine puutetundlik LCD juhtpaneel QuickSelect liuguriga, millega saab valida pesutsükli kestuse. Ecometer näitab rohelistel tulpadel kõige säästlikumaid seadeid. Valida on 7 programmi ja 4 temperatuuri, olemas on automaatne programm, klaasiprogramm, ajasäästu- ja viitstardi funktsioon. SatelliteClean ja ülemine pihustikonsool tagavad vee jõudmise igasse nurka, SoftGrip ja SoftSpikes hoiavad õrnu klaase, MaxiFlex sahtel mahutab eri kujuga söögiriistu ja tarvikuid. Tsükli lõpus avaneb uks automaatselt, mis aitab paremini kuivatada. Hoolduse kohta tootetutvustus detaile ei anna, kuid nagu kõigi nõudepesumasinate puhul, on soovitatav regulaarselt puhastada filtreid ja sisepindu ning järgida täpselt kasutusjuhendis toodud hooldussoovitusi."
+    },
+    {
+      "question": "Kui töökindel on AEG FSE73527P ja milline on hinna ja omaduste suhe?",
+      "answer": "Tootel on mitmed vastupidavust ja töökindlust toetavad lahendused: täis roostevabast terasest nõudepesukamber, inverter-mootor, veekaitsesüsteem veeavarii vastu, automaatne väljalülitus ning kvaliteetsed pihustid (SatelliteClean ja ülemine pihusti), mis tagavad ühtlase pesemise. Müratase on madal, vaid 44 dB (müra klass B). Uue energiamärgise järgi on klass D, energiakulu 67 kWh / 100 tsüklit ja vee kulu umbes 9,9 l tsükli kohta. Tootekirjeldus garantiitingimusi ei täpsusta – need sõltuvad müüjast ja kohalikest tingimustest, seega tasub need enne ostu üle vaadata. Arvestades kompaktset 45 cm laiust ja lisafunktsioone nagu SoftGrip/SoftSpikes, MaxiFlex, QuickSelect, automaatne ukse avamine ja põrandale projitseeritav ajaindikaator, pakub see mudel oma klassis väga rikkalikke võimalusi."
+    }
+  ]
+}
