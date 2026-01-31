@@ -24,6 +24,40 @@ from typing import Any, Dict, List
 ROOT = Path(__file__).resolve().parent
 RAW_INPUT_PATH = ROOT / "1_samm_raw_data.json"
 OUTPUT_PATH = ROOT / "2_samm_tooteinfo.json"
+CATEGORY_TRANSLATION_PATH = ROOT / "category_translation.json"
+
+
+def _load_category_translations() -> Dict[str, str]:
+    """Lae tootekategooriate tõlked category_translation.json failist.
+
+    Tagastab dict-i kujul: originaal_path -> tõlgitud_path.
+    Kui faili pole või struktuur pole dict, tagastab tühja dict-i.
+    """
+    if not CATEGORY_TRANSLATION_PATH.exists():
+        return {}
+    try:
+        with CATEGORY_TRANSLATION_PATH.open("r", encoding="utf-8") as fh:
+            data = json.load(fh)
+    except Exception:
+        return {}
+    if not isinstance(data, dict):
+        return {}
+    out: Dict[str, str] = {}
+    for k, v in data.items():
+        try:
+            key = str(k)
+            val = "" if v is None else str(v)
+        except Exception:
+            continue
+        if not key:
+            continue
+        if not val.strip():
+            continue
+        out[key] = val
+    return out
+
+
+CATEGORY_TRANSLATIONS: Dict[str, str] = _load_category_translations()
 
 
 def _load_raw_products() -> List[Dict[str, Any]]:
@@ -87,7 +121,9 @@ def _sum_stock_qty(raw: Dict[str, Any]) -> int:
 def _build_category(raw: Dict[str, Any]) -> Dict[str, Any]:
     cid = raw.get("category_id")
     path = _as_str(raw.get("category_path") or "").strip()
-    translated = _as_str(raw.get("category_path_translated") or "").strip()
+    translated_raw = _as_str(raw.get("category_path_translated") or "").strip()
+    translated_lookup = CATEGORY_TRANSLATIONS.get(path, "").strip() if path else ""
+    translated = translated_raw or translated_lookup
     leaf = ""
     src = translated or path
     if src:

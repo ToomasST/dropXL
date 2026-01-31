@@ -1,2 +1,13 @@
 ___PRENTA TOODETE TÕLKIMINE/data/debug_traces/
 ___PRENTA TOODETE TÕLKIMINE/data/logs/
+
+__pycache__/
+*.pyc
+
+___PRENTA TOODETE TÕLKIMINE/product_images/
+
+woocommerce_upload_results_*.json
+montonio_parcel_machine_backup_*.jsonl
+
+vana/data/logs/
+vana/woocommerce_upload_results_*.json

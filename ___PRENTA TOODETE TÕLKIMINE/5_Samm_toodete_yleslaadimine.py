@@ -688,9 +688,23 @@ class WooCommerceUploader:
             # Trust upstream processing: raw_imgs is ordered and already deduped/sized
             for idx, im in enumerate(raw_imgs):
                 try:
-                    src = self._norm((im or {}).get('src'))
-                    if not src:
+                    src_raw = self._norm((im or {}).get('src'))
+                    if not src_raw:
                         continue
+                    # Normalize pseudo-URLs like http://product_images/123/image_1.webp to local path
+                    # so that upload_image_from_url_to_media käsitleb neid lokaalse failina
+                    src = src_raw
+                    if src_raw.lower().startswith('http://product_images/') or src_raw.lower().startswith('https://product_images/'):
+                        try:
+                            parsed = urlparse(src_raw)
+                            # parsed.path nt '/product_images/123/image_1.webp' -> 'product_images/123/image_1.webp'
+                            path_part = (parsed.path or '').lstrip('/')
+                            if path_part:
+                                src = path_part
+                                print(f"   [INFO] Normalized pseudo-image URL '{src_raw}' -> local path '{src}'")
+                        except Exception:
+                            src = src_raw
+
                     # Jäta .img fallback-failid Woo payloadist välja (need ei ole kindla tüübiga pildid)
                     if src.lower().endswith('.img'):
                         print(f"   [INFO] Skipping fallback .img image src={src}")
@@ -707,7 +721,16 @@ class WooCommerceUploader:
                         imgs.append({"id": uploaded_media.get('id'), "position": idx})
                         seen_ids.add(uploaded_media.get('id'))
                         continue
-                    it = {"src": src, "position": idx}
+
+                    # Kui upload_image_from_url_to_media ebaõnnestus ja src viitab product_images kaustale
+                    # (ehk lokaalne fail, mida ei saanud kätte), siis ära lisa seda Woo payloadi otse,
+                    # et vältida kehtetuid URL-e nagu http://product_images/... .
+                    if src.startswith('product_images/'):
+                        print(f"   [WARN] Skipping image from local path '{src}' (upload failed)")
+                        continue
+
+                    # Kõigi muude juhtude puhul kasuta originaal src_raw väärtust kui otse-URL-i Woo jaoks
+                    it = {"src": src_raw, "position": idx}
                     if alt:
                         it['alt'] = alt
                     imgs.append(it)

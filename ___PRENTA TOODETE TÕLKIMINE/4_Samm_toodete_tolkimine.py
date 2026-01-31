@@ -49,6 +49,9 @@ USE_STEP5_FINAL_REVIEW = False  # Lülita välja, kui lõppkontrolli pole vaja
 USE_STEP8_ATTR_ENRICH = False  # Lülita välja, kui olemasolevad atribuudid piisavad
 GROUP_LOCK = threading.Lock()
 WOO_SKU_CACHE: set[str] = set()
+WOO_EAN_CACHE: set[str] = set()
+# EAN-id, mille puhul leidsime vaste WooCommerce'i EAN-cache'ist (_bp_gtin13)
+WOO_EAN_MATCHED_IN_WOO: set[str] = set()
 WOO_SKU_CACHE_READY = False
 WOO_SKU_CACHE_UNAVAILABLE = False
 
@@ -379,18 +382,25 @@ def _wc_site_and_auth():
         return None, None
 
 def _fetch_existing_woo_skus(max_pages: int = 0) -> Optional[set[str]]:
+    """Lae WooCommerce'ist olemasolevad SKU-d ja EAN-id.
+
+    - SKU-d kogutakse WOO_SKU_CACHE jaoks.
+    - EAN-id kogutakse WOO_EAN_CACHE jaoks meta_data võtme _bp_gtin13 alusel.
+    """
     site, auth = _wc_site_and_auth()
     if not site or not auth:
         return None
     url = f"{site}/wp-json/wc/v3/products"
     page = 1
     collected: set[str] = set()
+    # tühjenda EAN cache enne täitmist
+    WOO_EAN_CACHE.clear()
     consecutive_rate_limits = 0
     while True:
         params = {
             "per_page": 100,
             "page": page,
-            "_fields": "id,sku",
+            "_fields": "id,sku,meta_data",
             "orderby": "id",
             "order": "asc",
         }
@@ -428,6 +438,19 @@ def _fetch_existing_woo_skus(max_pages: int = 0) -> Optional[set[str]]:
                 sku = ""
             if sku:
                 collected.add(sku)
+            # korja ka EAN meta_data seast (_bp_gtin13)
+            try:
+                for m in (item or {}).get("meta_data") or []:
+                    if not isinstance(m, dict):
+                        continue
+                    key = str(m.get("key") or "").strip()
+                    if key != "_bp_gtin13":
+                        continue
+                    val = str(m.get("value") or "").strip()
+                    if val:
+                        WOO_EAN_CACHE.add(val)
+            except Exception:
+                pass
         if len(data) < 100:
             break
         page += 1
@@ -470,12 +493,27 @@ def _wc_product_exists_remote(sku: str) -> bool:
     except Exception:
         return False
 
-def wc_product_exists(sku: str) -> bool:
-    if not sku:
+def wc_product_exists(sku: str, ean: Optional[str] = None) -> bool:
+    """Kontrolli, kas toode on WooCommerce'is olemas SKU või EAN järgi.
+
+    - Eelistame cache'i (WOO_SKU_CACHE ja WOO_EAN_CACHE).
+    - Kui cache'i ei saa laadida, tehakse varuvariant ainult SKU põhjal.
+    - Kui vaste leitakse EAN-i järgi, logime selle EAN-i WOO_EAN_MATCHED_IN_WOO set'i,
+      et jooksu lõpus saaksime teha kokkuvõtte.
+    """
+    if not sku and not ean:
         return False
     if _ensure_woo_sku_cache():
-        return sku in WOO_SKU_CACHE
-    return _wc_product_exists_remote(sku)
+        if sku and sku in WOO_SKU_CACHE:
+            return True
+        if ean and ean in WOO_EAN_CACHE:
+            WOO_EAN_MATCHED_IN_WOO.add(ean)
+            return True
+        return False
+    # Varuvariant: kui cache'i ei saanud luua, kontrolli ainult SKU järgi
+    if sku:
+        return _wc_product_exists_remote(sku)
+    return False
 
 def ensure_meta(meta: List[Dict[str, Any]], key: str, value: str) -> List[Dict[str, Any]]:
     found = False
@@ -817,9 +855,9 @@ def process_one_product(prod: Dict[str, Any], index: int) -> Dict[str, int]:
 
     # Skip if product already exists in WooCommerce (avoid re-translating existing shop items)
     try:
-        if wc_product_exists(sku):
+        if wc_product_exists(sku, ean_code):
             local_skipped += 1
-            log(f"Jätan vahele (juba e-poes olemas): {sku}")
+            log(f"Jätan vahele (juba e-poes olemas SKU/EAN järgi): {sku} / {ean_code or '-'}")
             return {"added": 0, "skipped_existing": local_skipped}
     except Exception:
         # On connectivity error, proceed with translation rather than fail the whole run
@@ -1898,3 +1936,11 @@ else:
         skipped_existing += int(res.get("skipped_existing") or 0)
 
 log(f"Valmis. Kokku sisendeid: {len(products)}, lisatud uusi tõlkeid: {added}, juba olemas: {skipped_existing}")
+
+# WooCommerce'iga kattunud EAN-id (_bp_gtin13 meta järgi), mida selles jooksus leidsime
+if WOO_EAN_MATCHED_IN_WOO:
+    ean_list = sorted(WOO_EAN_MATCHED_IN_WOO)
+    log(f"WooCommerce'iga kattuvaid EAN-e: {len(ean_list)}")
+    log("Kattuvad EAN-id: " + ", ".join(ean_list))
+else:
+    log("WooCommerce'iga kattuvaid EAN-e ei leitud.")

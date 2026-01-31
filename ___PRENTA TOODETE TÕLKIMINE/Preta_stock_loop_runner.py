@@ -5,6 +5,7 @@ Kasutus:
     python Preta_stock_loop_runner.py               # üks jooks
     python Preta_stock_loop_runner.py --interval 900  # loop iga 900s järel
     python Preta_stock_loop_runner.py --only-sku ABC123 --dry-run
+    python Preta_stock_loop_runner.py --no-update-prices  # ära uuenda hindasid
 
 Reeglid:
 - Võtab aluseks WooCommerce'i toodete nimekirja.
@@ -25,6 +26,9 @@ import requests
 from dotenv import find_dotenv, load_dotenv
 
 from prenta_fetch import ClientConfig, PrentaClient
+
+PRICE_MARKUP_RATE = 0.10
+PRICE_VAT_RATE = 0.24
 
 def log(msg: str) -> None:
     ts = time.strftime("%Y-%m-%d %H:%M:%S")
@@ -59,7 +63,7 @@ def iter_woo_products() -> Iterable[Dict[str, Any]]:
         params = {
             "per_page": 100,
             "page": page,
-            "_fields": "id,sku,meta_data,stock_quantity,stock_status",
+            "_fields": "id,sku,name,meta_data,stock_quantity,stock_status,regular_price,sale_price,price",
         }
         try:
             resp = requests.get(url, auth=auth, params=params, timeout=30)
@@ -130,31 +134,70 @@ def sum_prenta_stock_for_product(client: PrentaClient, source_product_id: Any) -
     return total
 
 
-def update_woo_stock(woo_product_id: int, new_qty: int, dry_run: bool = False) -> bool:
+def get_prenta_rrp_for_product_id(
+    client: PrentaClient,
+    product_id: Any,
+    cache: Dict[Any, Any],
+) -> Any:
+    if product_id is None:
+        return None
+    if product_id in cache:
+        return cache.get(product_id)
+    try:
+        detail = client.get_product_detail(product_id)
+        if isinstance(detail, dict):
+            cache[product_id] = detail.get("price_rrp")
+        else:
+            cache[product_id] = None
+    except Exception:
+        cache[product_id] = None
+    return cache.get(product_id)
+
+
+def _as_price_str(v: Any) -> str:
+    if v is None:
+        return ""
+    try:
+        s = str(v).strip()
+        s = s.replace("€", "").replace(" ", "")
+        s = s.replace(",", ".")
+        val = float(s)
+        if val < 0:
+            return ""
+        return f"{val:.2f}"
+    except Exception:
+        return ""
+
+
+def update_woo_product_fields(woo_product_id: int, payload: Dict[str, Any], dry_run: bool = False) -> bool:
     site, auth = wc_site_and_auth()
     if not site or not auth:
         log("⚠️ WooCommerce URL või auth puudub (.env)")
         return False
     url = f"{site.rstrip('/')}/wp-json/wc/v3/products/{woo_product_id}"
-    payload: Dict[str, Any] = {
-        "manage_stock": True,
-        "stock_quantity": max(0, int(new_qty)),
-        "stock_status": "instock" if new_qty > 0 else "outofstock",
-        "backorders": "no",
-    }
     if dry_run:
         log(f"[DRY-RUN] Uuendaks Woo product {woo_product_id} payloadiga: {payload}")
         return True
     try:
         resp = requests.put(url, auth=auth, json=payload, timeout=60)
     except Exception as exc:
-        log(f"❌ Woo stock uuenduse viga (id={woo_product_id}): {exc}")
+        log(f"❌ Woo uuenduse viga (id={woo_product_id}): {exc}")
         return False
     if resp.status_code != 200:
         txt = resp.text[:200] if resp.text else ""
-        log(f"❌ Woo stock uuendus ebaõnnestus (id={woo_product_id}): HTTP {resp.status_code} {txt}")
+        log(f"❌ Woo uuendus ebaõnnestus (id={woo_product_id}): HTTP {resp.status_code} {txt}")
         return False
     return True
+
+
+def update_woo_stock(woo_product_id: int, new_qty: int, dry_run: bool = False) -> bool:
+    payload: Dict[str, Any] = {
+        "manage_stock": True,
+        "stock_quantity": max(0, int(new_qty)),
+        "stock_status": "instock" if new_qty > 0 else "outofstock",
+        "backorders": "no",
+    }
+    return update_woo_product_fields(woo_product_id, payload, dry_run=dry_run)
 
 
 def build_prenta_client_from_env() -> PrentaClient:
@@ -196,7 +239,10 @@ def build_prenta_sku_index(client: PrentaClient) -> Dict[str, Any]:
             if not sku or pid is None:
                 continue
             if sku not in index:
-                index[sku] = pid
+                index[sku] = {
+                    "id": pid,
+                    "price_rrp": prod.get("price_rrp"),
+                }
                 count += 1
     except Exception as exc:
         log(f"⚠️ Prenta toodete indeksi ehitamise viga: {exc}")
@@ -204,11 +250,43 @@ def build_prenta_sku_index(client: PrentaClient) -> Dict[str, Any]:
     return index
 
 
-def run_once(only_skus: Optional[set[str]] = None, limit: int = 0, dry_run: bool = False) -> None:
+def build_prenta_purchase_price_index(client: PrentaClient) -> Dict[Any, float]:
+    """Ehita indeks product_id -> min purchase price (/prices price)."""
+    out: Dict[Any, float] = {}
+    log("Laen Prenta hinnad (/prices) purchase_price indeksi jaoks …")
+    try:
+        for rec in client.iter_prices(product_id=None):
+            if not isinstance(rec, dict):
+                continue
+            pid = rec.get("product_id")
+            v = rec.get("price")
+            if pid is None or v is None:
+                continue
+            try:
+                f = float(v)
+            except Exception:
+                continue
+            prev = out.get(pid)
+            if prev is None or f < prev:
+                out[pid] = f
+    except Exception as exc:
+        log(f"⚠️ Prenta /prices indeksi ehitamise viga: {exc}")
+    log(f"Prenta purchase_price indeks valmis: {len(out)} kirjet.")
+    return out
+
+
+def run_once(
+    only_skus: Optional[set[str]] = None,
+    limit: int = 0,
+    dry_run: bool = False,
+    update_prices: bool = True,
+) -> None:
     load_dotenv(find_dotenv(), override=False)
 
     client = build_prenta_client_from_env()
     prenta_index = build_prenta_sku_index(client)
+    purchase_by_pid = build_prenta_purchase_price_index(client) if update_prices else {}
+    rrp_by_pid_cache: Dict[Any, Any] = {}
 
     updated = 0
     skipped_not_prenta = 0
@@ -227,39 +305,162 @@ def run_once(only_skus: Optional[set[str]] = None, limit: int = 0, dry_run: bool
 
         meta_data = woo_prod.get("meta_data") or []
         if not has_prenta_supplier(meta_data):
+            skipped_not_prenta += 1
             continue
 
         processed += 1
         if limit and limit > 0 and processed > limit:
             break
 
-        prenta_pid = prenta_index.get(sku)
+        prenta_info = prenta_index.get(sku)
+        prenta_pid = (prenta_info or {}).get("id") if isinstance(prenta_info, dict) else None
         woo_id = woo_prod.get("id")
         old_qty = woo_prod.get("stock_quantity")
-        log(f"[SKU={sku}] Woo ID={woo_id}, Prenta product_id={prenta_pid}, vana_laoseis={old_qty}")
+        woo_name = str(woo_prod.get("name") or "").strip()
+        if len(woo_name) > 90:
+            woo_name = woo_name[:87].rstrip() + "..."
+        header = (
+            f"SKU={sku} | {woo_name} | Woo ID={woo_id} | Prenta product_id={prenta_pid}"
+            if woo_name
+            else f"SKU={sku} | Woo ID={woo_id} | Prenta product_id={prenta_pid}"
+        )
+        log("-" * len(header))
+        log(header)
 
         if prenta_pid is None:
-            log("   ℹ️  Prenta product_id ei leitud selle SKU jaoks – märgin Woo toote out-of-stock.")
+            log(" Stock : (mapping missing) -> 0 (outofstock)")
             ok = update_woo_stock(int(woo_id), 0, dry_run=dry_run)
             if ok:
                 updated += 1
-                log("   ✔ Stock uuendatud (Prentas puudub, Woo qty=0, outofstock).")
+                log(" Result: OK (stock updated: qty=0, outofstock)")
             else:
                 errors += 1
+                log(" Result: FAIL (stock update)")
             skipped_no_mapping += 1
             continue
 
         # 1) Värske laoseis Prenta API-st
         qty = sum_prenta_stock_for_product(client, prenta_pid)
-        log(f"   Prenta stock qty={qty} (Woo vana={old_qty} → uus={qty})")
+        new_stock_status = "instock" if qty > 0 else "outofstock"
+        old_stock_status = str(woo_prod.get("stock_status") or "")
+        log(f" Stock : {old_qty} ({old_stock_status}) -> {qty} ({new_stock_status})")
 
-        # 2) Uuenda Woo stock
-        ok = update_woo_stock(int(woo_id), qty, dry_run=dry_run)
+        # 2) Koosta Woo payload (stock + optional prices)
+        payload: Dict[str, Any] = {
+            "manage_stock": True,
+            "stock_quantity": max(0, int(qty)),
+            "stock_status": new_stock_status,
+            "backorders": "no",
+        }
+
+        stock_changed = False
+        try:
+            stock_changed = int(old_qty or 0) != int(qty) or old_stock_status != new_stock_status
+        except Exception:
+            stock_changed = True
+
+        if update_prices:
+            meta_lookup: Dict[str, Any] = {}
+            try:
+                for m in meta_data or []:
+                    if isinstance(m, dict) and m.get("key") is not None:
+                        meta_lookup[str(m.get("key"))] = m.get("value")
+            except Exception:
+                meta_lookup = {}
+
+            raw_regular_price = (
+                meta_lookup.get("_bp_regular_price")
+                or meta_lookup.get("_bp_price")
+                or woo_prod.get("regular_price")
+                or woo_prod.get("price")
+            )
+            raw_sale_price = (
+                meta_lookup.get("_bp_sale_price")
+                or woo_prod.get("sale_price")
+            )
+
+            purchase_price = purchase_by_pid.get(prenta_pid)
+            rrp_price = None
+            if isinstance(prenta_info, dict):
+                rrp_price = prenta_info.get("price_rrp")
+
+            # Kui /products list ei andnud price_rrp, küsi detailist (/products/{id})
+            try:
+                if rrp_price in (None, ""):
+                    rrp_price = get_prenta_rrp_for_product_id(client, prenta_pid, rrp_by_pid_cache)
+            except Exception:
+                pass
+
+            effective_regular_price: Any = rrp_price
+            calc_price_debug: Any = None
+            try:
+                if purchase_price is not None:
+                    pp = float(str(purchase_price))
+                    calc_price_debug = pp * (1.0 + PRICE_MARKUP_RATE) * (1.0 + PRICE_VAT_RATE)
+                    if rrp_price is not None and str(rrp_price).strip() != "":
+                        rrp = float(str(rrp_price))
+                        effective_regular_price = calc_price_debug if calc_price_debug > rrp else rrp
+                    else:
+                        # Kui RRP puudub, kasutame kalkuleeritud hinda
+                        effective_regular_price = calc_price_debug
+            except Exception:
+                pass
+
+            if effective_regular_price is None or str(effective_regular_price).strip() == "":
+                effective_regular_price = raw_regular_price
+
+            rp = _as_price_str(effective_regular_price)
+            sp = _as_price_str(raw_sale_price)
+            price_source = ""
+            if rp:
+                if rrp_price is not None and str(rrp_price).strip() != "":
+                    price_source = "rrp_or_calc"
+                elif calc_price_debug is not None:
+                    price_source = "calc_only"
+                else:
+                    price_source = "woo_or_meta_fallback"
+
+            old_reg = _as_price_str(woo_prod.get("regular_price") or woo_prod.get("price"))
+            old_sale = _as_price_str(woo_prod.get("sale_price"))
+            log(f" Price : regular {old_reg} -> {rp} | sale {old_sale} -> {sp} | src={price_source}")
+            log(
+                f"         inputs: purchase={_as_price_str(purchase_price) if purchase_price is not None else ''}, "
+                f"rrp={_as_price_str(rrp_price) if rrp_price is not None else ''}, "
+                f"calc={_as_price_str(calc_price_debug) if calc_price_debug is not None else ''}"
+            )
+
+            if rp:
+                payload["regular_price"] = rp
+            if sp:
+                payload["sale_price"] = sp
+
+            if not rp and not sp:
+                log("         note: price skipped (no regular_price/sale_price value)")
+
+            price_changed = False
+            try:
+                price_changed = (old_reg != rp) or (old_sale != sp)
+            except Exception:
+                price_changed = True
+        else:
+            price_changed = False
+
+        if not stock_changed and not price_changed:
+            log(" Result: SKIP (no changes)")
+            continue
+
+        ok = update_woo_product_fields(int(woo_id), payload, dry_run=dry_run)
         if ok:
             updated += 1
-            log(f"   ✔ Stock uuendatud (Woo ID={woo_id}, qty={qty}).")
+            if update_prices and ("regular_price" in payload or "sale_price" in payload):
+                rp_out = payload.get("regular_price", "")
+                sp_out = payload.get("sale_price", "")
+                log(f" Result: OK (stock+price updated: qty={qty}, regular={rp_out}, sale={sp_out})")
+            else:
+                log(f" Result: OK (stock updated: qty={qty})")
         else:
             errors += 1
+            log(" Result: FAIL (Woo update)")
 
     log(
         f"Kokkuvõte: updated={updated}, skipped_not_prenta={skipped_not_prenta}, "
@@ -284,7 +485,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--interval",
         type=int,
-        default=0,
+        default=14400,
         help="Kui >0, käita runnerit loopis antud sekundilise intervalliga.",
     )
     parser.add_argument(
@@ -292,6 +493,20 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Ära tee Woo poolel päris uuendusi, ainult logi.",
     )
+    prices_group = parser.add_mutually_exclusive_group()
+    prices_group.add_argument(
+        "--update-prices",
+        dest="update_prices",
+        action="store_true",
+        help="Uuenda ka Woo hinnad (regular_price/sale_price) sama reegliga nagu 5. sammus. (default)",
+    )
+    prices_group.add_argument(
+        "--no-update-prices",
+        dest="update_prices",
+        action="store_false",
+        help="Ära uuenda hindasid (uuendab ainult laoseisu).",
+    )
+    parser.set_defaults(update_prices=True)
     return parser.parse_args()
 
 
@@ -308,11 +523,16 @@ def main() -> int:
     if args.interval and args.interval > 0:
         log(
             f"Käivitan Prenta stock runneri loopis, intervall {args.interval} s. "
-            f"(dry_run={bool(args.dry_run)})"
+            f"(dry_run={bool(args.dry_run)}, update_prices={bool(args.update_prices)})"
         )
         while True:
             try:
-                run_once(only_skus=only_skus or None, limit=int(args.limit or 0), dry_run=bool(args.dry_run))
+                run_once(
+                    only_skus=only_skus or None,
+                    limit=int(args.limit or 0),
+                    dry_run=bool(args.dry_run),
+                    update_prices=bool(args.update_prices),
+                )
             except KeyboardInterrupt:
                 log("Saadud KeyboardInterrupt – lõpetan loopi.")
                 break
@@ -327,7 +547,12 @@ def main() -> int:
         return 0
 
     # Üksik jooks
-    run_once(only_skus=only_skus or None, limit=int(args.limit or 0), dry_run=bool(args.dry_run))
+    run_once(
+        only_skus=only_skus or None,
+        limit=int(args.limit or 0),
+        dry_run=bool(args.dry_run),
+        update_prices=bool(args.update_prices),
+    )
     return 0
 
 
