@@ -6,6 +6,8 @@ __pycache__/
 
 ___PRENTA TOODETE TÕLKIMINE/product_images/
 
+.env
+
 woocommerce_upload_results_*.json
 montonio_parcel_machine_backup_*.jsonl
 
