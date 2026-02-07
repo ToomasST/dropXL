@@ -1,6 +1,12 @@
 
-VidaXL\data\debug_traces
-VidaXL\data\logs
+VidaXL/data/debug_traces/
+VidaXL/data/logs/
+VidaXL/data/feeds/
+VidaXL/data/processed/
+VidaXL/2_samm_tooteinfo.json
+VidaXL/woo_product_*.json
+VidaXL/backup_*.py
+
 __pycache__/
 *.pyc
 
@@ -11,5 +17,5 @@ ___PRENTA TOODETE TÕLKIMINE/product_images/
 woocommerce_upload_results_*.json
 montonio_parcel_machine_backup_*.jsonl
 
-vana/data/logs/
-vana/woocommerce_upload_results_*.json
+vana/
+
