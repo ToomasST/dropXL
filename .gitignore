@@ -1,6 +1,6 @@
-___PRENTA TOODETE TÕLKIMINE/data/debug_traces/
-___PRENTA TOODETE TÕLKIMINE/data/logs/
 
+VidaXL\data\debug_traces
+VidaXL\data\logs
 __pycache__/
 *.pyc
 
