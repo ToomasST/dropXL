@@ -33,35 +33,54 @@ PRODUCTS_TRANSLATED_GROUPED_PATH = ROOT / "data" / "tõlgitud" / "products_trans
 STEP2_OUTPUT_PATH = ROOT / "2_samm_tooteinfo.json"
 
 DEFAULT_MAPS: List[Tuple[str, str]] = [
-    ("Sporditarbed", "Sport ja vaba aeg"),
-    ("Mängud ja mänguasjad", "Sport ja vaba aeg > Mängud ja mänguasjad"),
-    ("Teised > Kunst ja meelelahutus", "Sport ja vaba aeg > Kunst ja meelelahutus"),
-    ("Kodu ja aed", "Kodukaubad"),
-    ("Rõivad ja aksessuaarid", "Rõivad"),
+    # ── Kodu ja aed: alamkategooriad ENNE ülemkategooriat ──
     ("Kodu ja aed > Aed ja muru", "Aed > Aed ja muru"),
     ("Kodu ja aed > Basseinid ja spaad", "Aed > Basseinid ja spaad"),
     ("Kodu ja aed > Kamina- ja ahjutarvikud", "Aed > Kamina- ja ahjutarvikud"),
     ("Kodu ja aed > Kaminad", "Aed > Kaminad"),
     ("Kodu ja aed > Õuevalgustus", "Aed > Õuevalgustus"),
+    ("Kodu ja aed", "Kodukaubad"),
+    # ── Teised: alamkategooriad ENNE ülemkategooriat ──
+    ("Teised > Elektroonika > Printimine, kopeerimine, skaneerimine ja faks",
+     "Mööbel > Kontorimööbel > Printimine, kopeerimine, skaneerimine ja faks"),
+    ("Teised > Kunst ja meelelahutus", "Sport ja vaba aeg > Kunst ja meelelahutus"),
+    ("Teised > Kaamerad ja optika", "Sport ja vaba aeg > Kaamerad ja optika"),
+    ("Teised", "Mööbel > Teised"),
+    # ── Mööbel: ümberpaigutused ──
+    ("Mööbel > Diivand", "Mööbel > Diivanid"),
     ("Mööbel > Õuemööbel", "Aed > Õuemööbel"),
     ("Mööbel > Õuemööbli tarvikud", "Aed > Õuemööbli tarvikud"),
+    # ── Aed: ümbernimetamised ──
     ("Aed > Õuemööbel", "Aed > Aiamööbel"),
     ("Aed > Õuevalgustus", "Aed > Aiavalgustus"),
-    ("Koduloomade tarbed > Lemmikloomatarbed", "Kodukaubad > Lemmikloomatarbed"),
-    ("Ehitustarbed > Aiad ja barjäärid", "Aed > Aiad ja barjäärid"),
-    ("Tervis ja ilu", "Sport ja vaba aeg > Tervis ja ilu"),
-    (
-        "Elektroonika > Printimine, kopeerimine, skaneerimine ja faks",
-        "Mööbel > Kontorimööbel > Printimine, kopeerimine, skaneerimine ja faks",
-    ),
-    (
-        "Teised > Elektroonika > Printimine, kopeerimine, skaneerimine ja faks",
-        "Mööbel > Kontorimööbel > Printimine, kopeerimine, skaneerimine ja faks",
-    ),
-    ("Kaamerad ja optika", "Sport ja vaba aeg > Kaamerad ja optika"),
-    ("Teised > Kaamerad ja optika", "Sport ja vaba aeg > Kaamerad ja optika"),
-    ("Sport ja vaba aeg > Stuudio valgustid", "Sport ja vaba aeg > Kaamerad ja optika > Stuudio valgustid"),
+    # ── Aiavalgustus: sisevalgustus → Kodukaubad > Valgustus ──
+    ("Aed > Aiavalgustus > Lambid", "Kodukaubad > Valgustus > Lambid"),
+    ("Aed > Aiavalgustus > Mööbli- ja punktvalgustid", "Kodukaubad > Valgustus > Mööbli- ja punktvalgustid"),
+    ("Aed > Aiavalgustus > Valgusnöörid ja -ketid", "Kodukaubad > Valgustus > Valgusnöörid ja -ketid"),
+    ("Aed > Aiavalgustus > Valgustid", "Kodukaubad > Valgustus > Valgustid"),
+    # ── Elektroonika: alamkategooriad ENNE ülemkategooriat ──
+    ("Elektroonika > Printimine, kopeerimine, skaneerimine ja faks",
+     "Mööbel > Kontorimööbel > Printimine, kopeerimine, skaneerimine ja faks"),
+    ("Elektroonika", "Kodukaubad > Elektroonika"),
+    # ── Kontoritarbed: alamkategooriad ENNE ülemkategooriat ──
     ("Kontoritarbed > Ettekande tarvikud", "Mööbel > Kontorimööbel > Ettekande tarvikud"),
+    ("Kontoritarbed", "Kodukaubad > Kontoritarbed"),
+    # ── Ehitustarbed ──
+    ("Ehitustarbed > Aiad ja barjäärid", "Aed > Aiad ja barjäärid"),
+    # ── Koduloomade tarbed ──
+    ("Koduloomade tarbed > Lemmikloomatarbed", "Kodukaubad > Lemmikloomatarbed"),
+    # ── Pagas ja kotid ──
+    ("Pagas ja kotid", "Rõivad > Pagas ja kotid"),
+    # ── Ümbernimetamised (top-level) ──
+    ("Sporditarbed", "Sport ja vaba aeg"),
+    ("Rõivad ja aksessuaarid", "Rõivad"),
+    # ── Sport ja vaba aeg: alamkategooriad ──
+    ("Sport ja vaba aeg > Stuudio valgustid", "Sport ja vaba aeg > Kaamerad ja optika > Stuudio valgustid"),
+    # ── Top-level → Sport ja vaba aeg alla ──
+    ("Mängud ja mänguasjad", "Sport ja vaba aeg > Mängud ja mänguasjad"),
+    ("Kunst ja meelelahutus", "Sport ja vaba aeg > Kunst ja meelelahutus"),
+    ("Kaamerad ja optika", "Sport ja vaba aeg > Kaamerad ja optika"),
+    ("Tervis ja ilu", "Sport ja vaba aeg > Tervis ja ilu"),
 ]
 
 
@@ -103,8 +122,10 @@ def replace_prefix(path: str, old: str, new: str) -> str:
 
 
 def apply_maps_to_path(path: str, maps: List[Tuple[str, str]]) -> str:
+    # Sort by old-path length descending so more specific paths match first
+    sorted_maps = sorted(maps, key=lambda m: len(m[0]), reverse=True)
     updated = path
-    for old, new in maps:
+    for old, new in sorted_maps:
         updated = replace_prefix(updated, old, new)
     return updated
 

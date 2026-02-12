@@ -20,6 +20,7 @@ from typing import Any, Dict, List, Optional
 from urllib.parse import urlparse
 
 import requests
+from category_change_runner import apply_maps_to_path, DEFAULT_MAPS
 
 ROOT = Path(__file__).resolve().parent
 FEED_PATH = ROOT / "data" / "feeds" / "vidaXL_ee_dropshipping" / "vidaXL_ee_dropshipping.csv"
@@ -27,7 +28,7 @@ OUTPUT_PATH = ROOT / "2_samm_tooteinfo.json"
 CATEGORY_TRANSLATION_PATH = ROOT / "category_translation.json"
 TRANSLATED_GROUPED_PATH = ROOT / "data" / "tõlgitud" / "products_translated_grouped.json"
 
-MAX_PRODUCTS = 3000
+MAX_PRODUCTS = 4000
 REQUEST_DELAY_SECONDS = 1.05
 VIDAXL_PATTERN = re.compile(r"\bvida\s*x[l]?\b", re.IGNORECASE)
 EXCLUDED_CATEGORY_ROOTS = [
@@ -129,6 +130,7 @@ def _build_category(row: Dict[str, str]) -> Dict[str, Any]:
     path_raw = _as_str(row.get("Category") or "").strip()
     path = path_raw if path_raw else ""
     translated = CATEGORY_TRANSLATIONS.get(path) or path
+    translated = apply_maps_to_path(translated, DEFAULT_MAPS)
     leaf = ""
     if translated:
         parts = [p.strip() for p in translated.split(">") if p.strip()]
@@ -154,6 +156,7 @@ def _is_path_under(path: str, root: str) -> bool:
 def _is_excluded_category(row: Dict[str, str]) -> bool:
     path_raw = _as_str(row.get("Category") or "").strip()
     translated = CATEGORY_TRANSLATIONS.get(path_raw) or path_raw
+    translated = apply_maps_to_path(translated, DEFAULT_MAPS)
     for root in EXCLUDED_CATEGORY_ROOTS:
         if _is_path_under(path_raw, root) or _is_path_under(translated, root):
             return True

@@ -1057,13 +1057,6 @@
     "level": 3
   },
   {
-    "id": "2629",
-    "name": "Akutrellid",
-    "parent_id": "1217",
-    "path": "Ehitustarbed > Tööriistad > Trellid > Akutrellid",
-    "level": 4
-  },
-  {
     "id": "1367",
     "name": "Puurid",
     "parent_id": "1217",
@@ -1953,13 +1946,6 @@
     "level": 3
   },
   {
-    "id": "683",
-    "name": "Ahjud",
-    "parent_id": "730",
-    "path": "Kodu ja aed > Köök ja söögituba > Köögimasinad > Ahjud",
-    "level": 4
-  },
-  {
     "id": "7165",
     "name": "Elektrilised grillid",
     "parent_id": "730",
@@ -2041,13 +2027,6 @@
     "name": "Suhkruvati masinad",
     "parent_id": "730",
     "path": "Kodu ja aed > Köök ja söögituba > Köögimasinad > Suhkruvati masinad",
-    "level": 4
-  },
-  {
-    "id": "743",
-    "name": "Toidukuivatid",
-    "parent_id": "730",
-    "path": "Kodu ja aed > Köök ja söögituba > Köögimasinad > Toidukuivatid",
     "level": 4
   },
   {
@@ -2819,20 +2798,6 @@
     "parent_id": "696",
     "path": "Kodu ja aed > Sisekujundus > Kunsttaimed",
     "level": 3
-  },
-  {
-    "id": "592",
-    "name": "Küünlad ja kodulõhnastajad",
-    "parent_id": "696",
-    "path": "Kodu ja aed > Sisekujundus > Küünlad ja kodulõhnastajad",
-    "level": 3
-  },
-  {
-    "id": "588",
-    "name": "Küünlad",
-    "parent_id": "592",
-    "path": "Kodu ja aed > Sisekujundus > Küünlad ja kodulõhnastajad > Küünlad",
-    "level": 4
   },
   {
     "id": "500121",
@@ -3784,13 +3749,6 @@
     "name": "Imikute hüpitustoolid ja hälid",
     "parent_id": "2847",
     "path": "Lapsed ja väikelapsed > Laste mänguasjad ja varustus > Imikute hüpitustoolid ja hälid",
-    "level": 3
-  },
-  {
-    "id": "1243",
-    "name": "Mängu- ja spordimatid",
-    "parent_id": "2847",
-    "path": "Lapsed ja väikelapsed > Laste mänguasjad ja varustus > Mängu- ja spordimatid",
     "level": 3
   },
   {
@@ -5033,13 +4991,6 @@
     "level": 5
   },
   {
-    "id": "3695",
-    "name": "Õhkmadratsid",
-    "parent_id": "1014",
-    "path": "Sporditarbed > Puhkus > Matkamine > Matkamööbel > Õhkmadratsid",
-    "level": 5
-  },
-  {
     "id": "1016",
     "name": "Matkanõud",
     "parent_id": "1013",
@@ -5817,13 +5768,6 @@
     "level": 3
   },
   {
-    "id": "8232",
-    "name": "Mootorisõiduki vaibad ja katted",
-    "parent_id": "899",
-    "path": "Sõidukid ja varuosad > Sõidukite varuosad ja tarvikud > Mootorsõidukite varuosad > Mootorisõiduki vaibad ja katted",
-    "level": 4
-  },
-  {
     "id": "2727",
     "name": "Mootorsõiduki küttesüsteemid",
     "parent_id": "899",
@@ -6276,6 +6220,13 @@
     "name": "Kõlarid",
     "parent_id": "2165",
     "path": "Teised > Elektroonika > Muusika > Muusikavahendid > Kõlarid",
+    "level": 5
+  },
+  {
+    "id": "234",
+    "name": "Mikrofonid",
+    "parent_id": "2165",
+    "path": "Teised > Elektroonika > Muusika > Muusikavahendid > Mikrofonid",
     "level": 5
   },
   {
@@ -7117,13 +7068,6 @@
     "parent_id": "1604",
     "path": "Teised > Rõivad ja aksessuaarid > Rõivad > Ülikonnad",
     "level": 4
-  },
-  {
-    "id": "1580",
-    "name": "Smokingud",
-    "parent_id": "1594",
-    "path": "Teised > Rõivad ja aksessuaarid > Rõivad > Ülikonnad > Smokingud",
-    "level": 5
   },
   {
     "id": "469",

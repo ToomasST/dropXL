@@ -17,6 +17,7 @@ from pathlib import Path
 from datetime import datetime
 from dotenv import load_dotenv
 from bs4 import BeautifulSoup
+from category_change_runner import apply_maps_to_path, DEFAULT_MAPS
 
 # Load environment variables
 load_dotenv()
@@ -913,6 +914,7 @@ class WooCommerceUploader:
         translated_path = self._norm(cat_obj.get('translated_path'))
         target_path = translated_path or self._norm(self.category_translation.get(raw_path) or '') or raw_path
         if target_path:
+            target_path = apply_maps_to_path(target_path, DEFAULT_MAPS)
             cat_id = self.ensure_category_path(target_path)
             if cat_id:
                 payload['categories'].append({"id": cat_id})

@@ -917,13 +917,13 @@ def process_one_product(prod: Dict[str, Any], index: int) -> Dict[str, int]:
             
             - Struktuur ja kohustuslikkuse reeglid:
                 - Kohustuslikud plokid:
-                    1. Ava plokk: <h3> pealkiri, mis seob toote kasuteguri lahendatava probleemiga (kasuta loomulikult olulisemaid otsingufraase) + järgnevalt <p>, mis kirjeldab väärtuspakkumist.
-                    2. Peamised omadused: <h3>Peamised omadused</h3> ja sellele järgnev <ul> kuni 6–8 <li>-ga, mis seovad omaduse kliendi kasuga.
+                    1. Ava plokk: <h2> pealkiri, mis seob toote kasuteguri lahendatava probleemiga (kasuta loomulikult olulisemaid otsingufraase) + järgnevalt <p>, mis kirjeldab väärtuspakkumist.
+                    2. Peamised omadused: <h2>Peamised omadused</h2> ja sellele järgnev <ul> kuni 6–8 <li>-ga, mis seovad omaduse kliendi kasuga.
                 - Tingimuslikud plokid (kasuta ainult siis, kui sisendmaterjal seda võimaldab):
                     • Algse kirjelduse ja pildiplokkide info: sinu käsutuses võib olla originaalne HTML-tootekirjeldus, mis võib sisaldada <img>-plokke. Kui originaalis on <img>-elemendid, kirjuta kirjeldus ümber loomulikuks eestikeelseks tekstiks ja SÄILITA KÕIK need <img>-elemendid (sama src). IGA lõplikus HTML-is olev <img>-element PEAB omama eestikeelset alt-attribuuti, mis lühidalt ja loomulikult kirjeldab pilti selle ümbruses oleva teksti kontekstis (ka juhul, kui algne alt oli muus keeles või puudus). Sa võid muuta, millise tekstiploki juurde konkreetne pilt paigutub, kuid ära jäta ühtegi algset <img>-elementi välja ning ära lisa uusi pilte, mida originaalis ei olnud. Kui algses kirjelduses pilte ei ole, ära lisa ise uusi <img>-elemente.
-                    • Paigaldus ja kasutus: h3 + lõik või loetelu praktiliste sammudega (kasuta algkirjelduse infot, kui see on olemas).
-                    • Komplektis sisalduv: h3 + loetelu või lõik, mis kirjeldab komplekti (nt mis tarvikud ja komponendid on kaasas).
-                    • CTA plokk: h3 + lõik, mis võtab peamised kasutegurid kokku ja suunab ostule ilma agressiivse müügikeeleta. CTA pealkiri peab olema tegevusele suunav (nt "Miks valida [TOOTE NIMI]?", "Kas otsid [lahendust X]?", "Millal valida [TOOTE NIMI]?"). Ära kasuta meta-pealkirju nagu "Kokkuvõte", "Järeldus", "Lõppsõna" või muid sarnaseid kokkuvõttepealkirju.
+                    • Paigaldus ja kasutus: h2 + lõik või loetelu praktiliste sammudega (kasuta algkirjelduse infot, kui see on olemas).
+                    • Komplektis sisalduv: h2 + loetelu või lõik, mis kirjeldab komplekti (nt mis tarvikud ja komponendid on kaasas).
+                    • CTA plokk: h2 + lõik, mis võtab peamised kasutegurid kokku ja suunab ostule ilma agressiivse müügikeeleta. CTA pealkiri peab olema tegevusele suunav (nt "Miks valida [TOOTE NIMI]?", "Kas otsid [lahendust X]?", "Millal valida [TOOTE NIMI]?"). Ära kasuta meta-pealkirju nagu "Kokkuvõte", "Järeldus", "Lõppsõna" või muid sarnaseid kokkuvõttepealkirju.
 
             Väljund: Tagasta JSON, kus "translated_title" on tootenimi, "short_description" on toote lühikirjeldus, "seo_title" on SEO pealkiri, "seo_meta" on SEO meta kirjeldus ning "translated_description_html" on detailne tootekirjeldus HTML-formaadis.
         """,
@@ -1038,13 +1038,13 @@ def process_one_product(prod: Dict[str, Any], index: int) -> Dict[str, int]:
             
             - Struktuur ja kohustuslikkuse reeglid:
                 - Kohustuslikud plokid:
-                    1. Ava plokk: <h3> pealkiri, mis seob toote kasuteguri lahendatava probleemiga (kasuta loomulikult olulisemaid otsingufraase) + järgnevalt <p>, mis kirjeldab väärtuspakkumist.
-                    2. Peamised omadused: <h3>Peamised omadused</h3> ja sellele järgnev <ul> kuni 6–8 <li>-ga, mis seovad omaduse kliendi kasuga.
+                    1. Ava plokk: <h2> pealkiri, mis seob toote kasuteguri lahendatava probleemiga (kasuta loomulikult olulisemaid otsingufraase) + järgnevalt <p>, mis kirjeldab väärtuspakkumist.
+                    2. Peamised omadused: <h2>Peamised omadused</h2> ja sellele järgnev <ul> kuni 6–8 <li>-ga, mis seovad omaduse kliendi kasuga.
                 - Tingimuslikud plokid (kasuta ainult siis, kui sisendmaterjal seda võimaldab):
                     • Algse kirjelduse ja pildiplokkide info: sinu käsutuses võib olla originaalne HTML-tootekirjeldus, mis võib sisaldada <img>-plokke. Kui originaalis on <img>-elemendid, kirjuta kirjeldus ümber loomulikuks eestikeelseks tekstiks ja SÄILITA KÕIK need <img>-elemendid (sama src). IGA lõplikus HTML-is olev <img>-element PEAB omama eestikeelset alt-attribuuti, mis lühidalt ja loomulikult kirjeldab pilti selle ümbruses oleva teksti kontekstis (ka juhul, kui algne alt oli muus keeles või puudus). Sa võid muuta, millise tekstiploki juurde konkreetne pilt paigutub, kuid ära jäta ühtegi algset <img>-elementi välja ning ära lisa uusi pilte, mida originaalis ei olnud. Kui algses kirjelduses pilte ei ole, ära lisa ise uusi <img>-elemente.
-                    • Paigaldus ja kasutus: h3 + lõik või loetelu praktiliste sammudega (kasuta algkirjelduse infot, kui see on olemas).
-                    • Komplektis sisalduv: h3 + loetelu või lõik, mis kirjeldab komplekti (nt mis tarvikud ja komponendid on kaasas).
-                    • CTA plokk: h3 + lõik, mis võtab peamised kasutegurid kokku ja suunab ostule ilma agressiivse müügikeeleta. CTA pealkiri peab olema tegevusele suunav (nt "Miks valida [TOOTE NIMI]?", "Kas otsid [lahendust X]?", "Millal valida [TOOTE NIMI]?"). Ära kasuta meta-pealkirju nagu "Kokkuvõte", "Järeldus", "Lõppsõna" või muid sarnaseid kokkuvõttepealkirju.
+                    • Paigaldus ja kasutus: h2 + lõik või loetelu praktiliste sammudega (kasuta algkirjelduse infot, kui see on olemas).
+                    • Komplektis sisalduv: h2 + loetelu või lõik, mis kirjeldab komplekti (nt mis tarvikud ja komponendid on kaasas).
+                    • CTA plokk: h2 + lõik, mis võtab peamised kasutegurid kokku ja suunab ostule ilma agressiivse müügikeeleta. CTA pealkiri peab olema tegevusele suunav (nt "Miks valida [TOOTE NIMI]?", "Kas otsid [lahendust X]?", "Millal valida [TOOTE NIMI]?"). Ära kasuta meta-pealkirju nagu "Kokkuvõte", "Järeldus", "Lõppsõna" või muid sarnaseid kokkuvõttepealkirju.
 
             Väljund: Tagasta JSON, kus "translated_title" on tootenimi, "short_description" on toote lühikirjeldus, "seo_title" on SEO pealkiri, "seo_meta" on SEO meta kirjeldus ning "translated_description_html" on detailne tootekirjeldus HTML-formaadis.
                 """,
