@@ -3,7 +3,6 @@ VidaXL/data/debug_traces/
 VidaXL/data/logs/
 VidaXL/data/feeds/
 VidaXL/data/processed/
-VidaXL/2_samm_tooteinfo.json
 VidaXL/woo_product_*.json
 VidaXL/backup_*.py
 
